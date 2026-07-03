@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-07-03T07:53:49.791Z",
+  "generatedAt": "2026-07-03T08:06:24.255Z",
   "images": [
     {
       "productId": "everyday-000001",
@@ -28,7 +28,7 @@
       "creator": "Deni Williams from São Paulo, Brasil / Brazil",
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 1063,
       "importedAt": "2026-07-03T07:52:47.197Z",
@@ -36,7 +36,8 @@
       "confidence": "low",
       "score": 21,
       "sha1": "ab69a778387d42e938c7cdaf4d1370455a7ad948",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-07-03T08:06:24.255Z"
     },
     {
       "productId": "everyday-000105",
