@@ -1,0 +1,126 @@
+name: Import product images from Wikimedia Commons
+
+on:
+  workflow_dispatch:
+    inputs:
+      scope:
+        description: "Vilka verifierade produkter ska behandlas?"
+        required: true
+        default: sample
+        type: choice
+        options:
+          - sample
+          - luxury
+          - everyday
+          - all
+      limit:
+        description: "Max antal produkter. Ange 0 för alla inom vald grupp."
+        required: true
+        default: "30"
+        type: string
+      approval_mode:
+        description: "review rekommenderas. Bilder visas först efter granskning."
+        required: true
+        default: review
+        type: choice
+        options:
+          - review
+          - high-confidence
+          - approve
+      overwrite:
+        description: "Sök om produkter som redan har importerad bild"
+        required: true
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: product-image-import
+  cancel-in-progress: false
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  WIKIMEDIA_USER_AGENT: "SpendAnythingImageImporter/1.0 (+https://github.com/${{ github.repository }})"
+
+jobs:
+  import-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v6
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install image converter
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+
+      - name: Generate product catalogs
+        run: npm run catalog:generate
+
+      - name: Import Wikimedia images
+        run: >-
+          npm run images:import --
+          --scope=${{ inputs.scope }}
+          --limit=${{ inputs.limit }}
+          --approval-mode=${{ inputs.approval_mode }}
+          --overwrite=${{ inputs.overwrite }}
+
+      - name: Validate imported files
+        run: npm run images:validate
+
+      - name: Run full quality checks
+        run: npm run verify
+
+      - name: Build static site
+        run: npm run build
+
+      - name: Commit images and metadata
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/product-images public/data/image-manifest.json public/data/image-review.json public/data/image-import-report.json
+          if git diff --cached --quiet; then
+            echo "Inga nya bildfiler att spara."
+          else
+            git commit -m "chore(images): import Wikimedia product images"
+            git push
+          fi
+
+      - name: Add import summary
+        if: always()
+        run: |
+          if [ -f public/data/image-import-report.json ]; then
+            node -e 'const r=require("./public/data/image-import-report.json"); console.log(`## Bildimport\n- Valda: ${r.totalSelected}\n- Importerade: ${r.imported}\n- Redan klara: ${r.skipped}\n- Utan träff: ${r.noMatch}\n- Fel: ${r.errors}`)' >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./out
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: import-and-build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
