@@ -1,5 +1,937 @@
 {
   "version": 2,
-  "generatedAt": "2026-07-02",
-  "items": []
+  "generatedAt": "2026-07-03T07:53:49.791Z",
+  "items": [
+    {
+      "productId": "everyday-000001",
+      "mode": "everyday",
+      "productName": "iPhone 17 Pro",
+      "brand": "Apple",
+      "categoryLabel": "Mobiltelefoner",
+      "query": "\"iPhone 17 Pro\" Apple product",
+      "status": "pending",
+      "confidence": "high",
+      "score": 113,
+      "importedAt": "2026-07-03T07:52:29.098Z",
+      "selected": {
+        "title": "File:Silver iPhone 17 Pro Max.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Silver_iPhone_17_Pro_Max.jpg",
+        "creator": "Ahmad Ali Karim",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "width": 1600,
+        "height": 2400,
+        "score": 113,
+        "path": "/product-images/everyday-000001.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Cosmic Orange iPhone 17 Pro Max.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cosmic_Orange_iPhone_17_Pro_Max.jpg",
+          "creator": "Ahmad Ali Karim",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 2400,
+          "score": 113
+        },
+        {
+          "title": "File:Deep Blue iPhone 17 Pro Max.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deep_Blue_iPhone_17_Pro_Max.jpg",
+          "creator": "Ahmad Ali Karim",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 2400,
+          "score": 113
+        },
+        {
+          "title": "File:IPhone 17 launch at Apple TRX Malaysia 18.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:IPhone_17_launch_at_Apple_TRX_Malaysia_18.jpg",
+          "creator": "Ahmad Ali Karim",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 1067,
+          "score": 84.7
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "everyday-000023",
+      "mode": "everyday",
+      "productName": "MacBook Air 13-inch M4",
+      "brand": "Apple",
+      "categoryLabel": "Datorer",
+      "query": "\"MacBook Air 13-inch M4\" Apple product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T07:52:35.954Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "everyday-000046",
+      "mode": "everyday",
+      "productName": "Sony BRAVIA 9 75-inch",
+      "brand": "Sony",
+      "categoryLabel": "Elektronik",
+      "query": "\"Sony BRAVIA 9 75-inch\"  electronic product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T07:52:41.018Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "everyday-000071",
+      "mode": "everyday",
+      "productName": "PlayStation 5 Pro",
+      "brand": "Sony",
+      "categoryLabel": "Gaming",
+      "query": "\"PlayStation 5 Pro\" Sony gaming product",
+      "status": "pending",
+      "confidence": "low",
+      "score": 21,
+      "importedAt": "2026-07-03T07:52:47.197Z",
+      "selected": {
+        "title": "File:Sony Playstation 2 SCPH-5001 V9 (19290958318).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sony_Playstation_2_SCPH-5001_V9_(19290958318).jpg",
+        "creator": "Deni Williams from São Paulo, Brasil / Brazil",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "width": 1600,
+        "height": 1063,
+        "score": 21,
+        "path": "/product-images/everyday-000071.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Sony Playstation 2 SCPH-5001 V9 (19452491266).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sony_Playstation_2_SCPH-5001_V9_(19452491266).jpg",
+          "creator": "Deni Williams from São Paulo, Brasil / Brazil",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "width": 1600,
+          "height": 1063,
+          "score": 21
+        },
+        {
+          "title": "File:Sony Playstation 2 SCPH-5001 V9 (19478489935).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sony_Playstation_2_SCPH-5001_V9_(19478489935).jpg",
+          "creator": "Deni Williams from São Paulo, Brasil / Brazil",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "width": 1600,
+          "height": 1063,
+          "score": 21
+        },
+        {
+          "title": "File:Sony Playstation 2 SCPH-5001 V9 - Ventoinha, chave liga desliga e conectores traseiros Fan, power on off switch and back connectors (19290810088).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sony_Playstation_2_SCPH-5001_V9_-_Ventoinha,_chave_liga_desliga_e_conectores_traseiros_Fan,_power_on_off_switch_and_back_connectors_(19290810088).jpg",
+          "creator": "Deni Williams from São Paulo, Brasil / Brazil",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "width": 1600,
+          "height": 1063,
+          "score": 21
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "everyday-000086",
+      "mode": "everyday",
+      "productName": "Dyson V15 Detect Absolute",
+      "brand": "Dyson",
+      "categoryLabel": "Hem",
+      "query": "\"Dyson V15 Detect Absolute\"  home product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T07:52:53.060Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "everyday-000096",
+      "mode": "everyday",
+      "productName": "IKEA SÖDERHAMN sofa",
+      "brand": "IKEA",
+      "categoryLabel": "Möbler",
+      "query": "\"IKEA SÖDERHAMN sofa\"  furniture",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T07:52:58.192Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "everyday-000105",
+      "mode": "everyday",
+      "productName": "KitchenAid Artisan Stand Mixer",
+      "brand": "KitchenAid",
+      "categoryLabel": "Kök",
+      "query": "\"KitchenAid Artisan Stand Mixer\"  product",
+      "status": "pending",
+      "confidence": "medium",
+      "score": 78,
+      "importedAt": "2026-07-03T07:53:02.326Z",
+      "selected": {
+        "title": "File:Red KitchenAid Artisan.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_KitchenAid_Artisan.jpg",
+        "creator": "BenFrantzDale",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "width": 1600,
+        "height": 1579,
+        "score": 78,
+        "path": "/product-images/everyday-000105.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Green Apple KitchenAid.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_Apple_KitchenAid.jpg",
+          "creator": "Amy",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "width": 1224,
+          "height": 1632,
+          "score": 63.5
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "everyday-000117",
+      "mode": "everyday",
+      "productName": "Levi's 501 Original Jeans",
+      "brand": "Levi's",
+      "categoryLabel": "Kläder",
+      "query": "\"Levi's 501 Original Jeans\"  clothing fashion",
+      "status": "pending",
+      "confidence": "high",
+      "score": 88,
+      "importedAt": "2026-07-03T07:53:07.585Z",
+      "selected": {
+        "title": "File:Levi's 501 raw jeans.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Levi%27s_501_raw_jeans.jpg",
+        "creator": "Michael Carian",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "width": 1600,
+        "height": 2405,
+        "score": 88,
+        "path": "/product-images/everyday-000117.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Dr. Martens 1461 & Levi's 501 (2025-12-18).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dr._Martens_1461_%26_Levi%27s_501_(2025-12-18).jpg",
+          "creator": "Olgierd Rudak",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1200,
+          "score": 76.5
+        },
+        {
+          "title": "File:Levi's 501 Red Tabs variants (2026-01-16).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Levi%27s_501_Red_Tabs_variants_(2026-01-16).jpg",
+          "creator": "Olgierd Rudak",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1200,
+          "score": 76.5
+        },
+        {
+          "title": "File:Levi's 501 Red Tab variants (2026-01-24).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Levi%27s_501_Red_Tab_variants_(2026-01-24).jpg",
+          "creator": "Olgierd Rudak",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 999,
+          "score": 76.5
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "everyday-000127",
+      "mode": "everyday",
+      "productName": "Nike Air Force 1 '07",
+      "brand": "Nike",
+      "categoryLabel": "Skor",
+      "query": "\"Nike Air Force 1 '07\"  shoes footwear",
+      "status": "pending",
+      "confidence": "high",
+      "score": 91,
+      "importedAt": "2026-07-03T07:53:15.274Z",
+      "selected": {
+        "title": "File:Nike Air Force 1 Shadow.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nike_Air_Force_1_Shadow.jpg",
+        "creator": "Ssu",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1200,
+        "score": 91,
+        "path": "/product-images/everyday-000127.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Nike Air Force 1 Low Flax 2019.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nike_Air_Force_1_Low_Flax_2019.jpg",
+          "creator": "Mfagoaguna1",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1200,
+          "score": 91
+        },
+        {
+          "title": "File:Nike Air Huarache.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nike_Air_Huarache.jpg",
+          "creator": "Mfagoaguna1",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1200,
+          "score": 76.5
+        },
+        {
+          "title": "File:Josh Print (Air Force) & Dion Knelsen (Alaska-Fairbanks) hockey faceoff.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Josh_Print_(Air_Force)_%26_Dion_Knelsen_(Alaska-Fairbanks)_hockey_faceoff.jpg",
+          "creator": "Cornellrockey04",
+          "license": "Public domain",
+          "licenseUrl": "",
+          "width": 1692,
+          "height": 1250,
+          "score": 50
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "everyday-000137",
+      "mode": "everyday",
+      "productName": "Dior Sauvage Eau de Parfum 100 ml",
+      "brand": "Dior",
+      "categoryLabel": "Skönhet & vård",
+      "query": "\"Dior Sauvage Eau de Parfum 100 ml\"  product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T07:53:23.716Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "everyday-000150",
+      "mode": "everyday",
+      "productName": "Garmin Forerunner 965",
+      "brand": "Garmin",
+      "categoryLabel": "Träning",
+      "query": "\"Garmin Forerunner 965\"  product",
+      "status": "pending",
+      "confidence": "high",
+      "score": 135,
+      "importedAt": "2026-07-03T07:53:29.941Z",
+      "selected": {
+        "title": "File:Garmin Forerunner 965.jpeg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garmin_Forerunner_965.jpeg",
+        "creator": "SUNSmania41",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 2664,
+        "score": 135,
+        "path": "/product-images/everyday-000150.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Garmin Forerunner 965 with Garmin Run Taipei Watch Face installed.jpeg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garmin_Forerunner_965_with_Garmin_Run_Taipei_Watch_Face_installed.jpeg",
+          "creator": "SUNSmania41",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 2133,
+          "score": 135
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "everyday-000160",
+      "mode": "everyday",
+      "productName": "Hilleberg Nallo 3 GT",
+      "brand": "Hilleberg",
+      "categoryLabel": "Friluftsliv",
+      "query": "\"Hilleberg Nallo 3 GT\"  product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T07:53:34.813Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "everyday-000166",
+      "mode": "everyday",
+      "productName": "Trek Domane SL 6 Gen 4",
+      "brand": "Trek",
+      "categoryLabel": "Transport",
+      "query": "\"Trek Domane SL 6 Gen 4\"  vehicle bicycle",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T07:53:39.775Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "everyday-000173",
+      "mode": "everyday",
+      "productName": "Bugaboo Fox 5",
+      "brand": "Bugaboo",
+      "categoryLabel": "Barn & baby",
+      "query": "\"Bugaboo Fox 5\"  product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T07:53:45.030Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "everyday-000179",
+      "mode": "everyday",
+      "productName": "LEGO Icons Eiffel Tower 10307",
+      "brand": "LEGO",
+      "categoryLabel": "Leksaker & hobby",
+      "query": "\"LEGO Icons Eiffel Tower 10307\"  product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T07:53:49.791Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000001",
+      "mode": "luxury",
+      "productName": "Bugatti Tourbillon",
+      "brand": "Bugatti",
+      "categoryLabel": "Fordon",
+      "query": "\"Bugatti Tourbillon\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T07:52:25.801Z",
+      "selected": {
+        "title": "File:2024 Bugatti Tourbillon 13.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2024_Bugatti_Tourbillon_13.jpg",
+        "creator": "Calreyn88",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1073,
+        "score": 138,
+        "path": "/product-images/lux-000001.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:2024 Bugatti Tourbillon 5.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2024_Bugatti_Tourbillon_5.jpg",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1048,
+          "score": 138
+        },
+        {
+          "title": "File:2024 Bugatti Tourbillon 3.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2024_Bugatti_Tourbillon_3.jpg",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 972,
+          "score": 138
+        },
+        {
+          "title": "File:Bugatti Tourbillon.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bugatti_Tourbillon.jpg",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 939,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000002",
+      "mode": "luxury",
+      "productName": "Bugatti Chiron Super Sport",
+      "brand": "Bugatti",
+      "categoryLabel": "Fordon",
+      "query": "\"Bugatti Chiron Super Sport\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T07:53:28.479Z",
+      "selected": {
+        "title": "File:2022 Bugatti Chiron Super Sport 300+.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2022_Bugatti_Chiron_Super_Sport_300%2B.jpg",
+        "creator": "Calreyn88",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1346,
+        "score": 138,
+        "path": "/product-images/lux-000002.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Bugatti Chiron Super Sport in Dorlisheim.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_Super_Sport_in_Dorlisheim.jpg",
+          "creator": "Alexandre Prevot",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "width": 1600,
+          "height": 1067,
+          "score": 138
+        },
+        {
+          "title": "File:2022 Bugatti Chiron Super Sport WRE.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2022_Bugatti_Chiron_Super_Sport_WRE.jpg",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 967,
+          "score": 138
+        },
+        {
+          "title": "File:2022 Bugatti Chiron Super Sport WRE 2.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2022_Bugatti_Chiron_Super_Sport_WRE_2.jpg",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 882,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000029",
+      "mode": "luxury",
+      "productName": "Gulfstream G800",
+      "brand": "Gulfstream",
+      "categoryLabel": "Privatflyg",
+      "query": "\"Gulfstream G800\"  aircraft jet helicopter",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T07:52:31.587Z",
+      "selected": {
+        "title": "File:Gulfstream G800 N888NC.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gulfstream_G800_N888NC.jpg",
+        "creator": "SGBuses.com",
+        "license": "CC BY-SA 3.0 sg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/sg/deed.en",
+        "width": 1224,
+        "height": 918,
+        "score": 138,
+        "path": "/product-images/lux-000029.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Gulfstream GVI-G800 G800 (N800G, cn 88001) (10-20-2022).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gulfstream_GVI-G800_G800_(N800G,_cn_88001)_(10-20-2022).jpg",
+          "creator": "ZLEA",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1067,
+          "score": 110
+        },
+        {
+          "title": "File:EC-MLR Gulfstream G650 SCQ 03.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:EC-MLR_Gulfstream_G650_SCQ_03.jpg",
+          "creator": "Bene Riobó",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1067,
+          "score": 72
+        },
+        {
+          "title": "File:Gulfstream G650 N657FX FDK MD1.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gulfstream_G650_N657FX_FDK_MD1.jpg",
+          "creator": "Acroterion",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 922,
+          "score": 72
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000030",
+      "mode": "luxury",
+      "productName": "Gulfstream G700",
+      "brand": "Gulfstream",
+      "categoryLabel": "Privatflyg",
+      "query": "\"Gulfstream G700\"  aircraft jet helicopter",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T07:53:32.169Z",
+      "selected": {
+        "title": "File:Gulfstream G700 at the Dubai Airshow 2023.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gulfstream_G700_at_the_Dubai_Airshow_2023.jpg",
+        "creator": "Mztourist",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1200,
+        "score": 138,
+        "path": "/product-images/lux-000030.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Gulfstream G700 (53899688088).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gulfstream_G700_(53899688088).jpg",
+          "creator": "Airwolfhound from Hertfordshire, UK",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "width": 1600,
+          "height": 1066,
+          "score": 138
+        },
+        {
+          "title": "File:Gulfstream GVI-G700 G700 (N706GD, cn 87006) (10-20-2022).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gulfstream_GVI-G700_G700_(N706GD,_cn_87006)_(10-20-2022).jpg",
+          "creator": "ZLEA",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1067,
+          "score": 110
+        },
+        {
+          "title": "File:Gulfstream GVI-G700 G700 (N702GD, cn 87002) (10-20-2022).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gulfstream_GVI-G700_G700_(N702GD,_cn_87002)_(10-20-2022).jpg",
+          "creator": "ZLEA",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1067,
+          "score": 110
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000043",
+      "mode": "luxury",
+      "productName": "Sunseeker 100 Yacht",
+      "brand": "Sunseeker",
+      "categoryLabel": "Yachter & båtar",
+      "query": "\"Sunseeker 100 Yacht\"  yacht boat",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T07:52:38.442Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000044",
+      "mode": "luxury",
+      "productName": "Sunseeker Ocean 182",
+      "brand": "Sunseeker",
+      "categoryLabel": "Yachter & båtar",
+      "query": "\"Sunseeker Ocean 182\"  yacht boat",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T07:53:37.164Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000057",
+      "mode": "luxury",
+      "productName": "Rolex Cosmograph Daytona Platinum",
+      "brand": "Rolex",
+      "categoryLabel": "Klockor",
+      "query": "\"Rolex Cosmograph Daytona Platinum\"  watch wristwatch",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T07:52:43.458Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000058",
+      "mode": "luxury",
+      "productName": "Rolex GMT-Master II 126710BLRO",
+      "brand": "Rolex",
+      "categoryLabel": "Klockor",
+      "query": "\"Rolex GMT-Master II 126710BLRO\"  watch wristwatch",
+      "status": "pending",
+      "confidence": "high",
+      "score": 88,
+      "importedAt": "2026-07-03T07:53:40.517Z",
+      "selected": {
+        "title": "File:Rolex GMT Master II 126710BLRO.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rolex_GMT_Master_II_126710BLRO.jpg",
+        "creator": "Qubeek",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "width": 1200,
+        "height": 1200,
+        "score": 88,
+        "path": "/product-images/lux-000058.webp"
+      },
+      "alternatives": [],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000079",
+      "mode": "luxury",
+      "productName": "Hermès Birkin 25 Himalaya",
+      "brand": "Hermès",
+      "categoryLabel": "Mode",
+      "query": "\"Hermès Birkin 25 Himalaya\"  fashion product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T07:52:50.397Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000080",
+      "mode": "luxury",
+      "productName": "Hermès Kelly 25 Sellier",
+      "brand": "Hermès",
+      "categoryLabel": "Mode",
+      "query": "\"Hermès Kelly 25 Sellier\"  fashion product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T07:53:47.407Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000091",
+      "mode": "luxury",
+      "productName": "Tiffany & Co. Schlumberger Sixteen Stone Ring",
+      "brand": "Tiffany & Co.",
+      "categoryLabel": "Smycken",
+      "query": "\"Tiffany & Co. Schlumberger Sixteen Stone Ring\"  jewellery jewelry",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T07:52:55.832Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000097",
+      "mode": "luxury",
+      "productName": "Baccarat Zenith Chandelier",
+      "brand": "Baccarat",
+      "categoryLabel": "Hem & design",
+      "query": "\"Baccarat Zenith Chandelier\"  product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T07:53:01.182Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000098",
+      "mode": "luxury",
+      "productName": "Fazioli F308 Concert Grand Piano",
+      "brand": "Fazioli",
+      "categoryLabel": "Musik & underhållning",
+      "query": "\"Fazioli F308 Concert Grand Piano\"  product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T07:53:05.248Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000100",
+      "mode": "luxury",
+      "productName": "Bang & Olufsen Beolab 90 Pair",
+      "brand": "Bang & Olufsen",
+      "categoryLabel": "Teknik",
+      "query": "\"Bang & Olufsen Beolab 90 Pair\"  technology product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T07:53:10.559Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000108",
+      "mode": "luxury",
+      "productName": "Ferrari 250 GTO",
+      "brand": "Ferrari",
+      "categoryLabel": "Samlarobjekt",
+      "query": "\"Ferrari 250 GTO\"  collectible",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T07:53:17.963Z",
+      "selected": {
+        "title": "File:Ferrari 250 GTO (10579).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_250_GTO_(10579).jpg",
+        "creator": "Calreyn88",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1089,
+        "score": 138,
+        "path": "/product-images/lux-000108.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Ferrari 250 GTO, CMC-Modell (Tür offen 2017-02-14).JPG",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_250_GTO,_CMC-Modell_(T%C3%BCr_offen_2017-02-14).JPG",
+          "creator": "Lothar Spurzem",
+          "license": "CC BY-SA 2.0 de",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+          "width": 1600,
+          "height": 1067,
+          "score": 138
+        },
+        {
+          "title": "File:Ferrari 250 GTO, CMC-Modell (Seite 2017-02-15).JPG",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_250_GTO,_CMC-Modell_(Seite_2017-02-15).JPG",
+          "creator": "Lothar Spurzem",
+          "license": "CC BY-SA 2.0 de",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+          "width": 1600,
+          "height": 1067,
+          "score": 138
+        },
+        {
+          "title": "File:Ferrari 250 GTO, CMC-Model 1-18 (vorn links 2017-03-23).JPG",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_250_GTO,_CMC-Model_1-18_(vorn_links_2017-03-23).JPG",
+          "creator": "Lothar Spurzem",
+          "license": "CC BY-SA 2.0 de",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+          "width": 1600,
+          "height": 1067,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    }
+  ]
 }

@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "startedAt": "2026-07-03T07:52:21.406Z",
+  "options": {
+    "scope": "sample",
+    "limit": 30,
+    "approvalMode": "review",
+    "overwrite": false,
+    "dryRun": false,
+    "candidates": 10,
+    "delayMs": 350
+  },
+  "totalSelected": 30,
+  "imported": 12,
+  "skipped": 0,
+  "noMatch": 18,
+  "errors": 0,
+  "results": [
+    {
+      "productId": "lux-000001",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:2024 Bugatti Tourbillon 13.jpg"
+    },
+    {
+      "productId": "everyday-000001",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 113,
+      "commonsTitle": "File:Silver iPhone 17 Pro Max.jpg"
+    },
+    {
+      "productId": "lux-000029",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:Gulfstream G800 N888NC.jpg"
+    },
+    {
+      "productId": "everyday-000023",
+      "outcome": "no-match",
+      "query": "\"MacBook Air 13-inch M4\" Apple product"
+    },
+    {
+      "productId": "lux-000043",
+      "outcome": "no-match",
+      "query": "\"Sunseeker 100 Yacht\"  yacht boat"
+    },
+    {
+      "productId": "everyday-000046",
+      "outcome": "no-match",
+      "query": "\"Sony BRAVIA 9 75-inch\"  electronic product"
+    },
+    {
+      "productId": "lux-000057",
+      "outcome": "no-match",
+      "query": "\"Rolex Cosmograph Daytona Platinum\"  watch wristwatch"
+    },
+    {
+      "productId": "everyday-000071",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "low",
+      "score": 21,
+      "commonsTitle": "File:Sony Playstation 2 SCPH-5001 V9 (19290958318).jpg"
+    },
+    {
+      "productId": "lux-000079",
+      "outcome": "no-match",
+      "query": "\"Hermès Birkin 25 Himalaya\"  fashion product"
+    },
+    {
+      "productId": "everyday-000086",
+      "outcome": "no-match",
+      "query": "\"Dyson V15 Detect Absolute\"  home product"
+    },
+    {
+      "productId": "lux-000091",
+      "outcome": "no-match",
+      "query": "\"Tiffany & Co. Schlumberger Sixteen Stone Ring\"  jewellery jewelry"
+    },
+    {
+      "productId": "everyday-000096",
+      "outcome": "no-match",
+      "query": "\"IKEA SÖDERHAMN sofa\"  furniture"
+    },
+    {
+      "productId": "lux-000097",
+      "outcome": "no-match",
+      "query": "\"Baccarat Zenith Chandelier\"  product"
+    },
+    {
+      "productId": "everyday-000105",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "medium",
+      "score": 78,
+      "commonsTitle": "File:Red KitchenAid Artisan.jpg"
+    },
+    {
+      "productId": "lux-000098",
+      "outcome": "no-match",
+      "query": "\"Fazioli F308 Concert Grand Piano\"  product"
+    },
+    {
+      "productId": "everyday-000117",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 88,
+      "commonsTitle": "File:Levi's 501 raw jeans.jpg"
+    },
+    {
+      "productId": "lux-000100",
+      "outcome": "no-match",
+      "query": "\"Bang & Olufsen Beolab 90 Pair\"  technology product"
+    },
+    {
+      "productId": "everyday-000127",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 91,
+      "commonsTitle": "File:Nike Air Force 1 Shadow.jpg"
+    },
+    {
+      "productId": "lux-000108",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:Ferrari 250 GTO (10579).jpg"
+    },
+    {
+      "productId": "everyday-000137",
+      "outcome": "no-match",
+      "query": "\"Dior Sauvage Eau de Parfum 100 ml\"  product"
+    },
+    {
+      "productId": "lux-000002",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:2022 Bugatti Chiron Super Sport 300+.jpg"
+    },
+    {
+      "productId": "everyday-000150",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 135,
+      "commonsTitle": "File:Garmin Forerunner 965.jpeg"
+    },
+    {
+      "productId": "lux-000030",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:Gulfstream G700 at the Dubai Airshow 2023.jpg"
+    },
+    {
+      "productId": "everyday-000160",
+      "outcome": "no-match",
+      "query": "\"Hilleberg Nallo 3 GT\"  product"
+    },
+    {
+      "productId": "lux-000044",
+      "outcome": "no-match",
+      "query": "\"Sunseeker Ocean 182\"  yacht boat"
+    },
+    {
+      "productId": "everyday-000166",
+      "outcome": "no-match",
+      "query": "\"Trek Domane SL 6 Gen 4\"  vehicle bicycle"
+    },
+    {
+      "productId": "lux-000058",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 88,
+      "commonsTitle": "File:Rolex GMT Master II 126710BLRO.jpg"
+    },
+    {
+      "productId": "everyday-000173",
+      "outcome": "no-match",
+      "query": "\"Bugaboo Fox 5\"  product"
+    },
+    {
+      "productId": "lux-000080",
+      "outcome": "no-match",
+      "query": "\"Hermès Kelly 25 Sellier\"  fashion product"
+    },
+    {
+      "productId": "everyday-000179",
+      "outcome": "no-match",
+      "query": "\"LEGO Icons Eiffel Tower 10307\"  product"
+    }
+  ],
+  "finishedAt": "2026-07-03T07:53:49.791Z"
+}
