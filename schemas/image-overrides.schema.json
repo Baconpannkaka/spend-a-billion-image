@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Spend Anything Wikimedia image overrides",
+  "type": "object",
+  "additionalProperties": {
+    "type": "object",
+    "properties": {
+      "query": {
+        "type": "string"
+      },
+      "commonsTitle": {
+        "type": "string",
+        "pattern": "^File:"
+      },
+      "skip": {
+        "type": "boolean"
+      }
+    },
+    "additionalProperties": false
+  },
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "_comment": {
+      "type": "string"
+    }
+  }
+}

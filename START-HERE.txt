@@ -1,0 +1,30 @@
+SPEND A BILLION V4 IMAGES — KOMPLETT GITHUB PAGES-VERSION
+
+LADDA UPP TILL ETT NYTT, TOMT REPOSITORY
+1. Packa upp zip-filen.
+2. Öppna mappen spend-a-billion-v4-images.
+3. Markera ALLT INNE I MAPPEN — inte själva mappen.
+4. Ladda upp filerna via GitHub: Add file > Upload files.
+5. Kontrollera att package.json, package-lock.json, src, scripts, public,
+   data och .github ligger direkt i repositoryts rot.
+6. Commit changes till main.
+7. Gå till Settings > Pages och välj GitHub Actions.
+8. Vänta tills Build and deploy Spend a Billion är grönt.
+
+FÖRSTA BILDTESTET
+1. Actions > Import product images from Wikimedia Commons.
+2. Run workflow.
+3. Välj sample, 30, review och overwrite av.
+4. När körningen är grön: öppna /bildgranskning på sidan.
+5. Godkänn rätt bilder via Actions > Review imported product images.
+
+IMPORTERA ALLA 334
+- scope: all
+- limit: 0
+- approval_mode: review
+
+Läs IMAGE-IMPORT.md innan full import.
+
+KONTROLLERA UPPLADDNINGEN
+Se UPLOAD-CHECKLIST.md. Om en kritisk fil saknas: använd ett nytt tomt repository
+och ladda upp hela paketet igen i stället för att blanda versioner.

@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Spend Anything image review queue",
+  "type": "object",
+  "required": ["version", "generatedAt", "items"],
+  "properties": {
+    "version": { "type": "integer", "minimum": 1 },
+    "generatedAt": { "type": "string" },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["productId", "productName", "status", "confidence", "score", "importedAt", "alternatives", "notes"],
+        "properties": {
+          "productId": { "type": "string" },
+          "mode": { "enum": ["luxury", "everyday"] },
+          "productName": { "type": "string" },
+          "brand": { "type": "string" },
+          "categoryLabel": { "type": "string" },
+          "query": { "type": "string" },
+          "status": { "enum": ["pending", "approved", "rejected", "no-match", "error"] },
+          "confidence": { "enum": ["high", "medium", "low", "none"] },
+          "score": { "type": "number" },
+          "importedAt": { "type": "string" },
+          "reviewedAt": { "type": "string" },
+          "selected": { "type": ["object", "null"] },
+          "alternatives": { "type": "array" },
+          "notes": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    }
+  }
+}

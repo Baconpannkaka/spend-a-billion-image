@@ -1,0 +1,42 @@
+{
+  "name": "spend-a-billion",
+  "version": "0.4.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "catalog:generate": "node scripts/generate-catalogs.mjs",
+    "catalog:validate": "node scripts/validate-catalogs.mjs",
+    "images:validate": "node scripts/validate-images.mjs",
+    "build": "npm run catalog:generate && next build",
+    "start": "next start",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "verify": "npm run catalog:generate && npm run catalog:validate && npm run images:validate && npm run lint && npm run typecheck && npm run test",
+    "predev": "npm run catalog:generate",
+    "images:import": "node scripts/import-wikimedia-images.mjs",
+    "images:review": "node scripts/review-images.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "^1.22.0",
+    "next": "16.2.9",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.2",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@vitejs/plugin-react": "^6.0.3",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.9",
+    "jsdom": "^29.1.1",
+    "tailwindcss": "^4",
+    "typescript": "^5",
+    "vitest": "^4.1.9"
+  }
+}

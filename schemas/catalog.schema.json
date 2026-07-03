@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Spend a Billion product catalog",
+  "type": "object",
+  "required": ["version", "mode", "productCount", "qualityStats", "categories", "products"],
+  "properties": {
+    "version": { "type": "integer", "minimum": 2 },
+    "mode": { "enum": ["luxury", "everyday"] },
+    "productCount": { "const": 10000 },
+    "qualityStats": {
+      "type": "object",
+      "required": ["verified", "curated", "generated"],
+      "properties": {
+        "verified": { "type": "integer", "minimum": 0 },
+        "curated": { "type": "integer", "minimum": 0 },
+        "generated": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "categories": { "type": "array", "minItems": 15 },
+    "products": {
+      "type": "array",
+      "minItems": 10000,
+      "maxItems": 10000,
+      "items": {
+        "type": "object",
+        "required": ["id", "mode", "name", "categoryId", "subcategoryId", "priceSek", "tags", "dataQuality", "priceType"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^(lux|everyday)-[0-9]{6}$" },
+          "mode": { "enum": ["luxury", "everyday"] },
+          "name": { "type": "string", "minLength": 1 },
+          "priceSek": { "type": "number", "exclusiveMinimum": 0 },
+          "dataQuality": { "enum": ["verified", "curated", "generated"] },
+          "priceType": { "enum": ["official-retail", "market-estimate", "fantasy-estimate"] }
+        }
+      }
+    }
+  }
+}

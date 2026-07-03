@@ -1,0 +1,4 @@
+{
+  "$schema": "../schemas/image-overrides.schema.json",
+  "_comment": "Valfria manuella undantag. Ange query, commonsTitle eller skip för ett produkt-id. Fältet $schema ignoreras av importeraren."
+}
