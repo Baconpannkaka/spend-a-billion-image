@@ -1,49 +1,332 @@
 {
   "version": 1,
-  "startedAt": "2026-07-03T07:52:21.406Z",
+  "startedAt": "2026-07-03T09:25:26.706Z",
   "options": {
-    "scope": "sample",
-    "limit": 30,
+    "scope": "all",
+    "limit": 50,
     "approvalMode": "review",
     "overwrite": false,
     "dryRun": false,
     "candidates": 10,
     "delayMs": 350
   },
-  "totalSelected": 30,
-  "imported": 12,
-  "skipped": 0,
-  "noMatch": 18,
+  "totalSelected": 50,
+  "imported": 34,
+  "skipped": 4,
+  "noMatch": 12,
   "errors": 0,
   "results": [
     {
       "productId": "lux-000001",
+      "outcome": "already-imported",
+      "status": "approved"
+    },
+    {
+      "productId": "lux-000002",
+      "outcome": "already-imported",
+      "status": "approved"
+    },
+    {
+      "productId": "lux-000003",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "medium",
+      "score": 84.7,
+      "commonsTitle": "File:Koenigsegg Jesko Auto Zuerich 2023 1X7A1382.jpg"
+    },
+    {
+      "productId": "lux-000004",
       "outcome": "imported",
       "status": "unreviewed",
       "confidence": "high",
       "score": 138,
-      "commonsTitle": "File:2024 Bugatti Tourbillon 13.jpg"
+      "commonsTitle": "File:Koenigsegg Gemera, Auto 2024, Zurich (PANA0947).jpg"
     },
     {
-      "productId": "everyday-000001",
+      "productId": "lux-000005",
       "outcome": "imported",
       "status": "unreviewed",
       "confidence": "high",
-      "score": 113,
-      "commonsTitle": "File:Silver iPhone 17 Pro Max.jpg"
+      "score": 138,
+      "commonsTitle": "File:Pagani Utopia Auto Zuerich 2023 1X7A1452.jpg"
+    },
+    {
+      "productId": "lux-000006",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:2020 Pagani Huayra Roadster BC M158 engine, left side (New Canaan).jpg"
+    },
+    {
+      "productId": "lux-000007",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 134,
+      "commonsTitle": "File:Mercedes-AMG ONE (53275053513).jpg"
+    },
+    {
+      "productId": "lux-000008",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:Ferrari Daytona SP3 (rear view) at Osaka Auto Messe 2026.jpg"
+    },
+    {
+      "productId": "lux-000009",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 91,
+      "commonsTitle": "File:2025 Ferrari SF90 Stradale - 01.jpg"
+    },
+    {
+      "productId": "lux-000010",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6817.jpg"
+    },
+    {
+      "productId": "lux-000011",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:2023 McLaren Solus GT 1.jpg"
+    },
+    {
+      "productId": "lux-000012",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:McLaren W1 (55129817900).jpg"
+    },
+    {
+      "productId": "lux-000013",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:Lamborghini Revuelto Auto Zuerich 2023 1X7A1367.jpg"
+    },
+    {
+      "productId": "lux-000014",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:2026 Lamborghini Temerario - 02.jpg"
+    },
+    {
+      "productId": "lux-000015",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:Rolls-Royce Phantom Extended VIII Dark Emerald (3).jpg"
+    },
+    {
+      "productId": "lux-000016",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:2023 Rolls-Royce Spectre EV - 102kWh (585PS) Electric - Wittering Blue - 06-2024, Front.jpg"
+    },
+    {
+      "productId": "lux-000017",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 108,
+      "commonsTitle": "File:2022 Rolls-Royce Cullinan Black Badge V12 Auto.jpg"
+    },
+    {
+      "productId": "lux-000018",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "medium",
+      "score": 72,
+      "commonsTitle": "File:2017 Bentley Continental GT SuperSports Auto 1.jpg"
+    },
+    {
+      "productId": "lux-000019",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:Aston Martin Valkyrie AMR Pro (front three-quarter view1) at Osaka Auto Messe 2026.jpg"
+    },
+    {
+      "productId": "lux-000020",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:2024 Aston Martin Valour in Andromeda Red, front (Miller).jpg"
+    },
+    {
+      "productId": "lux-000021",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 110,
+      "commonsTitle": "File:Porsche 911 ST, Auto 2025, Zurich (20251029-P1074413).jpg"
+    },
+    {
+      "productId": "lux-000022",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:Concept cars, Festival automobile international 2014 - Porsche 918 spyder 1.jpg"
+    },
+    {
+      "productId": "lux-000023",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:Rimac Nevera R, Auto 2024, Zurich (PANA0631).jpg"
+    },
+    {
+      "productId": "lux-000024",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:Lotus Evija 001.jpg"
+    },
+    {
+      "productId": "lux-000025",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:2023 Gordon Murray Automotive T.50 Pre Series Prototype 2 HCC24.jpg"
+    },
+    {
+      "productId": "lux-000026",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:Ducati Superleggera V4 - container.jpg"
+    },
+    {
+      "productId": "lux-000027",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:MV Agusta Rush 1000 - EICMA 2024.jpg"
+    },
+    {
+      "productId": "lux-000028",
+      "outcome": "no-match",
+      "query": "\"Arch 1s\" Arch Motorcycle car automobile"
     },
     {
       "productId": "lux-000029",
+      "outcome": "already-imported",
+      "status": "approved"
+    },
+    {
+      "productId": "lux-000030",
+      "outcome": "already-imported",
+      "status": "approved"
+    },
+    {
+      "productId": "lux-000031",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "medium",
+      "score": 84.7,
+      "commonsTitle": "File:Bombardier Global 7500, Paris Air Show 2019, Le Bourget (SIAE8909).jpg"
+    },
+    {
+      "productId": "lux-000032",
       "outcome": "imported",
       "status": "unreviewed",
       "confidence": "high",
       "score": 138,
-      "commonsTitle": "File:Gulfstream G800 N888NC.jpg"
+      "commonsTitle": "File:Bombardier Global 7500, Paris Air Show 2019, Le Bourget (SIAE8909).jpg"
     },
     {
-      "productId": "everyday-000023",
+      "productId": "lux-000033",
       "outcome": "no-match",
-      "query": "\"MacBook Air 13-inch M4\" Apple product"
+      "query": "\"Dassault Falcon 10X\" Dassault Aviation aircraft jet helicopter"
+    },
+    {
+      "productId": "lux-000034",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:Dassault Aviation, F-HFSD, Dassault Falcon 8X (35549114781).jpg"
+    },
+    {
+      "productId": "lux-000035",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:Embraer Praetor 600, Paris Air Show 2019, Le Bourget (SIAE0698).jpg"
+    },
+    {
+      "productId": "lux-000036",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:Cessna Citation Longitude N807QS.jpg"
+    },
+    {
+      "productId": "lux-000037",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:Antwerp NetJets Europe Cessna Citation Latitude CS-LAS.jpg"
+    },
+    {
+      "productId": "lux-000038",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:EC-NRA Pilatus PC-24 during landing at LFBT airport.jpg"
+    },
+    {
+      "productId": "lux-000039",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:Antwerp Air Bohemia Pilatus PC-12 NGX OK-PTT.jpg"
+    },
+    {
+      "productId": "lux-000040",
+      "outcome": "no-match",
+      "query": "\"Airbus ACH160 Exclusive\"  aircraft jet helicopter"
+    },
+    {
+      "productId": "lux-000041",
+      "outcome": "no-match",
+      "query": "\"Bell 525 Relentless\"  aircraft jet helicopter"
+    },
+    {
+      "productId": "lux-000042",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 138,
+      "commonsTitle": "File:G-MGPS Leonardo AW169 Helicopter.jpg"
     },
     {
       "productId": "lux-000043",
@@ -51,157 +334,40 @@
       "query": "\"Sunseeker 100 Yacht\"  yacht boat"
     },
     {
-      "productId": "everyday-000046",
-      "outcome": "no-match",
-      "query": "\"Sony BRAVIA 9 75-inch\"  electronic product"
-    },
-    {
-      "productId": "lux-000057",
-      "outcome": "no-match",
-      "query": "\"Rolex Cosmograph Daytona Platinum\"  watch wristwatch"
-    },
-    {
-      "productId": "everyday-000071",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "low",
-      "score": 21,
-      "commonsTitle": "File:Sony Playstation 2 SCPH-5001 V9 (19290958318).jpg"
-    },
-    {
-      "productId": "lux-000079",
-      "outcome": "no-match",
-      "query": "\"Hermès Birkin 25 Himalaya\"  fashion product"
-    },
-    {
-      "productId": "everyday-000086",
-      "outcome": "no-match",
-      "query": "\"Dyson V15 Detect Absolute\"  home product"
-    },
-    {
-      "productId": "lux-000091",
-      "outcome": "no-match",
-      "query": "\"Tiffany & Co. Schlumberger Sixteen Stone Ring\"  jewellery jewelry"
-    },
-    {
-      "productId": "everyday-000096",
-      "outcome": "no-match",
-      "query": "\"IKEA SÖDERHAMN sofa\"  furniture"
-    },
-    {
-      "productId": "lux-000097",
-      "outcome": "no-match",
-      "query": "\"Baccarat Zenith Chandelier\"  product"
-    },
-    {
-      "productId": "everyday-000105",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "medium",
-      "score": 78,
-      "commonsTitle": "File:Red KitchenAid Artisan.jpg"
-    },
-    {
-      "productId": "lux-000098",
-      "outcome": "no-match",
-      "query": "\"Fazioli F308 Concert Grand Piano\"  product"
-    },
-    {
-      "productId": "everyday-000117",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 88,
-      "commonsTitle": "File:Levi's 501 raw jeans.jpg"
-    },
-    {
-      "productId": "lux-000100",
-      "outcome": "no-match",
-      "query": "\"Bang & Olufsen Beolab 90 Pair\"  technology product"
-    },
-    {
-      "productId": "everyday-000127",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 91,
-      "commonsTitle": "File:Nike Air Force 1 Shadow.jpg"
-    },
-    {
-      "productId": "lux-000108",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:Ferrari 250 GTO (10579).jpg"
-    },
-    {
-      "productId": "everyday-000137",
-      "outcome": "no-match",
-      "query": "\"Dior Sauvage Eau de Parfum 100 ml\"  product"
-    },
-    {
-      "productId": "lux-000002",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:2022 Bugatti Chiron Super Sport 300+.jpg"
-    },
-    {
-      "productId": "everyday-000150",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 135,
-      "commonsTitle": "File:Garmin Forerunner 965.jpeg"
-    },
-    {
-      "productId": "lux-000030",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:Gulfstream G700 at the Dubai Airshow 2023.jpg"
-    },
-    {
-      "productId": "everyday-000160",
-      "outcome": "no-match",
-      "query": "\"Hilleberg Nallo 3 GT\"  product"
-    },
-    {
       "productId": "lux-000044",
       "outcome": "no-match",
       "query": "\"Sunseeker Ocean 182\"  yacht boat"
     },
     {
-      "productId": "everyday-000166",
+      "productId": "lux-000045",
       "outcome": "no-match",
-      "query": "\"Trek Domane SL 6 Gen 4\"  vehicle bicycle"
+      "query": "\"Azimut Grande Trideck\"  yacht boat"
     },
     {
-      "productId": "lux-000058",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 88,
-      "commonsTitle": "File:Rolex GMT Master II 126710BLRO.jpg"
+      "productId": "lux-000046",
+      "outcome": "no-match",
+      "query": "\"Sanlorenzo 52Steel\"  yacht boat"
     },
     {
-      "productId": "everyday-000173",
+      "productId": "lux-000047",
       "outcome": "no-match",
-      "query": "\"Bugaboo Fox 5\"  product"
+      "query": "\"Sanlorenzo 62Steel\"  yacht boat"
     },
     {
-      "productId": "lux-000080",
+      "productId": "lux-000048",
       "outcome": "no-match",
-      "query": "\"Hermès Kelly 25 Sellier\"  fashion product"
+      "query": "\"Feadship 58 m Custom Superyacht\"  yacht boat"
     },
     {
-      "productId": "everyday-000179",
+      "productId": "lux-000049",
       "outcome": "no-match",
-      "query": "\"LEGO Icons Eiffel Tower 10307\"  product"
+      "query": "\"Oceanco Y722\"  yacht boat"
+    },
+    {
+      "productId": "lux-000050",
+      "outcome": "no-match",
+      "query": "\"Lürssen Project Cosmos\"  yacht boat"
     }
   ],
-  "finishedAt": "2026-07-03T07:53:49.791Z"
+  "finishedAt": "2026-07-03T09:27:32.869Z"
 }

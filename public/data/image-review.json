@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-07-03T09:04:22.153Z",
+  "generatedAt": "2026-07-03T09:27:32.869Z",
   "items": [
     {
       "productId": "everyday-000001",
@@ -588,6 +588,1392 @@
       "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
+      "productId": "lux-000003",
+      "mode": "luxury",
+      "productName": "Koenigsegg Jesko Absolut",
+      "brand": "Koenigsegg",
+      "categoryLabel": "Fordon",
+      "query": "\"Koenigsegg Jesko Absolut\"  car automobile",
+      "status": "pending",
+      "confidence": "medium",
+      "score": 84.7,
+      "importedAt": "2026-07-03T09:25:31.318Z",
+      "selected": {
+        "title": "File:Koenigsegg Jesko Auto Zuerich 2023 1X7A1382.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koenigsegg_Jesko_Auto_Zuerich_2023_1X7A1382.jpg",
+        "creator": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1270,
+        "score": 84.7,
+        "path": "/product-images/lux-000003.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Koenigsegg Jesko, Auto 2024, Zurich (PANA0936).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koenigsegg_Jesko,_Auto_2024,_Zurich_(PANA0936).jpg",
+          "creator": "Matti Blume",
+          "license": "CC BY-SA",
+          "licenseUrl": "//commons.wikimedia.org/wiki/File:Koenigsegg_Jesko,_Auto_2024,_Zurich_(PANA0936).jpg",
+          "width": 1600,
+          "height": 1200,
+          "score": 84.7
+        },
+        {
+          "title": "File:Koenigsegg Jesko, Auto 2024, Zurich (PANA0954).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koenigsegg_Jesko,_Auto_2024,_Zurich_(PANA0954).jpg",
+          "creator": "Matti Blume",
+          "license": "CC BY-SA",
+          "licenseUrl": "//commons.wikimedia.org/wiki/File:Koenigsegg_Jesko,_Auto_2024,_Zurich_(PANA0954).jpg",
+          "width": 1600,
+          "height": 1200,
+          "score": 84.7
+        },
+        {
+          "title": "File:Koenigsegg Jesko Auto Zuerich 2023 1X7A1375.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koenigsegg_Jesko_Auto_Zuerich_2023_1X7A1375.jpg",
+          "creator": "Alexander-93",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1068,
+          "score": 84.7
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000004",
+      "mode": "luxury",
+      "productName": "Koenigsegg Gemera",
+      "brand": "Koenigsegg",
+      "categoryLabel": "Fordon",
+      "query": "\"Koenigsegg Gemera\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:25:33.281Z",
+      "selected": {
+        "title": "File:Koenigsegg Gemera, Auto 2024, Zurich (PANA0947).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koenigsegg_Gemera,_Auto_2024,_Zurich_(PANA0947).jpg",
+        "creator": "Matti Blume",
+        "license": "CC BY-SA",
+        "licenseUrl": "//commons.wikimedia.org/wiki/File:Koenigsegg_Gemera,_Auto_2024,_Zurich_(PANA0947).jpg",
+        "width": 1600,
+        "height": 1200,
+        "score": 138,
+        "path": "/product-images/lux-000004.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Koenigsegg Gemera, Auto 2024, Zurich (PANA0948).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koenigsegg_Gemera,_Auto_2024,_Zurich_(PANA0948).jpg",
+          "creator": "Matti Blume",
+          "license": "CC BY-SA",
+          "licenseUrl": "//commons.wikimedia.org/wiki/File:Koenigsegg_Gemera,_Auto_2024,_Zurich_(PANA0948).jpg",
+          "width": 1600,
+          "height": 1200,
+          "score": 138
+        },
+        {
+          "title": "File:Koenigsegg Gemera, Auto 2024, Zurich (PANA0949).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koenigsegg_Gemera,_Auto_2024,_Zurich_(PANA0949).jpg",
+          "creator": "Matti Blume",
+          "license": "CC BY-SA",
+          "licenseUrl": "//commons.wikimedia.org/wiki/File:Koenigsegg_Gemera,_Auto_2024,_Zurich_(PANA0949).jpg",
+          "width": 1600,
+          "height": 1200,
+          "score": 138
+        },
+        {
+          "title": "File:Koenigsegg Gemera, Auto 2024, Zurich (PANA0950).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koenigsegg_Gemera,_Auto_2024,_Zurich_(PANA0950).jpg",
+          "creator": "Matti Blume",
+          "license": "CC BY-SA",
+          "licenseUrl": "//commons.wikimedia.org/wiki/File:Koenigsegg_Gemera,_Auto_2024,_Zurich_(PANA0950).jpg",
+          "width": 1600,
+          "height": 1200,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000005",
+      "mode": "luxury",
+      "productName": "Pagani Utopia",
+      "brand": "Pagani",
+      "categoryLabel": "Fordon",
+      "query": "\"Pagani Utopia\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:25:37.449Z",
+      "selected": {
+        "title": "File:Pagani Utopia Auto Zuerich 2023 1X7A1452.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Auto_Zuerich_2023_1X7A1452.jpg",
+        "creator": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1275,
+        "score": 138,
+        "path": "/product-images/lux-000005.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Pagani Utopia Roadster, Auto 2024, Zurich (PANA0733).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster,_Auto_2024,_Zurich_(PANA0733).jpg",
+          "creator": "Matti Blume",
+          "license": "CC BY-SA",
+          "licenseUrl": "//commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster,_Auto_2024,_Zurich_(PANA0733).jpg",
+          "width": 1600,
+          "height": 1200,
+          "score": 138
+        },
+        {
+          "title": "File:Pagani Utopia Roadster Auto Zuerich 2024 DSC 6397.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster_Auto_Zuerich_2024_DSC_6397.jpg",
+          "creator": "Alexander-93",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1069,
+          "score": 138
+        },
+        {
+          "title": "File:Pagani Utopia Roadster Auto Zuerich 2024 DSC 6399.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Roadster_Auto_Zuerich_2024_DSC_6399.jpg",
+          "creator": "Alexander-93",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1069,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000006",
+      "mode": "luxury",
+      "productName": "Pagani Huayra Roadster BC",
+      "brand": "Pagani",
+      "categoryLabel": "Fordon",
+      "query": "\"Pagani Huayra Roadster BC\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:25:39.090Z",
+      "selected": {
+        "title": "File:2020 Pagani Huayra Roadster BC M158 engine, left side (New Canaan).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2020_Pagani_Huayra_Roadster_BC_M158_engine,_left_side_(New_Canaan).jpg",
+        "creator": "Mr.choppers",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "width": 1600,
+        "height": 1067,
+        "score": 138,
+        "path": "/product-images/lux-000006.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:2020 Pagani Huayra Roadster BC in Blue and Carbon Fibre, front right (Greenwich 2024).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2020_Pagani_Huayra_Roadster_BC_in_Blue_and_Carbon_Fibre,_front_right_(Greenwich_2024).jpg",
+          "creator": "Mr.choppers",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "width": 1600,
+          "height": 898,
+          "score": 138
+        },
+        {
+          "title": "File:Pagani Huayra BC Roadster, BAS 24, Brussels (P1170496).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_BC_Roadster,_BAS_24,_Brussels_(P1170496).jpg",
+          "creator": "Matti Blume",
+          "license": "CC BY-SA",
+          "licenseUrl": "//commons.wikimedia.org/wiki/File:Pagani_Huayra_BC_Roadster,_BAS_24,_Brussels_(P1170496).jpg",
+          "width": 1600,
+          "height": 1280,
+          "score": 110
+        },
+        {
+          "title": "File:Pagani Huayra BC Roadster, BAS 24, Brussels (P1170493-RR).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_BC_Roadster,_BAS_24,_Brussels_(P1170493-RR).jpg",
+          "creator": "Matti Blume",
+          "license": "CC BY-SA",
+          "licenseUrl": "//commons.wikimedia.org/wiki/File:Pagani_Huayra_BC_Roadster,_BAS_24,_Brussels_(P1170493-RR).jpg",
+          "width": 1600,
+          "height": 1280,
+          "score": 110
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000007",
+      "mode": "luxury",
+      "productName": "Mercedes-AMG ONE",
+      "brand": "Mercedes-AMG",
+      "categoryLabel": "Fordon",
+      "query": "\"Mercedes-AMG ONE\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 134,
+      "importedAt": "2026-07-03T09:25:41.768Z",
+      "selected": {
+        "title": "File:Mercedes-AMG ONE (53275053513).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_ONE_(53275053513).jpg",
+        "creator": "Thomas Vogt from Paderborn, Deutschland",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "width": 1600,
+        "height": 1200,
+        "score": 134,
+        "path": "/product-images/lux-000007.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Mercedes-AMG ONE (53275129439).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_ONE_(53275129439).jpg",
+          "creator": "Thomas Vogt from Paderborn, Deutschland",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "width": 1600,
+          "height": 1200,
+          "score": 134
+        },
+        {
+          "title": "File:Mercedes-AMG ONE (53273881667).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_ONE_(53273881667).jpg",
+          "creator": "Thomas Vogt from Paderborn, Deutschland",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "width": 1600,
+          "height": 1200,
+          "score": 134
+        },
+        {
+          "title": "File:Mercedes-AMG ONE (53275406395).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_ONE_(53275406395).jpg",
+          "creator": "Thomas Vogt from Paderborn, Deutschland",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "width": 1600,
+          "height": 1200,
+          "score": 134
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000008",
+      "mode": "luxury",
+      "productName": "Ferrari Daytona SP3",
+      "brand": "Ferrari",
+      "categoryLabel": "Fordon",
+      "query": "\"Ferrari Daytona SP3\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:25:43.800Z",
+      "selected": {
+        "title": "File:Ferrari Daytona SP3 (rear view) at Osaka Auto Messe 2026.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_Daytona_SP3_(rear_view)_at_Osaka_Auto_Messe_2026.jpg",
+        "creator": "Aos.1905",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1002,
+        "score": 138,
+        "path": "/product-images/lux-000008.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Ferrari Daytona SP3 (side view) at Osaka Auto Messe 2026.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_Daytona_SP3_(side_view)_at_Osaka_Auto_Messe_2026.jpg",
+          "creator": "Aos.1905",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 901,
+          "score": 138
+        },
+        {
+          "title": "File:Ferrari Daytona SP3 (rear three-quarter view) at Osaka Auto Messe 2026.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_Daytona_SP3_(rear_three-quarter_view)_at_Osaka_Auto_Messe_2026.jpg",
+          "creator": "Aos.1905",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 900,
+          "score": 138
+        },
+        {
+          "title": "File:Ferrari Daytona SP3 (front three-quarter view) at Osaka Auto Messe 2026.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_Daytona_SP3_(front_three-quarter_view)_at_Osaka_Auto_Messe_2026.jpg",
+          "creator": "Aos.1905",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 900,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000009",
+      "mode": "luxury",
+      "productName": "Ferrari SF90 XX Stradale",
+      "brand": "Ferrari",
+      "categoryLabel": "Fordon",
+      "query": "\"Ferrari SF90 XX Stradale\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 91,
+      "importedAt": "2026-07-03T09:25:46.308Z",
+      "selected": {
+        "title": "File:2025 Ferrari SF90 Stradale - 01.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2025_Ferrari_SF90_Stradale_-_01.jpg",
+        "creator": "This picture has been taken by Oleg Yunakov . Contact e-mail: yunakov gmail.com . Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here .",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1200,
+        "score": 91,
+        "path": "/product-images/lux-000009.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:2025 Ferrari SF90 Stradale - 02.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2025_Ferrari_SF90_Stradale_-_02.jpg",
+          "creator": "This picture has been taken by Oleg Yunakov . Contact e-mail: yunakov gmail.com . Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here .",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1200,
+          "score": 91
+        },
+        {
+          "title": "File:Ferrari SF90 Stradale (front).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_SF90_Stradale_(front).jpg",
+          "creator": "More Cars",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "width": 1600,
+          "height": 900,
+          "score": 91
+        },
+        {
+          "title": "File:Ferrari SF90 Stradale - 53080399147.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_SF90_Stradale_-_53080399147.jpg",
+          "creator": "More Cars",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "width": 1600,
+          "height": 900,
+          "score": 91
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000010",
+      "mode": "luxury",
+      "productName": "Ferrari 12Cilindri",
+      "brand": "Ferrari",
+      "categoryLabel": "Fordon",
+      "query": "\"Ferrari 12Cilindri\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:25:48.376Z",
+      "selected": {
+        "title": "File:Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6817.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_12Cilindri_Spider_Auto_Zuerich_2024_DSC_6817.jpg",
+        "creator": "Alexander Migl",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1378,
+        "score": 138,
+        "path": "/product-images/lux-000010.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6396.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_12Cilindri_Spider_Auto_Zuerich_2024_DSC_6396.jpg",
+          "creator": "Alexander-93",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1070,
+          "score": 138
+        },
+        {
+          "title": "File:Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6393.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_12Cilindri_Spider_Auto_Zuerich_2024_DSC_6393.jpg",
+          "creator": "Alexander-93",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1069,
+          "score": 138
+        },
+        {
+          "title": "File:Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6809.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_12Cilindri_Spider_Auto_Zuerich_2024_DSC_6809.jpg",
+          "creator": "Alexander Migl",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1069,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000011",
+      "mode": "luxury",
+      "productName": "McLaren Solus GT",
+      "brand": "McLaren",
+      "categoryLabel": "Fordon",
+      "query": "\"McLaren Solus GT\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:25:51.748Z",
+      "selected": {
+        "title": "File:2023 McLaren Solus GT 1.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023_McLaren_Solus_GT_1.jpg",
+        "creator": "Calreyn88",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "width": 1600,
+        "height": 1219,
+        "score": 138,
+        "path": "/product-images/lux-000011.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:McLaren Solus GT (53048637983).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:McLaren_Solus_GT_(53048637983).jpg",
+          "creator": "Andrew Basterfield",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "width": 1600,
+          "height": 1068,
+          "score": 138
+        },
+        {
+          "title": "File:McLaren Solus GT (53048639263).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:McLaren_Solus_GT_(53048639263).jpg",
+          "creator": "Andrew Basterfield",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "width": 1600,
+          "height": 1068,
+          "score": 138
+        },
+        {
+          "title": "File:McLaren Solus GT (53048334514).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:McLaren_Solus_GT_(53048334514).jpg",
+          "creator": "Andrew Basterfield",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "width": 1600,
+          "height": 1068,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000012",
+      "mode": "luxury",
+      "productName": "McLaren W1",
+      "brand": "McLaren",
+      "categoryLabel": "Fordon",
+      "query": "\"McLaren W1\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:25:53.281Z",
+      "selected": {
+        "title": "File:McLaren W1 (55129817900).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:McLaren_W1_(55129817900).jpg",
+        "creator": "Mustang Joe",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "width": 1600,
+        "height": 1068,
+        "score": 138,
+        "path": "/product-images/lux-000012.webp"
+      },
+      "alternatives": [],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000013",
+      "mode": "luxury",
+      "productName": "Lamborghini Revuelto",
+      "brand": "Lamborghini",
+      "categoryLabel": "Fordon",
+      "query": "\"Lamborghini Revuelto\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:25:55.457Z",
+      "selected": {
+        "title": "File:Lamborghini Revuelto Auto Zuerich 2023 1X7A1367.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lamborghini_Revuelto_Auto_Zuerich_2023_1X7A1367.jpg",
+        "creator": "Alexander-93",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1263,
+        "score": 138,
+        "path": "/product-images/lux-000013.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Lamborghini Revuelto (2024) (53621749716).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lamborghini_Revuelto_(2024)_(53621749716).jpg",
+          "creator": "Charles from Port Chester, New York",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "width": 1600,
+          "height": 1200,
+          "score": 138
+        },
+        {
+          "title": "File:Lamborghini Revuelto Auto Zuerich 2023 1X7A1366.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lamborghini_Revuelto_Auto_Zuerich_2023_1X7A1366.jpg",
+          "creator": "Alexander-93",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1068,
+          "score": 138
+        },
+        {
+          "title": "File:Lamborghini Revuelto Auto Zuerich 2023 1X7A1364.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lamborghini_Revuelto_Auto_Zuerich_2023_1X7A1364.jpg",
+          "creator": "Alexander-93",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1067,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000014",
+      "mode": "luxury",
+      "productName": "Lamborghini Temerario",
+      "brand": "Lamborghini",
+      "categoryLabel": "Fordon",
+      "query": "\"Lamborghini Temerario\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:25:57.456Z",
+      "selected": {
+        "title": "File:2026 Lamborghini Temerario - 02.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2026_Lamborghini_Temerario_-_02.jpg",
+        "creator": "Oleg Yunakov",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1200,
+        "score": 138,
+        "path": "/product-images/lux-000014.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:2026 Lamborghini Temerario - 01.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2026_Lamborghini_Temerario_-_01.jpg",
+          "creator": "Oleg Yunakov",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1200,
+          "score": 138
+        },
+        {
+          "title": "File:Lamborghini Temerario (2026) (55210455442).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lamborghini_Temerario_(2026)_(55210455442).jpg",
+          "creator": "Charles from Port Chester, New York",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 1067,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000015",
+      "mode": "luxury",
+      "productName": "Rolls-Royce Phantom Extended",
+      "brand": "Rolls-Royce",
+      "categoryLabel": "Fordon",
+      "query": "\"Rolls-Royce Phantom Extended\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:26:01.549Z",
+      "selected": {
+        "title": "File:Rolls-Royce Phantom Extended VIII Dark Emerald (3).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_Extended_VIII_Dark_Emerald_(3).jpg",
+        "creator": "Damian B Oh",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1200,
+        "score": 138,
+        "path": "/product-images/lux-000015.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Rolls-Royce Phantom Extended VIII Dark Emerald (2).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_Extended_VIII_Dark_Emerald_(2).jpg",
+          "creator": "Damian B Oh",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1200,
+          "score": 138
+        },
+        {
+          "title": "File:Rolls-Royce Phantom Extended VIII Dark Emerald (1).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_Extended_VIII_Dark_Emerald_(1).jpg",
+          "creator": "Damian B Oh",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1200,
+          "score": 138
+        },
+        {
+          "title": "File:Rolls-Royce Phantom Extended VIII Dark Emerald (4).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_Extended_VIII_Dark_Emerald_(4).jpg",
+          "creator": "Damian B Oh",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1200,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000016",
+      "mode": "luxury",
+      "productName": "Rolls-Royce Spectre",
+      "brand": "Rolls-Royce",
+      "categoryLabel": "Fordon",
+      "query": "\"Rolls-Royce Spectre\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:26:03.428Z",
+      "selected": {
+        "title": "File:2023 Rolls-Royce Spectre EV - 102kWh (585PS) Electric - Wittering Blue - 06-2024, Front.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023_Rolls-Royce_Spectre_EV_-_102kWh_(585PS)_Electric_-_Wittering_Blue_-_06-2024,_Front.jpg",
+        "creator": "Harvey Bold",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "width": 1600,
+        "height": 1167,
+        "score": 138,
+        "path": "/product-images/lux-000016.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:2023 Rolls-Royce Spectre EV - 102kWh (585PS) Electric - Wittering Blue - 06-2024, Rear.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023_Rolls-Royce_Spectre_EV_-_102kWh_(585PS)_Electric_-_Wittering_Blue_-_06-2024,_Rear.jpg",
+          "creator": "Harvey Bold",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 1133,
+          "score": 138
+        },
+        {
+          "title": "File:2023 Rolls-Royce Spectre EV - 102kWh (585PS) Electric - Wittering Blue - 06-2024, Front Quarter.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023_Rolls-Royce_Spectre_EV_-_102kWh_(585PS)_Electric_-_Wittering_Blue_-_06-2024,_Front_Quarter.jpg",
+          "creator": "Harvey Bold",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 918,
+          "score": 138
+        },
+        {
+          "title": "File:Moscow, Rolls-Royce Spectre, Aug 2025 01.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moscow,_Rolls-Royce_Spectre,_Aug_2025_01.jpg",
+          "creator": "Retired electrician",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 900,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000017",
+      "mode": "luxury",
+      "productName": "Rolls-Royce Cullinan Black Badge",
+      "brand": "Rolls-Royce",
+      "categoryLabel": "Fordon",
+      "query": "\"Rolls-Royce Cullinan Black Badge\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 108,
+      "importedAt": "2026-07-03T09:26:07.361Z",
+      "selected": {
+        "title": "File:2022 Rolls-Royce Cullinan Black Badge V12 Auto.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2022_Rolls-Royce_Cullinan_Black_Badge_V12_Auto.jpg",
+        "creator": "Calreyn88",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1082,
+        "score": 108,
+        "path": "/product-images/lux-000017.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:2023 Rolls Royce Cullinan Black Badge Auto.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023_Rolls_Royce_Cullinan_Black_Badge_Auto.jpg",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1160,
+          "score": 39
+        },
+        {
+          "title": "File:2022 Rolls Royce Cullinan Black Badge Auto 1.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2022_Rolls_Royce_Cullinan_Black_Badge_Auto_1.jpg",
+          "creator": "Calreyn88",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "width": 1600,
+          "height": 1149,
+          "score": 39
+        },
+        {
+          "title": "File:2022 Rolls Royce Cullinan Black Badge Auto.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2022_Rolls_Royce_Cullinan_Black_Badge_Auto.jpg",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1105,
+          "score": 39
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000018",
+      "mode": "luxury",
+      "productName": "Bentley Batur",
+      "brand": "Bentley",
+      "categoryLabel": "Fordon",
+      "query": "\"Bentley Batur\"  car automobile",
+      "status": "pending",
+      "confidence": "medium",
+      "score": 72,
+      "importedAt": "2026-07-03T09:26:09.353Z",
+      "selected": {
+        "title": "File:2017 Bentley Continental GT SuperSports Auto 1.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2017_Bentley_Continental_GT_SuperSports_Auto_1.jpg",
+        "creator": "Calreyn88",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1072,
+        "score": 72,
+        "path": "/product-images/lux-000018.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Bentley Continental GT, GIMS 2019, Le Grand-Saconnex (GIMS1036).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bentley_Continental_GT,_GIMS_2019,_Le_Grand-Saconnex_(GIMS1036).jpg",
+          "creator": "Matti Blume",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1067,
+          "score": 72
+        },
+        {
+          "title": "File:2022 Bentley Continental GT V8 Auto.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2022_Bentley_Continental_GT_V8_Auto.jpg",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 988,
+          "score": 72
+        },
+        {
+          "title": "File:2014 Bentley Continental GTC Speed Auto 2.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2014_Bentley_Continental_GTC_Speed_Auto_2.jpg",
+          "creator": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 985,
+          "score": 72
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000019",
+      "mode": "luxury",
+      "productName": "Aston Martin Valkyrie",
+      "brand": "Aston Martin",
+      "categoryLabel": "Fordon",
+      "query": "\"Aston Martin Valkyrie\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:26:11.652Z",
+      "selected": {
+        "title": "File:Aston Martin Valkyrie AMR Pro (front three-quarter view1) at Osaka Auto Messe 2026.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_AMR_Pro_(front_three-quarter_view1)_at_Osaka_Auto_Messe_2026.jpg",
+        "creator": "Aos.1905",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1226,
+        "score": 138,
+        "path": "/product-images/lux-000019.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Aston Martin Valkyrie AMR Pro (front view) at Osaka Auto Messe 2026.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_AMR_Pro_(front_view)_at_Osaka_Auto_Messe_2026.jpg",
+          "creator": "Aos.1905",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1082,
+          "score": 138
+        },
+        {
+          "title": "File:Aston Martin Valkyrie AMR Pro Auto Zuerich 2023 1X7A1481.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_AMR_Pro_Auto_Zuerich_2023_1X7A1481.jpg",
+          "creator": "Alexander-93",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1068,
+          "score": 138
+        },
+        {
+          "title": "File:Aston Martin Valkyrie GIMS 2024 1X7A2266.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_GIMS_2024_1X7A2266.jpg",
+          "creator": "Alexander-93",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1068,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000020",
+      "mode": "luxury",
+      "productName": "Aston Martin Valour",
+      "brand": "Aston Martin",
+      "categoryLabel": "Fordon",
+      "query": "\"Aston Martin Valour\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:26:13.236Z",
+      "selected": {
+        "title": "File:2024 Aston Martin Valour in Andromeda Red, front (Miller).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2024_Aston_Martin_Valour_in_Andromeda_Red,_front_(Miller).jpg",
+        "creator": "Mr.choppers",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "width": 1600,
+        "height": 1148,
+        "score": 138,
+        "path": "/product-images/lux-000020.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:2024 Aston Martin Valour in Exposed Carbon Fiber, front left (Miller).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2024_Aston_Martin_Valour_in_Exposed_Carbon_Fiber,_front_left_(Miller).jpg",
+          "creator": "Mr.choppers",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1003,
+          "score": 138
+        },
+        {
+          "title": "File:2024 Aston Martin Valour in Exposed Carbon Fiber, rear left (Miller).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2024_Aston_Martin_Valour_in_Exposed_Carbon_Fiber,_rear_left_(Miller).jpg",
+          "creator": "Mr.choppers",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 938,
+          "score": 138
+        },
+        {
+          "title": "File:2023 Aston Martin Valour Coligny.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valour_Coligny.jpg",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 821,
+          "score": 134
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000021",
+      "mode": "luxury",
+      "productName": "Porsche 911 S/T",
+      "brand": "Porsche",
+      "categoryLabel": "Fordon",
+      "query": "\"Porsche 911 S/T\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 110,
+      "importedAt": "2026-07-03T09:26:16.915Z",
+      "selected": {
+        "title": "File:Porsche 911 ST, Auto 2025, Zurich (20251029-P1074413).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porsche_911_ST,_Auto_2025,_Zurich_(20251029-P1074413).jpg",
+        "creator": "Matti Blume",
+        "license": "CC BY-SA",
+        "licenseUrl": "//commons.wikimedia.org/wiki/File:Porsche_911_ST,_Auto_2025,_Zurich_(20251029-P1074413).jpg",
+        "width": 1600,
+        "height": 1200,
+        "score": 110,
+        "path": "/product-images/lux-000021.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Porsche 911 ST, Auto 2025, Zurich (20251029-P1074414).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porsche_911_ST,_Auto_2025,_Zurich_(20251029-P1074414).jpg",
+          "creator": "Matti Blume",
+          "license": "CC BY-SA",
+          "licenseUrl": "//commons.wikimedia.org/wiki/File:Porsche_911_ST,_Auto_2025,_Zurich_(20251029-P1074414).jpg",
+          "width": 1600,
+          "height": 1200,
+          "score": 110
+        },
+        {
+          "title": "File:Porsche 911 ST, Auto 2025, Zurich (20251029-P1074416).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porsche_911_ST,_Auto_2025,_Zurich_(20251029-P1074416).jpg",
+          "creator": "Matti Blume",
+          "license": "CC BY-SA",
+          "licenseUrl": "//commons.wikimedia.org/wiki/File:Porsche_911_ST,_Auto_2025,_Zurich_(20251029-P1074416).jpg",
+          "width": 1600,
+          "height": 1200,
+          "score": 110
+        },
+        {
+          "title": "File:Porsche 911 ST, Auto 2025, Zurich (20251029-P1074420).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porsche_911_ST,_Auto_2025,_Zurich_(20251029-P1074420).jpg",
+          "creator": "Matti Blume",
+          "license": "CC BY-SA",
+          "licenseUrl": "//commons.wikimedia.org/wiki/File:Porsche_911_ST,_Auto_2025,_Zurich_(20251029-P1074420).jpg",
+          "width": 1600,
+          "height": 1200,
+          "score": 110
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000022",
+      "mode": "luxury",
+      "productName": "Porsche 918 Spyder",
+      "brand": "Porsche",
+      "categoryLabel": "Fordon",
+      "query": "\"Porsche 918 Spyder\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:26:20.408Z",
+      "selected": {
+        "title": "File:Concept cars, Festival automobile international 2014 - Porsche 918 spyder 1.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Concept_cars,_Festival_automobile_international_2014_-_Porsche_918_spyder_1.jpg",
+        "creator": "Ben from LONDON, United Kingdom",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "width": 1600,
+        "height": 1067,
+        "score": 138,
+        "path": "/product-images/lux-000022.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Porsche 918 Spyder at 2014 NY Auto Show.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porsche_918_Spyder_at_2014_NY_Auto_Show.jpg",
+          "creator": "Maxim Pierre",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "width": 1600,
+          "height": 1063,
+          "score": 138
+        },
+        {
+          "title": "File:Concept cars, Festival automobile international 2014 - Porsche 918 spyder 2 (2).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Concept_cars,_Festival_automobile_international_2014_-_Porsche_918_spyder_2_(2).jpg",
+          "creator": "Ben from LONDON, United Kingdom",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "width": 1600,
+          "height": 1058,
+          "score": 138
+        },
+        {
+          "title": "File:Porsche 918 Spyder toy car (202411171322).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porsche_918_Spyder_toy_car_(202411171322).jpg",
+          "creator": "茅野ふたば",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 900,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000023",
+      "mode": "luxury",
+      "productName": "Rimac Nevera R",
+      "brand": "Rimac",
+      "categoryLabel": "Fordon",
+      "query": "\"Rimac Nevera R\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:26:22.626Z",
+      "selected": {
+        "title": "File:Rimac Nevera R, Auto 2024, Zurich (PANA0631).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rimac_Nevera_R,_Auto_2024,_Zurich_(PANA0631).jpg",
+        "creator": "Matti Blume",
+        "license": "CC BY-SA",
+        "licenseUrl": "//commons.wikimedia.org/wiki/File:Rimac_Nevera_R,_Auto_2024,_Zurich_(PANA0631).jpg",
+        "width": 1600,
+        "height": 1200,
+        "score": 138,
+        "path": "/product-images/lux-000023.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Rimac Nevera R, Auto 2024, Zurich (PANA0631-RR).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rimac_Nevera_R,_Auto_2024,_Zurich_(PANA0631-RR).jpg",
+          "creator": "Matti Blume",
+          "license": "CC BY-SA",
+          "licenseUrl": "//commons.wikimedia.org/wiki/File:Rimac_Nevera_R,_Auto_2024,_Zurich_(PANA0631-RR).jpg",
+          "width": 1600,
+          "height": 1200,
+          "score": 138
+        },
+        {
+          "title": "File:Rimac Nevera R, Auto 2024, Zurich (PANA0593).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rimac_Nevera_R,_Auto_2024,_Zurich_(PANA0593).jpg",
+          "creator": "Matti Blume",
+          "license": "CC BY-SA",
+          "licenseUrl": "//commons.wikimedia.org/wiki/File:Rimac_Nevera_R,_Auto_2024,_Zurich_(PANA0593).jpg",
+          "width": 1600,
+          "height": 1200,
+          "score": 138
+        },
+        {
+          "title": "File:Rimac Nevera R, Auto 2024, Zurich (PANA0595).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rimac_Nevera_R,_Auto_2024,_Zurich_(PANA0595).jpg",
+          "creator": "Matti Blume",
+          "license": "CC BY-SA",
+          "licenseUrl": "//commons.wikimedia.org/wiki/File:Rimac_Nevera_R,_Auto_2024,_Zurich_(PANA0595).jpg",
+          "width": 1600,
+          "height": 1200,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000024",
+      "mode": "luxury",
+      "productName": "Lotus Evija",
+      "brand": "Lotus",
+      "categoryLabel": "Fordon",
+      "query": "\"Lotus Evija\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:26:26.064Z",
+      "selected": {
+        "title": "File:Lotus Evija 001.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lotus_Evija_001.jpg",
+        "creator": "JustAnotherCarDesigner",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1200,
+        "score": 138,
+        "path": "/product-images/lux-000024.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Lotus Evija 002.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lotus_Evija_002.jpg",
+          "creator": "JustAnotherCarDesigner",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1200,
+          "score": 138
+        },
+        {
+          "title": "File:Lotus Evija 003.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lotus_Evija_003.jpg",
+          "creator": "JustAnotherCarDesigner",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1200,
+          "score": 138
+        },
+        {
+          "title": "File:Lotus Evija 005.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lotus_Evija_005.jpg",
+          "creator": "JustAnotherCarDesigner",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 1200,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000025",
+      "mode": "luxury",
+      "productName": "Gordon Murray Automotive T.50",
+      "brand": "Gordon Murray Automotive",
+      "categoryLabel": "Fordon",
+      "query": "\"Gordon Murray Automotive T.50\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:26:29.226Z",
+      "selected": {
+        "title": "File:2023 Gordon Murray Automotive T.50 Pre Series Prototype 2 HCC24.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023_Gordon_Murray_Automotive_T.50_Pre_Series_Prototype_2_HCC24.jpg",
+        "creator": "MrWalkr",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 913,
+        "score": 138,
+        "path": "/product-images/lux-000025.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:2024 Gordon Murray Automotive T.50 LC25.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2024_Gordon_Murray_Automotive_T.50_LC25.jpg",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 855,
+          "score": 138
+        },
+        {
+          "title": "File:2024 Gordon Murray Automotive T.50 Low.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2024_Gordon_Murray_Automotive_T.50_Low.jpg",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 840,
+          "score": 138
+        },
+        {
+          "title": "File:2024 Gordon Murray Automotive T.50.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2024_Gordon_Murray_Automotive_T.50.jpg",
+          "creator": "MrWalkr",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 820,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000026",
+      "mode": "luxury",
+      "productName": "Ducati Superleggera V4",
+      "brand": "Ducati",
+      "categoryLabel": "Fordon",
+      "query": "\"Ducati Superleggera V4\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:26:31.481Z",
+      "selected": {
+        "title": "File:Ducati Superleggera V4 - container.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ducati_Superleggera_V4_-_container.jpg",
+        "creator": "Cjp24",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1078,
+        "score": 138,
+        "path": "/product-images/lux-000026.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:2020 Ducati Panigale V4 Superleggera.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2020_Ducati_Panigale_V4_Superleggera.jpg",
+          "creator": "Ducati",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1280,
+          "height": 960,
+          "score": 110
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000027",
+      "mode": "luxury",
+      "productName": "MV Agusta Rush 1000",
+      "brand": "MV Agusta",
+      "categoryLabel": "Fordon",
+      "query": "\"MV Agusta Rush 1000\"  car automobile",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:26:34.058Z",
+      "selected": {
+        "title": "File:MV Agusta Rush 1000 - EICMA 2024.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:MV_Agusta_Rush_1000_-_EICMA_2024.jpg",
+        "creator": "Saggittarius A",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "width": 1600,
+        "height": 1183,
+        "score": 138,
+        "path": "/product-images/lux-000027.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:MV AGUSTA RUSH 1000 (2023).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:MV_AGUSTA_RUSH_1000_(2023).jpg",
+          "creator": "Matthb1395",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1457,
+          "score": 135
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000028",
+      "mode": "luxury",
+      "productName": "Arch 1s",
+      "brand": "Arch Motorcycle",
+      "categoryLabel": "Fordon",
+      "query": "\"Arch 1s\" Arch Motorcycle car automobile",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T09:26:39.259Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
       "productId": "lux-000029",
       "mode": "luxury",
       "productName": "Gulfstream G800",
@@ -706,6 +2092,579 @@
       "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
+      "productId": "lux-000031",
+      "mode": "luxury",
+      "productName": "Bombardier Global 8000",
+      "brand": "Bombardier",
+      "categoryLabel": "Privatflyg",
+      "query": "\"Bombardier Global 8000\"  aircraft jet helicopter",
+      "status": "pending",
+      "confidence": "medium",
+      "score": 84.7,
+      "importedAt": "2026-07-03T09:26:41.717Z",
+      "selected": {
+        "title": "File:Bombardier Global 7500, Paris Air Show 2019, Le Bourget (SIAE8909).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bombardier_Global_7500,_Paris_Air_Show_2019,_Le_Bourget_(SIAE8909).jpg",
+        "creator": "Matti Blume",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1067,
+        "score": 84.7,
+        "path": "/product-images/lux-000031.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Gandel Investments (VH-TGG) Bombardier Global 7500 on rotation at Sydney Airport (2).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gandel_Investments_(VH-TGG)_Bombardier_Global_7500_on_rotation_at_Sydney_Airport_(2).jpg",
+          "creator": "Bidgee",
+          "license": "CC BY-SA 3.0 au",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/au/deed.en",
+          "width": 1600,
+          "height": 1067,
+          "score": 84.7
+        },
+        {
+          "title": "File:Bombardier Global 7500 VP-CSY (51522930176).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bombardier_Global_7500_VP-CSY_(51522930176).jpg",
+          "creator": "Steven Byles from Yokohama, Japan",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "width": 1600,
+          "height": 1063,
+          "score": 84.7
+        },
+        {
+          "title": "File:Bombardier Global 7500 CS-ESS BWI MD1.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bombardier_Global_7500_CS-ESS_BWI_MD1.jpg",
+          "creator": "Acroterion",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 853,
+          "score": 84.7
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000032",
+      "mode": "luxury",
+      "productName": "Bombardier Global 7500",
+      "brand": "Bombardier",
+      "categoryLabel": "Privatflyg",
+      "query": "\"Bombardier Global 7500\"  aircraft jet helicopter",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:26:43.661Z",
+      "selected": {
+        "title": "File:Bombardier Global 7500, Paris Air Show 2019, Le Bourget (SIAE8909).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bombardier_Global_7500,_Paris_Air_Show_2019,_Le_Bourget_(SIAE8909).jpg",
+        "creator": "Matti Blume",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1067,
+        "score": 138,
+        "path": "/product-images/lux-000032.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Gandel Investments (VH-TGG) Bombardier Global 7500 on rotation at Sydney Airport (2).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gandel_Investments_(VH-TGG)_Bombardier_Global_7500_on_rotation_at_Sydney_Airport_(2).jpg",
+          "creator": "Bidgee",
+          "license": "CC BY-SA 3.0 au",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/au/deed.en",
+          "width": 1600,
+          "height": 1067,
+          "score": 138
+        },
+        {
+          "title": "File:Bombardier Global 7500, Paris Air Show 2019, Le Bourget (SIAE8905).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bombardier_Global_7500,_Paris_Air_Show_2019,_Le_Bourget_(SIAE8905).jpg",
+          "creator": "Matti Blume",
+          "license": "CC BY-SA",
+          "licenseUrl": "//commons.wikimedia.org/wiki/File:Bombardier_Global_7500,_Paris_Air_Show_2019,_Le_Bourget_(SIAE8905).jpg",
+          "width": 1600,
+          "height": 1067,
+          "score": 138
+        },
+        {
+          "title": "File:Bombardier Global 7500 VP-CSY (51522930176).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bombardier_Global_7500_VP-CSY_(51522930176).jpg",
+          "creator": "Steven Byles from Yokohama, Japan",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "width": 1600,
+          "height": 1063,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000033",
+      "mode": "luxury",
+      "productName": "Dassault Falcon 10X",
+      "brand": "Dassault Aviation",
+      "categoryLabel": "Privatflyg",
+      "query": "\"Dassault Falcon 10X\" Dassault Aviation aircraft jet helicopter",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T09:26:46.470Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000034",
+      "mode": "luxury",
+      "productName": "Dassault Falcon 8X",
+      "brand": "Dassault Aviation",
+      "categoryLabel": "Privatflyg",
+      "query": "\"Dassault Falcon 8X\" Dassault Aviation aircraft jet helicopter",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:26:49.206Z",
+      "selected": {
+        "title": "File:Dassault Aviation, F-HFSD, Dassault Falcon 8X (35549114781).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dassault_Aviation,_F-HFSD,_Dassault_Falcon_8X_(35549114781).jpg",
+        "creator": "Anna Zvereva from Tallinn, Estonia",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "width": 1200,
+        "height": 800,
+        "score": 138,
+        "path": "/product-images/lux-000034.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Dassault Aviation, F-GCDP, Dassault Falcon 8X (29347569547).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dassault_Aviation,_F-GCDP,_Dassault_Falcon_8X_(29347569547).jpg",
+          "creator": "Anna Zvereva from Tallinn, Estonia",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "width": 1200,
+          "height": 800,
+          "score": 138
+        },
+        {
+          "title": "File:Dassault Aviation, F-GCDP, Dassault Falcon 8X (31378964298).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dassault_Aviation,_F-GCDP,_Dassault_Falcon_8X_(31378964298).jpg",
+          "creator": "Anna Zvereva from Tallinn, Estonia",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "width": 1200,
+          "height": 800,
+          "score": 138
+        },
+        {
+          "title": "File:Dassault Falcon 8X ‘F-WWQA’ (49822104768).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dassault_Falcon_8X_%E2%80%98F-WWQA%E2%80%99_(49822104768).jpg",
+          "creator": "Alan Wilson from Peterborough, Cambs, UK",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "width": 1600,
+          "height": 1067,
+          "score": 123
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000035",
+      "mode": "luxury",
+      "productName": "Embraer Praetor 600",
+      "brand": "Embraer",
+      "categoryLabel": "Privatflyg",
+      "query": "\"Embraer Praetor 600\"  aircraft jet helicopter",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:26:51.770Z",
+      "selected": {
+        "title": "File:Embraer Praetor 600, Paris Air Show 2019, Le Bourget (SIAE0698).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Embraer_Praetor_600,_Paris_Air_Show_2019,_Le_Bourget_(SIAE0698).jpg",
+        "creator": "Matti Blume",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1067,
+        "score": 138,
+        "path": "/product-images/lux-000035.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Embraer Praetor 600, SIAE 2019, Le Bourget (SIAE0693).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Embraer_Praetor_600,_SIAE_2019,_Le_Bourget_(SIAE0693).jpg",
+          "creator": "Matti Blume",
+          "license": "CC BY-SA",
+          "licenseUrl": "//commons.wikimedia.org/wiki/File:Embraer_Praetor_600,_SIAE_2019,_Le_Bourget_(SIAE0693).jpg",
+          "width": 1600,
+          "height": 1067,
+          "score": 138
+        },
+        {
+          "title": "File:9H-MFX - Embraer Praetor 600 - Flexjet STN 131225.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:9H-MFX_-_Embraer_Praetor_600_-_Flexjet_STN_131225.jpg",
+          "creator": "kitmasterbloke",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "width": 1600,
+          "height": 813,
+          "score": 138
+        },
+        {
+          "title": "File:9H-JFX - Embraer Praetor 600 - Flexjetdepart STN 131225.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:9H-JFX_-_Embraer_Praetor_600_-_Flexjetdepart_STN_131225.jpg",
+          "creator": "kitmasterbloke",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "width": 1600,
+          "height": 749,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000036",
+      "mode": "luxury",
+      "productName": "Cessna Citation Longitude",
+      "brand": "Cessna",
+      "categoryLabel": "Privatflyg",
+      "query": "\"Cessna Citation Longitude\"  aircraft jet helicopter",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:26:54.765Z",
+      "selected": {
+        "title": "File:Cessna Citation Longitude N807QS.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cessna_Citation_Longitude_N807QS.jpg",
+        "creator": "Sewageboy",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "width": 1200,
+        "height": 800,
+        "score": 138,
+        "path": "/product-images/lux-000036.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Cessna Citation Longitude MPA FAS.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cessna_Citation_Longitude_MPA_FAS.jpg",
+          "creator": "Eftrmt",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 298,
+          "height": 169,
+          "score": 131
+        },
+        {
+          "title": "File:Cessna 700 Citation Longitude (N215CL, cn 700-0015) (10-20-2022).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cessna_700_Citation_Longitude_(N215CL,_cn_700-0015)_(10-20-2022).jpg",
+          "creator": "ZLEA",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1067,
+          "score": 110
+        },
+        {
+          "title": "File:Cessna 700 Citation Longitude (N823QS, cn 700-0061) (1-30-2023).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cessna_700_Citation_Longitude_(N823QS,_cn_700-0061)_(1-30-2023).jpg",
+          "creator": "ZLEA",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1067,
+          "score": 110
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000037",
+      "mode": "luxury",
+      "productName": "Cessna Citation Latitude",
+      "brand": "Cessna",
+      "categoryLabel": "Privatflyg",
+      "query": "\"Cessna Citation Latitude\"  aircraft jet helicopter",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:26:59.751Z",
+      "selected": {
+        "title": "File:Antwerp NetJets Europe Cessna Citation Latitude CS-LAS.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antwerp_NetJets_Europe_Cessna_Citation_Latitude_CS-LAS.jpg",
+        "creator": "Ad Meskens You are free to use this picture for any purpose as long as you credit its author, Ad Meskens . Example: © Ad Meskens / Wikimedia Commons If you use this work outside of the Wikimedia projects, a message or a copy is very much appreciated. This image is not in the public domain. A statement such as \"From Wikimedia Commons\" or similar is not by itself sufficient. If you do not provide clear attribution to the author you do not comply with the terms of the file's license and you may not use this file. If you are unable or unwilling to provide attribution you should contact Ad Meskens to negotiate a different license.",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1139,
+        "score": 138,
+        "path": "/product-images/lux-000037.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Cessna Citation Latitude N667QS BWI MD1.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cessna_Citation_Latitude_N667QS_BWI_MD1.jpg",
+          "creator": "Acroterion",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 960,
+          "score": 138
+        },
+        {
+          "title": "File:NetJets Cessna Citation Latitude N967QS BWI MD1.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:NetJets_Cessna_Citation_Latitude_N967QS_BWI_MD1.jpg",
+          "creator": "Acroterion",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 929,
+          "score": 138
+        },
+        {
+          "title": "File:NetJets Cessna Citation Latitude N947QS IAD VA1.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:NetJets_Cessna_Citation_Latitude_N947QS_IAD_VA1.jpg",
+          "creator": "Acroterion",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 854,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000038",
+      "mode": "luxury",
+      "productName": "Pilatus PC-24",
+      "brand": "Pilatus",
+      "categoryLabel": "Privatflyg",
+      "query": "\"Pilatus PC-24\"  aircraft jet helicopter",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:27:01.850Z",
+      "selected": {
+        "title": "File:EC-NRA Pilatus PC-24 during landing at LFBT airport.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:EC-NRA_Pilatus_PC-24_during_landing_at_LFBT_airport.jpg",
+        "creator": "Hugo LUC",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1067,
+        "score": 138,
+        "path": "/product-images/lux-000038.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Pilatus PC-24 at AERO Friedrichshafen 2025-0428.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pilatus_PC-24_at_AERO_Friedrichshafen_2025-0428.jpg",
+          "creator": "New York-air",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1067,
+          "score": 138
+        },
+        {
+          "title": "File:Pilatus PC-24 at AERO Friedrichshafen 2025-0441.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pilatus_PC-24_at_AERO_Friedrichshafen_2025-0441.jpg",
+          "creator": "New York-air",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1067,
+          "score": 138
+        },
+        {
+          "title": "File:Pilatus PC-24 at AERO Friedrichshafen 2025-0447.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pilatus_PC-24_at_AERO_Friedrichshafen_2025-0447.jpg",
+          "creator": "New York-air",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1067,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000039",
+      "mode": "luxury",
+      "productName": "Pilatus PC-12 NGX",
+      "brand": "Pilatus",
+      "categoryLabel": "Privatflyg",
+      "query": "\"Pilatus PC-12 NGX\"  aircraft jet helicopter",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:27:04.398Z",
+      "selected": {
+        "title": "File:Antwerp Air Bohemia Pilatus PC-12 NGX OK-PTT.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antwerp_Air_Bohemia_Pilatus_PC-12_NGX_OK-PTT.jpg",
+        "creator": "Ad Meskens You are free to use this picture for any purpose as long as you credit its author, Ad Meskens . Example: © Ad Meskens / Wikimedia Commons If you use this work outside of the Wikimedia projects, a message or a copy is very much appreciated. This image is not in the public domain. A statement such as \"From Wikimedia Commons\" or similar is not by itself sufficient. If you do not provide clear attribution to the author you do not comply with the terms of the file's license and you may not use this file. If you are unable or unwilling to provide attribution you should contact Ad Meskens to negotiate a different license.",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1188,
+        "score": 138,
+        "path": "/product-images/lux-000039.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Pilatus PC-12 NGX 5D4 9112 (52256399448).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pilatus_PC-12_NGX_5D4_9112_(52256399448).jpg",
+          "creator": "Ronnie Macdonald from Chelmsford, United Kingdom",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "width": 1600,
+          "height": 1068,
+          "score": 138
+        },
+        {
+          "title": "File:Pilatus PC-12 NGX ‘HB-FWO’ (52644871206).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pilatus_PC-12_NGX_%E2%80%98HB-FWO%E2%80%99_(52644871206).jpg",
+          "creator": "Alan Wilson from Peterborough, Cambs, UK",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "width": 1600,
+          "height": 1067,
+          "score": 138
+        },
+        {
+          "title": "File:Pilatus PC-12 NGX ‘HB-FJL’ (52645642458).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pilatus_PC-12_NGX_%E2%80%98HB-FJL%E2%80%99_(52645642458).jpg",
+          "creator": "Alan Wilson from Peterborough, Cambs, UK",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "width": 1600,
+          "height": 1066,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000040",
+      "mode": "luxury",
+      "productName": "Airbus ACH160 Exclusive",
+      "brand": "Airbus",
+      "categoryLabel": "Privatflyg",
+      "query": "\"Airbus ACH160 Exclusive\"  aircraft jet helicopter",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T09:27:07.143Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000041",
+      "mode": "luxury",
+      "productName": "Bell 525 Relentless",
+      "brand": "Bell",
+      "categoryLabel": "Privatflyg",
+      "query": "\"Bell 525 Relentless\"  aircraft jet helicopter",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T09:27:11.158Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000042",
+      "mode": "luxury",
+      "productName": "Leonardo AW169",
+      "brand": "Leonardo",
+      "categoryLabel": "Privatflyg",
+      "query": "\"Leonardo AW169\"  aircraft jet helicopter",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-07-03T09:27:13.163Z",
+      "selected": {
+        "title": "File:G-MGPS Leonardo AW169 Helicopter.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:G-MGPS_Leonardo_AW169_Helicopter.jpg",
+        "creator": "James",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "width": 1600,
+        "height": 1200,
+        "score": 138,
+        "path": "/product-images/lux-000042.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Leonardo AW169(2).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leonardo_AW169(2).jpg",
+          "creator": "Trauma Guy",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1200,
+          "score": 138
+        },
+        {
+          "title": "File:G-EHAT - Leonardo AW169 - Gama Aviation East Anglian Air Ambulance.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:G-EHAT_-_Leonardo_AW169_-_Gama_Aviation_East_Anglian_Air_Ambulance.jpg",
+          "creator": "Steve Knight",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "width": 1600,
+          "height": 993,
+          "score": 138
+        },
+        {
+          "title": "File:Leonardo AW169-3.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leonardo_AW169-3.jpg",
+          "creator": "Trauma Guy",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 711,
+          "score": 138
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
       "productId": "lux-000043",
       "mode": "luxury",
       "productName": "Sunseeker 100 Yacht",
@@ -715,7 +2674,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-07-03T07:52:38.442Z",
+      "importedAt": "2026-07-03T09:27:15.609Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -732,7 +2691,109 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-07-03T07:53:37.164Z",
+      "importedAt": "2026-07-03T09:27:17.439Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000045",
+      "mode": "luxury",
+      "productName": "Azimut Grande Trideck",
+      "brand": "Azimut",
+      "categoryLabel": "Yachter & båtar",
+      "query": "\"Azimut Grande Trideck\"  yacht boat",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T09:27:19.998Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000046",
+      "mode": "luxury",
+      "productName": "Sanlorenzo 52Steel",
+      "brand": "Sanlorenzo",
+      "categoryLabel": "Yachter & båtar",
+      "query": "\"Sanlorenzo 52Steel\"  yacht boat",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T09:27:22.593Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000047",
+      "mode": "luxury",
+      "productName": "Sanlorenzo 62Steel",
+      "brand": "Sanlorenzo",
+      "categoryLabel": "Yachter & båtar",
+      "query": "\"Sanlorenzo 62Steel\"  yacht boat",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T09:27:25.259Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000048",
+      "mode": "luxury",
+      "productName": "Feadship 58 m Custom Superyacht",
+      "brand": "Feadship",
+      "categoryLabel": "Yachter & båtar",
+      "query": "\"Feadship 58 m Custom Superyacht\"  yacht boat",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T09:27:27.841Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000049",
+      "mode": "luxury",
+      "productName": "Oceanco Y722",
+      "brand": "Oceanco",
+      "categoryLabel": "Yachter & båtar",
+      "query": "\"Oceanco Y722\"  yacht boat",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T09:27:30.207Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000050",
+      "mode": "luxury",
+      "productName": "Lürssen Project Cosmos",
+      "brand": "Lürssen",
+      "categoryLabel": "Yachter & båtar",
+      "query": "\"Lürssen Project Cosmos\"  yacht boat",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-07-03T09:27:32.869Z",
       "selected": null,
       "alternatives": [],
       "notes": [
