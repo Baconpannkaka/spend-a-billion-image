@@ -56,7 +56,9 @@ export function CatalogProvider({ children }: { children: React.ReactNode }) {
 
     setStates((current) => ({ ...current, [mode]: "loading" }));
     const promise = Promise.all([
-      fetch(withBasePath(`/data/catalog-${mode}.json`), { cache: "force-cache" }),
+      fetch(`${withBasePath("/data/image-manifest.json")}?v=${Date.now()}`, {
+  cache: "no-store",
+}),
       ensureImages(),
     ])
       .then(async ([response]) => {
