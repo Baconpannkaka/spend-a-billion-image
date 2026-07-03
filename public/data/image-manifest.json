@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-07-03T08:06:24.255Z",
+  "generatedAt": "2026-07-03T08:08:10.815Z",
   "images": [
     {
       "productId": "everyday-000001",
@@ -10,7 +10,7 @@
       "creator": "Ahmad Ali Karim",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 800,
       "height": 1200,
       "importedAt": "2026-07-03T07:52:29.098Z",
@@ -18,7 +18,8 @@
       "confidence": "high",
       "score": 113,
       "sha1": "514f0bd9cc1f6de5fec80f1c8dc9b7ef9a0be52d",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
       "productId": "everyday-000071",
@@ -47,7 +48,7 @@
       "creator": "BenFrantzDale",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1216,
       "height": 1200,
       "importedAt": "2026-07-03T07:53:02.326Z",
@@ -55,7 +56,8 @@
       "confidence": "medium",
       "score": 78,
       "sha1": "db803e13dd6a5ce5d8d1566497581d002849af1c",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
       "productId": "everyday-000117",
@@ -65,7 +67,7 @@
       "creator": "Michael Carian",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 798,
       "height": 1200,
       "importedAt": "2026-07-03T07:53:07.585Z",
@@ -73,7 +75,8 @@
       "confidence": "high",
       "score": 88,
       "sha1": "8cefeaf15d5b10b8a1ef280ba9d51b3a95c3d7c9",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
       "productId": "everyday-000127",
@@ -83,7 +86,7 @@
       "creator": "Ssu",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-07-03T07:53:15.274Z",
@@ -91,7 +94,8 @@
       "confidence": "high",
       "score": 91,
       "sha1": "1910cf8f384bda899ea8de718d0ba13b6bc4c4c5",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
       "productId": "everyday-000150",
@@ -101,7 +105,7 @@
       "creator": "SUNSmania41",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 721,
       "height": 1200,
       "importedAt": "2026-07-03T07:53:29.941Z",
@@ -109,7 +113,8 @@
       "confidence": "high",
       "score": 135,
       "sha1": "b1d6297349077ac91fee59ba037dabd599712eec",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
       "productId": "lux-000001",
@@ -119,7 +124,7 @@
       "creator": "Calreyn88",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1073,
       "importedAt": "2026-07-03T07:52:25.801Z",
@@ -127,7 +132,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "78f552ff79a7f07e5f302c816bf5c69a0b35153b",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
       "productId": "lux-000002",
@@ -137,7 +143,7 @@
       "creator": "Calreyn88",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1427,
       "height": 1200,
       "importedAt": "2026-07-03T07:53:28.479Z",
@@ -145,7 +151,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "929fdb661cd96618edcdeeae62adc5bb892de7d9",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
       "productId": "lux-000029",
@@ -155,7 +162,7 @@
       "creator": "SGBuses.com",
       "license": "CC BY-SA 3.0 sg",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/sg/deed.en",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1224,
       "height": 918,
       "importedAt": "2026-07-03T07:52:31.587Z",
@@ -163,7 +170,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "9cef289143ead31b59366cab18548f8d182ce659",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
       "productId": "lux-000030",
@@ -173,7 +181,7 @@
       "creator": "Mztourist",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-07-03T07:53:32.169Z",
@@ -181,7 +189,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "de8e7befbfce0e8be8a1273d8422aa24fba76cb7",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
       "productId": "lux-000058",
@@ -191,7 +200,7 @@
       "creator": "Qubeek",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1200,
       "height": 1200,
       "importedAt": "2026-07-03T07:53:40.517Z",
@@ -199,7 +208,8 @@
       "confidence": "high",
       "score": 88,
       "sha1": "294abcb4b7ed07e5aa8c608af1908f16e8b3052c",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
       "productId": "lux-000108",
@@ -209,7 +219,7 @@
       "creator": "Calreyn88",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1089,
       "importedAt": "2026-07-03T07:53:17.963Z",
@@ -217,7 +227,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "134f4842231ee0cc3907ac4cdc8ea895c5909e66",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-07-03T08:08:10.815Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-07-03T08:06:24.255Z",
+  "generatedAt": "2026-07-03T08:08:10.815Z",
   "items": [
     {
       "productId": "everyday-000001",
@@ -9,7 +9,7 @@
       "brand": "Apple",
       "categoryLabel": "Mobiltelefoner",
       "query": "\"iPhone 17 Pro\" Apple product",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 113,
       "importedAt": "2026-07-03T07:52:29.098Z",
@@ -58,7 +58,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
       "productId": "everyday-000023",
@@ -194,7 +195,7 @@
       "brand": "KitchenAid",
       "categoryLabel": "Kök",
       "query": "\"KitchenAid Artisan Stand Mixer\"  product",
-      "status": "pending",
+      "status": "approved",
       "confidence": "medium",
       "score": 78,
       "importedAt": "2026-07-03T07:53:02.326Z",
@@ -223,7 +224,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
       "productId": "everyday-000117",
@@ -232,7 +234,7 @@
       "brand": "Levi's",
       "categoryLabel": "Kläder",
       "query": "\"Levi's 501 Original Jeans\"  clothing fashion",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 88,
       "importedAt": "2026-07-03T07:53:07.585Z",
@@ -281,7 +283,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
       "productId": "everyday-000127",
@@ -290,7 +293,7 @@
       "brand": "Nike",
       "categoryLabel": "Skor",
       "query": "\"Nike Air Force 1 '07\"  shoes footwear",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 91,
       "importedAt": "2026-07-03T07:53:15.274Z",
@@ -339,7 +342,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
       "productId": "everyday-000137",
@@ -365,7 +369,7 @@
       "brand": "Garmin",
       "categoryLabel": "Träning",
       "query": "\"Garmin Forerunner 965\"  product",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 135,
       "importedAt": "2026-07-03T07:53:29.941Z",
@@ -394,7 +398,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
       "productId": "everyday-000160",
@@ -471,7 +476,7 @@
       "brand": "Bugatti",
       "categoryLabel": "Fordon",
       "query": "\"Bugatti Tourbillon\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T07:52:25.801Z",
@@ -520,7 +525,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
       "productId": "lux-000002",
@@ -529,7 +535,7 @@
       "brand": "Bugatti",
       "categoryLabel": "Fordon",
       "query": "\"Bugatti Chiron Super Sport\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T07:53:28.479Z",
@@ -578,7 +584,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
       "productId": "lux-000029",
@@ -587,7 +594,7 @@
       "brand": "Gulfstream",
       "categoryLabel": "Privatflyg",
       "query": "\"Gulfstream G800\"  aircraft jet helicopter",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T07:52:31.587Z",
@@ -636,7 +643,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
       "productId": "lux-000030",
@@ -645,7 +653,7 @@
       "brand": "Gulfstream",
       "categoryLabel": "Privatflyg",
       "query": "\"Gulfstream G700\"  aircraft jet helicopter",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T07:53:32.169Z",
@@ -694,7 +702,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
       "productId": "lux-000043",
@@ -754,7 +763,7 @@
       "brand": "Rolex",
       "categoryLabel": "Klockor",
       "query": "\"Rolex GMT-Master II 126710BLRO\"  watch wristwatch",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 88,
       "importedAt": "2026-07-03T07:53:40.517Z",
@@ -772,7 +781,8 @@
       "alternatives": [],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
       "productId": "lux-000079",
@@ -883,7 +893,7 @@
       "brand": "Ferrari",
       "categoryLabel": "Samlarobjekt",
       "query": "\"Ferrari 250 GTO\"  collectible",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T07:53:17.963Z",
@@ -932,7 +942,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-07-03T08:08:10.815Z"
     }
   ]
 }
