@@ -65,11 +65,11 @@ jobs:
       - name: Build static site
         run: npm run build
 
-      - name: Commit decisions
+      - name: Commit decisions and feedback
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/product-images public/data/image-manifest.json public/data/image-review.json
+          git add public/product-images public/data/image-manifest.json public/data/image-review.json data/image-feedback.json
           if git diff --cached --quiet; then
             echo "Inga ändringar att spara."
           else

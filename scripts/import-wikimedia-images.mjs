@@ -20,6 +20,7 @@ const MANIFEST_FILE = path.join(DATA_DIR, "image-manifest.json");
 const REVIEW_FILE = path.join(DATA_DIR, "image-review.json");
 const REPORT_FILE = path.join(DATA_DIR, "image-import-report.json");
 const OVERRIDES_FILE = path.join(ROOT, "data", "image-overrides.json");
+const FEEDBACK_FILE = path.join(ROOT, "data", "image-feedback.json");
 
 function parseArgs(argv) {
   const result = {
@@ -71,8 +72,15 @@ function selectStratified(products, limit) {
   return selected;
 }
 
-function selectProducts(catalogs, options) {
-  const allVerified = catalogs.flatMap((catalog) => catalog.products.filter((product) => product.dataQuality === "verified"));
+function selectProducts(catalogs, options, existingMap) {
+  const verified = catalogs.flatMap((catalog) => catalog.products.filter((product) => product.dataQuality === "verified"));
+  const allVerified = options.overwrite
+    ? verified
+    : verified.filter((product) => {
+        const current = existingMap.get(product.id);
+        return !current || !["approved", "unreviewed"].includes(current.status);
+      });
+
   if (options.scope === "sample") {
     const total = options.limit === 0 ? Math.min(30, allVerified.length) : Math.min(options.limit, allVerified.length);
     const luxury = allVerified.filter((product) => product.mode === "luxury");
@@ -88,6 +96,7 @@ function selectProducts(catalogs, options) {
     }
     return interleaved.slice(0, total);
   }
+
   const scoped = options.scope === "luxury" || options.scope === "everyday"
     ? allVerified.filter((product) => product.mode === options.scope)
     : allVerified;
@@ -119,9 +128,7 @@ function run(command, args) {
 async function convertToWebp(input, output) {
   const tool = await commandExists("magick") ? "magick" : await commandExists("convert") ? "convert" : null;
   if (!tool) throw new Error("ImageMagick saknas. Installera ImageMagick eller kör GitHub-workflowet.");
-  const args = tool === "magick"
-    ? [input, "-auto-orient", "-resize", "1600x1200>", "-strip", "-quality", "82", output]
-    : [input, "-auto-orient", "-resize", "1600x1200>", "-strip", "-quality", "82", output];
+  const args = [input, "-auto-orient", "-resize", "1600x1200>", "-strip", "-quality", "82", output];
   await run(tool, args);
   const identifyArgs = tool === "magick" ? ["identify", "-format", "%w,%h", output] : ["-format", "%w,%h", output];
   const dimensions = tool === "magick" ? await run(tool, identifyArgs) : await run("identify", identifyArgs);
@@ -148,22 +155,31 @@ function statusFor(confidence, mode) {
   return "unreviewed";
 }
 
+function removeRejectedCandidates(productId, ranked, feedback) {
+  const rejected = feedback.products?.[productId]?.rejected ?? [];
+  if (rejected.length === 0) return ranked;
+  const blockedUrls = new Set(rejected.map((entry) => entry.sourceUrl).filter(Boolean));
+  const blockedTitles = new Set(rejected.map((entry) => entry.commonsTitle).filter(Boolean));
+  return ranked.filter((candidate) => !blockedUrls.has(candidate.sourceUrl) && !blockedTitles.has(candidate.title));
+}
+
 const options = parseArgs(process.argv.slice(2));
 await mkdir(IMAGE_DIR, { recursive: true });
 await mkdir(TEMP_DIR, { recursive: true });
-const [luxury, everyday, manifest, review, overrides] = await Promise.all([
+const [luxury, everyday, manifest, review, overrides, feedback] = await Promise.all([
   readJson(path.join(DATA_DIR, "catalog-luxury.json"), null),
   readJson(path.join(DATA_DIR, "catalog-everyday.json"), null),
   readJson(MANIFEST_FILE, { version: 2, generatedAt: "", images: [] }),
   readJson(REVIEW_FILE, { version: 2, generatedAt: "", items: [] }),
   readJson(OVERRIDES_FILE, {}),
+  readJson(FEEDBACK_FILE, { version: 1, updatedAt: "", products: {} }),
 ]);
 if (!luxury || !everyday) throw new Error("Produktkatalogerna saknas. Kör npm run catalog:generate först.");
 
-const selected = selectProducts([luxury, everyday], options);
 const existingMap = new Map(manifest.images.map((image) => [image.productId, image]));
 const reviewMap = new Map(review.items.map((item) => [item.productId, item]));
-const report = { version: 1, startedAt: new Date().toISOString(), options, totalSelected: selected.length, imported: 0, skipped: 0, noMatch: 0, errors: 0, results: [] };
+const selected = selectProducts([luxury, everyday], options, existingMap);
+const report = { version: 2, startedAt: new Date().toISOString(), options, totalSelected: selected.length, imported: 0, skipped: 0, noMatch: 0, errors: 0, feedbackFiltered: 0, results: [] };
 
 console.log(`Importerar bilder för ${selected.length} verifierade produkter (${options.scope}).`);
 for (let index = 0; index < selected.length; index += 1) {
@@ -192,7 +208,9 @@ for (let index = 0; index < selected.length; index += 1) {
     } else {
       for (const query of queries) {
         const candidates = await searchCommons(query, { limit: options.candidates });
-        ranked = filterAndRankCandidates(product, candidates);
+        const beforeFeedback = filterAndRankCandidates(product, candidates);
+        ranked = removeRejectedCandidates(product.id, beforeFeedback, feedback);
+        report.feedbackFiltered += beforeFeedback.length - ranked.length;
         if (ranked.length > 0 && ranked[0].score >= 62) break;
         if (options.delayMs) await sleep(options.delayMs);
       }
@@ -213,7 +231,7 @@ for (let index = 0; index < selected.length; index += 1) {
         importedAt: new Date().toISOString(),
         selected: null,
         alternatives: [],
-        notes: ["Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."],
+        notes: ["Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."],
       };
       reviewMap.set(product.id, item);
       report.noMatch += 1;
@@ -308,7 +326,7 @@ if (!options.dryRun) {
   ]);
 }
 await rm(TEMP_DIR, { recursive: true, force: true });
-console.log(`Klart: ${report.imported} importerade, ${report.skipped} hoppades över, ${report.noMatch} utan träff, ${report.errors} fel.`);
+console.log(`Klart: ${report.imported} importerade, ${report.skipped} hoppades över, ${report.noMatch} utan träff, ${report.errors} fel, ${report.feedbackFiltered} tidigare nekade kandidater filtrerades bort.`);
 const errorRatio = report.totalSelected > 0 ? report.errors / report.totalSelected : 0;
 if (errorRatio > 0.25) {
   throw new Error(`Bildimporten avbröts eftersom ${Math.round(errorRatio * 100)} % av produkterna gav tekniska fel.`);
