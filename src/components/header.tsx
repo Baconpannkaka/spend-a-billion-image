@@ -5,7 +5,7 @@ import { LanguageSelect } from "@/components/language-select";
 import { MoneyDisplay } from "@/components/money-display";
 import { useGame } from "@/context/game-context";
 import { useLanguage } from "@/i18n/language-context";
-import { Menu, ShoppingBag, X } from "lucide-react";
+import { Menu, ShieldCheck, ShoppingBag, X } from "lucide-react";
 import Link from "next/link";
 import { useState } from "react";
 
@@ -29,6 +29,9 @@ export function Header() {
         </nav>
         <div className="flex min-w-0 items-center gap-2">
           {hasStarted && <div className="hidden min-w-0 text-right xl:block"><p className="text-[10px] uppercase tracking-[.14em] text-white/35">{t("header.remaining")}</p><p className="max-w-[30rem] truncate text-xs font-semibold text-white 2xl:text-sm"><MoneyDisplay valueSek={remaining} currency={currency} compactClassName="text-white/45 font-normal" /></p></div>}
+          <Link href="/bildgranskning" className="focus-ring hidden h-9 shrink-0 items-center gap-2 rounded-md border border-[var(--gold)]/35 px-3 text-xs font-semibold text-[var(--gold)] transition hover:bg-[var(--gold)]/10 sm:inline-flex" title="Admin – bildgranskning">
+            <ShieldCheck className="h-4 w-4" /><span className="hidden xl:inline">Admin</span>
+          </Link>
           <LanguageSelect />
           <CurrencySelect compact />
           <Link href="/varukorg" className="focus-ring relative inline-flex h-9 shrink-0 items-center gap-2 rounded-md border border-white/15 px-3 text-sm font-semibold text-white hover:bg-white/5">
@@ -38,7 +41,10 @@ export function Header() {
           <button type="button" aria-label={open ? t("header.closeMenu") : t("header.openMenu")} onClick={() => setOpen((value) => !value)} className="focus-ring inline-flex h-9 w-9 shrink-0 items-center justify-center rounded-md border border-white/15 text-white lg:hidden">{open ? <X className="h-4 w-4" /> : <Menu className="h-4 w-4" />}</button>
         </div>
       </div>
-      {open && <nav className="border-t border-white/10 bg-[#0d0d0b] px-4 py-3 lg:hidden" aria-label="Mobilmeny">{nav.map(([href, label]) => <Link key={href} href={href} onClick={() => setOpen(false)} className="block rounded-md px-3 py-3 text-sm font-semibold text-white/75 hover:bg-white/5 hover:text-white">{label}</Link>)}</nav>}
+      {open && <nav className="border-t border-white/10 bg-[#0d0d0b] px-4 py-3 lg:hidden" aria-label="Mobilmeny">
+        <Link href="/bildgranskning" onClick={() => setOpen(false)} className="flex items-center gap-2 rounded-md px-3 py-3 text-sm font-semibold text-[var(--gold)] hover:bg-white/5"><ShieldCheck className="h-4 w-4" />Admin</Link>
+        {nav.map(([href, label]) => <Link key={href} href={href} onClick={() => setOpen(false)} className="block rounded-md px-3 py-3 text-sm font-semibold text-white/75 hover:bg-white/5 hover:text-white">{label}</Link>)}
+      </nav>}
     </header>
   );
 }
