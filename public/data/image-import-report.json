@@ -1,7 +1,7 @@
 {
   "version": 3,
   "searchVersion": 2,
-  "startedAt": "2026-08-10T11:01:01.267Z",
+  "startedAt": "2026-08-10T11:34:59.349Z",
   "options": {
     "scope": "all",
     "limit": 50,
@@ -12,373 +12,381 @@
     "delayMs": 350
   },
   "selectionStats": {
-    "rejected": 7,
+    "rejected": 1,
     "upgrade-retry": 20,
     "error-retry": 0,
-    "fresh": 23,
-    "exhausted": 0,
-    "done": 52,
+    "fresh": 29,
+    "exhausted": 38,
+    "done": 63,
     "selected": 50
   },
   "learnedBadTerms": [
     "engine"
   ],
   "totalSelected": 50,
-  "imported": 12,
+  "imported": 14,
   "skipped": 0,
-  "noMatch": 38,
+  "noMatch": 36,
   "errors": 0,
-  "feedbackFiltered": 5,
-  "queryRequests": 271,
+  "feedbackFiltered": 1,
+  "queryRequests": 284,
   "results": [
-    {
-      "productId": "everyday-000002",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "medium",
-      "score": 73,
-      "commonsTitle": "File:IPhone 17 launch at Apple TRX Malaysia 18.jpg",
-      "matchedQuery": "\"iPhone 17 Pro Max\" Apple",
-      "queriesAttempted": 5
-    },
-    {
-      "productId": "everyday-000071",
-      "outcome": "no-match",
-      "queriesAttempted": 5,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000003",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "medium",
-      "score": 117,
-      "commonsTitle": "File:Space Black iPhone Air.jpg",
-      "matchedQuery": "\"iPhone Air\" Apple",
-      "queriesAttempted": 5
-    },
-    {
-      "productId": "everyday-000004",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 142,
-      "commonsTitle": "File:IPhone 17 launch at Apple TRX Malaysia 08.jpg",
-      "matchedQuery": "\"iPhone 17\" Apple",
-      "queriesAttempted": 2
-    },
-    {
-      "productId": "everyday-000008",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 142,
-      "commonsTitle": "File:Samsung Galaxy S25+.jpg",
-      "matchedQuery": "\"Samsung Galaxy S25+\"  product",
-      "queriesAttempted": 1
-    },
-    {
-      "productId": "everyday-000009",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 142,
-      "commonsTitle": "File:Samsung Galaxy S25+.jpg",
-      "matchedQuery": "\"Samsung Galaxy S25\"  product",
-      "queriesAttempted": 1
-    },
-    {
-      "productId": "everyday-000010",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "low",
-      "score": 56,
-      "commonsTitle": "File:Samsung Galaxy Z Fold 6 2024.jpg",
-      "matchedQuery": "\"Samsung Galaxy Z Fold6\"",
-      "queriesAttempted": 6
-    },
-    {
-      "productId": "lux-000028",
-      "outcome": "no-match",
-      "queriesAttempted": 5,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000033",
-      "outcome": "no-match",
-      "queriesAttempted": 5,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000043",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000057",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000079",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000091",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000097",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000098",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000100",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000110",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000005",
-      "outcome": "no-match",
-      "queriesAttempted": 5,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000023",
-      "outcome": "no-match",
-      "queriesAttempted": 5,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000046",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000086",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000096",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000137",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000160",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000166",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000173",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000179",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000012",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 142,
-      "commonsTitle": "File:Google Pixel 9 Pro XL (back).jpg",
-      "matchedQuery": "Google pixel pro",
-      "queriesAttempted": 7
-    },
-    {
-      "productId": "everyday-000024",
-      "outcome": "no-match",
-      "queriesAttempted": 5,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000047",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000072",
-      "outcome": "no-match",
-      "queriesAttempted": 5,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000087",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000097",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "medium",
-      "score": 73,
-      "commonsTitle": "File:Poäng armchairs at IKEA Beijing Siyuanqiao Store (20210418125708).jpg",
-      "matchedQuery": "IKEA poang armchair",
-      "queriesAttempted": 6
-    },
-    {
-      "productId": "everyday-000106",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000118",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000128",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 142,
-      "commonsTitle": "File:Nike Air Max 90 women - white.jpg",
-      "matchedQuery": "\"Nike Air Max 90\"  shoes footwear",
-      "queriesAttempted": 1
-    },
-    {
-      "productId": "everyday-000138",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000151",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000161",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000167",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "medium",
-      "score": 72,
-      "commonsTitle": "File:Specialized TURBO VADO 3.0.jpg",
-      "matchedQuery": "Specialized turbo vado 4.0",
-      "queriesAttempted": 6
-    },
-    {
-      "productId": "everyday-000174",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000180",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000188",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000193",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000013",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 142,
-      "commonsTitle": "File:Google Pixel 9 Pro XL (back).jpg",
-      "matchedQuery": "Google pixel pro",
-      "queriesAttempted": 6
-    },
-    {
-      "productId": "everyday-000025",
-      "outcome": "no-match",
-      "queriesAttempted": 5,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000048",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
     {
       "productId": "everyday-000073",
       "outcome": "imported",
       "status": "unreviewed",
       "confidence": "medium",
       "score": 90,
-      "commonsTitle": "File:J Allard E3 2005 Xbox (4).jpg",
+      "commonsTitle": "File:Xbox One Launch NASDAQ (1).jpg",
       "matchedQuery": "Microsoft xbox",
       "queriesAttempted": 5
     },
     {
-      "productId": "everyday-000088",
+      "productId": "lux-000040",
       "outcome": "no-match",
       "queriesAttempted": 6,
       "searchVersion": 2
     },
     {
-      "productId": "everyday-000098",
+      "productId": "lux-000044",
       "outcome": "no-match",
       "queriesAttempted": 6,
       "searchVersion": 2
+    },
+    {
+      "productId": "lux-000059",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000080",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000092",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000101",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000104",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000112",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "low",
+      "score": 42.3,
+      "commonsTitle": "File:Super Mario Bros Nintendo trasera.jpg",
+      "matchedQuery": "Nintendo super mario bros. nes",
+      "queriesAttempted": 5
+    },
+    {
+      "productId": "lux-000041",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000045",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000060",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000081",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000093",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000102",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000105",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000113",
+      "outcome": "no-match",
+      "queriesAttempted": 7,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000046",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000061",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000082",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000094",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000014",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "medium",
+      "score": 112,
+      "commonsTitle": "File:Google Pixel Tablet, shown in Shibuya Stream.jpg",
+      "matchedQuery": "Google pixel",
+      "queriesAttempted": 6
+    },
+    {
+      "productId": "everyday-000026",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "low",
+      "score": 46.4,
+      "commonsTitle": "File:MacBook Pro (16-inch, M4 Pro, Silver).jpg",
+      "matchedQuery": "Apple macbook pro 16-inch m4",
+      "queriesAttempted": 5
+    },
+    {
+      "productId": "everyday-000049",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000074",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "low",
+      "score": 51,
+      "commonsTitle": "File:J Allard E3 2005 Xbox (4).jpg",
+      "matchedQuery": "Microsoft xbox",
+      "queriesAttempted": 6
+    },
+    {
+      "productId": "everyday-000089",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000099",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000107",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000119",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000129",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 142,
+      "commonsTitle": "File:Adidas Samba OG.jpg",
+      "matchedQuery": "\"Adidas Samba OG\"  shoes footwear",
+      "queriesAttempted": 1
+    },
+    {
+      "productId": "everyday-000139",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000152",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000162",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000168",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "low",
+      "score": 28,
+      "commonsTitle": "File:CANYON-endurace-wmn-cf-sl-disc-8-0-di2 2135 tq P5.jpg",
+      "matchedQuery": "Canyon endurace cf",
+      "queriesAttempted": 6
+    },
+    {
+      "productId": "everyday-000175",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000181",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "low",
+      "score": 51.2,
+      "commonsTitle": "File:Millennium Falcon in LEGO.jpg",
+      "matchedQuery": "LEGO Star Wars Millennium Falcon 75192  product",
+      "queriesAttempted": 6
+    },
+    {
+      "productId": "everyday-000189",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000194",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "low",
+      "score": 59,
+      "commonsTitle": "File:Canucks-game5-2012-rogers-arena-20120422-6 (6976868688) (Pepsi Max).jpg",
+      "matchedQuery": "Pepsi max 1.5",
+      "queriesAttempted": 6
+    },
+    {
+      "productId": "everyday-000015",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 139,
+      "commonsTitle": "File:OnePlus 13 back.jpg",
+      "matchedQuery": "OnePlus 13",
+      "queriesAttempted": 6
+    },
+    {
+      "productId": "everyday-000027",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "medium",
+      "score": 92,
+      "commonsTitle": "File:Mac mini (M4, 2024) - Backside.jpg",
+      "matchedQuery": "Apple mac mini m4",
+      "queriesAttempted": 5
+    },
+    {
+      "productId": "everyday-000050",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000075",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 142,
+      "commonsTitle": "File:Nintendo Switch 2 in Docking Console.jpg",
+      "matchedQuery": "\"Nintendo Switch 2\"",
+      "queriesAttempted": 2
+    },
+    {
+      "productId": "everyday-000090",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000100",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000108",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000120",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000130",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "medium",
+      "score": 110,
+      "commonsTitle": "File:Blackpink Adidas 70th anniversary Ultraboost 2.png",
+      "matchedQuery": "Adidas ultraboost",
+      "queriesAttempted": 6
+    },
+    {
+      "productId": "everyday-000140",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000153",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000163",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 139,
+      "commonsTitle": "File:06.20 總統出席「內政部消防署30周年署慶暨第2期工程落成啟用典禮」 - 54601651674 (rotated cropped - Garmin inReach Mini 2).jpg",
+      "matchedQuery": "\"Garmin inReach Mini 2\"",
+      "queriesAttempted": 2
     }
   ],
-  "finishedAt": "2026-08-10T11:05:09.872Z"
+  "finishedAt": "2026-08-10T11:39:30.904Z"
 }
