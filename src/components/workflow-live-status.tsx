@@ -98,7 +98,7 @@ async function getJson<T>(url: string, token: string): Promise<T> {
 }
 
 function translatedStep(name = "") {
-  return STEP_LABELS[name] ?? name || "Arbetar i GitHub";
+  return STEP_LABELS[name] ?? (name || "Arbetar i GitHub");
 }
 
 async function readWorkflowState(kind: WorkflowKind, token: string): Promise<WorkflowState> {
