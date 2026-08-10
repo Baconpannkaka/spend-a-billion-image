@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-07-03T09:27:32.869Z",
+  "generatedAt": "2026-08-10T09:12:04.737Z",
   "items": [
     {
       "productId": "everyday-000001",
@@ -594,7 +594,7 @@
       "brand": "Koenigsegg",
       "categoryLabel": "Fordon",
       "query": "\"Koenigsegg Jesko Absolut\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "medium",
       "score": 84.7,
       "importedAt": "2026-07-03T09:25:31.318Z",
@@ -643,7 +643,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000004",
@@ -652,7 +653,7 @@
       "brand": "Koenigsegg",
       "categoryLabel": "Fordon",
       "query": "\"Koenigsegg Gemera\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:25:33.281Z",
@@ -701,7 +702,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000005",
@@ -710,7 +712,7 @@
       "brand": "Pagani",
       "categoryLabel": "Fordon",
       "query": "\"Pagani Utopia\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:25:37.449Z",
@@ -759,7 +761,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000006",
@@ -826,7 +829,7 @@
       "brand": "Mercedes-AMG",
       "categoryLabel": "Fordon",
       "query": "\"Mercedes-AMG ONE\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 134,
       "importedAt": "2026-07-03T09:25:41.768Z",
@@ -875,7 +878,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000008",
@@ -884,7 +888,7 @@
       "brand": "Ferrari",
       "categoryLabel": "Fordon",
       "query": "\"Ferrari Daytona SP3\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:25:43.800Z",
@@ -933,7 +937,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000009",
@@ -942,7 +947,7 @@
       "brand": "Ferrari",
       "categoryLabel": "Fordon",
       "query": "\"Ferrari SF90 XX Stradale\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 91,
       "importedAt": "2026-07-03T09:25:46.308Z",
@@ -991,7 +996,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000010",
@@ -1058,7 +1064,7 @@
       "brand": "McLaren",
       "categoryLabel": "Fordon",
       "query": "\"McLaren Solus GT\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:25:51.748Z",
@@ -1107,7 +1113,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000012",
@@ -1116,7 +1123,7 @@
       "brand": "McLaren",
       "categoryLabel": "Fordon",
       "query": "\"McLaren W1\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:25:53.281Z",
@@ -1134,7 +1141,8 @@
       "alternatives": [],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000013",
@@ -1143,7 +1151,7 @@
       "brand": "Lamborghini",
       "categoryLabel": "Fordon",
       "query": "\"Lamborghini Revuelto\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:25:55.457Z",
@@ -1192,7 +1200,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000014",
@@ -1201,7 +1210,7 @@
       "brand": "Lamborghini",
       "categoryLabel": "Fordon",
       "query": "\"Lamborghini Temerario\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:25:57.456Z",
@@ -1240,7 +1249,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000015",
@@ -1249,7 +1259,7 @@
       "brand": "Rolls-Royce",
       "categoryLabel": "Fordon",
       "query": "\"Rolls-Royce Phantom Extended\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:26:01.549Z",
@@ -1298,7 +1308,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000016",
@@ -1307,7 +1318,7 @@
       "brand": "Rolls-Royce",
       "categoryLabel": "Fordon",
       "query": "\"Rolls-Royce Spectre\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:26:03.428Z",
@@ -1356,7 +1367,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000017",
@@ -1365,7 +1377,7 @@
       "brand": "Rolls-Royce",
       "categoryLabel": "Fordon",
       "query": "\"Rolls-Royce Cullinan Black Badge\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 108,
       "importedAt": "2026-07-03T09:26:07.361Z",
@@ -1414,7 +1426,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000018",
@@ -1423,7 +1436,7 @@
       "brand": "Bentley",
       "categoryLabel": "Fordon",
       "query": "\"Bentley Batur\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "medium",
       "score": 72,
       "importedAt": "2026-07-03T09:26:09.353Z",
@@ -1472,7 +1485,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000019",
@@ -1481,7 +1495,7 @@
       "brand": "Aston Martin",
       "categoryLabel": "Fordon",
       "query": "\"Aston Martin Valkyrie\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:26:11.652Z",
@@ -1530,7 +1544,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000020",
@@ -1539,7 +1554,7 @@
       "brand": "Aston Martin",
       "categoryLabel": "Fordon",
       "query": "\"Aston Martin Valour\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:26:13.236Z",
@@ -1588,7 +1603,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000021",
@@ -1597,7 +1613,7 @@
       "brand": "Porsche",
       "categoryLabel": "Fordon",
       "query": "\"Porsche 911 S/T\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 110,
       "importedAt": "2026-07-03T09:26:16.915Z",
@@ -1646,7 +1662,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000022",
@@ -1655,7 +1672,7 @@
       "brand": "Porsche",
       "categoryLabel": "Fordon",
       "query": "\"Porsche 918 Spyder\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:26:20.408Z",
@@ -1704,7 +1721,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000023",
@@ -1713,7 +1731,7 @@
       "brand": "Rimac",
       "categoryLabel": "Fordon",
       "query": "\"Rimac Nevera R\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:26:22.626Z",
@@ -1762,7 +1780,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000024",
@@ -1771,7 +1790,7 @@
       "brand": "Lotus",
       "categoryLabel": "Fordon",
       "query": "\"Lotus Evija\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:26:26.064Z",
@@ -1820,7 +1839,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000025",
@@ -1829,7 +1849,7 @@
       "brand": "Gordon Murray Automotive",
       "categoryLabel": "Fordon",
       "query": "\"Gordon Murray Automotive T.50\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:26:29.226Z",
@@ -1878,7 +1898,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000026",
@@ -1887,7 +1908,7 @@
       "brand": "Ducati",
       "categoryLabel": "Fordon",
       "query": "\"Ducati Superleggera V4\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:26:31.481Z",
@@ -1916,7 +1937,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000027",
@@ -1925,7 +1947,7 @@
       "brand": "MV Agusta",
       "categoryLabel": "Fordon",
       "query": "\"MV Agusta Rush 1000\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:26:34.058Z",
@@ -1954,7 +1976,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000028",
@@ -2231,7 +2254,7 @@
       "brand": "Dassault Aviation",
       "categoryLabel": "Privatflyg",
       "query": "\"Dassault Falcon 8X\" Dassault Aviation aircraft jet helicopter",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:26:49.206Z",
@@ -2280,7 +2303,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000035",
@@ -2289,7 +2313,7 @@
       "brand": "Embraer",
       "categoryLabel": "Privatflyg",
       "query": "\"Embraer Praetor 600\"  aircraft jet helicopter",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:26:51.770Z",
@@ -2338,7 +2362,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000036",
@@ -2347,7 +2372,7 @@
       "brand": "Cessna",
       "categoryLabel": "Privatflyg",
       "query": "\"Cessna Citation Longitude\"  aircraft jet helicopter",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:26:54.765Z",
@@ -2396,7 +2421,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000037",
@@ -2405,7 +2431,7 @@
       "brand": "Cessna",
       "categoryLabel": "Privatflyg",
       "query": "\"Cessna Citation Latitude\"  aircraft jet helicopter",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:26:59.751Z",
@@ -2454,7 +2480,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000038",
@@ -2463,7 +2490,7 @@
       "brand": "Pilatus",
       "categoryLabel": "Privatflyg",
       "query": "\"Pilatus PC-24\"  aircraft jet helicopter",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:27:01.850Z",
@@ -2512,7 +2539,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000039",
@@ -2521,7 +2549,7 @@
       "brand": "Pilatus",
       "categoryLabel": "Privatflyg",
       "query": "\"Pilatus PC-12 NGX\"  aircraft jet helicopter",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:27:04.398Z",
@@ -2570,7 +2598,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000040",
@@ -2613,7 +2642,7 @@
       "brand": "Leonardo",
       "categoryLabel": "Privatflyg",
       "query": "\"Leonardo AW169\"  aircraft jet helicopter",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:27:13.163Z",
@@ -2662,7 +2691,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000043",

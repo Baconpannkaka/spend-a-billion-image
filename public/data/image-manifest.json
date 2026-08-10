@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-07-03T09:27:32.869Z",
+  "generatedAt": "2026-08-10T09:12:04.737Z",
   "images": [
     {
       "productId": "everyday-000001",
@@ -162,7 +162,7 @@
       "creator": "Alexander-93",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1512,
       "height": 1200,
       "importedAt": "2026-07-03T09:25:31.318Z",
@@ -170,7 +170,8 @@
       "confidence": "medium",
       "score": 84.7,
       "sha1": "fb430119283678e7061c8ad8580ac9918e547858",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000004",
@@ -180,7 +181,7 @@
       "creator": "Matti Blume",
       "license": "CC BY-SA",
       "licenseUrl": "//commons.wikimedia.org/wiki/File:Koenigsegg_Gemera,_Auto_2024,_Zurich_(PANA0947).jpg",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-07-03T09:25:33.281Z",
@@ -188,7 +189,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "3c6d8d69b43d328bb167b2bac17797e4ab8d902e",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000005",
@@ -198,7 +200,7 @@
       "creator": "Alexander-93",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1506,
       "height": 1200,
       "importedAt": "2026-07-03T09:25:37.449Z",
@@ -206,7 +208,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "a4dbd0d779c81f1422698f7859c0e3bfc66c1100",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000006",
@@ -234,7 +237,7 @@
       "creator": "Thomas Vogt from Paderborn, Deutschland",
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-07-03T09:25:41.768Z",
@@ -242,7 +245,8 @@
       "confidence": "high",
       "score": 134,
       "sha1": "c59a78fc04ea9431a39c28c5f38b57159851f7c4",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000008",
@@ -252,7 +256,7 @@
       "creator": "Aos.1905",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1003,
       "importedAt": "2026-07-03T09:25:43.800Z",
@@ -260,7 +264,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "540fc4f0d1939f25a410b62904aeef50a1d57d23",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000009",
@@ -270,7 +275,7 @@
       "creator": "This picture has been taken by Oleg Yunakov . Contact e-mail: yunakov gmail.com . Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here .",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-07-03T09:25:46.308Z",
@@ -278,7 +283,8 @@
       "confidence": "high",
       "score": 91,
       "sha1": "0608aa9dcab6c6d59fc9b5d229bf65501006ed45",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000010",
@@ -306,7 +312,7 @@
       "creator": "Calreyn88",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1576,
       "height": 1200,
       "importedAt": "2026-07-03T09:25:51.748Z",
@@ -314,7 +320,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "49ede2e44ddcd826d9921a2a69a2c65bc8a31b49",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000012",
@@ -324,7 +331,7 @@
       "creator": "Mustang Joe",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1068,
       "importedAt": "2026-07-03T09:25:53.281Z",
@@ -332,7 +339,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "3b498db20301f9e0172ae9ac0976b1408525df9c",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000013",
@@ -342,7 +350,7 @@
       "creator": "Alexander-93",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1520,
       "height": 1200,
       "importedAt": "2026-07-03T09:25:55.457Z",
@@ -350,7 +358,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "169491cf904764c28dfb8319039766907a45ba22",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000014",
@@ -360,7 +369,7 @@
       "creator": "Oleg Yunakov",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-07-03T09:25:57.456Z",
@@ -368,7 +377,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "edc61522ede431595b5aca057add5fecd5571547",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000015",
@@ -378,7 +388,7 @@
       "creator": "Damian B Oh",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-07-03T09:26:01.549Z",
@@ -386,7 +396,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "bec940acee562b6db6c4ba2ea8ff4a3dff24487b",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000016",
@@ -396,7 +407,7 @@
       "creator": "Harvey Bold",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1167,
       "importedAt": "2026-07-03T09:26:03.428Z",
@@ -404,7 +415,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "77f872a39cd676aa81ec7ba004b45f92e7ca0537",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000017",
@@ -414,7 +426,7 @@
       "creator": "Calreyn88",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1083,
       "importedAt": "2026-07-03T09:26:07.361Z",
@@ -422,7 +434,8 @@
       "confidence": "high",
       "score": 108,
       "sha1": "d25d2194ad4a4e1603b5262d0db1cbda5f2dad4f",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000018",
@@ -432,7 +445,7 @@
       "creator": "Calreyn88",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1072,
       "importedAt": "2026-07-03T09:26:09.353Z",
@@ -440,7 +453,8 @@
       "confidence": "medium",
       "score": 72,
       "sha1": "01008a4b50b9aa699a4962087c85d74e315f8618",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000019",
@@ -450,7 +464,7 @@
       "creator": "Aos.1905",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1566,
       "height": 1200,
       "importedAt": "2026-07-03T09:26:11.652Z",
@@ -458,7 +472,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "b1dcfd5303158f3ce2fda63abd09e27ed624b30b",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000020",
@@ -468,7 +483,7 @@
       "creator": "Mr.choppers",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1148,
       "importedAt": "2026-07-03T09:26:13.236Z",
@@ -476,7 +491,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "32d322f9a408e95c9e7d75a5a1f75d82ae27d5b9",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000021",
@@ -486,7 +502,7 @@
       "creator": "Matti Blume",
       "license": "CC BY-SA",
       "licenseUrl": "//commons.wikimedia.org/wiki/File:Porsche_911_ST,_Auto_2025,_Zurich_(20251029-P1074413).jpg",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-07-03T09:26:16.915Z",
@@ -494,7 +510,8 @@
       "confidence": "high",
       "score": 110,
       "sha1": "4a5c923c4cb6a8b83a0c9fb0486e3a78e30bbbd3",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000022",
@@ -504,7 +521,7 @@
       "creator": "Ben from LONDON, United Kingdom",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1067,
       "importedAt": "2026-07-03T09:26:20.408Z",
@@ -512,7 +529,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "1d7818c32d11f9271081241f342b29235a7b97cd",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000023",
@@ -522,7 +540,7 @@
       "creator": "Matti Blume",
       "license": "CC BY-SA",
       "licenseUrl": "//commons.wikimedia.org/wiki/File:Rimac_Nevera_R,_Auto_2024,_Zurich_(PANA0631).jpg",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-07-03T09:26:22.626Z",
@@ -530,7 +548,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "93bf5dfb32d8804b6890ba59de2962a997cf3143",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000024",
@@ -540,7 +559,7 @@
       "creator": "JustAnotherCarDesigner",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-07-03T09:26:26.064Z",
@@ -548,7 +567,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "08f239884962c95d92257d829958b5ed4a5df457",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000025",
@@ -558,7 +578,7 @@
       "creator": "MrWalkr",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 913,
       "importedAt": "2026-07-03T09:26:29.226Z",
@@ -566,7 +586,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "1338ecde62cb4a24d8589ea908d8ad7b14fe10f4",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000026",
@@ -576,7 +597,7 @@
       "creator": "Cjp24",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1078,
       "importedAt": "2026-07-03T09:26:31.481Z",
@@ -584,7 +605,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "aeb5c949486349290ee9640a6d761553a0cce9c3",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000027",
@@ -594,7 +616,7 @@
       "creator": "Saggittarius A",
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1183,
       "importedAt": "2026-07-03T09:26:34.058Z",
@@ -602,7 +624,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "62cf343c499cf2c26d8b16f92c7db72537354358",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000029",
@@ -686,7 +709,7 @@
       "creator": "Anna Zvereva from Tallinn, Estonia",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1200,
       "height": 800,
       "importedAt": "2026-07-03T09:26:49.206Z",
@@ -694,7 +717,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "73bdc1f8c93c25a6991ec2a6a08eb28db199df02",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000035",
@@ -704,7 +728,7 @@
       "creator": "Matti Blume",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1068,
       "importedAt": "2026-07-03T09:26:51.770Z",
@@ -712,7 +736,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "7aa123157fdae0d3a15a9c6b9b3df46d2f76118b",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000036",
@@ -722,7 +747,7 @@
       "creator": "Sewageboy",
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1200,
       "height": 800,
       "importedAt": "2026-07-03T09:26:54.765Z",
@@ -730,7 +755,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "f651e41b75e882a9f22fbe4cdfd3de45519dcdb8",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000037",
@@ -740,7 +766,7 @@
       "creator": "Ad Meskens You are free to use this picture for any purpose as long as you credit its author, Ad Meskens . Example: © Ad Meskens / Wikimedia Commons If you use this work outside of the Wikimedia projects, a message or a copy is very much appreciated. This image is not in the public domain. A statement such as \"From Wikimedia Commons\" or similar is not by itself sufficient. If you do not provide clear attribution to the author you do not comply with the terms of the file's license and you may not use this file. If you are unable or unwilling to provide attribution you should contact Ad Meskens to negotiate a different license.",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1139,
       "importedAt": "2026-07-03T09:26:59.751Z",
@@ -748,7 +774,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "2c350c214789d1f241de4a443b42d9fd64bef743",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000038",
@@ -758,7 +785,7 @@
       "creator": "Hugo LUC",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1067,
       "importedAt": "2026-07-03T09:27:01.850Z",
@@ -766,7 +793,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "e2a86b1950ee66a718ff90aa28fb322d5d16b88a",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000039",
@@ -776,7 +804,7 @@
       "creator": "Ad Meskens You are free to use this picture for any purpose as long as you credit its author, Ad Meskens . Example: © Ad Meskens / Wikimedia Commons If you use this work outside of the Wikimedia projects, a message or a copy is very much appreciated. This image is not in the public domain. A statement such as \"From Wikimedia Commons\" or similar is not by itself sufficient. If you do not provide clear attribution to the author you do not comply with the terms of the file's license and you may not use this file. If you are unable or unwilling to provide attribution you should contact Ad Meskens to negotiate a different license.",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1188,
       "importedAt": "2026-07-03T09:27:04.398Z",
@@ -784,7 +812,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "ac99d355b419aee34e99ffbd4649ea994ed996a6",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000042",
@@ -794,7 +823,7 @@
       "creator": "James",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-07-03T09:27:13.163Z",
@@ -802,7 +831,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "bad88bd5476205fed624feaeec296e554924f583",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:12:04.737Z"
     },
     {
       "productId": "lux-000058",

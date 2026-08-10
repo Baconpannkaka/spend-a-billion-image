@@ -1,5 +1,456 @@
 {
   "version": 1,
-  "updatedAt": "",
-  "products": {}
+  "updatedAt": "2026-08-10T09:12:04.737Z",
+  "products": {
+    "lux-000003": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koenigsegg_Jesko_Auto_Zuerich_2023_1X7A1382.jpg",
+          "commonsTitle": "File:Koenigsegg Jesko Auto Zuerich 2023 1X7A1382.jpg",
+          "score": 84.7,
+          "confidence": "medium",
+          "query": "\"Koenigsegg Jesko Absolut\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000004": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koenigsegg_Gemera,_Auto_2024,_Zurich_(PANA0947).jpg",
+          "commonsTitle": "File:Koenigsegg Gemera, Auto 2024, Zurich (PANA0947).jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Koenigsegg Gemera\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000005": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pagani_Utopia_Auto_Zuerich_2023_1X7A1452.jpg",
+          "commonsTitle": "File:Pagani Utopia Auto Zuerich 2023 1X7A1452.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Pagani Utopia\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000007": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_ONE_(53275053513).jpg",
+          "commonsTitle": "File:Mercedes-AMG ONE (53275053513).jpg",
+          "score": 134,
+          "confidence": "high",
+          "query": "\"Mercedes-AMG ONE\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000009": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2025_Ferrari_SF90_Stradale_-_01.jpg",
+          "commonsTitle": "File:2025 Ferrari SF90 Stradale - 01.jpg",
+          "score": 91,
+          "confidence": "high",
+          "query": "\"Ferrari SF90 XX Stradale\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000008": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_Daytona_SP3_(rear_view)_at_Osaka_Auto_Messe_2026.jpg",
+          "commonsTitle": "File:Ferrari Daytona SP3 (rear view) at Osaka Auto Messe 2026.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Ferrari Daytona SP3\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000011": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023_McLaren_Solus_GT_1.jpg",
+          "commonsTitle": "File:2023 McLaren Solus GT 1.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"McLaren Solus GT\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000012": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:McLaren_W1_(55129817900).jpg",
+          "commonsTitle": "File:McLaren W1 (55129817900).jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"McLaren W1\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000013": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lamborghini_Revuelto_Auto_Zuerich_2023_1X7A1367.jpg",
+          "commonsTitle": "File:Lamborghini Revuelto Auto Zuerich 2023 1X7A1367.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Lamborghini Revuelto\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000014": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2026_Lamborghini_Temerario_-_02.jpg",
+          "commonsTitle": "File:2026 Lamborghini Temerario - 02.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Lamborghini Temerario\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000015": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_Extended_VIII_Dark_Emerald_(3).jpg",
+          "commonsTitle": "File:Rolls-Royce Phantom Extended VIII Dark Emerald (3).jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Rolls-Royce Phantom Extended\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000016": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023_Rolls-Royce_Spectre_EV_-_102kWh_(585PS)_Electric_-_Wittering_Blue_-_06-2024,_Front.jpg",
+          "commonsTitle": "File:2023 Rolls-Royce Spectre EV - 102kWh (585PS) Electric - Wittering Blue - 06-2024, Front.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Rolls-Royce Spectre\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000017": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2022_Rolls-Royce_Cullinan_Black_Badge_V12_Auto.jpg",
+          "commonsTitle": "File:2022 Rolls-Royce Cullinan Black Badge V12 Auto.jpg",
+          "score": 108,
+          "confidence": "high",
+          "query": "\"Rolls-Royce Cullinan Black Badge\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000018": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2017_Bentley_Continental_GT_SuperSports_Auto_1.jpg",
+          "commonsTitle": "File:2017 Bentley Continental GT SuperSports Auto 1.jpg",
+          "score": 72,
+          "confidence": "medium",
+          "query": "\"Bentley Batur\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000019": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aston_Martin_Valkyrie_AMR_Pro_(front_three-quarter_view1)_at_Osaka_Auto_Messe_2026.jpg",
+          "commonsTitle": "File:Aston Martin Valkyrie AMR Pro (front three-quarter view1) at Osaka Auto Messe 2026.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Aston Martin Valkyrie\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000020": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2024_Aston_Martin_Valour_in_Andromeda_Red,_front_(Miller).jpg",
+          "commonsTitle": "File:2024 Aston Martin Valour in Andromeda Red, front (Miller).jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Aston Martin Valour\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000021": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porsche_911_ST,_Auto_2025,_Zurich_(20251029-P1074413).jpg",
+          "commonsTitle": "File:Porsche 911 ST, Auto 2025, Zurich (20251029-P1074413).jpg",
+          "score": 110,
+          "confidence": "high",
+          "query": "\"Porsche 911 S/T\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000022": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Concept_cars,_Festival_automobile_international_2014_-_Porsche_918_spyder_1.jpg",
+          "commonsTitle": "File:Concept cars, Festival automobile international 2014 - Porsche 918 spyder 1.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Porsche 918 Spyder\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000024": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lotus_Evija_001.jpg",
+          "commonsTitle": "File:Lotus Evija 001.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Lotus Evija\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000023": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rimac_Nevera_R,_Auto_2024,_Zurich_(PANA0631).jpg",
+          "commonsTitle": "File:Rimac Nevera R, Auto 2024, Zurich (PANA0631).jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Rimac Nevera R\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000025": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023_Gordon_Murray_Automotive_T.50_Pre_Series_Prototype_2_HCC24.jpg",
+          "commonsTitle": "File:2023 Gordon Murray Automotive T.50 Pre Series Prototype 2 HCC24.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Gordon Murray Automotive T.50\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000026": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ducati_Superleggera_V4_-_container.jpg",
+          "commonsTitle": "File:Ducati Superleggera V4 - container.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Ducati Superleggera V4\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000027": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:MV_Agusta_Rush_1000_-_EICMA_2024.jpg",
+          "commonsTitle": "File:MV Agusta Rush 1000 - EICMA 2024.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"MV Agusta Rush 1000\"  car automobile",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000034": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dassault_Aviation,_F-HFSD,_Dassault_Falcon_8X_(35549114781).jpg",
+          "commonsTitle": "File:Dassault Aviation, F-HFSD, Dassault Falcon 8X (35549114781).jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Dassault Falcon 8X\" Dassault Aviation aircraft jet helicopter",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000035": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Embraer_Praetor_600,_Paris_Air_Show_2019,_Le_Bourget_(SIAE0698).jpg",
+          "commonsTitle": "File:Embraer Praetor 600, Paris Air Show 2019, Le Bourget (SIAE0698).jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Embraer Praetor 600\"  aircraft jet helicopter",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000036": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cessna_Citation_Longitude_N807QS.jpg",
+          "commonsTitle": "File:Cessna Citation Longitude N807QS.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Cessna Citation Longitude\"  aircraft jet helicopter",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000037": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antwerp_NetJets_Europe_Cessna_Citation_Latitude_CS-LAS.jpg",
+          "commonsTitle": "File:Antwerp NetJets Europe Cessna Citation Latitude CS-LAS.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Cessna Citation Latitude\"  aircraft jet helicopter",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000038": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:EC-NRA_Pilatus_PC-24_during_landing_at_LFBT_airport.jpg",
+          "commonsTitle": "File:EC-NRA Pilatus PC-24 during landing at LFBT airport.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Pilatus PC-24\"  aircraft jet helicopter",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000039": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antwerp_Air_Bohemia_Pilatus_PC-12_NGX_OK-PTT.jpg",
+          "commonsTitle": "File:Antwerp Air Bohemia Pilatus PC-12 NGX OK-PTT.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Pilatus PC-12 NGX\"  aircraft jet helicopter",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000042": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:G-MGPS_Leonardo_AW169_Helicopter.jpg",
+          "commonsTitle": "File:G-MGPS Leonardo AW169 Helicopter.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Leonardo AW169\"  aircraft jet helicopter",
+          "reviewedAt": "2026-08-10T09:12:04.737Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:12:04.737Z"
+    }
+  }
 }
