@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-08-10T09:52:54.167Z",
+  "generatedAt": "2026-08-10T09:54:17.506Z",
   "items": [
     {
       "productId": "everyday-000001",
@@ -262,7 +262,7 @@
       "brand": "Apple",
       "categoryLabel": "Mobiltelefoner",
       "query": "\"iPhone 16 Plus\" Apple product",
-      "status": "pending",
+      "status": "approved",
       "confidence": "medium",
       "score": 62.7,
       "importedAt": "2026-08-10T09:49:29.012Z",
@@ -291,7 +291,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:54:17.506Z"
     },
     {
       "productId": "everyday-000007",
@@ -300,7 +301,7 @@
       "brand": "Samsung",
       "categoryLabel": "Mobiltelefoner",
       "query": "\"Samsung Galaxy S25 Ultra\"  product",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-08-10T09:49:31.228Z",
@@ -349,7 +350,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:54:17.506Z"
     },
     {
       "productId": "everyday-000008",
@@ -515,7 +517,7 @@
       "brand": "Samsung",
       "categoryLabel": "Mobiltelefoner",
       "query": "\"Samsung Galaxy Z Flip6\"  product",
-      "status": "pending",
+      "status": "approved",
       "confidence": "medium",
       "score": 87.7,
       "importedAt": "2026-08-10T09:49:40.460Z",
@@ -554,7 +556,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:54:17.506Z"
     },
     {
       "productId": "everyday-000023",
@@ -1502,7 +1505,7 @@
       "brand": "Ferrari",
       "categoryLabel": "Fordon",
       "query": "\"Ferrari 12Cilindri\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-08-10T09:45:47.998Z",
@@ -1551,7 +1554,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:54:17.506Z"
     },
     {
       "productId": "lux-000011",
@@ -4162,7 +4166,7 @@
       "brand": "Steinway & Sons",
       "categoryLabel": "Musik & underhållning",
       "query": "\"Steinway & Sons D-274\"  product",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 110,
       "importedAt": "2026-08-10T09:47:52.508Z",
@@ -4211,7 +4215,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:54:17.506Z"
     },
     {
       "productId": "lux-000100",
@@ -4271,7 +4276,7 @@
       "brand": "Herman Miller",
       "categoryLabel": "Hem & design",
       "query": "\"Herman Miller Eames Lounge Chair and Ottoman\"  product",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 103,
       "importedAt": "2026-08-10T09:48:05.420Z",
@@ -4289,7 +4294,8 @@
       "alternatives": [],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:54:17.506Z"
     },
     {
       "productId": "lux-000104",
@@ -4425,7 +4431,7 @@
       "brand": "Apple",
       "categoryLabel": "Samlarobjekt",
       "query": "\"Apple-1 Computer\"  collectible",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 110,
       "importedAt": "2026-08-10T09:48:19.812Z",
@@ -4474,7 +4480,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:54:17.506Z"
     },
     {
       "productId": "lux-000110",
@@ -4500,7 +4507,7 @@
       "brand": "DC Comics",
       "categoryLabel": "Samlarobjekt",
       "query": "\"Action Comics #1 CGC 8.5\" DC Comics collectible",
-      "status": "pending",
+      "status": "approved",
       "confidence": "medium",
       "score": 76,
       "importedAt": "2026-08-10T09:48:26.312Z",
@@ -4518,7 +4525,8 @@
       "alternatives": [],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:54:17.506Z"
     },
     {
       "productId": "lux-000112",

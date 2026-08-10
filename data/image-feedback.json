@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T09:52:54.167Z",
+  "updatedAt": "2026-08-10T09:54:17.506Z",
   "products": {
     "lux-000003": {
       "approved": [
@@ -477,7 +477,16 @@
       "updatedAt": "2026-08-10T09:41:59.076Z"
     },
     "lux-000010": {
-      "approved": [],
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_12Cilindri_Spider_Auto_Zuerich_2024_DSC_6396.jpg",
+          "commonsTitle": "File:Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6396.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Ferrari 12Cilindri\"  car automobile",
+          "reviewedAt": "2026-08-10T09:54:17.506Z"
+        }
+      ],
       "rejected": [
         {
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_12Cilindri_Spider_Auto_Zuerich_2024_DSC_6817.jpg",
@@ -496,8 +505,8 @@
           "reviewedAt": "2026-08-10T09:44:05.124Z"
         }
       ],
-      "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T09:44:05.124Z"
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:54:17.506Z"
     },
     "lux-000031": {
       "approved": [
@@ -651,6 +660,111 @@
       ],
       "lastDecision": "rejected",
       "updatedAt": "2026-08-10T09:52:54.167Z"
+    },
+    "everyday-000006": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:IPhone_16_packaging_(2025-12-01).jpg",
+          "commonsTitle": "File:IPhone 16 packaging (2025-12-01).jpg",
+          "score": 62.7,
+          "confidence": "medium",
+          "query": "\"iPhone 16 Plus\" Apple product",
+          "reviewedAt": "2026-08-10T09:54:17.506Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:54:17.506Z"
+    },
+    "everyday-000007": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_S25_Ultra.jpg",
+          "commonsTitle": "File:Samsung Galaxy S25 Ultra.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Samsung Galaxy S25 Ultra\"  product",
+          "reviewedAt": "2026-08-10T09:54:17.506Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:54:17.506Z"
+    },
+    "everyday-000011": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_Z_Flip_6.jpg",
+          "commonsTitle": "File:Samsung Galaxy Z Flip 6.jpg",
+          "score": 87.7,
+          "confidence": "medium",
+          "query": "\"Samsung Galaxy Z Flip6\"  product",
+          "reviewedAt": "2026-08-10T09:54:17.506Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:54:17.506Z"
+    },
+    "lux-000103": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exploded_Eames_Lounge_Chair_and_Ottoman_(2006)_Sculpture_designed_by_Vincent_Faust._Components_made_by_Herman_Miller._Chair_designed_by_Ray_%26_Charles_Eames_(ID2008.7.1)_-_Fully_Furnished_-_Historic_Furniture_Exhibit_-_Henry_Ford_Museum.jpg",
+          "commonsTitle": "File:Exploded Eames Lounge Chair and Ottoman (2006) Sculpture designed by Vincent Faust. Components made by Herman Miller. Chair designed by Ray & Charles Eames (ID2008.7.1) - Fully Furnished - Historic Furniture Exhibit - Henry Ford Museum.jpg",
+          "score": 103,
+          "confidence": "high",
+          "query": "\"Herman Miller Eames Lounge Chair and Ottoman\"  product",
+          "reviewedAt": "2026-08-10T09:54:17.506Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:54:17.506Z"
+    },
+    "lux-000099": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steinway_%26_Sons_concert_grand_piano,_model_D-274,_manufactured_at_Steinway%27s_factory_in_Hamburg,_Germany_cropped.jpg",
+          "commonsTitle": "File:Steinway & Sons concert grand piano, model D-274, manufactured at Steinway's factory in Hamburg, Germany cropped.jpg",
+          "score": 110,
+          "confidence": "high",
+          "query": "\"Steinway & Sons D-274\"  product",
+          "reviewedAt": "2026-08-10T09:54:17.506Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:54:17.506Z"
+    },
+    "lux-000109": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apple-1,_1976,_Computer_History_Museum.jpg",
+          "commonsTitle": "File:Apple-1, 1976, Computer History Museum.jpg",
+          "score": 110,
+          "confidence": "high",
+          "query": "\"Apple-1 Computer\"  collectible",
+          "reviewedAt": "2026-08-10T09:54:17.506Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:54:17.506Z"
+    },
+    "lux-000111": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Action_comics_1_cgc_9-point-0_vincent_zurzolo.jpg",
+          "commonsTitle": "File:Action comics 1 cgc 9-point-0 vincent zurzolo.jpg",
+          "score": 76,
+          "confidence": "medium",
+          "query": "\"Action Comics #1 CGC 8.5\" DC Comics collectible",
+          "reviewedAt": "2026-08-10T09:54:17.506Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T09:54:17.506Z"
     }
   }
 }

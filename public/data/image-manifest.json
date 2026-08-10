@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-08-10T09:52:54.167Z",
+  "generatedAt": "2026-08-10T09:54:17.506Z",
   "images": [
     {
       "productId": "everyday-000001",
@@ -86,7 +86,7 @@
       "creator": "Olgierd Rudak",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-08-10T09:49:29.012Z",
@@ -94,7 +94,8 @@
       "confidence": "medium",
       "score": 62.7,
       "sha1": "02a6cf110b104263ed1a424255bb87422f04704f",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:54:17.506Z"
     },
     {
       "productId": "everyday-000007",
@@ -104,7 +105,7 @@
       "creator": "Jakub CA",
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-08-10T09:49:31.228Z",
@@ -112,7 +113,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "79d8a3faf7d67c7375b05693578c69751dff2f16",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:54:17.506Z"
     },
     {
       "productId": "everyday-000008",
@@ -179,7 +181,7 @@
       "creator": "Miyako Fujimiya",
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1200,
       "height": 1200,
       "importedAt": "2026-08-10T09:49:40.460Z",
@@ -187,7 +189,8 @@
       "confidence": "medium",
       "score": 87.7,
       "sha1": "64022d7c7265c7bc6f6c2121b12f744a29589c6f",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:54:17.506Z"
     },
     {
       "productId": "everyday-000071",
@@ -463,7 +466,7 @@
       "creator": "Alexander-93",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1069,
       "importedAt": "2026-08-10T09:45:47.998Z",
@@ -471,7 +474,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "133b835cde3f368910223d832488d7d29b23b4f9",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:54:17.506Z"
     },
     {
       "productId": "lux-000011",
@@ -1050,7 +1054,7 @@
       "creator": "Steinway_&_Sons_concert_grand_piano,_model_D-274,_manufactured_at_Steinway's_factory_in_Hamburg,_Germany.png : Steinway & Sons, 10 Rondenbarg, Hamburg D-22525, Germany, eu.steinway.com . Steinway & Sons, 1 Steinway Place, Long Island City, New York 11105, The United States, www.steinway.com . derivative work: Morn ( talk )",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1406,
       "height": 1200,
       "importedAt": "2026-08-10T09:47:52.508Z",
@@ -1058,7 +1062,8 @@
       "confidence": "high",
       "score": 110,
       "sha1": "1e22585c24cae567ca966bacfb59090415ec6032",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:54:17.506Z"
     },
     {
       "productId": "lux-000103",
@@ -1068,7 +1073,7 @@
       "creator": "Michael Steeber from USA",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 900,
       "height": 1200,
       "importedAt": "2026-08-10T09:48:05.420Z",
@@ -1076,7 +1081,8 @@
       "confidence": "high",
       "score": 103,
       "sha1": "8f3b8469b2ffc50f10be32c681fe892be146847d",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:54:17.506Z"
     },
     {
       "productId": "lux-000108",
@@ -1105,7 +1111,7 @@
       "creator": "The wub",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 900,
       "importedAt": "2026-08-10T09:48:19.812Z",
@@ -1113,7 +1119,8 @@
       "confidence": "high",
       "score": 110,
       "sha1": "841fe84051e557fd94cd957566f51b9611c9f2e1",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:54:17.506Z"
     },
     {
       "productId": "lux-000111",
@@ -1123,7 +1130,7 @@
       "creator": "Gary Dunaier",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1598,
       "height": 1200,
       "importedAt": "2026-08-10T09:48:26.312Z",
@@ -1131,7 +1138,8 @@
       "confidence": "medium",
       "score": 76,
       "sha1": "d97d82763e8a488bcdce3e503ea87436978c472a",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:54:17.506Z"
     }
   ]
 }
