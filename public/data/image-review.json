@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-08-10T09:44:05.124Z",
+  "generatedAt": "2026-08-10T09:49:40.810Z",
   "items": [
     {
       "productId": "everyday-000001",
@@ -60,6 +60,495 @@
         "Kontrollera att bilden visar rätt produkt innan godkännande."
       ],
       "reviewedAt": "2026-07-03T08:08:10.815Z"
+    },
+    {
+      "productId": "everyday-000002",
+      "mode": "everyday",
+      "productName": "iPhone 17 Pro Max",
+      "brand": "Apple",
+      "categoryLabel": "Mobiltelefoner",
+      "query": "\"iPhone 17 Pro Max\" Apple product",
+      "status": "pending",
+      "confidence": "high",
+      "score": 113,
+      "importedAt": "2026-08-10T09:49:17.069Z",
+      "selected": {
+        "title": "File:Silver iPhone 17 Pro Max.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Silver_iPhone_17_Pro_Max.jpg",
+        "creator": "Ahmad Ali Karim",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "width": 1600,
+        "height": 2400,
+        "score": 113,
+        "path": "/product-images/everyday-000002.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Cosmic Orange iPhone 17 Pro Max.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cosmic_Orange_iPhone_17_Pro_Max.jpg",
+          "creator": "Ahmad Ali Karim",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 2400,
+          "score": 113
+        },
+        {
+          "title": "File:Deep Blue iPhone 17 Pro Max.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deep_Blue_iPhone_17_Pro_Max.jpg",
+          "creator": "Ahmad Ali Karim",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 2400,
+          "score": 113
+        },
+        {
+          "title": "File:IPhone 17 launch at Apple TRX Malaysia 18.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:IPhone_17_launch_at_Apple_TRX_Malaysia_18.jpg",
+          "creator": "Ahmad Ali Karim",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 1067,
+          "score": 72
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "everyday-000003",
+      "mode": "everyday",
+      "productName": "iPhone Air",
+      "brand": "Apple",
+      "categoryLabel": "Mobiltelefoner",
+      "query": "\"iPhone Air\" Apple product",
+      "status": "pending",
+      "confidence": "high",
+      "score": 129,
+      "importedAt": "2026-08-10T09:49:19.110Z",
+      "selected": {
+        "title": "File:Apple iPhone Air.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apple_iPhone_Air.png",
+        "creator": "Unknown author Unknown author",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "width": 1600,
+        "height": 293,
+        "score": 129,
+        "path": "/product-images/everyday-000003.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Space Black iPhone Air.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Space_Black_iPhone_Air.jpg",
+          "creator": "Ahmad Ali Karim",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 2400,
+          "score": 113
+        },
+        {
+          "title": "File:Light Gold iPhone Air.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Light_Gold_iPhone_Air.jpg",
+          "creator": "Ahmad Ali Karim",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 2400,
+          "score": 113
+        },
+        {
+          "title": "File:Sky Blue iPhone Air.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sky_Blue_iPhone_Air.jpg",
+          "creator": "Ahmad Ali Karim",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 2400,
+          "score": 113
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "everyday-000004",
+      "mode": "everyday",
+      "productName": "iPhone 17",
+      "brand": "Apple",
+      "categoryLabel": "Mobiltelefoner",
+      "query": "\"iPhone 17\" Apple product",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-08-10T09:49:21.516Z",
+      "selected": {
+        "title": "File:IPhone 17 launch at Apple TRX Malaysia 10.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:IPhone_17_launch_at_Apple_TRX_Malaysia_10.jpg",
+        "creator": "Ahmad Ali Karim",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "width": 1600,
+        "height": 1069,
+        "score": 138,
+        "path": "/product-images/everyday-000004.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:IPhone 17 launch at Apple TRX Malaysia 19.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:IPhone_17_launch_at_Apple_TRX_Malaysia_19.jpg",
+          "creator": "Ahmad Ali Karim",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 1067,
+          "score": 138
+        },
+        {
+          "title": "File:IPhone 17 launch at Apple TRX Malaysia 66.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:IPhone_17_launch_at_Apple_TRX_Malaysia_66.jpg",
+          "creator": "Ahmad Ali Karim",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 1067,
+          "score": 138
+        },
+        {
+          "title": "File:IPhone 17 launch at Apple TRX Malaysia 13.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:IPhone_17_launch_at_Apple_TRX_Malaysia_13.jpg",
+          "creator": "Ahmad Ali Karim",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 2400,
+          "score": 135
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "everyday-000005",
+      "mode": "everyday",
+      "productName": "iPhone 17e",
+      "brand": "Apple",
+      "categoryLabel": "Mobiltelefoner",
+      "query": "\"iPhone 17e\" Apple product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:49:27.712Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "everyday-000006",
+      "mode": "everyday",
+      "productName": "iPhone 16 Plus",
+      "brand": "Apple",
+      "categoryLabel": "Mobiltelefoner",
+      "query": "\"iPhone 16 Plus\" Apple product",
+      "status": "pending",
+      "confidence": "medium",
+      "score": 62.7,
+      "importedAt": "2026-08-10T09:49:29.012Z",
+      "selected": {
+        "title": "File:IPhone 16 packaging (2025-12-01).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:IPhone_16_packaging_(2025-12-01).jpg",
+        "creator": "Olgierd Rudak",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "width": 1600,
+        "height": 1200,
+        "score": 62.7,
+        "path": "/product-images/everyday-000006.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:IPhone 16 Ultramarine Rear.png",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:IPhone_16_Ultramarine_Rear.png",
+          "creator": "Padgriffin",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "width": 1600,
+          "height": 2133,
+          "score": 57.7
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "everyday-000007",
+      "mode": "everyday",
+      "productName": "Samsung Galaxy S25 Ultra",
+      "brand": "Samsung",
+      "categoryLabel": "Mobiltelefoner",
+      "query": "\"Samsung Galaxy S25 Ultra\"  product",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-08-10T09:49:31.228Z",
+      "selected": {
+        "title": "File:Samsung Galaxy S25 Ultra.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_S25_Ultra.jpg",
+        "creator": "Jakub CA",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "width": 1600,
+        "height": 1200,
+        "score": 138,
+        "path": "/product-images/everyday-000007.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:S25 Ultra Titanium Silver Blue.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:S25_Ultra_Titanium_Silver_Blue.jpg",
+          "creator": "Pc1878",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1205,
+          "score": 50
+        },
+        {
+          "title": "File:20250124 삼성 갤럭시 s25 울트라.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20250124_%EC%82%BC%EC%84%B1_%EA%B0%A4%EB%9F%AD%EC%8B%9C_s25_%EC%9A%B8%ED%8A%B8%EB%9D%BC.jpg",
+          "creator": "Striker9498",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 2133,
+          "score": 28
+        },
+        {
+          "title": "File:20250124 삼성 갤럭시 s25.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20250124_%EC%82%BC%EC%84%B1_%EA%B0%A4%EB%9F%AD%EC%8B%9C_s25.jpg",
+          "creator": "Striker9498",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 2133,
+          "score": 28
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "everyday-000008",
+      "mode": "everyday",
+      "productName": "Samsung Galaxy S25+",
+      "brand": "Samsung",
+      "categoryLabel": "Mobiltelefoner",
+      "query": "\"Samsung Galaxy S25+\"  product",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-08-10T09:49:32.752Z",
+      "selected": {
+        "title": "File:Samsung Galaxy S25 Ultra.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_S25_Ultra.jpg",
+        "creator": "Jakub CA",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "width": 1600,
+        "height": 1200,
+        "score": 138,
+        "path": "/product-images/everyday-000008.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:S25 Ultra Titanium Silver Blue.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:S25_Ultra_Titanium_Silver_Blue.jpg",
+          "creator": "Pc1878",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1205,
+          "score": 37.3
+        },
+        {
+          "title": "File:20250124 삼성 갤럭시 s25.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20250124_%EC%82%BC%EC%84%B1_%EA%B0%A4%EB%9F%AD%EC%8B%9C_s25.jpg",
+          "creator": "Striker9498",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 2133,
+          "score": 34.3
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "everyday-000009",
+      "mode": "everyday",
+      "productName": "Samsung Galaxy S25",
+      "brand": "Samsung",
+      "categoryLabel": "Mobiltelefoner",
+      "query": "\"Samsung Galaxy S25\"  product",
+      "status": "pending",
+      "confidence": "high",
+      "score": 138,
+      "importedAt": "2026-08-10T09:49:34.989Z",
+      "selected": {
+        "title": "File:Samsung Galaxy S25 Ultra.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_S25_Ultra.jpg",
+        "creator": "Jakub CA",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "width": 1600,
+        "height": 1200,
+        "score": 138,
+        "path": "/product-images/everyday-000009.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:S25 Ultra Titanium Silver Blue.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:S25_Ultra_Titanium_Silver_Blue.jpg",
+          "creator": "Pc1878",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1205,
+          "score": 37.3
+        },
+        {
+          "title": "File:20250124 삼성 갤럭시 s25.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20250124_%EC%82%BC%EC%84%B1_%EA%B0%A4%EB%9F%AD%EC%8B%9C_s25.jpg",
+          "creator": "Striker9498",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 2133,
+          "score": 34.3
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "everyday-000010",
+      "mode": "everyday",
+      "productName": "Samsung Galaxy Z Fold6",
+      "brand": "Samsung",
+      "categoryLabel": "Mobiltelefoner",
+      "query": "\"Samsung Galaxy Z Fold6\"  product",
+      "status": "pending",
+      "confidence": "high",
+      "score": 133,
+      "importedAt": "2026-08-10T09:49:37.873Z",
+      "selected": {
+        "title": "File:Samsung Galaxy Z Fold6.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_Z_Fold6.png",
+        "creator": "Mandy Harper",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1837,
+        "score": 133,
+        "path": "/product-images/everyday-000010.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Samsung Galaxy Z Fold 6 2024.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_Z_Fold_6_2024.jpg",
+          "creator": "Captainmorlypogi1959",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 2133,
+          "score": 81.7
+        },
+        {
+          "title": "File:Samsung Galaxy Z Fold 6.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_Z_Fold_6.jpg",
+          "creator": "Miyako Fujimiya",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 2125,
+          "score": 81.7
+        },
+        {
+          "title": "File:Samsung Galaxy Z Fold 6 (2).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_Z_Fold_6_(2).jpg",
+          "creator": "Miyako Fujimiya",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "width": 1600,
+          "height": 2125,
+          "score": 81.7
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "everyday-000011",
+      "mode": "everyday",
+      "productName": "Samsung Galaxy Z Flip6",
+      "brand": "Samsung",
+      "categoryLabel": "Mobiltelefoner",
+      "query": "\"Samsung Galaxy Z Flip6\"  product",
+      "status": "pending",
+      "confidence": "medium",
+      "score": 87.7,
+      "importedAt": "2026-08-10T09:49:40.460Z",
+      "selected": {
+        "title": "File:Samsung Galaxy Z Flip 6.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_Z_Flip_6.jpg",
+        "creator": "Miyako Fujimiya",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "width": 1600,
+        "height": 1600,
+        "score": 87.7,
+        "path": "/product-images/everyday-000011.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Samsung Galaxy Z Flip 6 and Buds3.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_Z_Flip_6_and_Buds3.jpg",
+          "creator": "ScribblingGeek",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1065,
+          "score": 84.7
+        },
+        {
+          "title": "File:三星Galaxy Z Flip6.png",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E4%B8%89%E6%98%9FGalaxy_Z_Flip6.png",
+          "creator": "Mandy Harper",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 3376,
+          "score": 57.7
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
     },
     {
       "productId": "everyday-000023",
@@ -1007,13 +1496,13 @@
       "brand": "Ferrari",
       "categoryLabel": "Fordon",
       "query": "\"Ferrari 12Cilindri\"  car automobile",
-      "status": "rejected",
+      "status": "pending",
       "confidence": "high",
       "score": 138,
-      "importedAt": "2026-08-10T09:17:09.547Z",
+      "importedAt": "2026-08-10T09:45:47.998Z",
       "selected": {
-        "title": "File:Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6881.jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_12Cilindri_Spider_Auto_Zuerich_2024_DSC_6881.jpg",
+        "title": "File:Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6396.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_12Cilindri_Spider_Auto_Zuerich_2024_DSC_6396.jpg",
         "creator": "Alexander-93",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -1023,16 +1512,6 @@
         "path": "/product-images/lux-000010.webp"
       },
       "alternatives": [
-        {
-          "title": "File:Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6396.jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_12Cilindri_Spider_Auto_Zuerich_2024_DSC_6396.jpg",
-          "creator": "Alexander-93",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "width": 1600,
-          "height": 1070,
-          "score": 138
-        },
         {
           "title": "File:Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6393.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_12Cilindri_Spider_Auto_Zuerich_2024_DSC_6393.jpg",
@@ -1052,12 +1531,21 @@
           "width": 1600,
           "height": 1069,
           "score": 138
+        },
+        {
+          "title": "File:Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6884.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_12Cilindri_Spider_Auto_Zuerich_2024_DSC_6884.jpg",
+          "creator": "Alexander-93",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 865,
+          "score": 138
         }
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ],
-      "reviewedAt": "2026-08-10T09:44:05.124Z"
+      ]
     },
     {
       "productId": "lux-000011",
@@ -1991,7 +2479,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:17:14.502Z",
+      "importedAt": "2026-08-10T09:45:50.267Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -2244,7 +2732,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:17:22.446Z",
+      "importedAt": "2026-08-10T09:45:52.140Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -2615,7 +3103,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:17:24.939Z",
+      "importedAt": "2026-08-10T09:45:53.986Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -2632,7 +3120,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:17:28.383Z",
+      "importedAt": "2026-08-10T09:45:55.807Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -2708,7 +3196,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:17:31.008Z",
+      "importedAt": "2026-08-10T09:45:57.536Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -2725,7 +3213,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:17:33.724Z",
+      "importedAt": "2026-08-10T09:45:59.212Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -2742,7 +3230,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:17:36.084Z",
+      "importedAt": "2026-08-10T09:46:01.013Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -2759,7 +3247,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:17:38.435Z",
+      "importedAt": "2026-08-10T09:46:02.921Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -2776,7 +3264,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:17:40.725Z",
+      "importedAt": "2026-08-10T09:46:04.695Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -2793,7 +3281,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:17:43.321Z",
+      "importedAt": "2026-08-10T09:46:06.605Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -2810,7 +3298,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:17:46.222Z",
+      "importedAt": "2026-08-10T09:46:08.658Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -2827,7 +3315,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:17:48.639Z",
+      "importedAt": "2026-08-10T09:46:10.457Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -2844,7 +3332,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:17:51.036Z",
+      "importedAt": "2026-08-10T09:46:12.196Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -2861,7 +3349,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:17:53.409Z",
+      "importedAt": "2026-08-10T09:46:13.956Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -2878,7 +3366,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:17:55.867Z",
+      "importedAt": "2026-08-10T09:46:15.628Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -2895,7 +3383,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:17:58.429Z",
+      "importedAt": "2026-08-10T09:46:17.380Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -2912,7 +3400,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:18:02.949Z",
+      "importedAt": "2026-08-10T09:46:19.392Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -2929,7 +3417,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:18:07.358Z",
+      "importedAt": "2026-08-10T09:46:21.309Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -2946,7 +3434,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:18:10.331Z",
+      "importedAt": "2026-08-10T09:46:23.404Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -2991,7 +3479,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:18:12.764Z",
+      "importedAt": "2026-08-10T09:46:25.194Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3008,7 +3496,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:18:15.171Z",
+      "importedAt": "2026-08-10T09:46:27.006Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3025,7 +3513,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:18:17.774Z",
+      "importedAt": "2026-08-10T09:46:28.781Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3042,7 +3530,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:18:20.398Z",
+      "importedAt": "2026-08-10T09:46:30.564Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3059,7 +3547,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:18:22.746Z",
+      "importedAt": "2026-08-10T09:46:32.382Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3076,7 +3564,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:18:25.074Z",
+      "importedAt": "2026-08-10T09:46:34.166Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3093,7 +3581,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:18:27.722Z",
+      "importedAt": "2026-08-10T09:46:36.149Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3110,7 +3598,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:18:30.093Z",
+      "importedAt": "2026-08-10T09:46:37.954Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3127,7 +3615,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:18:32.616Z",
+      "importedAt": "2026-08-10T09:46:39.976Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3144,7 +3632,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:18:35.054Z",
+      "importedAt": "2026-08-10T09:46:41.978Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3161,7 +3649,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:18:37.472Z",
+      "importedAt": "2026-08-10T09:46:43.899Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3178,7 +3666,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:18:40.249Z",
+      "importedAt": "2026-08-10T09:46:45.770Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3195,7 +3683,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:18:42.704Z",
+      "importedAt": "2026-08-10T09:46:47.768Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3212,7 +3700,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:18:45.033Z",
+      "importedAt": "2026-08-10T09:46:49.554Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3229,7 +3717,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:18:47.860Z",
+      "importedAt": "2026-08-10T09:46:51.777Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3246,7 +3734,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:18:50.400Z",
+      "importedAt": "2026-08-10T09:46:53.722Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3263,7 +3751,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:18:52.908Z",
+      "importedAt": "2026-08-10T09:46:55.683Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3280,7 +3768,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:18:55.493Z",
+      "importedAt": "2026-08-10T09:46:57.496Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3297,7 +3785,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:18:59.353Z",
+      "importedAt": "2026-08-10T09:46:59.423Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3314,7 +3802,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:19:02.127Z",
+      "importedAt": "2026-08-10T09:47:01.445Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3331,7 +3819,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:19:05.072Z",
+      "importedAt": "2026-08-10T09:47:03.366Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3348,7 +3836,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:19:08.422Z",
+      "importedAt": "2026-08-10T09:47:05.540Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3365,7 +3853,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:19:10.857Z",
+      "importedAt": "2026-08-10T09:47:07.466Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3382,7 +3870,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:19:13.433Z",
+      "importedAt": "2026-08-10T09:47:09.332Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3396,26 +3884,15 @@
       "brand": "Dior",
       "categoryLabel": "Mode",
       "query": "\"Dior Lady Dior Medium\"  fashion product",
-      "status": "rejected",
-      "confidence": "low",
-      "score": 28,
-      "importedAt": "2026-08-10T09:19:20.139Z",
-      "selected": {
-        "title": "File:Lady walking with her dog (1878)., by Giuseppe De Nittis.jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lady_walking_with_her_dog_(1878).,_by_Giuseppe_De_Nittis.jpg",
-        "creator": "Giuseppe De Nittis",
-        "license": "Public domain",
-        "licenseUrl": "",
-        "width": 1600,
-        "height": 2673,
-        "score": 28,
-        "path": "/product-images/lux-000083.webp"
-      },
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:47:11.450Z",
+      "selected": null,
       "alternatives": [],
       "notes": [
-        "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ],
-      "reviewedAt": "2026-08-10T09:44:05.124Z"
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
     },
     {
       "productId": "lux-000084",
@@ -3427,7 +3904,7 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:19:24.265Z",
+      "importedAt": "2026-08-10T09:47:13.579Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3444,7 +3921,92 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:19:26.683Z",
+      "importedAt": "2026-08-10T09:47:15.502Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000086",
+      "mode": "luxury",
+      "productName": "Brunello Cucinelli Cashmere Coat",
+      "brand": "Brunello Cucinelli",
+      "categoryLabel": "Mode",
+      "query": "\"Brunello Cucinelli Cashmere Coat\"  fashion product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:47:18.080Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000087",
+      "mode": "luxury",
+      "productName": "Kiton Bespoke Suit",
+      "brand": "Kiton",
+      "categoryLabel": "Mode",
+      "query": "\"Kiton Bespoke Suit\"  fashion product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:47:20.564Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000088",
+      "mode": "luxury",
+      "productName": "Stefano Ricci Crocodile Jacket",
+      "brand": "Stefano Ricci",
+      "categoryLabel": "Mode",
+      "query": "\"Stefano Ricci Crocodile Jacket\"  fashion product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:47:23.328Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000089",
+      "mode": "luxury",
+      "productName": "Louis Vuitton Millionaire Speedy 40",
+      "brand": "Louis Vuitton",
+      "categoryLabel": "Mode",
+      "query": "\"Louis Vuitton Millionaire Speedy 40\"  fashion product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:47:26.027Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000090",
+      "mode": "luxury",
+      "productName": "Nike Air Mag Back to the Future 2016",
+      "brand": "Nike",
+      "categoryLabel": "Mode",
+      "query": "\"Nike Air Mag Back to the Future 2016\"  fashion product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:47:28.330Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3461,11 +4023,96 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-07-03T07:52:55.832Z",
+      "importedAt": "2026-08-10T09:47:31.359Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000092",
+      "mode": "luxury",
+      "productName": "Cartier Panthère de Cartier Necklace",
+      "brand": "Cartier",
+      "categoryLabel": "Smycken",
+      "query": "\"Cartier Panthère de Cartier Necklace\"  jewellery jewelry",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:47:34.102Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000093",
+      "mode": "luxury",
+      "productName": "Bulgari Serpenti Viper Necklace",
+      "brand": "Bulgari",
+      "categoryLabel": "Smycken",
+      "query": "\"Bulgari Serpenti Viper Necklace\"  jewellery jewelry",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:47:36.750Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000094",
+      "mode": "luxury",
+      "productName": "Van Cleef & Arpels Zip Necklace",
+      "brand": "Van Cleef & Arpels",
+      "categoryLabel": "Smycken",
+      "query": "\"Van Cleef & Arpels Zip Necklace\"  jewellery jewelry",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:47:39.278Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000095",
+      "mode": "luxury",
+      "productName": "Graff Fancy Vivid Yellow Diamond Ring",
+      "brand": "Graff",
+      "categoryLabel": "Smycken",
+      "query": "\"Graff Fancy Vivid Yellow Diamond Ring\"  jewellery jewelry",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:47:42.217Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000096",
+      "mode": "luxury",
+      "productName": "Harry Winston Winston Cluster Diamond Necklace",
+      "brand": "Harry Winston",
+      "categoryLabel": "Smycken",
+      "query": "\"Harry Winston Winston Cluster Diamond Necklace\"  jewellery jewelry",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:47:45.242Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
       ]
     },
     {
@@ -3478,11 +4125,11 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-07-03T07:53:01.182Z",
+      "importedAt": "2026-08-10T09:47:47.763Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
       ]
     },
     {
@@ -3495,11 +4142,69 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-07-03T07:53:05.248Z",
+      "importedAt": "2026-08-10T09:47:50.347Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000099",
+      "mode": "luxury",
+      "productName": "Steinway & Sons D-274",
+      "brand": "Steinway & Sons",
+      "categoryLabel": "Musik & underhållning",
+      "query": "\"Steinway & Sons D-274\"  product",
+      "status": "pending",
+      "confidence": "high",
+      "score": 110,
+      "importedAt": "2026-08-10T09:47:52.508Z",
+      "selected": {
+        "title": "File:Steinway & Sons concert grand piano, model D-274, manufactured at Steinway's factory in Hamburg, Germany cropped.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steinway_%26_Sons_concert_grand_piano,_model_D-274,_manufactured_at_Steinway%27s_factory_in_Hamburg,_Germany_cropped.jpg",
+        "creator": "Steinway_&_Sons_concert_grand_piano,_model_D-274,_manufactured_at_Steinway's_factory_in_Hamburg,_Germany.png : Steinway & Sons, 10 Rondenbarg, Hamburg D-22525, Germany, eu.steinway.com . Steinway & Sons, 1 Steinway Place, Long Island City, New York 11105, The United States, www.steinway.com . derivative work: Morn ( talk )",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "width": 1600,
+        "height": 1366,
+        "score": 110,
+        "path": "/product-images/lux-000099.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Steinway & Sons concert grand piano, model D-274, manufactured at Steinway's factory in Hamburg, Germany.png",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steinway_%26_Sons_concert_grand_piano,_model_D-274,_manufactured_at_Steinway%27s_factory_in_Hamburg,_Germany.png",
+          "creator": "Steinway & Sons, 10 Rondenbarg, Hamburg D-22525, Germany, eu.steinway.com . Steinway & Sons, 1 Steinway Place, Long Island City, New York 11105, The United States, www.steinway.com .",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "width": 1600,
+          "height": 1541,
+          "score": 105
+        },
+        {
+          "title": "File:Steinway concert grand piano D-274.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steinway_concert_grand_piano_D-274.jpg",
+          "creator": "Ma_Ti_EU from Berlin, Germany",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "width": 1600,
+          "height": 1203,
+          "score": 69.7
+        },
+        {
+          "title": "File:Steinway à Leipzig.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steinway_%C3%A0_Leipzig.jpg",
+          "creator": "Mypouss from Rennes, France",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "width": 1600,
+          "height": 1200,
+          "score": 56.3
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
       ]
     },
     {
@@ -3512,11 +4217,140 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-07-03T07:53:10.559Z",
+      "importedAt": "2026-08-10T09:47:55.874Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000101",
+      "mode": "luxury",
+      "productName": "Wilson Audio WAMM Master Chronosonic",
+      "brand": "Wilson Audio",
+      "categoryLabel": "Teknik",
+      "query": "\"Wilson Audio WAMM Master Chronosonic\"  technology product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:47:58.406Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000102",
+      "mode": "luxury",
+      "productName": "C Seed 201 TV",
+      "brand": "C Seed",
+      "categoryLabel": "Teknik",
+      "query": "\"C Seed 201 TV\"  technology product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:48:03.344Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000103",
+      "mode": "luxury",
+      "productName": "Herman Miller Eames Lounge Chair and Ottoman",
+      "brand": "Herman Miller",
+      "categoryLabel": "Hem & design",
+      "query": "\"Herman Miller Eames Lounge Chair and Ottoman\"  product",
+      "status": "pending",
+      "confidence": "high",
+      "score": 103,
+      "importedAt": "2026-08-10T09:48:05.420Z",
+      "selected": {
+        "title": "File:Exploded Eames Lounge Chair and Ottoman (2006) Sculpture designed by Vincent Faust. Components made by Herman Miller. Chair designed by Ray & Charles Eames (ID2008.7.1) - Fully Furnished - Historic Furniture Exhibit - Henry Ford Museum.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exploded_Eames_Lounge_Chair_and_Ottoman_(2006)_Sculpture_designed_by_Vincent_Faust._Components_made_by_Herman_Miller._Chair_designed_by_Ray_%26_Charles_Eames_(ID2008.7.1)_-_Fully_Furnished_-_Historic_Furniture_Exhibit_-_Henry_Ford_Museum.jpg",
+        "creator": "Michael Steeber from USA",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "width": 1600,
+        "height": 2133,
+        "score": 103,
+        "path": "/product-images/lux-000103.webp"
+      },
+      "alternatives": [],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000104",
+      "mode": "luxury",
+      "productName": "Cassina LC4 Chaise Longue",
+      "brand": "Cassina",
+      "categoryLabel": "Hem & design",
+      "query": "\"Cassina LC4 Chaise Longue\"  product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:48:09.251Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000105",
+      "mode": "luxury",
+      "productName": "B&B Italia Camaleonda Sofa",
+      "brand": "B&B Italia",
+      "categoryLabel": "Hem & design",
+      "query": "\"B&B Italia Camaleonda Sofa\"  product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:48:11.864Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000106",
+      "mode": "luxury",
+      "productName": "Flos Arco Floor Lamp",
+      "brand": "Flos",
+      "categoryLabel": "Hem & design",
+      "query": "\"Flos Arco Floor Lamp\"  product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:48:14.719Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000107",
+      "mode": "luxury",
+      "productName": "Gaggenau Vario 400 Kitchen Suite",
+      "brand": "Gaggenau",
+      "categoryLabel": "Hem & design",
+      "query": "\"Gaggenau Vario 400 Kitchen Suite\"  product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:48:17.191Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
       ]
     },
     {
@@ -3577,6 +4411,414 @@
         "Kontrollera att bilden visar rätt produkt innan godkännande."
       ],
       "reviewedAt": "2026-07-03T08:08:10.815Z"
+    },
+    {
+      "productId": "lux-000109",
+      "mode": "luxury",
+      "productName": "Apple-1 Computer",
+      "brand": "Apple",
+      "categoryLabel": "Samlarobjekt",
+      "query": "\"Apple-1 Computer\"  collectible",
+      "status": "pending",
+      "confidence": "high",
+      "score": 110,
+      "importedAt": "2026-08-10T09:48:19.812Z",
+      "selected": {
+        "title": "File:Apple-1, 1976, Computer History Museum.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apple-1,_1976,_Computer_History_Museum.jpg",
+        "creator": "The wub",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 900,
+        "score": 110,
+        "path": "/product-images/lux-000109.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Apple-1 Registry.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apple-1_Registry.jpg",
+          "creator": "Achim Baqué",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1041,
+          "score": 81
+        },
+        {
+          "title": "File:Apple 1 computer.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apple_1_computer.jpg",
+          "creator": "Grm wnr",
+          "license": "Public domain",
+          "licenseUrl": "",
+          "width": 1600,
+          "height": 1200,
+          "score": 72
+        },
+        {
+          "title": "File:2019-08-04 Apple I computer.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2019-08-04_Apple_I_computer.jpg",
+          "creator": "Maksym Kozlenko",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1168,
+          "score": 72
+        }
+      ],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000110",
+      "mode": "luxury",
+      "productName": "Leica 0-Series No. 105",
+      "brand": "Leica",
+      "categoryLabel": "Samlarobjekt",
+      "query": "\"Leica 0-Series No. 105\"  collectible",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:48:24.113Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000111",
+      "mode": "luxury",
+      "productName": "Action Comics #1 CGC 8.5",
+      "brand": "DC Comics",
+      "categoryLabel": "Samlarobjekt",
+      "query": "\"Action Comics #1 CGC 8.5\" DC Comics collectible",
+      "status": "pending",
+      "confidence": "medium",
+      "score": 76,
+      "importedAt": "2026-08-10T09:48:26.312Z",
+      "selected": {
+        "title": "File:Action comics 1 cgc 9-point-0 vincent zurzolo.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Action_comics_1_cgc_9-point-0_vincent_zurzolo.jpg",
+        "creator": "Gary Dunaier",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1201,
+        "score": 76,
+        "path": "/product-images/lux-000111.webp"
+      },
+      "alternatives": [],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000112",
+      "mode": "luxury",
+      "productName": "Super Mario Bros. NES Sealed Wata 9.8",
+      "brand": "Nintendo",
+      "categoryLabel": "Samlarobjekt",
+      "query": "\"Super Mario Bros. NES Sealed Wata 9.8\" Nintendo collectible",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:48:29.270Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000113",
+      "mode": "luxury",
+      "productName": "Pokémon Base Set Charizard 1st Edition PSA 10",
+      "brand": "Pokémon",
+      "categoryLabel": "Samlarobjekt",
+      "query": "\"Pokémon Base Set Charizard 1st Edition PSA 10\"  collectible",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:48:31.970Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000114",
+      "mode": "luxury",
+      "productName": "Pokémon Pikachu Illustrator PSA 10",
+      "brand": "Pokémon",
+      "categoryLabel": "Samlarobjekt",
+      "query": "\"Pokémon Pikachu Illustrator PSA 10\"  collectible",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:48:34.499Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000115",
+      "mode": "luxury",
+      "productName": "Pokémon Umbreon Gold Star PSA 10",
+      "brand": "Pokémon",
+      "categoryLabel": "Samlarobjekt",
+      "query": "\"Pokémon Umbreon Gold Star PSA 10\"  collectible",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:48:36.944Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000116",
+      "mode": "luxury",
+      "productName": "Pokémon Lugia Neo Genesis 1st Edition PSA 10",
+      "brand": "Pokémon",
+      "categoryLabel": "Samlarobjekt",
+      "query": "\"Pokémon Lugia Neo Genesis 1st Edition PSA 10\"  collectible",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:48:39.755Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000117",
+      "mode": "luxury",
+      "productName": "Pokémon Rayquaza Gold Star PSA 10",
+      "brand": "Pokémon",
+      "categoryLabel": "Samlarobjekt",
+      "query": "\"Pokémon Rayquaza Gold Star PSA 10\"  collectible",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:48:42.267Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000118",
+      "mode": "luxury",
+      "productName": "Magic: The Gathering Black Lotus Alpha PSA 10",
+      "brand": "Magic: The Gathering",
+      "categoryLabel": "Samlarobjekt",
+      "query": "\"Magic: The Gathering Black Lotus Alpha PSA 10\"  collectible",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:48:44.878Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000119",
+      "mode": "luxury",
+      "productName": "Magic: The Gathering Black Lotus Beta PSA 10",
+      "brand": "Magic: The Gathering",
+      "categoryLabel": "Samlarobjekt",
+      "query": "\"Magic: The Gathering Black Lotus Beta PSA 10\"  collectible",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:48:47.466Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000120",
+      "mode": "luxury",
+      "productName": "Magic: The Gathering Mox Sapphire Alpha PSA 10",
+      "brand": "Magic: The Gathering",
+      "categoryLabel": "Samlarobjekt",
+      "query": "\"Magic: The Gathering Mox Sapphire Alpha PSA 10\"  collectible",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:48:51.024Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000121",
+      "mode": "luxury",
+      "productName": "One Piece Monkey D. Luffy Manga Rare PSA 10",
+      "brand": "One Piece",
+      "categoryLabel": "Samlarobjekt",
+      "query": "\"One Piece Monkey D. Luffy Manga Rare PSA 10\"  collectible",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:48:53.386Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000122",
+      "mode": "luxury",
+      "productName": "One Piece Shanks Manga Rare PSA 10",
+      "brand": "One Piece",
+      "categoryLabel": "Samlarobjekt",
+      "query": "\"One Piece Shanks Manga Rare PSA 10\"  collectible",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:48:56.096Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000123",
+      "mode": "luxury",
+      "productName": "One Piece Monkey D. Luffy Signed Oda Card PSA 10",
+      "brand": "One Piece",
+      "categoryLabel": "Samlarobjekt",
+      "query": "\"One Piece Monkey D. Luffy Signed Oda Card PSA 10\"  collectible",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:48:59.050Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000124",
+      "mode": "luxury",
+      "productName": "Yu-Gi-Oh! Blue-Eyes White Dragon 1st Edition PSA 10",
+      "brand": "Yu-Gi-Oh!",
+      "categoryLabel": "Samlarobjekt",
+      "query": "\"Yu-Gi-Oh! Blue-Eyes White Dragon 1st Edition PSA 10\"  collectible",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:49:01.458Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000125",
+      "mode": "luxury",
+      "productName": "Yu-Gi-Oh! Tyler the Great Warrior PSA 10",
+      "brand": "Yu-Gi-Oh!",
+      "categoryLabel": "Samlarobjekt",
+      "query": "\"Yu-Gi-Oh! Tyler the Great Warrior PSA 10\"  collectible",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:49:03.932Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000126",
+      "mode": "luxury",
+      "productName": "1986 Fleer Michael Jordan #57 PSA 10",
+      "brand": "Fleer",
+      "categoryLabel": "Samlarobjekt",
+      "query": "\"1986 Fleer Michael Jordan #57 PSA 10\" Fleer collectible",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:49:06.652Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000127",
+      "mode": "luxury",
+      "productName": "1952 Topps Mickey Mantle #311 PSA 9",
+      "brand": "Topps",
+      "categoryLabel": "Samlarobjekt",
+      "query": "\"1952 Topps Mickey Mantle #311 PSA 9\" Topps collectible",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:49:09.166Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000128",
+      "mode": "luxury",
+      "productName": "2003 Topps Chrome LeBron James Refractor PSA 10",
+      "brand": "Topps",
+      "categoryLabel": "Samlarobjekt",
+      "query": "\"2003 Topps Chrome LeBron James Refractor PSA 10\" Topps collectible",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:49:12.220Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000129",
+      "mode": "luxury",
+      "productName": "2018 Panini Prizm Luka Dončić Gold PSA 10",
+      "brand": "Panini",
+      "categoryLabel": "Samlarobjekt",
+      "query": "\"2018 Panini Prizm Luka Dončić Gold PSA 10\" Panini collectible",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:49:14.909Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
     }
   ]
 }
