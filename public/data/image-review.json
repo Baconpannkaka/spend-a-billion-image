@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-08-10T11:05:09.872Z",
+  "generatedAt": "2026-08-10T11:28:06.831Z",
   "searchVersion": 2,
   "items": [
     {
@@ -78,7 +78,7 @@
       ],
       "searchVersion": 2,
       "attemptCount": 1,
-      "status": "pending",
+      "status": "approved",
       "confidence": "medium",
       "score": 73,
       "importedAt": "2026-08-10T11:01:08.592Z",
@@ -131,7 +131,8 @@
       ],
       "notes": [
         "Bildsök v2 valde bästa kandidaten efter 5 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T11:28:06.831Z"
     },
     {
       "productId": "everyday-000003",
@@ -217,7 +218,7 @@
       ],
       "searchVersion": 2,
       "attemptCount": 1,
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 142,
       "importedAt": "2026-08-10T11:01:21.255Z",
@@ -270,7 +271,8 @@
       ],
       "notes": [
         "Bildsök v2 valde bästa kandidaten efter 2 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T11:28:06.831Z"
     },
     {
       "productId": "everyday-000005",
@@ -408,7 +410,7 @@
       ],
       "searchVersion": 2,
       "attemptCount": 1,
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 142,
       "importedAt": "2026-08-10T11:01:22.449Z",
@@ -427,7 +429,8 @@
       "alternatives": [],
       "notes": [
         "Bildsök v2 valde bästa kandidaten efter 1 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T11:28:06.831Z"
     },
     {
       "productId": "everyday-000009",
@@ -441,7 +444,7 @@
       ],
       "searchVersion": 2,
       "attemptCount": 1,
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 142,
       "importedAt": "2026-08-10T11:01:23.485Z",
@@ -460,7 +463,8 @@
       "alternatives": [],
       "notes": [
         "Bildsök v2 valde bästa kandidaten efter 1 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T11:28:06.831Z"
     },
     {
       "productId": "everyday-000010",
@@ -601,7 +605,7 @@
       ],
       "searchVersion": 2,
       "attemptCount": 1,
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 142,
       "importedAt": "2026-08-10T11:03:19.792Z",
@@ -654,7 +658,8 @@
       ],
       "notes": [
         "Bildsök v2 valde bästa kandidaten efter 7 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T11:28:06.831Z"
     },
     {
       "productId": "everyday-000013",
@@ -673,7 +678,7 @@
       ],
       "searchVersion": 2,
       "attemptCount": 1,
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 142,
       "importedAt": "2026-08-10T11:04:43.489Z",
@@ -726,7 +731,8 @@
       ],
       "notes": [
         "Bildsök v2 valde bästa kandidaten efter 6 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T11:28:06.831Z"
     },
     {
       "productId": "everyday-000023",
@@ -1135,7 +1141,7 @@
       ],
       "searchVersion": 2,
       "attemptCount": 1,
-      "status": "pending",
+      "status": "approved",
       "confidence": "medium",
       "score": 73,
       "importedAt": "2026-08-10T11:03:44.102Z",
@@ -1188,7 +1194,8 @@
       ],
       "notes": [
         "Bildsök v2 valde bästa kandidaten efter 6 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T11:28:06.831Z"
     },
     {
       "productId": "everyday-000098",
@@ -1440,7 +1447,7 @@
       ],
       "searchVersion": 2,
       "attemptCount": 1,
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 142,
       "importedAt": "2026-08-10T11:03:55.488Z",
@@ -1493,7 +1500,8 @@
       ],
       "notes": [
         "Bildsök v2 valde bästa kandidaten efter 1 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T11:28:06.831Z"
     },
     {
       "productId": "everyday-000137",
@@ -1713,7 +1721,7 @@
       ],
       "searchVersion": 2,
       "attemptCount": 1,
-      "status": "pending",
+      "status": "approved",
       "confidence": "medium",
       "score": 72,
       "importedAt": "2026-08-10T11:04:16.469Z",
@@ -1732,7 +1740,8 @@
       "alternatives": [],
       "notes": [
         "Bildsök v2 valde bästa kandidaten efter 6 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T11:28:06.831Z"
     },
     {
       "productId": "everyday-000173",

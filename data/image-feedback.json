@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T09:54:17.506Z",
+  "updatedAt": "2026-08-10T11:28:06.831Z",
   "products": {
     "lux-000003": {
       "approved": [
@@ -572,7 +572,16 @@
       "updatedAt": "2026-08-10T09:44:05.124Z"
     },
     "everyday-000002": {
-      "approved": [],
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:IPhone_17_launch_at_Apple_TRX_Malaysia_18.jpg",
+          "commonsTitle": "File:IPhone 17 launch at Apple TRX Malaysia 18.jpg",
+          "score": 73,
+          "confidence": "medium",
+          "query": "\"iPhone 17 Pro Max\" Apple",
+          "reviewedAt": "2026-08-10T11:28:06.831Z"
+        }
+      ],
       "rejected": [
         {
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Silver_iPhone_17_Pro_Max.jpg",
@@ -583,8 +592,8 @@
           "reviewedAt": "2026-08-10T09:52:54.167Z"
         }
       ],
-      "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T09:52:54.167Z"
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T11:28:06.831Z"
     },
     "everyday-000003": {
       "approved": [],
@@ -602,7 +611,16 @@
       "updatedAt": "2026-08-10T09:52:54.167Z"
     },
     "everyday-000004": {
-      "approved": [],
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:IPhone_17_launch_at_Apple_TRX_Malaysia_08.jpg",
+          "commonsTitle": "File:IPhone 17 launch at Apple TRX Malaysia 08.jpg",
+          "score": 142,
+          "confidence": "high",
+          "query": "\"iPhone 17\" Apple",
+          "reviewedAt": "2026-08-10T11:28:06.831Z"
+        }
+      ],
       "rejected": [
         {
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:IPhone_17_launch_at_Apple_TRX_Malaysia_10.jpg",
@@ -613,11 +631,20 @@
           "reviewedAt": "2026-08-10T09:52:54.167Z"
         }
       ],
-      "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T09:52:54.167Z"
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T11:28:06.831Z"
     },
     "everyday-000008": {
-      "approved": [],
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_S25%2B.jpg",
+          "commonsTitle": "File:Samsung Galaxy S25+.jpg",
+          "score": 142,
+          "confidence": "high",
+          "query": "\"Samsung Galaxy S25+\"  product",
+          "reviewedAt": "2026-08-10T11:28:06.831Z"
+        }
+      ],
       "rejected": [
         {
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_S25_Ultra.jpg",
@@ -628,11 +655,20 @@
           "reviewedAt": "2026-08-10T09:52:54.167Z"
         }
       ],
-      "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T09:52:54.167Z"
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T11:28:06.831Z"
     },
     "everyday-000009": {
-      "approved": [],
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_S25%2B.jpg",
+          "commonsTitle": "File:Samsung Galaxy S25+.jpg",
+          "score": 142,
+          "confidence": "high",
+          "query": "\"Samsung Galaxy S25\"  product",
+          "reviewedAt": "2026-08-10T11:28:06.831Z"
+        }
+      ],
       "rejected": [
         {
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_S25_Ultra.jpg",
@@ -643,8 +679,8 @@
           "reviewedAt": "2026-08-10T09:52:54.167Z"
         }
       ],
-      "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T09:52:54.167Z"
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T11:28:06.831Z"
     },
     "everyday-000010": {
       "approved": [],
@@ -765,6 +801,81 @@
       "rejected": [],
       "lastDecision": "approved",
       "updatedAt": "2026-08-10T09:54:17.506Z"
+    },
+    "everyday-000013": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Google_Pixel_9_Pro_XL_(back).jpg",
+          "commonsTitle": "File:Google Pixel 9 Pro XL (back).jpg",
+          "score": 142,
+          "confidence": "high",
+          "query": "Google pixel pro",
+          "reviewedAt": "2026-08-10T11:28:06.831Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T11:28:06.831Z"
+    },
+    "everyday-000012": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Google_Pixel_9_Pro_XL_(back).jpg",
+          "commonsTitle": "File:Google Pixel 9 Pro XL (back).jpg",
+          "score": 142,
+          "confidence": "high",
+          "query": "Google pixel pro",
+          "reviewedAt": "2026-08-10T11:28:06.831Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T11:28:06.831Z"
+    },
+    "everyday-000097": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Po%C3%A4ng_armchairs_at_IKEA_Beijing_Siyuanqiao_Store_(20210418125708).jpg",
+          "commonsTitle": "File:Poäng armchairs at IKEA Beijing Siyuanqiao Store (20210418125708).jpg",
+          "score": 73,
+          "confidence": "medium",
+          "query": "IKEA poang armchair",
+          "reviewedAt": "2026-08-10T11:28:06.831Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T11:28:06.831Z"
+    },
+    "everyday-000128": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nike_Air_Max_90_women_-_white.jpg",
+          "commonsTitle": "File:Nike Air Max 90 women - white.jpg",
+          "score": 142,
+          "confidence": "high",
+          "query": "\"Nike Air Max 90\"  shoes footwear",
+          "reviewedAt": "2026-08-10T11:28:06.831Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T11:28:06.831Z"
+    },
+    "everyday-000167": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Specialized_TURBO_VADO_3.0.jpg",
+          "commonsTitle": "File:Specialized TURBO VADO 3.0.jpg",
+          "score": 72,
+          "confidence": "medium",
+          "query": "Specialized turbo vado 4.0",
+          "reviewedAt": "2026-08-10T11:28:06.831Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T11:28:06.831Z"
     }
   }
 }
