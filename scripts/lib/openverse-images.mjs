@@ -57,7 +57,9 @@ function isWikimediaDuplicate(result) {
 export function openverseResultToCandidate(result) {
   if (!result || isWikimediaDuplicate(result)) return null;
   const sourceUrl = result.foreign_landing_url || result.detail_url;
-  const downloadUrl = result.thumbnail || result.url;
+  const downloadUrl = result.id
+    ? `${OPENVERSE_API}${result.id}/thumb/?full_size=true&compressed=true`
+    : result.url || result.thumbnail;
   if (!sourceUrl || !downloadUrl) return null;
   const tagText = Array.isArray(result.tags)
     ? result.tags.map((tag) => typeof tag === "string" ? tag : tag?.name).filter(Boolean).join(" ")
@@ -67,7 +69,7 @@ export function openverseResultToCandidate(result) {
     pageId: result.id,
     sourceUrl,
     downloadUrl,
-    originalUrl: result.url || downloadUrl,
+    originalUrl: result.url || result.thumbnail || downloadUrl,
     mime: mimeFromResult(result),
     width: Number(result.width ?? 0),
     height: Number(result.height ?? 0),
