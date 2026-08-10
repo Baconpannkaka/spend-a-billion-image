@@ -1,41 +1,53 @@
 const COMMONS_API = "https://commons.wikimedia.org/w/api.php";
-const DEFAULT_USER_AGENT = "SpendAnythingImageImporter/1.0 (GitHub project image import; contact via repository issues)";
+const DEFAULT_USER_AGENT = "SpendAnythingImageImporter/2.0 (GitHub project image import; contact via repository issues)";
+
+export const IMAGE_SEARCH_VERSION = 2;
 
 const ALLOWED_MIME_TYPES = new Set(["image/jpeg", "image/png", "image/webp"]);
 const REJECTED_TITLE_WORDS = [
   "logo", "logotype", "wordmark", "emblem", "badge", "icon", "diagram", "drawing", "sketch",
   "blueprint", "map", "poster", "advertisement", "advert", "screenshot", "manual", "brochure",
-  "interior only", "engine only", "wheel only", "steering wheel", "instrument cluster",
+];
+const DETAIL_ONLY_WORDS = [
+  "engine", "dashboard", "instrument cluster", "steering wheel", "wheel only", "interior only",
+  "cockpit only", "seat only", "battery pack", "camera module", "motherboard",
+];
+const ELECTRONICS_CONTEXT_WORDS = [
+  "launch event", "product launch", "keynote", "inside store", "in store", "shop display", "hands on",
 ];
 const STOP_WORDS = new Set([
   "the", "and", "for", "with", "edition", "model", "series", "new", "official", "of", "in",
   "a", "an", "de", "la", "le", "el", "en", "et", "och", "med", "version", "mark", "generation",
 ]);
+const STRICT_VARIANT_TOKENS = new Set([
+  "pro", "max", "ultra", "plus", "air", "mini", "fold", "flip", "edge", "fe", "se",
+]);
+const STRICT_VARIANT_CATEGORIES = new Set(["elektronik", "teknik", "gaming"]);
 
 const CATEGORY_HINTS = {
-  fordon: "car automobile",
-  flyg: "aircraft jet helicopter",
-  batar: "yacht boat",
-  fastigheter: "property architecture",
-  klockor: "watch wristwatch",
+  fordon: "car automobile vehicle",
+  flyg: "aircraft jet helicopter aviation",
+  batar: "yacht boat ship",
+  fastigheter: "property house architecture estate",
+  klockor: "watch wristwatch timepiece",
   smycken: "jewellery jewelry",
-  mode: "fashion product",
-  teknik: "technology product",
-  konst: "artwork",
-  samlarobjekt: "collectible",
-  upplevelser: "event",
-  resor: "travel",
+  mode: "fashion handbag clothing",
+  teknik: "electronics device computer phone camera",
+  konst: "artwork painting sculpture",
+  samlarobjekt: "collectible memorabilia",
+  upplevelser: "event experience",
+  resor: "travel hotel resort",
   mat: "food product",
-  elektronik: "electronic product",
-  gaming: "gaming product",
-  hem: "home product",
-  mobler: "furniture",
+  elektronik: "electronics device product",
+  gaming: "gaming console computer accessory",
+  hem: "home appliance product",
+  mobler: "furniture chair table",
   klader: "clothing fashion",
   skor: "shoes footwear",
   sport: "sports equipment",
-  barn: "children product",
+  barn: "children baby product",
   husdjur: "pet product",
-  transport: "vehicle bicycle",
+  transport: "vehicle bicycle scooter",
 };
 
 export function stripHtml(value = "") {
@@ -52,8 +64,11 @@ export function stripHtml(value = "") {
     .trim();
 }
 
-function normalize(value = "") {
+export function normalizeForImageSearch(value = "") {
   return stripHtml(value)
+    .replace(/([a-z0-9])\/([a-z0-9])/gi, "$1$2")
+    .replace(/\+/g, " plus ")
+    .replace(/&/g, " and ")
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
     .toLowerCase()
@@ -62,6 +77,8 @@ function normalize(value = "") {
     .replace(/\s+/g, " ")
     .trim();
 }
+
+const normalize = normalizeForImageSearch;
 
 export function normalizeLicense(value = "") {
   return normalize(value)
@@ -109,26 +126,74 @@ function tokens(value) {
     .filter((token) => token.length > 1 && !STOP_WORDS.has(token));
 }
 
+function unique(values) {
+  return [...new Set(values.filter(Boolean))];
+}
+
 function tokenCoverage(needles, haystack) {
   if (needles.length === 0) return 0;
-  const matches = needles.filter((token) => haystack.includes(token)).length;
+  const haystackTokens = new Set(tokens(haystack));
+  const matches = needles.filter((token) => haystackTokens.has(token)).length;
   return matches / needles.length;
 }
 
-export function scoreCandidate(product, candidate) {
+function nameWithoutBrand(product) {
+  const name = String(product.name ?? "").trim();
+  const brand = String(product.brand ?? "").trim();
+  if (!brand) return name;
+  const normalizedName = normalize(name);
+  const normalizedBrand = normalize(brand);
+  if (!normalizedName.startsWith(normalizedBrand)) return name;
+  return name.slice(brand.length).replace(/^\s*[-–—:]?\s*/, "").trim() || name;
+}
+
+function simplifySearchName(value) {
+  return String(value ?? "")
+    .replace(/\([^)]*\)/g, " ")
+    .replace(/\b(?:PSA|CGC|BGS)\s*\d+(?:\.\d+)?\b/gi, " ")
+    .replace(/\b\d+(?:\.\d+)?\s?(?:GB|TB|mm|cm)\b/gi, " ")
+    .replace(/\b(?:medium|large|small|xl|xxl)\b/gi, " ")
+    .replace(/\b(?:limited edition|special edition)\b/gi, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function strictVariantInfo(product, candidateTitle) {
+  if (!STRICT_VARIANT_CATEGORIES.has(product.categoryId)) return { missing: [], conflicting: [] };
+  const target = new Set(tokens(product.name));
+  const candidate = new Set(tokens(candidateTitle));
+  const missing = [...STRICT_VARIANT_TOKENS].filter((token) => target.has(token) && !candidate.has(token));
+  const conflicting = [...STRICT_VARIANT_TOKENS].filter((token) => !target.has(token) && candidate.has(token));
+  return { missing, conflicting };
+}
+
+function candidateText(candidate) {
   const title = normalize(candidate.title?.replace(/^File:/i, "").replace(/\.[a-z0-9]{2,5}$/i, "") ?? "");
   const metadataText = normalize(`${candidate.metadata?.description ?? ""} ${candidate.metadata?.credit ?? ""}`);
-  const combined = `${title} ${metadataText}`;
+  return { title, metadataText, combined: `${title} ${metadataText}`.trim() };
+}
+
+export function scoreCandidateDetailed(product, candidate, options = {}) {
+  const { title, combined } = candidateText(candidate);
   const nameTokens = tokens(product.name);
   const brandTokens = tokens(product.brand ?? "");
+  const modelTokens = nameTokens.filter((token) => !brandTokens.includes(token));
   const exactName = normalize(product.name);
   const exactBrand = normalize(product.brand ?? "");
+  const modelTitleCoverage = tokenCoverage(modelTokens, title);
+  const modelCombinedCoverage = tokenCoverage(modelTokens, combined);
+  const brandTitleCoverage = tokenCoverage(brandTokens, title);
+  const brandCombinedCoverage = tokenCoverage(brandTokens, combined);
+  const strict = strictVariantInfo(product, title);
+  const criticalTokens = modelTokens.filter((token) => /\d/.test(token));
+  const missingCritical = criticalTokens.filter((token) => !tokens(combined).includes(token));
+  const hasExactName = exactName && title.includes(exactName) && strict.conflicting.length === 0;
 
   let score = 0;
-  score += tokenCoverage(nameTokens, title) * 58;
-  score += tokenCoverage(nameTokens, combined) * 18;
-  score += tokenCoverage(brandTokens, title) * 14;
-  if (exactName && title.includes(exactName)) score += 28;
+  score += modelTitleCoverage * 62;
+  score += modelCombinedCoverage * 16;
+  score += brandTitleCoverage * 14;
+  if (hasExactName) score += 30;
   if (exactBrand && title.includes(exactBrand)) score += 8;
   if (candidate.width >= 1200 && candidate.height >= 700) score += 7;
   else if (candidate.width >= 800 && candidate.height >= 500) score += 3;
@@ -136,30 +201,78 @@ export function scoreCandidate(product, candidate) {
   if (candidate.mime === "image/jpeg") score += 2;
 
   for (const word of REJECTED_TITLE_WORDS) {
-    if (combined.includes(word)) score -= word === "logo" || word === "logotype" ? 70 : 30;
+    if (combined.includes(word)) score -= word === "logo" || word === "logotype" ? 75 : 34;
   }
+  for (const word of DETAIL_ONLY_WORDS) {
+    if (combined.includes(word) && !normalize(product.name).includes(word)) score -= 38;
+  }
+  if (STRICT_VARIANT_CATEGORIES.has(product.categoryId)) {
+    score -= strict.missing.length * 30;
+    score -= strict.conflicting.length * 48;
+    for (const word of ELECTRONICS_CONTEXT_WORDS) {
+      if (combined.includes(word)) score -= 28;
+    }
+  } else {
+    score -= missingCritical.length * 14;
+  }
+
+  const learnedBadTerms = options.learnedBadTerms ?? [];
+  for (const term of learnedBadTerms) {
+    const normalizedTerm = normalize(term);
+    if (normalizedTerm && combined.includes(normalizedTerm) && !normalize(product.name).includes(normalizedTerm)) score -= 14;
+  }
+
+  if (brandTokens.length > 0 && brandCombinedCoverage === 0) score -= 28;
+  if (modelTokens.length > 0 && modelCombinedCoverage === 0) score -= 45;
   if (combined.includes("museum") && product.categoryId !== "konst" && product.categoryId !== "samlarobjekt") score -= 4;
 
-  return Math.round(score * 10) / 10;
+  const relevant = modelTokens.length === 0
+    ? brandCombinedCoverage > 0
+    : brandCombinedCoverage > 0
+      ? modelCombinedCoverage >= 0.25
+      : modelCombinedCoverage >= 0.7;
+
+  return {
+    score: Math.round(score * 10) / 10,
+    relevant,
+    modelTitleCoverage,
+    modelCombinedCoverage,
+    brandTitleCoverage,
+    strictMissing: strict.missing,
+    strictConflicting: strict.conflicting,
+  };
+}
+
+export function scoreCandidate(product, candidate, options = {}) {
+  return scoreCandidateDetailed(product, candidate, options).score;
 }
 
 export function confidenceFromScore(score) {
-  if (score >= 88) return "high";
-  if (score >= 62) return "medium";
+  if (score >= 118) return "high";
+  if (score >= 64) return "medium";
   return "low";
 }
 
 export function buildSearchQueries(product, overrideQuery) {
   if (overrideQuery) return [overrideQuery];
-  const quotedName = `"${product.name.replace(/"/g, "")}"`;
-  const brand = product.brand && !normalize(product.name).startsWith(normalize(product.brand)) ? product.brand : "";
+
+  const fullName = String(product.name ?? "").replace(/"/g, "").trim();
+  const brand = String(product.brand ?? "").trim();
+  const coreName = nameWithoutBrand(product).replace(/"/g, "").trim();
+  const simplifiedCore = simplifySearchName(coreName);
   const hint = CATEGORY_HINTS[product.categoryId] ?? "product";
-  const queries = [
-    `${quotedName} ${brand} ${hint}`.trim(),
-    `${product.name} ${brand}`.trim(),
-    `${product.name} ${hint}`.trim(),
-  ];
-  return [...new Set(queries)];
+  const brandOutsideName = brand && !normalize(fullName).startsWith(normalize(brand)) ? brand : "";
+  const distinctive = tokens(simplifiedCore).slice(0, 4).join(" ");
+
+  return unique([
+    `"${fullName}" ${brandOutsideName} ${hint}`.trim(),
+    `"${fullName}" ${brandOutsideName}`.trim(),
+    `${fullName} ${brandOutsideName} ${hint}`.trim(),
+    coreName !== fullName ? `"${coreName}" ${brand} ${hint}`.trim() : "",
+    simplifiedCore && simplifiedCore !== coreName ? `"${simplifiedCore}" ${brand} ${hint}`.trim() : "",
+    `${brand} ${simplifiedCore || coreName} ${hint}`.trim(),
+    distinctive ? `${brand} ${distinctive}`.trim() : "",
+  ]).filter((query) => query && query !== "\"\"");
 }
 
 function sleep(ms) {
@@ -229,7 +342,7 @@ export async function getCommonsFile(title, options = {}) {
 
 export async function searchCommons(query, options = {}) {
   const userAgent = options.userAgent ?? process.env.WIKIMEDIA_USER_AGENT ?? DEFAULT_USER_AGENT;
-  const limit = Math.min(Math.max(Number(options.limit ?? 10), 1), 20);
+  const limit = Math.min(Math.max(Number(options.limit ?? 12), 1), 20);
   const url = makeApiUrl({
     generator: "search",
     gsrsearch: query,
@@ -246,13 +359,16 @@ export async function searchCommons(query, options = {}) {
   return (json.query?.pages ?? []).map(pageToCandidate).filter(Boolean);
 }
 
-export function filterAndRankCandidates(product, candidates) {
+export function filterAndRankCandidates(product, candidates, options = {}) {
   return candidates
     .filter((candidate) => ALLOWED_MIME_TYPES.has(candidate.mime))
     .filter((candidate) => candidate.downloadUrl && candidate.sourceUrl)
     .filter((candidate) => isAllowedLicense(candidate.metadata.license, candidate.metadata.licenseUrl))
-    .map((candidate) => ({ ...candidate, score: scoreCandidate(product, candidate) }))
-    .filter((candidate) => candidate.score > 15)
+    .map((candidate) => {
+      const details = scoreCandidateDetailed(product, candidate, options);
+      return { ...candidate, score: details.score, relevance: details };
+    })
+    .filter((candidate) => candidate.relevance.relevant && candidate.score > 15)
     .sort((a, b) => b.score - a.score || (b.width * b.height) - (a.width * a.height));
 }
 
@@ -269,4 +385,5 @@ export const wikimediaImageConstants = {
   COMMONS_API,
   DEFAULT_USER_AGENT,
   ALLOWED_MIME_TYPES: [...ALLOWED_MIME_TYPES],
+  CATEGORY_HINTS,
 };
