@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-08-10T09:15:19.697Z",
+  "generatedAt": "2026-08-10T09:19:26.683Z",
   "items": [
     {
       "productId": "everyday-000001",
@@ -771,38 +771,28 @@
       "brand": "Pagani",
       "categoryLabel": "Fordon",
       "query": "\"Pagani Huayra Roadster BC\"  car automobile",
-      "status": "rejected",
+      "status": "pending",
       "confidence": "high",
       "score": 138,
-      "importedAt": "2026-07-03T09:25:39.090Z",
+      "importedAt": "2026-08-10T09:17:07.240Z",
       "selected": {
-        "title": "File:2020 Pagani Huayra Roadster BC M158 engine, left side (New Canaan).jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2020_Pagani_Huayra_Roadster_BC_M158_engine,_left_side_(New_Canaan).jpg",
+        "title": "File:2020 Pagani Huayra Roadster BC in Blue and Carbon Fibre, rear left (Greenwich 2024).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2020_Pagani_Huayra_Roadster_BC_in_Blue_and_Carbon_Fibre,_rear_left_(Greenwich_2024).jpg",
         "creator": "Mr.choppers",
         "license": "CC BY-SA 3.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "width": 1600,
-        "height": 1067,
+        "height": 897,
         "score": 138,
         "path": "/product-images/lux-000006.webp"
       },
       "alternatives": [
         {
-          "title": "File:2020 Pagani Huayra Roadster BC in Blue and Carbon Fibre, front right (Greenwich 2024).jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2020_Pagani_Huayra_Roadster_BC_in_Blue_and_Carbon_Fibre,_front_right_(Greenwich_2024).jpg",
-          "creator": "Mr.choppers",
-          "license": "CC BY-SA 3.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-          "width": 1600,
-          "height": 898,
-          "score": 138
-        },
-        {
           "title": "File:Pagani Huayra BC Roadster, BAS 24, Brussels (P1170496).jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_BC_Roadster,_BAS_24,_Brussels_(P1170496).jpg",
           "creator": "Matti Blume",
-          "license": "CC BY-SA",
-          "licenseUrl": "//commons.wikimedia.org/wiki/File:Pagani_Huayra_BC_Roadster,_BAS_24,_Brussels_(P1170496).jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
           "width": 1600,
           "height": 1280,
           "score": 110
@@ -811,17 +801,26 @@
           "title": "File:Pagani Huayra BC Roadster, BAS 24, Brussels (P1170493-RR).jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_BC_Roadster,_BAS_24,_Brussels_(P1170493-RR).jpg",
           "creator": "Matti Blume",
-          "license": "CC BY-SA",
-          "licenseUrl": "//commons.wikimedia.org/wiki/File:Pagani_Huayra_BC_Roadster,_BAS_24,_Brussels_(P1170493-RR).jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
           "width": 1600,
           "height": 1280,
+          "score": 110
+        },
+        {
+          "title": "File:Pagani Huayra BC Roadster MIMO 2022.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pagani_Huayra_BC_Roadster_MIMO_2022.jpg",
+          "creator": "Saggittarius A",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1200,
           "score": 110
         }
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ],
-      "reviewedAt": "2026-08-10T09:15:19.697Z"
+      ]
     },
     {
       "productId": "lux-000007",
@@ -1007,18 +1006,18 @@
       "brand": "Ferrari",
       "categoryLabel": "Fordon",
       "query": "\"Ferrari 12Cilindri\"  car automobile",
-      "status": "rejected",
+      "status": "pending",
       "confidence": "high",
       "score": 138,
-      "importedAt": "2026-07-03T09:25:48.376Z",
+      "importedAt": "2026-08-10T09:17:09.547Z",
       "selected": {
-        "title": "File:Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6817.jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_12Cilindri_Spider_Auto_Zuerich_2024_DSC_6817.jpg",
-        "creator": "Alexander Migl",
+        "title": "File:Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6881.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_12Cilindri_Spider_Auto_Zuerich_2024_DSC_6881.jpg",
+        "creator": "Alexander-93",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "width": 1600,
-        "height": 1378,
+        "height": 1070,
         "score": 138,
         "path": "/product-images/lux-000010.webp"
       },
@@ -1056,8 +1055,7 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ],
-      "reviewedAt": "2026-08-10T09:15:19.697Z"
+      ]
     },
     {
       "productId": "lux-000011",
@@ -1991,11 +1989,11 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-07-03T09:26:39.259Z",
+      "importedAt": "2026-08-10T09:17:14.502Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
       ]
     },
     {
@@ -2123,16 +2121,16 @@
       "brand": "Bombardier",
       "categoryLabel": "Privatflyg",
       "query": "\"Bombardier Global 8000\"  aircraft jet helicopter",
-      "status": "rejected",
+      "status": "pending",
       "confidence": "medium",
       "score": 84.7,
-      "importedAt": "2026-07-03T09:26:41.717Z",
+      "importedAt": "2026-08-10T09:17:17.221Z",
       "selected": {
-        "title": "File:Bombardier Global 7500, Paris Air Show 2019, Le Bourget (SIAE8909).jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bombardier_Global_7500,_Paris_Air_Show_2019,_Le_Bourget_(SIAE8909).jpg",
-        "creator": "Matti Blume",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "title": "File:Gandel Investments (VH-TGG) Bombardier Global 7500 on rotation at Sydney Airport (2).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gandel_Investments_(VH-TGG)_Bombardier_Global_7500_on_rotation_at_Sydney_Airport_(2).jpg",
+        "creator": "Bidgee",
+        "license": "CC BY-SA 3.0 au",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/au/deed.en",
         "width": 1600,
         "height": 1067,
         "score": 84.7,
@@ -2140,11 +2138,11 @@
       },
       "alternatives": [
         {
-          "title": "File:Gandel Investments (VH-TGG) Bombardier Global 7500 on rotation at Sydney Airport (2).jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gandel_Investments_(VH-TGG)_Bombardier_Global_7500_on_rotation_at_Sydney_Airport_(2).jpg",
-          "creator": "Bidgee",
-          "license": "CC BY-SA 3.0 au",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/au/deed.en",
+          "title": "File:Bombardier BD-700-2A12 Global 7500 (c-n 70087, 9H-VIH) 2026-03-17 Andre Gerwing Collection ID 028004.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bombardier_BD-700-2A12_Global_7500_(c-n_70087,_9H-VIH)_2026-03-17_Andre_Gerwing_Collection_ID_028004.jpg",
+          "creator": "André Gerwing",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
           "width": 1600,
           "height": 1067,
           "score": 84.7
@@ -2172,8 +2170,7 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ],
-      "reviewedAt": "2026-08-10T09:15:19.697Z"
+      ]
     },
     {
       "productId": "lux-000032",
@@ -2182,16 +2179,16 @@
       "brand": "Bombardier",
       "categoryLabel": "Privatflyg",
       "query": "\"Bombardier Global 7500\"  aircraft jet helicopter",
-      "status": "rejected",
+      "status": "pending",
       "confidence": "high",
       "score": 138,
-      "importedAt": "2026-07-03T09:26:43.661Z",
+      "importedAt": "2026-08-10T09:17:19.515Z",
       "selected": {
-        "title": "File:Bombardier Global 7500, Paris Air Show 2019, Le Bourget (SIAE8909).jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bombardier_Global_7500,_Paris_Air_Show_2019,_Le_Bourget_(SIAE8909).jpg",
-        "creator": "Matti Blume",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "title": "File:Gandel Investments (VH-TGG) Bombardier Global 7500 on rotation at Sydney Airport (2).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gandel_Investments_(VH-TGG)_Bombardier_Global_7500_on_rotation_at_Sydney_Airport_(2).jpg",
+        "creator": "Bidgee",
+        "license": "CC BY-SA 3.0 au",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/au/deed.en",
         "width": 1600,
         "height": 1067,
         "score": 138,
@@ -2199,21 +2196,11 @@
       },
       "alternatives": [
         {
-          "title": "File:Gandel Investments (VH-TGG) Bombardier Global 7500 on rotation at Sydney Airport (2).jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gandel_Investments_(VH-TGG)_Bombardier_Global_7500_on_rotation_at_Sydney_Airport_(2).jpg",
-          "creator": "Bidgee",
-          "license": "CC BY-SA 3.0 au",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/au/deed.en",
-          "width": 1600,
-          "height": 1067,
-          "score": 138
-        },
-        {
           "title": "File:Bombardier Global 7500, Paris Air Show 2019, Le Bourget (SIAE8905).jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bombardier_Global_7500,_Paris_Air_Show_2019,_Le_Bourget_(SIAE8905).jpg",
           "creator": "Matti Blume",
-          "license": "CC BY-SA",
-          "licenseUrl": "//commons.wikimedia.org/wiki/File:Bombardier_Global_7500,_Paris_Air_Show_2019,_Le_Bourget_(SIAE8905).jpg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
           "width": 1600,
           "height": 1067,
           "score": 138
@@ -2227,12 +2214,21 @@
           "width": 1600,
           "height": 1063,
           "score": 138
+        },
+        {
+          "title": "File:Bombardier Global 7500 CS-ESS BWI MD1.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bombardier_Global_7500_CS-ESS_BWI_MD1.jpg",
+          "creator": "Acroterion",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 853,
+          "score": 138
         }
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ],
-      "reviewedAt": "2026-08-10T09:15:19.697Z"
+      ]
     },
     {
       "productId": "lux-000033",
@@ -2244,11 +2240,11 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-07-03T09:26:46.470Z",
+      "importedAt": "2026-08-10T09:17:22.446Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
       ]
     },
     {
@@ -2615,11 +2611,11 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-07-03T09:27:07.143Z",
+      "importedAt": "2026-08-10T09:17:24.939Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
       ]
     },
     {
@@ -2632,11 +2628,11 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-07-03T09:27:11.158Z",
+      "importedAt": "2026-08-10T09:17:28.383Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
       ]
     },
     {
@@ -2708,11 +2704,11 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-07-03T09:27:15.609Z",
+      "importedAt": "2026-08-10T09:17:31.008Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
       ]
     },
     {
@@ -2725,11 +2721,11 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-07-03T09:27:17.439Z",
+      "importedAt": "2026-08-10T09:17:33.724Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
       ]
     },
     {
@@ -2742,11 +2738,11 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-07-03T09:27:19.998Z",
+      "importedAt": "2026-08-10T09:17:36.084Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
       ]
     },
     {
@@ -2759,11 +2755,11 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-07-03T09:27:22.593Z",
+      "importedAt": "2026-08-10T09:17:38.435Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
       ]
     },
     {
@@ -2776,11 +2772,11 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-07-03T09:27:25.259Z",
+      "importedAt": "2026-08-10T09:17:40.725Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
       ]
     },
     {
@@ -2793,11 +2789,11 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-07-03T09:27:27.841Z",
+      "importedAt": "2026-08-10T09:17:43.321Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
       ]
     },
     {
@@ -2810,11 +2806,11 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-07-03T09:27:30.207Z",
+      "importedAt": "2026-08-10T09:17:46.222Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
       ]
     },
     {
@@ -2827,11 +2823,113 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-07-03T09:27:32.869Z",
+      "importedAt": "2026-08-10T09:17:48.639Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000051",
+      "mode": "luxury",
+      "productName": "Benetti B.Now 67M Oasis",
+      "brand": "Benetti",
+      "categoryLabel": "Yachter & båtar",
+      "query": "\"Benetti B.Now 67M Oasis\"  yacht boat",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:17:51.036Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000052",
+      "mode": "luxury",
+      "productName": "Princess X95 Vista",
+      "brand": "Princess Yachts",
+      "categoryLabel": "Yachter & båtar",
+      "query": "\"Princess X95 Vista\" Princess Yachts yacht boat",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:17:53.409Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000053",
+      "mode": "luxury",
+      "productName": "Wally WHY200",
+      "brand": "Wally",
+      "categoryLabel": "Yachter & båtar",
+      "query": "\"Wally WHY200\"  yacht boat",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:17:55.867Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000054",
+      "mode": "luxury",
+      "productName": "Tecnomar for Lamborghini 63",
+      "brand": "Tecnomar",
+      "categoryLabel": "Yachter & båtar",
+      "query": "\"Tecnomar for Lamborghini 63\"  yacht boat",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:17:58.429Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000055",
+      "mode": "luxury",
+      "productName": "Riva 88' Folgore",
+      "brand": "Riva",
+      "categoryLabel": "Yachter & båtar",
+      "query": "\"Riva 88' Folgore\"  yacht boat",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:18:02.949Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000056",
+      "mode": "luxury",
+      "productName": "Baltic 146 Path",
+      "brand": "Baltic Yachts",
+      "categoryLabel": "Yachter & båtar",
+      "query": "\"Baltic 146 Path\" Baltic Yachts yacht boat",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:18:07.358Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
       ]
     },
     {
@@ -2844,11 +2942,11 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-07-03T07:52:43.458Z",
+      "importedAt": "2026-08-10T09:18:10.331Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
       ]
     },
     {
@@ -2880,6 +2978,346 @@
       "reviewedAt": "2026-07-03T08:08:10.815Z"
     },
     {
+      "productId": "lux-000059",
+      "mode": "luxury",
+      "productName": "Rolex Day-Date 40 Everose Gold",
+      "brand": "Rolex",
+      "categoryLabel": "Klockor",
+      "query": "\"Rolex Day-Date 40 Everose Gold\"  watch wristwatch",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:18:12.764Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000060",
+      "mode": "luxury",
+      "productName": "Patek Philippe Grandmaster Chime 6300",
+      "brand": "Patek Philippe",
+      "categoryLabel": "Klockor",
+      "query": "\"Patek Philippe Grandmaster Chime 6300\"  watch wristwatch",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:18:15.171Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000061",
+      "mode": "luxury",
+      "productName": "Patek Philippe Nautilus 5811/1G",
+      "brand": "Patek Philippe",
+      "categoryLabel": "Klockor",
+      "query": "\"Patek Philippe Nautilus 5811/1G\"  watch wristwatch",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:18:17.774Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000062",
+      "mode": "luxury",
+      "productName": "Patek Philippe Aquanaut 5167A",
+      "brand": "Patek Philippe",
+      "categoryLabel": "Klockor",
+      "query": "\"Patek Philippe Aquanaut 5167A\"  watch wristwatch",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:18:20.398Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000063",
+      "mode": "luxury",
+      "productName": "Richard Mille RM 56-02 Sapphire",
+      "brand": "Richard Mille",
+      "categoryLabel": "Klockor",
+      "query": "\"Richard Mille RM 56-02 Sapphire\"  watch wristwatch",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:18:22.746Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000064",
+      "mode": "luxury",
+      "productName": "Richard Mille RM 27-05 Flying Tourbillon Rafael Nadal",
+      "brand": "Richard Mille",
+      "categoryLabel": "Klockor",
+      "query": "\"Richard Mille RM 27-05 Flying Tourbillon Rafael Nadal\"  watch wristwatch",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:18:25.074Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000065",
+      "mode": "luxury",
+      "productName": "Audemars Piguet Royal Oak Concept Flying Tourbillon",
+      "brand": "Audemars Piguet",
+      "categoryLabel": "Klockor",
+      "query": "\"Audemars Piguet Royal Oak Concept Flying Tourbillon\"  watch wristwatch",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:18:27.722Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000066",
+      "mode": "luxury",
+      "productName": "Audemars Piguet Royal Oak Jumbo Extra-Thin 16202ST",
+      "brand": "Audemars Piguet",
+      "categoryLabel": "Klockor",
+      "query": "\"Audemars Piguet Royal Oak Jumbo Extra-Thin 16202ST\"  watch wristwatch",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:18:30.093Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000067",
+      "mode": "luxury",
+      "productName": "Jacob & Co. Billionaire Timeless Treasure",
+      "brand": "Jacob & Co.",
+      "categoryLabel": "Klockor",
+      "query": "\"Jacob & Co. Billionaire Timeless Treasure\"  watch wristwatch",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:18:32.616Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000068",
+      "mode": "luxury",
+      "productName": "Vacheron Constantin Les Cabinotiers Armillary Tourbillon",
+      "brand": "Vacheron Constantin",
+      "categoryLabel": "Klockor",
+      "query": "\"Vacheron Constantin Les Cabinotiers Armillary Tourbillon\"  watch wristwatch",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:18:35.054Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000069",
+      "mode": "luxury",
+      "productName": "Vacheron Constantin Overseas Tourbillon",
+      "brand": "Vacheron Constantin",
+      "categoryLabel": "Klockor",
+      "query": "\"Vacheron Constantin Overseas Tourbillon\"  watch wristwatch",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:18:37.472Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000070",
+      "mode": "luxury",
+      "productName": "A. Lange & Söhne Grand Complication",
+      "brand": "A. Lange & Söhne",
+      "categoryLabel": "Klockor",
+      "query": "\"A. Lange & Söhne Grand Complication\"  watch wristwatch",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:18:40.249Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000071",
+      "mode": "luxury",
+      "productName": "F.P. Journe Chronomètre Bleu",
+      "brand": "F.P. Journe",
+      "categoryLabel": "Klockor",
+      "query": "\"F.P. Journe Chronomètre Bleu\"  watch wristwatch",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:18:42.704Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000072",
+      "mode": "luxury",
+      "productName": "Greubel Forsey Hand Made 1",
+      "brand": "Greubel Forsey",
+      "categoryLabel": "Klockor",
+      "query": "\"Greubel Forsey Hand Made 1\"  watch wristwatch",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:18:45.033Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000073",
+      "mode": "luxury",
+      "productName": "H. Moser & Cie. Streamliner Tourbillon Skeleton",
+      "brand": "H. Moser & Cie.",
+      "categoryLabel": "Klockor",
+      "query": "\"H. Moser & Cie. Streamliner Tourbillon Skeleton\"  watch wristwatch",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:18:47.860Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000074",
+      "mode": "luxury",
+      "productName": "Breguet Classique Double Tourbillon 5345",
+      "brand": "Breguet",
+      "categoryLabel": "Klockor",
+      "query": "\"Breguet Classique Double Tourbillon 5345\"  watch wristwatch",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:18:50.400Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000075",
+      "mode": "luxury",
+      "productName": "Cartier Privé Tortue Monopoussoir Chronograph",
+      "brand": "Cartier",
+      "categoryLabel": "Klockor",
+      "query": "\"Cartier Privé Tortue Monopoussoir Chronograph\"  watch wristwatch",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:18:52.908Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000076",
+      "mode": "luxury",
+      "productName": "Omega Speedmaster Calibre 321 Canopus Gold",
+      "brand": "Omega",
+      "categoryLabel": "Klockor",
+      "query": "\"Omega Speedmaster Calibre 321 Canopus Gold\"  watch wristwatch",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:18:55.493Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000077",
+      "mode": "luxury",
+      "productName": "IWC Portugieser Eternal Calendar",
+      "brand": "IWC",
+      "categoryLabel": "Klockor",
+      "query": "\"IWC Portugieser Eternal Calendar\"  watch wristwatch",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:18:59.353Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000078",
+      "mode": "luxury",
+      "productName": "Jaeger-LeCoultre Reverso Hybris Artistica Calibre 179",
+      "brand": "Jaeger-LeCoultre",
+      "categoryLabel": "Klockor",
+      "query": "\"Jaeger-LeCoultre Reverso Hybris Artistica Calibre 179\"  watch wristwatch",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:19:02.127Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
       "productId": "lux-000079",
       "mode": "luxury",
       "productName": "Hermès Birkin 25 Himalaya",
@@ -2889,11 +3327,11 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-07-03T07:52:50.397Z",
+      "importedAt": "2026-08-10T09:19:05.072Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
       ]
     },
     {
@@ -2906,11 +3344,106 @@
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-07-03T07:53:47.407Z",
+      "importedAt": "2026-08-10T09:19:08.422Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens- och relevanskontrollen."
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000081",
+      "mode": "luxury",
+      "productName": "Chanel 2.55 Reissue Handbag",
+      "brand": "Chanel",
+      "categoryLabel": "Mode",
+      "query": "\"Chanel 2.55 Reissue Handbag\"  fashion product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:19:10.857Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000082",
+      "mode": "luxury",
+      "productName": "Louis Vuitton Capucines Mini",
+      "brand": "Louis Vuitton",
+      "categoryLabel": "Mode",
+      "query": "\"Louis Vuitton Capucines Mini\"  fashion product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:19:13.433Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000083",
+      "mode": "luxury",
+      "productName": "Dior Lady Dior Medium",
+      "brand": "Dior",
+      "categoryLabel": "Mode",
+      "query": "\"Dior Lady Dior Medium\"  fashion product",
+      "status": "pending",
+      "confidence": "low",
+      "score": 28,
+      "importedAt": "2026-08-10T09:19:20.139Z",
+      "selected": {
+        "title": "File:Lady walking with her dog (1878)., by Giuseppe De Nittis.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lady_walking_with_her_dog_(1878).,_by_Giuseppe_De_Nittis.jpg",
+        "creator": "Giuseppe De Nittis",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "width": 1600,
+        "height": 2673,
+        "score": 28,
+        "path": "/product-images/lux-000083.webp"
+      },
+      "alternatives": [],
+      "notes": [
+        "Kontrollera att bilden visar rätt produkt innan godkännande."
+      ]
+    },
+    {
+      "productId": "lux-000084",
+      "mode": "luxury",
+      "productName": "Bottega Veneta Andiamo",
+      "brand": "Bottega Veneta",
+      "categoryLabel": "Mode",
+      "query": "\"Bottega Veneta Andiamo\"  fashion product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:19:24.265Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+      ]
+    },
+    {
+      "productId": "lux-000085",
+      "mode": "luxury",
+      "productName": "Loro Piana André Shirt",
+      "brand": "Loro Piana",
+      "categoryLabel": "Mode",
+      "query": "\"Loro Piana André Shirt\"  fashion product",
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T09:19:26.683Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
       ]
     },
     {

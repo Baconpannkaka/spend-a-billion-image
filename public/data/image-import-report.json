@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "startedAt": "2026-07-03T09:25:26.706Z",
+  "version": 2,
+  "startedAt": "2026-08-10T09:17:02.724Z",
   "options": {
     "scope": "all",
     "limit": 50,
@@ -11,76 +11,19 @@
     "delayMs": 350
   },
   "totalSelected": 50,
-  "imported": 34,
-  "skipped": 4,
-  "noMatch": 12,
+  "imported": 5,
+  "skipped": 0,
+  "noMatch": 45,
   "errors": 0,
+  "feedbackFiltered": 3,
   "results": [
-    {
-      "productId": "lux-000001",
-      "outcome": "already-imported",
-      "status": "approved"
-    },
-    {
-      "productId": "lux-000002",
-      "outcome": "already-imported",
-      "status": "approved"
-    },
-    {
-      "productId": "lux-000003",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "medium",
-      "score": 84.7,
-      "commonsTitle": "File:Koenigsegg Jesko Auto Zuerich 2023 1X7A1382.jpg"
-    },
-    {
-      "productId": "lux-000004",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:Koenigsegg Gemera, Auto 2024, Zurich (PANA0947).jpg"
-    },
-    {
-      "productId": "lux-000005",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:Pagani Utopia Auto Zuerich 2023 1X7A1452.jpg"
-    },
     {
       "productId": "lux-000006",
       "outcome": "imported",
       "status": "unreviewed",
       "confidence": "high",
       "score": 138,
-      "commonsTitle": "File:2020 Pagani Huayra Roadster BC M158 engine, left side (New Canaan).jpg"
-    },
-    {
-      "productId": "lux-000007",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 134,
-      "commonsTitle": "File:Mercedes-AMG ONE (53275053513).jpg"
-    },
-    {
-      "productId": "lux-000008",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:Ferrari Daytona SP3 (rear view) at Osaka Auto Messe 2026.jpg"
-    },
-    {
-      "productId": "lux-000009",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 91,
-      "commonsTitle": "File:2025 Ferrari SF90 Stradale - 01.jpg"
+      "commonsTitle": "File:2020 Pagani Huayra Roadster BC in Blue and Carbon Fibre, rear left (Greenwich 2024).jpg"
     },
     {
       "productId": "lux-000010",
@@ -88,143 +31,7 @@
       "status": "unreviewed",
       "confidence": "high",
       "score": 138,
-      "commonsTitle": "File:Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6817.jpg"
-    },
-    {
-      "productId": "lux-000011",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:2023 McLaren Solus GT 1.jpg"
-    },
-    {
-      "productId": "lux-000012",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:McLaren W1 (55129817900).jpg"
-    },
-    {
-      "productId": "lux-000013",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:Lamborghini Revuelto Auto Zuerich 2023 1X7A1367.jpg"
-    },
-    {
-      "productId": "lux-000014",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:2026 Lamborghini Temerario - 02.jpg"
-    },
-    {
-      "productId": "lux-000015",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:Rolls-Royce Phantom Extended VIII Dark Emerald (3).jpg"
-    },
-    {
-      "productId": "lux-000016",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:2023 Rolls-Royce Spectre EV - 102kWh (585PS) Electric - Wittering Blue - 06-2024, Front.jpg"
-    },
-    {
-      "productId": "lux-000017",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 108,
-      "commonsTitle": "File:2022 Rolls-Royce Cullinan Black Badge V12 Auto.jpg"
-    },
-    {
-      "productId": "lux-000018",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "medium",
-      "score": 72,
-      "commonsTitle": "File:2017 Bentley Continental GT SuperSports Auto 1.jpg"
-    },
-    {
-      "productId": "lux-000019",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:Aston Martin Valkyrie AMR Pro (front three-quarter view1) at Osaka Auto Messe 2026.jpg"
-    },
-    {
-      "productId": "lux-000020",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:2024 Aston Martin Valour in Andromeda Red, front (Miller).jpg"
-    },
-    {
-      "productId": "lux-000021",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 110,
-      "commonsTitle": "File:Porsche 911 ST, Auto 2025, Zurich (20251029-P1074413).jpg"
-    },
-    {
-      "productId": "lux-000022",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:Concept cars, Festival automobile international 2014 - Porsche 918 spyder 1.jpg"
-    },
-    {
-      "productId": "lux-000023",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:Rimac Nevera R, Auto 2024, Zurich (PANA0631).jpg"
-    },
-    {
-      "productId": "lux-000024",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:Lotus Evija 001.jpg"
-    },
-    {
-      "productId": "lux-000025",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:2023 Gordon Murray Automotive T.50 Pre Series Prototype 2 HCC24.jpg"
-    },
-    {
-      "productId": "lux-000026",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:Ducati Superleggera V4 - container.jpg"
-    },
-    {
-      "productId": "lux-000027",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:MV Agusta Rush 1000 - EICMA 2024.jpg"
+      "commonsTitle": "File:Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6881.jpg"
     },
     {
       "productId": "lux-000028",
@@ -232,22 +39,12 @@
       "query": "\"Arch 1s\" Arch Motorcycle car automobile"
     },
     {
-      "productId": "lux-000029",
-      "outcome": "already-imported",
-      "status": "approved"
-    },
-    {
-      "productId": "lux-000030",
-      "outcome": "already-imported",
-      "status": "approved"
-    },
-    {
       "productId": "lux-000031",
       "outcome": "imported",
       "status": "unreviewed",
       "confidence": "medium",
       "score": 84.7,
-      "commonsTitle": "File:Bombardier Global 7500, Paris Air Show 2019, Le Bourget (SIAE8909).jpg"
+      "commonsTitle": "File:Gandel Investments (VH-TGG) Bombardier Global 7500 on rotation at Sydney Airport (2).jpg"
     },
     {
       "productId": "lux-000032",
@@ -255,60 +52,12 @@
       "status": "unreviewed",
       "confidence": "high",
       "score": 138,
-      "commonsTitle": "File:Bombardier Global 7500, Paris Air Show 2019, Le Bourget (SIAE8909).jpg"
+      "commonsTitle": "File:Gandel Investments (VH-TGG) Bombardier Global 7500 on rotation at Sydney Airport (2).jpg"
     },
     {
       "productId": "lux-000033",
       "outcome": "no-match",
       "query": "\"Dassault Falcon 10X\" Dassault Aviation aircraft jet helicopter"
-    },
-    {
-      "productId": "lux-000034",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:Dassault Aviation, F-HFSD, Dassault Falcon 8X (35549114781).jpg"
-    },
-    {
-      "productId": "lux-000035",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:Embraer Praetor 600, Paris Air Show 2019, Le Bourget (SIAE0698).jpg"
-    },
-    {
-      "productId": "lux-000036",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:Cessna Citation Longitude N807QS.jpg"
-    },
-    {
-      "productId": "lux-000037",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:Antwerp NetJets Europe Cessna Citation Latitude CS-LAS.jpg"
-    },
-    {
-      "productId": "lux-000038",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:EC-NRA Pilatus PC-24 during landing at LFBT airport.jpg"
-    },
-    {
-      "productId": "lux-000039",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:Antwerp Air Bohemia Pilatus PC-12 NGX OK-PTT.jpg"
     },
     {
       "productId": "lux-000040",
@@ -319,14 +68,6 @@
       "productId": "lux-000041",
       "outcome": "no-match",
       "query": "\"Bell 525 Relentless\"  aircraft jet helicopter"
-    },
-    {
-      "productId": "lux-000042",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:G-MGPS Leonardo AW169 Helicopter.jpg"
     },
     {
       "productId": "lux-000043",
@@ -367,7 +108,180 @@
       "productId": "lux-000050",
       "outcome": "no-match",
       "query": "\"Lürssen Project Cosmos\"  yacht boat"
+    },
+    {
+      "productId": "lux-000051",
+      "outcome": "no-match",
+      "query": "\"Benetti B.Now 67M Oasis\"  yacht boat"
+    },
+    {
+      "productId": "lux-000052",
+      "outcome": "no-match",
+      "query": "\"Princess X95 Vista\" Princess Yachts yacht boat"
+    },
+    {
+      "productId": "lux-000053",
+      "outcome": "no-match",
+      "query": "\"Wally WHY200\"  yacht boat"
+    },
+    {
+      "productId": "lux-000054",
+      "outcome": "no-match",
+      "query": "\"Tecnomar for Lamborghini 63\"  yacht boat"
+    },
+    {
+      "productId": "lux-000055",
+      "outcome": "no-match",
+      "query": "\"Riva 88' Folgore\"  yacht boat"
+    },
+    {
+      "productId": "lux-000056",
+      "outcome": "no-match",
+      "query": "\"Baltic 146 Path\" Baltic Yachts yacht boat"
+    },
+    {
+      "productId": "lux-000057",
+      "outcome": "no-match",
+      "query": "\"Rolex Cosmograph Daytona Platinum\"  watch wristwatch"
+    },
+    {
+      "productId": "lux-000059",
+      "outcome": "no-match",
+      "query": "\"Rolex Day-Date 40 Everose Gold\"  watch wristwatch"
+    },
+    {
+      "productId": "lux-000060",
+      "outcome": "no-match",
+      "query": "\"Patek Philippe Grandmaster Chime 6300\"  watch wristwatch"
+    },
+    {
+      "productId": "lux-000061",
+      "outcome": "no-match",
+      "query": "\"Patek Philippe Nautilus 5811/1G\"  watch wristwatch"
+    },
+    {
+      "productId": "lux-000062",
+      "outcome": "no-match",
+      "query": "\"Patek Philippe Aquanaut 5167A\"  watch wristwatch"
+    },
+    {
+      "productId": "lux-000063",
+      "outcome": "no-match",
+      "query": "\"Richard Mille RM 56-02 Sapphire\"  watch wristwatch"
+    },
+    {
+      "productId": "lux-000064",
+      "outcome": "no-match",
+      "query": "\"Richard Mille RM 27-05 Flying Tourbillon Rafael Nadal\"  watch wristwatch"
+    },
+    {
+      "productId": "lux-000065",
+      "outcome": "no-match",
+      "query": "\"Audemars Piguet Royal Oak Concept Flying Tourbillon\"  watch wristwatch"
+    },
+    {
+      "productId": "lux-000066",
+      "outcome": "no-match",
+      "query": "\"Audemars Piguet Royal Oak Jumbo Extra-Thin 16202ST\"  watch wristwatch"
+    },
+    {
+      "productId": "lux-000067",
+      "outcome": "no-match",
+      "query": "\"Jacob & Co. Billionaire Timeless Treasure\"  watch wristwatch"
+    },
+    {
+      "productId": "lux-000068",
+      "outcome": "no-match",
+      "query": "\"Vacheron Constantin Les Cabinotiers Armillary Tourbillon\"  watch wristwatch"
+    },
+    {
+      "productId": "lux-000069",
+      "outcome": "no-match",
+      "query": "\"Vacheron Constantin Overseas Tourbillon\"  watch wristwatch"
+    },
+    {
+      "productId": "lux-000070",
+      "outcome": "no-match",
+      "query": "\"A. Lange & Söhne Grand Complication\"  watch wristwatch"
+    },
+    {
+      "productId": "lux-000071",
+      "outcome": "no-match",
+      "query": "\"F.P. Journe Chronomètre Bleu\"  watch wristwatch"
+    },
+    {
+      "productId": "lux-000072",
+      "outcome": "no-match",
+      "query": "\"Greubel Forsey Hand Made 1\"  watch wristwatch"
+    },
+    {
+      "productId": "lux-000073",
+      "outcome": "no-match",
+      "query": "\"H. Moser & Cie. Streamliner Tourbillon Skeleton\"  watch wristwatch"
+    },
+    {
+      "productId": "lux-000074",
+      "outcome": "no-match",
+      "query": "\"Breguet Classique Double Tourbillon 5345\"  watch wristwatch"
+    },
+    {
+      "productId": "lux-000075",
+      "outcome": "no-match",
+      "query": "\"Cartier Privé Tortue Monopoussoir Chronograph\"  watch wristwatch"
+    },
+    {
+      "productId": "lux-000076",
+      "outcome": "no-match",
+      "query": "\"Omega Speedmaster Calibre 321 Canopus Gold\"  watch wristwatch"
+    },
+    {
+      "productId": "lux-000077",
+      "outcome": "no-match",
+      "query": "\"IWC Portugieser Eternal Calendar\"  watch wristwatch"
+    },
+    {
+      "productId": "lux-000078",
+      "outcome": "no-match",
+      "query": "\"Jaeger-LeCoultre Reverso Hybris Artistica Calibre 179\"  watch wristwatch"
+    },
+    {
+      "productId": "lux-000079",
+      "outcome": "no-match",
+      "query": "\"Hermès Birkin 25 Himalaya\"  fashion product"
+    },
+    {
+      "productId": "lux-000080",
+      "outcome": "no-match",
+      "query": "\"Hermès Kelly 25 Sellier\"  fashion product"
+    },
+    {
+      "productId": "lux-000081",
+      "outcome": "no-match",
+      "query": "\"Chanel 2.55 Reissue Handbag\"  fashion product"
+    },
+    {
+      "productId": "lux-000082",
+      "outcome": "no-match",
+      "query": "\"Louis Vuitton Capucines Mini\"  fashion product"
+    },
+    {
+      "productId": "lux-000083",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "low",
+      "score": 28,
+      "commonsTitle": "File:Lady walking with her dog (1878)., by Giuseppe De Nittis.jpg"
+    },
+    {
+      "productId": "lux-000084",
+      "outcome": "no-match",
+      "query": "\"Bottega Veneta Andiamo\"  fashion product"
+    },
+    {
+      "productId": "lux-000085",
+      "outcome": "no-match",
+      "query": "\"Loro Piana André Shirt\"  fashion product"
     }
   ],
-  "finishedAt": "2026-07-03T09:27:32.869Z"
+  "finishedAt": "2026-08-10T09:19:26.683Z"
 }
