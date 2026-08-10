@@ -127,6 +127,7 @@ export type ImageReviewCandidate = {
   height?: number;
   score: number;
   path?: string;
+  query?: string;
 };
 
 export type ImageReviewItem = {
@@ -136,6 +137,9 @@ export type ImageReviewItem = {
   brand?: string;
   categoryLabel?: string;
   query?: string;
+  queryHistory?: string[];
+  searchVersion?: number;
+  attemptCount?: number;
   status: ImageReviewStatus;
   confidence: ImageConfidence;
   score: number;
@@ -149,6 +153,7 @@ export type ImageReviewItem = {
 export type ImageReviewQueue = {
   version: number;
   generatedAt: string;
+  searchVersion?: number;
   items: ImageReviewItem[];
 };
 

@@ -44,7 +44,7 @@ concurrency:
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-  WIKIMEDIA_USER_AGENT: "SpendAnythingImageImporter/1.0 (+https://github.com/${{ github.repository }})"
+  WIKIMEDIA_USER_AGENT: "SpendAnythingImageImporter/2.0 (+https://github.com/${{ github.repository }})"
 
 jobs:
   import-and-build:
@@ -106,7 +106,22 @@ jobs:
         if: always()
         run: |
           if [ -f public/data/image-import-report.json ]; then
-            node -e 'const r=require("./public/data/image-import-report.json"); console.log(`## Bildimport\n- Valda: ${r.totalSelected}\n- Importerade: ${r.imported}\n- Redan klara: ${r.skipped}\n- Utan träff: ${r.noMatch}\n- Fel: ${r.errors}`)' >> "$GITHUB_STEP_SUMMARY"
+            node - <<'NODE' >> "$GITHUB_STEP_SUMMARY"
+            const r = require("./public/data/image-import-report.json");
+            const s = r.selectionStats || {};
+            console.log(`## Bildimport v${r.searchVersion || "?"}`);
+            console.log(`- Valda: ${r.totalSelected}`);
+            console.log(`- Importerade: ${r.imported}`);
+            console.log(`- Utan träff: ${r.noMatch}`);
+            console.log(`- Fel: ${r.errors}`);
+            console.log(`- Nya produkter: ${s.fresh || 0}`);
+            console.log(`- Omförsök från äldre söklogik: ${s["upgrade-retry"] || 0}`);
+            console.log(`- Omförsök efter nekad bild: ${s.rejected || 0}`);
+            console.log(`- Pausade utan träff i aktuell version: ${s.exhausted || 0}`);
+            console.log(`- Tidigare nekade kandidater filtrerade: ${r.feedbackFiltered || 0}`);
+            console.log(`- Commons-sökningar: ${r.queryRequests || 0}`);
+            if ((r.learnedBadTerms || []).length) console.log(`- Lärda negativa signaler: ${r.learnedBadTerms.join(", ")}`);
+            NODE
           fi
 
       - name: Upload Pages artifact
