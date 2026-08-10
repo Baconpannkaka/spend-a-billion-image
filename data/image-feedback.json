@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T12:05:48.942Z",
+  "updatedAt": "2026-08-10T12:30:43.587Z",
   "products": {
     "lux-000003": {
       "approved": [
@@ -913,10 +913,18 @@
           "confidence": "medium",
           "query": "Microsoft xbox",
           "reviewedAt": "2026-08-10T11:51:34.891Z"
+        },
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox_MTV_-_Elijah_Wood.jpg",
+          "commonsTitle": "File:Xbox MTV - Elijah Wood.jpg",
+          "score": 90,
+          "confidence": "medium",
+          "query": "Microsoft xbox",
+          "reviewedAt": "2026-08-10T12:30:43.587Z"
         }
       ],
       "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T11:51:34.891Z"
+      "updatedAt": "2026-08-10T12:30:43.587Z"
     },
     "everyday-000014": {
       "approved": [
@@ -1072,10 +1080,18 @@
           "confidence": "medium",
           "query": "Adidas ultraboost",
           "reviewedAt": "2026-08-10T11:51:34.891Z"
+        },
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blackpink_Adidas_70th_anniversary_Ultraboost.png",
+          "commonsTitle": "File:Blackpink Adidas 70th anniversary Ultraboost.png",
+          "score": 107,
+          "confidence": "medium",
+          "query": "Adidas ultraboost",
+          "reviewedAt": "2026-08-10T12:30:43.587Z"
         }
       ],
       "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T11:51:34.891Z"
+      "updatedAt": "2026-08-10T12:30:43.587Z"
     },
     "everyday-000194": {
       "approved": [],
@@ -1087,10 +1103,18 @@
           "confidence": "low",
           "query": "Pepsi max 1.5",
           "reviewedAt": "2026-08-10T11:51:34.891Z"
+        },
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canucks-game5-2012-rogers-arena-20120422-10_(6976879568)_(Pepsi_Max_tent).jpg",
+          "commonsTitle": "File:Canucks-game5-2012-rogers-arena-20120422-10 (6976879568) (Pepsi Max tent).jpg",
+          "score": 59,
+          "confidence": "low",
+          "query": "Pepsi max 1.5",
+          "reviewedAt": "2026-08-10T12:30:43.587Z"
         }
       ],
       "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T11:51:34.891Z"
+      "updatedAt": "2026-08-10T12:30:43.587Z"
     },
     "lux-000112": {
       "approved": [
@@ -1126,10 +1150,18 @@
           "confidence": "low",
           "query": "Microsoft xbox",
           "reviewedAt": "2026-08-10T11:51:34.891Z"
+        },
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox_One_Launch_NASDAQ_(1).jpg",
+          "commonsTitle": "File:Xbox One Launch NASDAQ (1).jpg",
+          "score": 51,
+          "confidence": "low",
+          "query": "Microsoft xbox",
+          "reviewedAt": "2026-08-10T12:30:43.587Z"
         }
       ],
       "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T11:51:34.891Z"
+      "updatedAt": "2026-08-10T12:30:43.587Z"
     },
     "everyday-000016": {
       "approved": [
@@ -1250,6 +1282,51 @@
       "rejected": [],
       "lastDecision": "approved",
       "updatedAt": "2026-08-10T12:05:48.942Z"
+    },
+    "everyday-000091": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:HK_KTD_%E4%B9%9D%E9%BE%8D%E7%81%A3_Kln_Bay_MegaBox_mall_shop_%E5%AE%9C%E5%AE%B6%E5%82%A2%E4%BF%AC_IKEA_furniture_in_April_2022_Px3_27.jpg",
+          "commonsTitle": "File:HK KTD 九龍灣 Kln Bay MegaBox mall shop 宜家傢俬 IKEA furniture in April 2022 Px3 27.jpg",
+          "score": 50,
+          "confidence": "low",
+          "query": "IKEA kallax shelving unit",
+          "reviewedAt": "2026-08-10T12:30:43.587Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T12:30:43.587Z"
+    },
+    "everyday-000190": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zhang_Ling_at_the_2011_Hong_Kong_Tennis_Classic.jpg",
+          "commonsTitle": "File:Zhang Ling at the 2011 Hong Kong Tennis Classic.jpg",
+          "score": 73,
+          "confidence": "medium",
+          "query": "KONG classic",
+          "reviewedAt": "2026-08-10T12:30:43.587Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T12:30:43.587Z"
+    },
+    "everyday-000182": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Super_Mario_Bros._Wonder_booth_at_EGX_-_October_2023.jpg",
+          "commonsTitle": "File:Super Mario Bros. Wonder booth at EGX - October 2023.jpg",
+          "score": 62,
+          "confidence": "low",
+          "query": "\"Nintendo Super Mario Bros. Wonder\"",
+          "reviewedAt": "2026-08-10T12:30:43.587Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T12:30:43.587Z"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-08-10T12:05:48.942Z",
+  "generatedAt": "2026-08-10T12:30:43.587Z",
   "images": [
     {
       "productId": "everyday-000001",
@@ -390,7 +390,7 @@
       "creator": "Microsoft Corporation",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 1067,
       "importedAt": "2026-08-10T11:56:58.846Z",
@@ -398,7 +398,8 @@
       "confidence": "medium",
       "score": 90,
       "sha1": "7cd1ccab61aa5b5ee63d94f17044bc28e190c01f",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:30:43.587Z"
     },
     {
       "productId": "everyday-000074",
@@ -408,7 +409,7 @@
       "creator": "Microsoft",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 1067,
       "importedAt": "2026-08-10T11:57:17.401Z",
@@ -416,7 +417,8 @@
       "confidence": "low",
       "score": 51,
       "sha1": "95053844b1301736a72ceca204f2e2b6f52dc943",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:30:43.587Z"
     },
     {
       "productId": "everyday-000075",
@@ -464,7 +466,7 @@
       "creator": "GACWLUBOR HAMUIG",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-08-10T11:59:39.552Z",
@@ -472,7 +474,8 @@
       "confidence": "low",
       "score": 50,
       "sha1": "c01181aabf69740d2f6596147d5b68d3e51aed7b",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:30:43.587Z"
     },
     {
       "productId": "everyday-000097",
@@ -634,7 +637,7 @@
       "creator": "Marie Claire Korea",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 808,
       "height": 796,
       "importedAt": "2026-08-10T11:57:02.840Z",
@@ -642,7 +645,8 @@
       "confidence": "medium",
       "score": 107,
       "sha1": "be444b3fe22c25b4c11235caa23212526288a5ac",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:30:43.587Z"
     },
     {
       "productId": "everyday-000150",
@@ -765,7 +769,7 @@
       "creator": "Captain Galaxy",
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-08-10T12:00:41.828Z",
@@ -773,7 +777,8 @@
       "confidence": "low",
       "score": 62,
       "sha1": "52649e35698d23efa856b4912d2fde82e35b0f58",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:30:43.587Z"
     },
     {
       "productId": "everyday-000190",
@@ -783,7 +788,7 @@
       "creator": "www.OnCourtAdvantageCom",
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 480,
       "height": 320,
       "importedAt": "2026-08-10T12:00:50.594Z",
@@ -791,7 +796,8 @@
       "confidence": "medium",
       "score": 73,
       "sha1": "b75fecde2e7d619f6ae99a1e4667e4672099885d",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:30:43.587Z"
     },
     {
       "productId": "everyday-000194",
@@ -801,7 +807,7 @@
       "creator": "Roland Tanglao from Vancouver, Canada",
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 602,
       "height": 457,
       "importedAt": "2026-08-10T11:57:11.499Z",
@@ -809,7 +815,8 @@
       "confidence": "low",
       "score": 59,
       "sha1": "7a8072909a0d9549abf8a97952f745266589e474",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:30:43.587Z"
     },
     {
       "productId": "lux-000001",
