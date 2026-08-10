@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-08-10T11:47:17.436Z",
+  "generatedAt": "2026-08-10T11:51:34.891Z",
   "images": [
     {
       "productId": "everyday-000001",
@@ -333,7 +333,7 @@
       "creator": "Microsoft",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 1067,
       "importedAt": "2026-08-10T11:35:03.914Z",
@@ -341,7 +341,8 @@
       "confidence": "medium",
       "score": 90,
       "sha1": "95053844b1301736a72ceca204f2e2b6f52dc943",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T11:51:34.891Z"
     },
     {
       "productId": "everyday-000074",
@@ -351,7 +352,7 @@
       "creator": "Microsoft",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 876,
       "height": 584,
       "importedAt": "2026-08-10T11:37:06.725Z",
@@ -359,7 +360,8 @@
       "confidence": "low",
       "score": 51,
       "sha1": "16d052cdaa57af6e44adc5d8d29605885ce3e910",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T11:51:34.891Z"
     },
     {
       "productId": "everyday-000075",
@@ -502,7 +504,7 @@
       "creator": "Marie Claire Korea",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1377,
       "height": 871,
       "importedAt": "2026-08-10T11:39:18.396Z",
@@ -510,7 +512,8 @@
       "confidence": "medium",
       "score": 110,
       "sha1": "bd6aabf90e6e7bea295c375f163894a18ea2f84e",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T11:51:34.891Z"
     },
     {
       "productId": "everyday-000150",
@@ -596,7 +599,7 @@
       "creator": "Robert Brink",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1296,
       "height": 776,
       "importedAt": "2026-08-10T11:38:04.342Z",
@@ -604,7 +607,8 @@
       "confidence": "low",
       "score": 51.2,
       "sha1": "191d450e65b34ea5db69e77f0158d7d9ab239e22",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T11:51:34.891Z"
     },
     {
       "productId": "everyday-000194",
@@ -614,7 +618,7 @@
       "creator": "Roland Tanglao from Vancouver, Canada",
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 866,
       "height": 731,
       "importedAt": "2026-08-10T11:38:17.634Z",
@@ -622,7 +626,8 @@
       "confidence": "low",
       "score": 59,
       "sha1": "5ea4a308a9f08f85659c1c319417ba49e87ec30f",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T11:51:34.891Z"
     },
     {
       "productId": "lux-000001",
@@ -1486,7 +1491,7 @@
       "creator": "Emilio J. Rodríguez Posada",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-08-10T11:35:42.171Z",
@@ -1494,7 +1499,8 @@
       "confidence": "low",
       "score": 42.3,
       "sha1": "f2b68a4bf77d09986bc2fd7c0ce06bc656688e26",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T11:51:34.891Z"
     }
   ]
 }

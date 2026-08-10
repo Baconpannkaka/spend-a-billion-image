@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T11:47:17.436Z",
+  "updatedAt": "2026-08-10T11:51:34.891Z",
   "products": {
     "lux-000003": {
       "approved": [
@@ -905,10 +905,18 @@
           "confidence": "medium",
           "query": "Microsoft xbox",
           "reviewedAt": "2026-08-10T11:32:45.058Z"
+        },
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox_One_Launch_NASDAQ_(1).jpg",
+          "commonsTitle": "File:Xbox One Launch NASDAQ (1).jpg",
+          "score": 90,
+          "confidence": "medium",
+          "query": "Microsoft xbox",
+          "reviewedAt": "2026-08-10T11:51:34.891Z"
         }
       ],
       "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T11:32:45.058Z"
+      "updatedAt": "2026-08-10T11:51:34.891Z"
     },
     "everyday-000014": {
       "approved": [
@@ -1029,6 +1037,81 @@
       "rejected": [],
       "lastDecision": "approved",
       "updatedAt": "2026-08-10T11:47:17.436Z"
+    },
+    "everyday-000181": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Millennium_Falcon_in_LEGO.jpg",
+          "commonsTitle": "File:Millennium Falcon in LEGO.jpg",
+          "score": 51.2,
+          "confidence": "low",
+          "query": "LEGO Star Wars Millennium Falcon 75192  product",
+          "reviewedAt": "2026-08-10T11:51:34.891Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T11:51:34.891Z"
+    },
+    "everyday-000130": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blackpink_Adidas_70th_anniversary_Ultraboost_2.png",
+          "commonsTitle": "File:Blackpink Adidas 70th anniversary Ultraboost 2.png",
+          "score": 110,
+          "confidence": "medium",
+          "query": "Adidas ultraboost",
+          "reviewedAt": "2026-08-10T11:51:34.891Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T11:51:34.891Z"
+    },
+    "everyday-000194": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canucks-game5-2012-rogers-arena-20120422-6_(6976868688)_(Pepsi_Max).jpg",
+          "commonsTitle": "File:Canucks-game5-2012-rogers-arena-20120422-6 (6976868688) (Pepsi Max).jpg",
+          "score": 59,
+          "confidence": "low",
+          "query": "Pepsi max 1.5",
+          "reviewedAt": "2026-08-10T11:51:34.891Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T11:51:34.891Z"
+    },
+    "lux-000112": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Super_Mario_Bros_Nintendo_trasera.jpg",
+          "commonsTitle": "File:Super Mario Bros Nintendo trasera.jpg",
+          "score": 42.3,
+          "confidence": "low",
+          "query": "Nintendo super mario bros. nes",
+          "reviewedAt": "2026-08-10T11:51:34.891Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T11:51:34.891Z"
+    },
+    "everyday-000074": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:J_Allard_E3_2005_Xbox_(4).jpg",
+          "commonsTitle": "File:J Allard E3 2005 Xbox (4).jpg",
+          "score": 51,
+          "confidence": "low",
+          "query": "Microsoft xbox",
+          "reviewedAt": "2026-08-10T11:51:34.891Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T11:51:34.891Z"
     }
   }
 }
