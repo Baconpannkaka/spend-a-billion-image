@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-08-10T09:12:04.737Z",
+  "generatedAt": "2026-08-10T09:15:19.697Z",
   "items": [
     {
       "productId": "everyday-000001",
@@ -771,7 +771,7 @@
       "brand": "Pagani",
       "categoryLabel": "Fordon",
       "query": "\"Pagani Huayra Roadster BC\"  car automobile",
-      "status": "pending",
+      "status": "rejected",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:25:39.090Z",
@@ -820,7 +820,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:15:19.697Z"
     },
     {
       "productId": "lux-000007",
@@ -1006,7 +1007,7 @@
       "brand": "Ferrari",
       "categoryLabel": "Fordon",
       "query": "\"Ferrari 12Cilindri\"  car automobile",
-      "status": "pending",
+      "status": "rejected",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:25:48.376Z",
@@ -1055,7 +1056,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:15:19.697Z"
     },
     {
       "productId": "lux-000011",
@@ -2121,7 +2123,7 @@
       "brand": "Bombardier",
       "categoryLabel": "Privatflyg",
       "query": "\"Bombardier Global 8000\"  aircraft jet helicopter",
-      "status": "pending",
+      "status": "rejected",
       "confidence": "medium",
       "score": 84.7,
       "importedAt": "2026-07-03T09:26:41.717Z",
@@ -2170,7 +2172,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:15:19.697Z"
     },
     {
       "productId": "lux-000032",
@@ -2179,7 +2182,7 @@
       "brand": "Bombardier",
       "categoryLabel": "Privatflyg",
       "query": "\"Bombardier Global 7500\"  aircraft jet helicopter",
-      "status": "pending",
+      "status": "rejected",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-07-03T09:26:43.661Z",
@@ -2228,7 +2231,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:15:19.697Z"
     },
     {
       "productId": "lux-000033",

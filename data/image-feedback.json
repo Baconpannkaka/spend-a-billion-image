@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T09:12:04.737Z",
+  "updatedAt": "2026-08-10T09:15:19.697Z",
   "products": {
     "lux-000003": {
       "approved": [
@@ -451,6 +451,66 @@
       "rejected": [],
       "lastDecision": "approved",
       "updatedAt": "2026-08-10T09:12:04.737Z"
+    },
+    "lux-000006": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2020_Pagani_Huayra_Roadster_BC_M158_engine,_left_side_(New_Canaan).jpg",
+          "commonsTitle": "File:2020 Pagani Huayra Roadster BC M158 engine, left side (New Canaan).jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Pagani Huayra Roadster BC\"  car automobile",
+          "reviewedAt": "2026-08-10T09:15:19.697Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T09:15:19.697Z"
+    },
+    "lux-000010": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_12Cilindri_Spider_Auto_Zuerich_2024_DSC_6817.jpg",
+          "commonsTitle": "File:Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6817.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Ferrari 12Cilindri\"  car automobile",
+          "reviewedAt": "2026-08-10T09:15:19.697Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T09:15:19.697Z"
+    },
+    "lux-000031": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bombardier_Global_7500,_Paris_Air_Show_2019,_Le_Bourget_(SIAE8909).jpg",
+          "commonsTitle": "File:Bombardier Global 7500, Paris Air Show 2019, Le Bourget (SIAE8909).jpg",
+          "score": 84.7,
+          "confidence": "medium",
+          "query": "\"Bombardier Global 8000\"  aircraft jet helicopter",
+          "reviewedAt": "2026-08-10T09:15:19.697Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T09:15:19.697Z"
+    },
+    "lux-000032": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bombardier_Global_7500,_Paris_Air_Show_2019,_Le_Bourget_(SIAE8909).jpg",
+          "commonsTitle": "File:Bombardier Global 7500, Paris Air Show 2019, Le Bourget (SIAE8909).jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Bombardier Global 7500\"  aircraft jet helicopter",
+          "reviewedAt": "2026-08-10T09:15:19.697Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T09:15:19.697Z"
     }
   }
 }

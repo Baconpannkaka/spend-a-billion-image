@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-08-10T09:12:04.737Z",
+  "generatedAt": "2026-08-10T09:15:19.697Z",
   "images": [
     {
       "productId": "everyday-000001",
@@ -219,7 +219,7 @@
       "creator": "Mr.choppers",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 1067,
       "importedAt": "2026-07-03T09:25:39.090Z",
@@ -227,7 +227,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "88eb8c2c9f3bc7c56d51e9735da50430a85be32b",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:15:19.697Z"
     },
     {
       "productId": "lux-000007",
@@ -294,7 +295,7 @@
       "creator": "Alexander Migl",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1393,
       "height": 1200,
       "importedAt": "2026-07-03T09:25:48.376Z",
@@ -302,7 +303,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "0070023ee933d9755c28f2d1be308b2febb1563f",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:15:19.697Z"
     },
     {
       "productId": "lux-000011",
@@ -673,7 +675,7 @@
       "creator": "Matti Blume",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 1067,
       "importedAt": "2026-07-03T09:26:41.717Z",
@@ -681,7 +683,8 @@
       "confidence": "medium",
       "score": 84.7,
       "sha1": "b11c0d8a17c22f44d0a46ae06be60b9f21aa26ac",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:15:19.697Z"
     },
     {
       "productId": "lux-000032",
@@ -691,7 +694,7 @@
       "creator": "Matti Blume",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 1067,
       "importedAt": "2026-07-03T09:26:43.661Z",
@@ -699,7 +702,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "b11c0d8a17c22f44d0a46ae06be60b9f21aa26ac",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:15:19.697Z"
     },
     {
       "productId": "lux-000034",
