@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-08-10T11:28:06.831Z",
+  "generatedAt": "2026-08-10T11:30:05.070Z",
   "images": [
     {
       "productId": "everyday-000001",
@@ -48,7 +48,7 @@
       "creator": "Ahmad Ali Karim",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 800,
       "height": 1200,
       "importedAt": "2026-08-10T11:01:19.539Z",
@@ -56,7 +56,8 @@
       "confidence": "medium",
       "score": 117,
       "sha1": "f5a83bd93dd67f0bd64b696e43889ca347449d00",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T11:30:05.070Z"
     },
     {
       "productId": "everyday-000004",
@@ -161,7 +162,7 @@
       "creator": "Captainmorlypogi1959",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 900,
       "height": 1200,
       "importedAt": "2026-08-10T11:01:29.469Z",
@@ -169,7 +170,8 @@
       "confidence": "low",
       "score": 56,
       "sha1": "d684786b3739ee3c654cefcb6ba1df444a125151",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T11:30:05.070Z"
     },
     {
       "productId": "everyday-000011",

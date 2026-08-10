@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T11:28:06.831Z",
+  "updatedAt": "2026-08-10T11:30:05.070Z",
   "products": {
     "lux-000003": {
       "approved": [
@@ -596,7 +596,16 @@
       "updatedAt": "2026-08-10T11:28:06.831Z"
     },
     "everyday-000003": {
-      "approved": [],
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Space_Black_iPhone_Air.jpg",
+          "commonsTitle": "File:Space Black iPhone Air.jpg",
+          "score": 117,
+          "confidence": "medium",
+          "query": "\"iPhone Air\" Apple",
+          "reviewedAt": "2026-08-10T11:30:05.070Z"
+        }
+      ],
       "rejected": [
         {
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apple_iPhone_Air.png",
@@ -607,8 +616,8 @@
           "reviewedAt": "2026-08-10T09:52:54.167Z"
         }
       ],
-      "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T09:52:54.167Z"
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T11:30:05.070Z"
     },
     "everyday-000004": {
       "approved": [
@@ -683,7 +692,16 @@
       "updatedAt": "2026-08-10T11:28:06.831Z"
     },
     "everyday-000010": {
-      "approved": [],
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_Z_Fold_6_2024.jpg",
+          "commonsTitle": "File:Samsung Galaxy Z Fold 6 2024.jpg",
+          "score": 56,
+          "confidence": "low",
+          "query": "\"Samsung Galaxy Z Fold6\"",
+          "reviewedAt": "2026-08-10T11:30:05.070Z"
+        }
+      ],
       "rejected": [
         {
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_Z_Fold6.png",
@@ -694,8 +712,8 @@
           "reviewedAt": "2026-08-10T09:52:54.167Z"
         }
       ],
-      "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T09:52:54.167Z"
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T11:30:05.070Z"
     },
     "everyday-000006": {
       "approved": [

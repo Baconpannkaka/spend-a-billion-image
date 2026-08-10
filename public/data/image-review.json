@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-08-10T11:28:06.831Z",
+  "generatedAt": "2026-08-10T11:30:05.070Z",
   "searchVersion": 2,
   "items": [
     {
@@ -150,7 +150,7 @@
       ],
       "searchVersion": 2,
       "attemptCount": 1,
-      "status": "pending",
+      "status": "approved",
       "confidence": "medium",
       "score": 117,
       "importedAt": "2026-08-10T11:01:19.539Z",
@@ -203,7 +203,8 @@
       ],
       "notes": [
         "Bildsök v2 valde bästa kandidaten efter 5 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T11:30:05.070Z"
     },
     {
       "productId": "everyday-000004",
@@ -483,7 +484,7 @@
       ],
       "searchVersion": 2,
       "attemptCount": 1,
-      "status": "pending",
+      "status": "approved",
       "confidence": "low",
       "score": 56,
       "importedAt": "2026-08-10T11:01:29.469Z",
@@ -536,7 +537,8 @@
       ],
       "notes": [
         "Bildsök v2 valde bästa kandidaten efter 6 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T11:30:05.070Z"
     },
     {
       "productId": "everyday-000011",
