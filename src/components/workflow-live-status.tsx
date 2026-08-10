@@ -165,7 +165,6 @@ function WorkflowCard({ kind, state, request }: { kind: WorkflowKind; state: Wor
   const { run } = state;
   const requestedButNotVisible = Boolean(
     request?.kind === kind
-      && Date.now() - request.requestedAt < 30_000
       && (!run || new Date(run.created_at).getTime() < request.requestedAt - 5_000),
   );
   const active = requestedButNotVisible || isActive(run);
@@ -195,10 +194,7 @@ export function WorkflowLiveStatus({ token, request, onCompleted }: Props) {
   const previous = useRef<Record<WorkflowKind, { id: number; status: string; conclusion: string | null } | null>>({ import: null, review: null });
 
   useEffect(() => {
-    if (!token.trim()) {
-      setPollError("");
-      return;
-    }
+    if (!token.trim()) return;
 
     let cancelled = false;
     async function poll() {
