@@ -1,7 +1,7 @@
 {
   "version": 3,
   "searchVersion": 2,
-  "startedAt": "2026-08-10T11:56:50.713Z",
+  "startedAt": "2026-08-10T12:33:39.377Z",
   "options": {
     "scope": "all",
     "limit": 50,
@@ -12,44 +12,40 @@
     "delayMs": 350
   },
   "selectionStats": {
-    "rejected": 6,
+    "rejected": 7,
     "upgrade-retry": 20,
     "error-retry": 0,
-    "fresh": 24,
-    "exhausted": 74,
-    "done": 71,
+    "fresh": 23,
+    "exhausted": 107,
+    "done": 81,
     "selected": 50
   },
   "learnedBadTerms": [
     "engine"
   ],
   "totalSelected": 50,
-  "imported": 17,
+  "imported": 12,
   "skipped": 0,
-  "noMatch": 33,
+  "noMatch": 38,
   "errors": 0,
-  "feedbackFiltered": 9,
-  "queryRequests": 290,
+  "feedbackFiltered": 12,
+  "queryRequests": 292,
   "results": [
-    {
-      "productId": "lux-000112",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "low",
-      "score": 39.6,
-      "commonsTitle": "File:Super Mario Bros. 3 on NES and Sharp CRT TV 20220324b.jpg",
-      "matchedQuery": "Nintendo super mario bros. nes",
-      "queriesAttempted": 5
-    },
     {
       "productId": "everyday-000073",
       "outcome": "imported",
       "status": "unreviewed",
       "confidence": "medium",
       "score": 90,
-      "commonsTitle": "File:Xbox MTV - Elijah Wood.jpg",
+      "commonsTitle": "File:E3 XBox Press Briefing J Allard 15 MS 05 2004.jpg",
       "matchedQuery": "Microsoft xbox",
       "queriesAttempted": 5
+    },
+    {
+      "productId": "everyday-000091",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
     },
     {
       "productId": "everyday-000130",
@@ -57,281 +53,15 @@
       "status": "unreviewed",
       "confidence": "medium",
       "score": 107,
-      "commonsTitle": "File:Blackpink Adidas 70th anniversary Ultraboost.png",
+      "commonsTitle": "File:Blackpink Adidas 70th anniversary Ultraboost 3.png",
       "matchedQuery": "Adidas ultraboost",
       "queriesAttempted": 6
     },
     {
-      "productId": "everyday-000181",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "low",
-      "score": 48.2,
-      "commonsTitle": "File:Millennium falcon lego.jpg",
-      "matchedQuery": "LEGO Star Wars Millennium Falcon 75192  product",
-      "queriesAttempted": 6
-    },
-    {
-      "productId": "everyday-000194",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "low",
-      "score": 59,
-      "commonsTitle": "File:Canucks-game5-2012-rogers-arena-20120422-10 (6976879568) (Pepsi Max tent).jpg",
-      "matchedQuery": "Pepsi max 1.5",
-      "queriesAttempted": 6
-    },
-    {
-      "productId": "everyday-000074",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "low",
-      "score": 51,
-      "commonsTitle": "File:Xbox One Launch NASDAQ (1).jpg",
-      "matchedQuery": "Microsoft xbox",
-      "queriesAttempted": 6
-    },
-    {
-      "productId": "lux-000047",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000062",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000083",
-      "outcome": "no-match",
-      "queriesAttempted": 7,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000095",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000106",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000114",
-      "outcome": "no-match",
-      "queriesAttempted": 7,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000048",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000063",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000084",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000096",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "low",
-      "score": 21,
-      "commonsTitle": "File:Natural History Museum - Chalk Emerald.jpg",
-      "matchedQuery": "Harry Winston winston cluster diamond necklace",
-      "queriesAttempted": 6
-    },
-    {
-      "productId": "lux-000107",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000115",
-      "outcome": "no-match",
-      "queriesAttempted": 7,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000049",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000064",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000085",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000116",
-      "outcome": "no-match",
-      "queriesAttempted": 7,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000050",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000065",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000086",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000117",
-      "outcome": "no-match",
-      "queriesAttempted": 7,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000016",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 139,
-      "commonsTitle": "File:Tablet main screen of OnePlus Open.jpg",
-      "matchedQuery": "\"OnePlus Open\"  product",
-      "queriesAttempted": 1
-    },
-    {
-      "productId": "everyday-000028",
-      "outcome": "no-match",
-      "queriesAttempted": 5,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000051",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000076",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 136,
-      "commonsTitle": "File:Nintendo Switch OLED.png",
-      "matchedQuery": "Nintendo switch oled",
-      "queriesAttempted": 6
-    },
-    {
-      "productId": "everyday-000091",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "low",
-      "score": 50,
-      "commonsTitle": "File:HK KTD 九龍灣 Kln Bay MegaBox mall shop 宜家傢俬 IKEA furniture in April 2022 Px3 27.jpg",
-      "matchedQuery": "IKEA kallax shelving unit",
-      "queriesAttempted": 6
-    },
-    {
-      "productId": "everyday-000101",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "medium",
-      "score": 109,
-      "commonsTitle": "File:Oldest chair of Fritz Hansen.JPG",
-      "matchedQuery": "Fritz Hansen chair",
-      "queriesAttempted": 6
-    },
-    {
-      "productId": "everyday-000109",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000121",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "low",
-      "score": 47,
-      "commonsTitle": "File:Fjällräven.JPG",
-      "matchedQuery": "Fjällräven greenland jacket",
-      "queriesAttempted": 6
-    },
-    {
-      "productId": "everyday-000131",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000141",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000154",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000164",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000169",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000176",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 139,
-      "commonsTitle": "File:STOKKE TRIPP TRAPP (3891978042).jpg",
-      "matchedQuery": "\"Stokke Tripp Trapp\"",
-      "queriesAttempted": 2
-    },
-    {
       "productId": "everyday-000182",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "low",
-      "score": 62,
-      "commonsTitle": "File:Super Mario Bros. Wonder booth at EGX - October 2023.jpg",
-      "matchedQuery": "\"Nintendo Super Mario Bros. Wonder\"",
-      "queriesAttempted": 6
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
     },
     {
       "productId": "everyday-000190",
@@ -339,66 +69,316 @@
       "status": "unreviewed",
       "confidence": "medium",
       "score": 73,
-      "commonsTitle": "File:Zhang Ling at the 2011 Hong Kong Tennis Classic.jpg",
+      "commonsTitle": "File:Classic Hong Kong buses together in rainy day. (49298839552).jpg",
       "matchedQuery": "KONG classic",
       "queriesAttempted": 7
     },
     {
-      "productId": "everyday-000195",
+      "productId": "everyday-000194",
       "outcome": "no-match",
       "queriesAttempted": 6,
       "searchVersion": 2
     },
     {
-      "productId": "everyday-000017",
+      "productId": "everyday-000074",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "low",
+      "score": 51,
+      "commonsTitle": "File:E3 XBox Press Briefing J Allard 15 MS 05 2004.jpg",
+      "matchedQuery": "Microsoft xbox",
+      "queriesAttempted": 6
+    },
+    {
+      "productId": "lux-000051",
       "outcome": "no-match",
       "queriesAttempted": 6,
       "searchVersion": 2
     },
     {
-      "productId": "everyday-000029",
+      "productId": "lux-000066",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000087",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000118",
+      "outcome": "no-match",
+      "queriesAttempted": 7,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000052",
+      "outcome": "no-match",
+      "queriesAttempted": 5,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000067",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000088",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000119",
+      "outcome": "no-match",
+      "queriesAttempted": 7,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000053",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000068",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000089",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000120",
+      "outcome": "no-match",
+      "queriesAttempted": 7,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000054",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000069",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000090",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000121",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "low",
+      "score": 50.4,
+      "commonsTitle": "File:Cosplay of Monkey D. Luffy from One Piece at Made in Asia 2023.jpg",
+      "matchedQuery": "One Piece monkey d. luffy manga",
+      "queriesAttempted": 7
+    },
+    {
+      "productId": "lux-000055",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000070",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000122",
+      "outcome": "no-match",
+      "queriesAttempted": 7,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000056",
+      "outcome": "no-match",
+      "queriesAttempted": 5,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000018",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 140,
+      "commonsTitle": "File:半夜首发！第一手拿到了Nothing Phone (3) ！灯条没了、背后多一个screen！-00.00.22.579.png",
+      "matchedQuery": "\"Nothing Phone (3)\"",
+      "queriesAttempted": 2
+    },
+    {
+      "productId": "everyday-000030",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000053",
       "outcome": "imported",
       "status": "unreviewed",
       "confidence": "high",
       "score": 142,
-      "commonsTitle": "File:DELL XPS 13 and 15 (37080596413).jpg",
-      "matchedQuery": "\"Dell XPS 13\"",
+      "commonsTitle": "File:Apple AirPods Max packaging.jpg",
+      "matchedQuery": "\"Apple AirPods Max\"",
       "queriesAttempted": 2
     },
     {
-      "productId": "everyday-000052",
+      "productId": "everyday-000078",
       "outcome": "imported",
       "status": "unreviewed",
-      "confidence": "medium",
-      "score": 86,
-      "commonsTitle": "File:Bose QuietComfort Ultra Earbuds - 2.jpg",
-      "matchedQuery": "Bose quietcomfort ultra headphones",
+      "confidence": "low",
+      "score": 62,
+      "commonsTitle": "File:20251008 ROG Ally X 掌机一代（COMICUP 2025 SP漫展的 WD BLACK展台上的）.jpg",
+      "matchedQuery": "\"ASUS ROG Ally X\"",
       "queriesAttempted": 6
     },
     {
-      "productId": "everyday-000077",
+      "productId": "everyday-000093",
       "outcome": "no-match",
       "queriesAttempted": 6,
       "searchVersion": 2
     },
     {
-      "productId": "everyday-000092",
+      "productId": "everyday-000103",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "medium",
+      "score": 109,
+      "commonsTitle": "File:Aeron Chair by Herman Miller (9446986497).jpg",
+      "matchedQuery": "Herman Miller aeron chair",
+      "queriesAttempted": 6
+    },
+    {
+      "productId": "everyday-000111",
+      "outcome": "no-match",
+      "queriesAttempted": 7,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000122",
       "outcome": "no-match",
       "queriesAttempted": 6,
       "searchVersion": 2
     },
     {
-      "productId": "everyday-000102",
+      "productId": "everyday-000132",
       "outcome": "no-match",
       "queriesAttempted": 6,
       "searchVersion": 2
     },
     {
-      "productId": "everyday-000110",
+      "productId": "everyday-000142",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000155",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000165",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000170",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "medium",
+      "score": 73,
+      "commonsTitle": "File:Thule Motion – pushing the limits of space (11727241336).jpg",
+      "matchedQuery": "Thule motion",
+      "queriesAttempted": 7
+    },
+    {
+      "productId": "everyday-000177",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000183",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000191",
+      "outcome": "no-match",
+      "queriesAttempted": 5,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000196",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000019",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000031",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "medium",
+      "score": 82.4,
+      "commonsTitle": "File:Lenovo ThinkPad X1 Carbon (first gen) (10773963714).jpg",
+      "matchedQuery": "Lenovo thinkpad x1 carbon gen",
+      "queriesAttempted": 6
+    },
+    {
+      "productId": "everyday-000054",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000079",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 142,
+      "commonsTitle": "File:Meta Quest 3 display unit.jpg",
+      "matchedQuery": "\"Meta Quest 3\"",
+      "queriesAttempted": 2
+    },
+    {
+      "productId": "everyday-000094",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000104",
       "outcome": "no-match",
       "queriesAttempted": 6,
       "searchVersion": 2
     }
   ],
-  "finishedAt": "2026-08-10T12:01:34.090Z"
+  "finishedAt": "2026-08-10T12:37:43.785Z"
 }

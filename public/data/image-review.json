@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-08-10T12:30:43.587Z",
+  "generatedAt": "2026-08-10T12:37:43.785Z",
   "searchVersion": 2,
   "items": [
     {
@@ -945,6 +945,90 @@
       ]
     },
     {
+      "productId": "everyday-000018",
+      "mode": "everyday",
+      "productName": "Nothing Phone (3)",
+      "brand": "Nothing",
+      "categoryLabel": "Mobiltelefoner",
+      "query": "\"Nothing Phone (3)\"",
+      "queryHistory": [
+        "\"Nothing Phone (3)\"  product",
+        "\"Nothing Phone (3)\""
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "pending",
+      "confidence": "high",
+      "score": 140,
+      "importedAt": "2026-08-10T12:35:59.671Z",
+      "selected": {
+        "title": "File:半夜首发！第一手拿到了Nothing Phone (3) ！灯条没了、背后多一个screen！-00.00.22.579.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%8D%8A%E5%A4%9C%E9%A6%96%E5%8F%91%EF%BC%81%E7%AC%AC%E4%B8%80%E6%89%8B%E6%8B%BF%E5%88%B0%E4%BA%86Nothing_Phone_(3)_%EF%BC%81%E7%81%AF%E6%9D%A1%E6%B2%A1%E4%BA%86%E3%80%81%E8%83%8C%E5%90%8E%E5%A4%9A%E4%B8%80%E4%B8%AAscreen%EF%BC%81-00.00.22.579.png",
+        "creator": "可恩Ke En",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "width": 1600,
+        "height": 900,
+        "score": 140,
+        "query": "\"Nothing Phone (3)\"",
+        "path": "/product-images/everyday-000018.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:半夜首发！第一手拿到了Nothing Phone (3) ！灯条没了、背后多一个screen！-00.00.58.734.png",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%8D%8A%E5%A4%9C%E9%A6%96%E5%8F%91%EF%BC%81%E7%AC%AC%E4%B8%80%E6%89%8B%E6%8B%BF%E5%88%B0%E4%BA%86Nothing_Phone_(3)_%EF%BC%81%E7%81%AF%E6%9D%A1%E6%B2%A1%E4%BA%86%E3%80%81%E8%83%8C%E5%90%8E%E5%A4%9A%E4%B8%80%E4%B8%AAscreen%EF%BC%81-00.00.58.734.png",
+          "creator": "可恩Ke En",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "width": 1600,
+          "height": 900,
+          "score": 140,
+          "query": "\"Nothing Phone (3)\""
+        },
+        {
+          "title": "File:半夜首发！第一手拿到了Nothing Phone (3) ！灯条没了、背后多一个screen！-00.04.06.938.png",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%8D%8A%E5%A4%9C%E9%A6%96%E5%8F%91%EF%BC%81%E7%AC%AC%E4%B8%80%E6%89%8B%E6%8B%BF%E5%88%B0%E4%BA%86Nothing_Phone_(3)_%EF%BC%81%E7%81%AF%E6%9D%A1%E6%B2%A1%E4%BA%86%E3%80%81%E8%83%8C%E5%90%8E%E5%A4%9A%E4%B8%80%E4%B8%AAscreen%EF%BC%81-00.04.06.938.png",
+          "creator": "可恩Ke En",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "width": 1600,
+          "height": 900,
+          "score": 140,
+          "query": "\"Nothing Phone (3)\""
+        }
+      ],
+      "notes": [
+        "Bildsök v2 valde bästa kandidaten efter 2 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
+      ]
+    },
+    {
+      "productId": "everyday-000019",
+      "mode": "everyday",
+      "productName": "Motorola Razr 50 Ultra",
+      "brand": "Motorola",
+      "categoryLabel": "Mobiltelefoner",
+      "query": "\"Motorola Razr 50 Ultra\"  product",
+      "queryHistory": [
+        "\"Motorola Razr 50 Ultra\"  product",
+        "\"Motorola Razr 50 Ultra\"",
+        "Motorola Razr 50 Ultra  product",
+        "\"Razr 50 Ultra\" Motorola product",
+        "Motorola Razr 50 Ultra product",
+        "Motorola razr 50 ultra"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T12:37:17.844Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+      ]
+    },
+    {
       "productId": "everyday-000023",
       "mode": "everyday",
       "productName": "MacBook Air 13-inch M4",
@@ -1228,6 +1312,71 @@
       "reviewedAt": "2026-08-10T12:05:48.942Z"
     },
     {
+      "productId": "everyday-000030",
+      "mode": "everyday",
+      "productName": "Dell Alienware Aurora R16",
+      "brand": "Dell",
+      "categoryLabel": "Datorer",
+      "query": "\"Dell Alienware Aurora R16\"  product",
+      "queryHistory": [
+        "\"Dell Alienware Aurora R16\"  product",
+        "\"Dell Alienware Aurora R16\"",
+        "Dell Alienware Aurora R16  product",
+        "\"Alienware Aurora R16\" Dell product",
+        "Dell Alienware Aurora R16 product",
+        "Dell alienware aurora r16"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T12:36:04.279Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+      ]
+    },
+    {
+      "productId": "everyday-000031",
+      "mode": "everyday",
+      "productName": "Lenovo ThinkPad X1 Carbon Gen 13",
+      "brand": "Lenovo",
+      "categoryLabel": "Datorer",
+      "query": "Lenovo thinkpad x1 carbon gen",
+      "queryHistory": [
+        "\"Lenovo ThinkPad X1 Carbon Gen 13\"  product",
+        "\"Lenovo ThinkPad X1 Carbon Gen 13\"",
+        "Lenovo ThinkPad X1 Carbon Gen 13  product",
+        "\"ThinkPad X1 Carbon Gen 13\" Lenovo product",
+        "Lenovo ThinkPad X1 Carbon Gen 13 product",
+        "Lenovo thinkpad x1 carbon gen"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "pending",
+      "confidence": "medium",
+      "score": 82.4,
+      "importedAt": "2026-08-10T12:37:27.198Z",
+      "selected": {
+        "title": "File:Lenovo ThinkPad X1 Carbon (first gen) (10773963714).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lenovo_ThinkPad_X1_Carbon_(first_gen)_(10773963714).jpg",
+        "creator": "TAKA@P.P.R.S",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "width": 1600,
+        "height": 1064,
+        "score": 82.4,
+        "query": "Lenovo thinkpad x1 carbon gen",
+        "path": "/product-images/everyday-000031.webp"
+      },
+      "alternatives": [],
+      "notes": [
+        "Bildsök v2 valde bästa kandidaten efter 6 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
+      ]
+    },
+    {
       "productId": "everyday-000046",
       "mode": "everyday",
       "productName": "Sony BRAVIA 9 75-inch",
@@ -1463,6 +1612,101 @@
       "reviewedAt": "2026-08-10T12:05:48.942Z"
     },
     {
+      "productId": "everyday-000053",
+      "mode": "everyday",
+      "productName": "Apple AirPods Max",
+      "brand": "Apple",
+      "categoryLabel": "Elektronik",
+      "query": "\"Apple AirPods Max\"",
+      "queryHistory": [
+        "\"Apple AirPods Max\"  electronics device product",
+        "\"Apple AirPods Max\""
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "pending",
+      "confidence": "high",
+      "score": 142,
+      "importedAt": "2026-08-10T12:36:05.693Z",
+      "selected": {
+        "title": "File:Apple AirPods Max packaging.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apple_AirPods_Max_packaging.jpg",
+        "creator": "SimonWaldherr",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1280,
+        "score": 142,
+        "query": "\"Apple AirPods Max\"",
+        "path": "/product-images/everyday-000053.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Apple AirPods Max 5.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apple_AirPods_Max_5.jpg",
+          "creator": "SimonWaldherr",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1280,
+          "score": 142,
+          "query": "\"Apple AirPods Max\""
+        },
+        {
+          "title": "File:Apple AirPods Max 6.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apple_AirPods_Max_6.jpg",
+          "creator": "SimonWaldherr",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1280,
+          "score": 142,
+          "query": "\"Apple AirPods Max\""
+        },
+        {
+          "title": "File:Apple AirPods Max 8.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apple_AirPods_Max_8.jpg",
+          "creator": "SimonWaldherr",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1280,
+          "score": 142,
+          "query": "\"Apple AirPods Max\""
+        }
+      ],
+      "notes": [
+        "Bildsök v2 valde bästa kandidaten efter 2 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
+      ]
+    },
+    {
+      "productId": "everyday-000054",
+      "mode": "everyday",
+      "productName": "Sennheiser Momentum 4 Wireless",
+      "brand": "Sennheiser",
+      "categoryLabel": "Elektronik",
+      "query": "\"Sennheiser Momentum 4 Wireless\"  electronics device product",
+      "queryHistory": [
+        "\"Sennheiser Momentum 4 Wireless\"  electronics device product",
+        "\"Sennheiser Momentum 4 Wireless\"",
+        "Sennheiser Momentum 4 Wireless  electronics device product",
+        "\"Momentum 4 Wireless\" Sennheiser electronics device product",
+        "Sennheiser Momentum 4 Wireless electronics device product",
+        "Sennheiser momentum wireless"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T12:37:31.521Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+      ]
+    },
+    {
       "productId": "everyday-000071",
       "mode": "everyday",
       "productName": "PlayStation 5 Pro",
@@ -1529,19 +1773,19 @@
         "Microsoft xbox"
       ],
       "searchVersion": 2,
-      "attemptCount": 3,
-      "status": "rejected",
+      "attemptCount": 4,
+      "status": "pending",
       "confidence": "medium",
       "score": 90,
-      "importedAt": "2026-08-10T11:56:58.846Z",
+      "importedAt": "2026-08-10T12:33:44.658Z",
       "selected": {
-        "title": "File:Xbox MTV - Elijah Wood.jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox_MTV_-_Elijah_Wood.jpg",
-        "creator": "Microsoft Corporation",
+        "title": "File:E3 XBox Press Briefing J Allard 15 MS 05 2004.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:E3_XBox_Press_Briefing_J_Allard_15_MS_05_2004.jpg",
+        "creator": "Microsoft",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "width": 1600,
-        "height": 1067,
+        "height": 1070,
         "score": 90,
         "query": "Microsoft xbox",
         "path": "/product-images/everyday-000073.webp"
@@ -1583,8 +1827,7 @@
       ],
       "notes": [
         "Bildsök v2 valde bästa kandidaten efter 5 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ],
-      "reviewedAt": "2026-08-10T12:30:43.587Z"
+      ]
     },
     {
       "productId": "everyday-000074",
@@ -1602,35 +1845,24 @@
         "Microsoft xbox"
       ],
       "searchVersion": 2,
-      "attemptCount": 2,
-      "status": "rejected",
+      "attemptCount": 3,
+      "status": "pending",
       "confidence": "low",
       "score": 51,
-      "importedAt": "2026-08-10T11:57:17.401Z",
+      "importedAt": "2026-08-10T12:34:15.792Z",
       "selected": {
-        "title": "File:Xbox One Launch NASDAQ (1).jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox_One_Launch_NASDAQ_(1).jpg",
+        "title": "File:E3 XBox Press Briefing J Allard 15 MS 05 2004.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:E3_XBox_Press_Briefing_J_Allard_15_MS_05_2004.jpg",
         "creator": "Microsoft",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "width": 1600,
-        "height": 1067,
+        "height": 1070,
         "score": 51,
         "query": "Microsoft xbox",
         "path": "/product-images/everyday-000074.webp"
       },
       "alternatives": [
-        {
-          "title": "File:Xbox MTV - Elijah Wood.jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox_MTV_-_Elijah_Wood.jpg",
-          "creator": "Microsoft Corporation",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "width": 1600,
-          "height": 1067,
-          "score": 51,
-          "query": "Microsoft xbox"
-        },
         {
           "title": "File:Xbox One Launch - Supercar Rides.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox_One_Launch_-_Supercar_Rides.jpg",
@@ -1652,12 +1884,22 @@
           "height": 2522,
           "score": 48,
           "query": "Microsoft xbox"
+        },
+        {
+          "title": "File:Xbox E3 Booth 2005 (3).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox_E3_Booth_2005_(3).jpg",
+          "creator": "Microsoft",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 2241,
+          "score": 48,
+          "query": "Microsoft xbox"
         }
       ],
       "notes": [
         "Bildsök v2 valde bästa kandidaten efter 6 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ],
-      "reviewedAt": "2026-08-10T12:30:43.587Z"
+      ]
     },
     {
       "productId": "everyday-000075",
@@ -1829,6 +2071,146 @@
       ]
     },
     {
+      "productId": "everyday-000078",
+      "mode": "everyday",
+      "productName": "ASUS ROG Ally X",
+      "brand": "ASUS",
+      "categoryLabel": "Gaming",
+      "query": "\"ASUS ROG Ally X\"",
+      "queryHistory": [
+        "\"ASUS ROG Ally X\"  gaming console computer accessory",
+        "\"ASUS ROG Ally X\"",
+        "ASUS ROG Ally X  gaming console computer accessory",
+        "\"ROG Ally X\" ASUS gaming console computer accessory",
+        "ASUS ROG Ally X gaming console computer accessory",
+        "ASUS rog ally"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "pending",
+      "confidence": "low",
+      "score": 62,
+      "importedAt": "2026-08-10T12:36:11.093Z",
+      "selected": {
+        "title": "File:20251008 ROG Ally X 掌机一代（COMICUP 2025 SP漫展的 WD BLACK展台上的）.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:20251008_ROG_Ally_X_%E6%8E%8C%E6%9C%BA%E4%B8%80%E4%BB%A3%EF%BC%88COMICUP_2025_SP%E6%BC%AB%E5%B1%95%E7%9A%84_WD_BLACK%E5%B1%95%E5%8F%B0%E4%B8%8A%E7%9A%84%EF%BC%89.jpg",
+        "creator": "MomodaniSakura",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1200,
+        "score": 62,
+        "query": "\"ASUS ROG Ally X\"",
+        "path": "/product-images/everyday-000078.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:ASUS ROG-Handheld-Leistungsanalyse (极客湾Geekerwan) 05.png",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:ASUS_ROG-Handheld-Leistungsanalyse_(%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan)_05.png",
+          "creator": "极客湾Geekerwan",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "width": 1600,
+          "height": 900,
+          "score": 48,
+          "query": "ASUS rog ally"
+        },
+        {
+          "title": "File:ASUS ROG-Handheld-Leistungsanalyse (极客湾Geekerwan) 02.png",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:ASUS_ROG-Handheld-Leistungsanalyse_(%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan)_02.png",
+          "creator": "极客湾Geekerwan",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "width": 1600,
+          "height": 900,
+          "score": 48,
+          "query": "ASUS rog ally"
+        },
+        {
+          "title": "File:ASUS ROG-Handheld-Leistungsanalyse (极客湾Geekerwan) 08.png",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:ASUS_ROG-Handheld-Leistungsanalyse_(%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan)_08.png",
+          "creator": "极客湾Geekerwan",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "width": 1600,
+          "height": 900,
+          "score": 48,
+          "query": "ASUS rog ally"
+        }
+      ],
+      "notes": [
+        "Bildsök v2 valde bästa kandidaten efter 6 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
+      ]
+    },
+    {
+      "productId": "everyday-000079",
+      "mode": "everyday",
+      "productName": "Meta Quest 3",
+      "brand": "Meta",
+      "categoryLabel": "Gaming",
+      "query": "\"Meta Quest 3\"",
+      "queryHistory": [
+        "\"Meta Quest 3\"  gaming console computer accessory",
+        "\"Meta Quest 3\""
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "pending",
+      "confidence": "high",
+      "score": 142,
+      "importedAt": "2026-08-10T12:37:32.691Z",
+      "selected": {
+        "title": "File:Meta Quest 3 display unit.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3_display_unit.jpg",
+        "creator": "IHazACatNamedMax",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "width": 1600,
+        "height": 1200,
+        "score": 142,
+        "query": "\"Meta Quest 3\"",
+        "path": "/product-images/everyday-000079.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Meta Quest 3 - 1.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3_-_1.jpg",
+          "creator": "Kyu3a",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1200,
+          "score": 142,
+          "query": "\"Meta Quest 3\""
+        },
+        {
+          "title": "File:Meta Quest 3 - 2.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3_-_2.jpg",
+          "creator": "Kyu3a",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1200,
+          "score": 142,
+          "query": "\"Meta Quest 3\""
+        },
+        {
+          "title": "File:Meta Quest 3 demo unit.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3_demo_unit.jpg",
+          "creator": "IHazACatNamedMax",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1200,
+          "score": 142,
+          "query": "\"Meta Quest 3\""
+        }
+      ],
+      "notes": [
+        "Bildsök v2 valde bästa kandidaten efter 2 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
+      ]
+    },
+    {
       "productId": "everyday-000086",
       "mode": "everyday",
       "productName": "Dyson V15 Detect Absolute",
@@ -1969,7 +2351,7 @@
       "productName": "IKEA KALLAX shelving unit",
       "brand": "IKEA",
       "categoryLabel": "Hem",
-      "query": "IKEA kallax shelving unit",
+      "query": "\"IKEA KALLAX shelving unit\"  home appliance product",
       "queryHistory": [
         "\"IKEA KALLAX shelving unit\"  home appliance product",
         "\"IKEA KALLAX shelving unit\"",
@@ -1979,28 +2361,16 @@
         "IKEA kallax shelving unit"
       ],
       "searchVersion": 2,
-      "attemptCount": 1,
-      "status": "rejected",
-      "confidence": "low",
-      "score": 50,
-      "importedAt": "2026-08-10T11:59:39.552Z",
-      "selected": {
-        "title": "File:HK KTD 九龍灣 Kln Bay MegaBox mall shop 宜家傢俬 IKEA furniture in April 2022 Px3 27.jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:HK_KTD_%E4%B9%9D%E9%BE%8D%E7%81%A3_Kln_Bay_MegaBox_mall_shop_%E5%AE%9C%E5%AE%B6%E5%82%A2%E4%BF%AC_IKEA_furniture_in_April_2022_Px3_27.jpg",
-        "creator": "GACWLUBOR HAMUIG",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "width": 1600,
-        "height": 1200,
-        "score": 50,
-        "query": "IKEA kallax shelving unit",
-        "path": "/product-images/everyday-000091.webp"
-      },
+      "attemptCount": 2,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T12:33:49.658Z",
+      "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v2 valde bästa kandidaten efter 6 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ],
-      "reviewedAt": "2026-08-10T12:30:43.587Z"
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+      ]
     },
     {
       "productId": "everyday-000092",
@@ -2023,6 +2393,60 @@
       "confidence": "none",
       "score": 0,
       "importedAt": "2026-08-10T12:01:23.756Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+      ]
+    },
+    {
+      "productId": "everyday-000093",
+      "mode": "everyday",
+      "productName": "IKEA STOCKHOLM rug",
+      "brand": "IKEA",
+      "categoryLabel": "Hem",
+      "query": "\"IKEA STOCKHOLM rug\"  home appliance product",
+      "queryHistory": [
+        "\"IKEA STOCKHOLM rug\"  home appliance product",
+        "\"IKEA STOCKHOLM rug\"",
+        "IKEA STOCKHOLM rug  home appliance product",
+        "\"STOCKHOLM rug\" IKEA home appliance product",
+        "IKEA STOCKHOLM rug home appliance product",
+        "IKEA stockholm rug"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T12:36:15.661Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+      ]
+    },
+    {
+      "productId": "everyday-000094",
+      "mode": "everyday",
+      "productName": "String Furniture Pocket shelf",
+      "brand": "String Furniture",
+      "categoryLabel": "Hem",
+      "query": "\"String Furniture Pocket shelf\"  home appliance product",
+      "queryHistory": [
+        "\"String Furniture Pocket shelf\"  home appliance product",
+        "\"String Furniture Pocket shelf\"",
+        "String Furniture Pocket shelf  home appliance product",
+        "\"Pocket shelf\" String Furniture home appliance product",
+        "String Furniture Pocket shelf home appliance product",
+        "String Furniture pocket shelf"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T12:37:39.180Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -2311,6 +2735,105 @@
       ]
     },
     {
+      "productId": "everyday-000103",
+      "mode": "everyday",
+      "productName": "Herman Miller Aeron Chair",
+      "brand": "Herman Miller",
+      "categoryLabel": "Möbler",
+      "query": "Herman Miller aeron chair",
+      "queryHistory": [
+        "\"Herman Miller Aeron Chair\"  furniture chair table",
+        "\"Herman Miller Aeron Chair\"",
+        "Herman Miller Aeron Chair  furniture chair table",
+        "\"Aeron Chair\" Herman Miller furniture chair table",
+        "Herman Miller Aeron Chair furniture chair table",
+        "Herman Miller aeron chair"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "pending",
+      "confidence": "medium",
+      "score": 109,
+      "importedAt": "2026-08-10T12:36:21.146Z",
+      "selected": {
+        "title": "File:Aeron Chair by Herman Miller (9446986497).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeron_Chair_by_Herman_Miller_(9446986497).jpg",
+        "creator": "Cubicle Sherpa",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "width": 1600,
+        "height": 2133,
+        "score": 109,
+        "query": "Herman Miller aeron chair",
+        "path": "/product-images/everyday-000103.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Aeron Chair.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeron_Chair.jpg",
+          "creator": "Badudoy at English Wikipedia",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "width": 1600,
+          "height": 2133,
+          "score": 59,
+          "query": "\"Herman Miller Aeron Chair\""
+        },
+        {
+          "title": "File:Aeron Chair at Design Show 2003.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeron_Chair_at_Design_Show_2003.jpg",
+          "creator": "Rich",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "width": 1600,
+          "height": 2133,
+          "score": 59,
+          "query": "\"Herman Miller Aeron Chair\""
+        },
+        {
+          "title": "File:Aeron Chair (4446434022).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeron_Chair_(4446434022).jpg",
+          "creator": "Robert from Zoetermeer, Netherlands",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "width": 1600,
+          "height": 2133,
+          "score": 59,
+          "query": "Herman Miller aeron chair"
+        }
+      ],
+      "notes": [
+        "Bildsök v2 valde bästa kandidaten efter 6 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
+      ]
+    },
+    {
+      "productId": "everyday-000104",
+      "mode": "everyday",
+      "productName": "Kinnarps Plus 8 office chair",
+      "brand": "Kinnarps",
+      "categoryLabel": "Möbler",
+      "query": "\"Kinnarps Plus 8 office chair\"  furniture chair table",
+      "queryHistory": [
+        "\"Kinnarps Plus 8 office chair\"  furniture chair table",
+        "\"Kinnarps Plus 8 office chair\"",
+        "Kinnarps Plus 8 office chair  furniture chair table",
+        "\"Plus 8 office chair\" Kinnarps furniture chair table",
+        "Kinnarps Plus 8 office chair furniture chair table",
+        "Kinnarps plus office chair"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T12:37:43.785Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+      ]
+    },
+    {
       "productId": "everyday-000105",
       "mode": "everyday",
       "productName": "KitchenAid Artisan Stand Mixer",
@@ -2482,6 +3005,34 @@
       "alternatives": [],
       "notes": [
         "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+      ]
+    },
+    {
+      "productId": "everyday-000111",
+      "mode": "everyday",
+      "productName": "Le Creuset Signature Round Casserole 24 cm",
+      "brand": "Le Creuset",
+      "categoryLabel": "Kök",
+      "query": "\"Le Creuset Signature Round Casserole 24 cm\"  product",
+      "queryHistory": [
+        "\"Le Creuset Signature Round Casserole 24 cm\"  product",
+        "\"Le Creuset Signature Round Casserole 24 cm\"",
+        "Le Creuset Signature Round Casserole 24 cm  product",
+        "\"Signature Round Casserole 24 cm\" Le Creuset product",
+        "\"Signature Round Casserole\" Le Creuset product",
+        "Le Creuset Signature Round Casserole product",
+        "Le Creuset signature round casserole"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T12:36:27.245Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 7 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
       ]
     },
     {
@@ -2664,6 +3215,33 @@
       "reviewedAt": "2026-08-10T12:05:48.942Z"
     },
     {
+      "productId": "everyday-000122",
+      "mode": "everyday",
+      "productName": "Uniqlo Ultra Light Down Jacket",
+      "brand": "Uniqlo",
+      "categoryLabel": "Kläder",
+      "query": "\"Uniqlo Ultra Light Down Jacket\"  clothing fashion",
+      "queryHistory": [
+        "\"Uniqlo Ultra Light Down Jacket\"  clothing fashion",
+        "\"Uniqlo Ultra Light Down Jacket\"",
+        "Uniqlo Ultra Light Down Jacket  clothing fashion",
+        "\"Ultra Light Down Jacket\" Uniqlo clothing fashion",
+        "Uniqlo Ultra Light Down Jacket clothing fashion",
+        "Uniqlo ultra light down jacket"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T12:36:31.645Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+      ]
+    },
+    {
       "productId": "everyday-000127",
       "mode": "everyday",
       "productName": "Nike Air Force 1 '07",
@@ -2840,40 +3418,27 @@
         "Adidas ultraboost"
       ],
       "searchVersion": 2,
-      "attemptCount": 2,
-      "status": "rejected",
+      "attemptCount": 3,
+      "status": "pending",
       "confidence": "medium",
       "score": 107,
-      "importedAt": "2026-08-10T11:57:02.840Z",
+      "importedAt": "2026-08-10T12:33:53.753Z",
       "selected": {
-        "title": "File:Blackpink Adidas 70th anniversary Ultraboost.png",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blackpink_Adidas_70th_anniversary_Ultraboost.png",
+        "title": "File:Blackpink Adidas 70th anniversary Ultraboost 3.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blackpink_Adidas_70th_anniversary_Ultraboost_3.png",
         "creator": "Marie Claire Korea",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "width": 1600,
-        "height": 1576,
+        "height": 1441,
         "score": 107,
         "query": "Adidas ultraboost",
         "path": "/product-images/everyday-000130.webp"
       },
-      "alternatives": [
-        {
-          "title": "File:Blackpink Adidas 70th anniversary Ultraboost 3.png",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blackpink_Adidas_70th_anniversary_Ultraboost_3.png",
-          "creator": "Marie Claire Korea",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "width": 1600,
-          "height": 1441,
-          "score": 107,
-          "query": "Adidas ultraboost"
-        }
-      ],
+      "alternatives": [],
       "notes": [
         "Bildsök v2 valde bästa kandidaten efter 6 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ],
-      "reviewedAt": "2026-08-10T12:30:43.587Z"
+      ]
     },
     {
       "productId": "everyday-000131",
@@ -2896,6 +3461,33 @@
       "confidence": "none",
       "score": 0,
       "importedAt": "2026-08-10T12:00:08.587Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+      ]
+    },
+    {
+      "productId": "everyday-000132",
+      "mode": "everyday",
+      "productName": "ASICS Gel-Kayano 31",
+      "brand": "ASICS",
+      "categoryLabel": "Skor",
+      "query": "\"ASICS Gel-Kayano 31\"  shoes footwear",
+      "queryHistory": [
+        "\"ASICS Gel-Kayano 31\"  shoes footwear",
+        "\"ASICS Gel-Kayano 31\"",
+        "ASICS Gel-Kayano 31  shoes footwear",
+        "\"Gel-Kayano 31\" ASICS shoes footwear",
+        "ASICS Gel-Kayano 31 shoes footwear",
+        "ASICS gel-kayano 31"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T12:36:35.314Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3031,6 +3623,33 @@
       "confidence": "none",
       "score": 0,
       "importedAt": "2026-08-10T12:00:17.937Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+      ]
+    },
+    {
+      "productId": "everyday-000142",
+      "mode": "everyday",
+      "productName": "Estée Lauder Advanced Night Repair 50 ml",
+      "brand": "Estée Lauder",
+      "categoryLabel": "Skönhet & vård",
+      "query": "\"Estée Lauder Advanced Night Repair 50 ml\"  product",
+      "queryHistory": [
+        "\"Estée Lauder Advanced Night Repair 50 ml\"  product",
+        "\"Estée Lauder Advanced Night Repair 50 ml\"",
+        "Estée Lauder Advanced Night Repair 50 ml  product",
+        "\"Advanced Night Repair 50 ml\" Estée Lauder product",
+        "Estée Lauder Advanced Night Repair 50 ml product",
+        "Estée Lauder advanced night repair 50"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T12:36:39.879Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3185,6 +3804,33 @@
       ]
     },
     {
+      "productId": "everyday-000155",
+      "mode": "everyday",
+      "productName": "Bullpadel Hack 04 Premier Padel",
+      "brand": "Bullpadel",
+      "categoryLabel": "Träning",
+      "query": "\"Bullpadel Hack 04 Premier Padel\"  product",
+      "queryHistory": [
+        "\"Bullpadel Hack 04 Premier Padel\"  product",
+        "\"Bullpadel Hack 04 Premier Padel\"",
+        "Bullpadel Hack 04 Premier Padel  product",
+        "\"Hack 04 Premier Padel\" Bullpadel product",
+        "Bullpadel Hack 04 Premier Padel product",
+        "Bullpadel hack 04 premier padel"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T12:36:43.851Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+      ]
+    },
+    {
       "productId": "everyday-000160",
       "mode": "everyday",
       "productName": "Hilleberg Nallo 3 GT",
@@ -3328,6 +3974,33 @@
       ]
     },
     {
+      "productId": "everyday-000165",
+      "mode": "everyday",
+      "productName": "Abu Garcia Revo Beast",
+      "brand": "Abu Garcia",
+      "categoryLabel": "Friluftsliv",
+      "query": "\"Abu Garcia Revo Beast\"  product",
+      "queryHistory": [
+        "\"Abu Garcia Revo Beast\"  product",
+        "\"Abu Garcia Revo Beast\"",
+        "Abu Garcia Revo Beast  product",
+        "\"Revo Beast\" Abu Garcia product",
+        "Abu Garcia Revo Beast product",
+        "Abu Garcia revo beast"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T12:36:48.451Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+      ]
+    },
+    {
       "productId": "everyday-000166",
       "mode": "everyday",
       "productName": "Trek Domane SL 6 Gen 4",
@@ -3460,6 +4133,68 @@
       ]
     },
     {
+      "productId": "everyday-000170",
+      "mode": "everyday",
+      "productName": "Thule Motion 3 XL",
+      "brand": "Thule",
+      "categoryLabel": "Transport",
+      "query": "Thule motion",
+      "queryHistory": [
+        "\"Thule Motion 3 XL\"  vehicle bicycle scooter",
+        "\"Thule Motion 3 XL\"",
+        "Thule Motion 3 XL  vehicle bicycle scooter",
+        "\"Motion 3 XL\" Thule vehicle bicycle scooter",
+        "\"Motion 3\" Thule vehicle bicycle scooter",
+        "Thule Motion 3 vehicle bicycle scooter",
+        "Thule motion"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "pending",
+      "confidence": "medium",
+      "score": 73,
+      "importedAt": "2026-08-10T12:36:54.070Z",
+      "selected": {
+        "title": "File:Thule Motion – pushing the limits of space (11727241336).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thule_Motion_%E2%80%93_pushing_the_limits_of_space_(11727241336).jpg",
+        "creator": "EHRENBERG Kommunikation",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "width": 1600,
+        "height": 1200,
+        "score": 73,
+        "query": "Thule motion",
+        "path": "/product-images/everyday-000170.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Thule Motion (11726731913).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thule_Motion_(11726731913).jpg",
+          "creator": "EHRENBERG Kommunikation",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "width": 1600,
+          "height": 457,
+          "score": 66,
+          "query": "Thule motion"
+        },
+        {
+          "title": "File:UlitmaThule Crescent 2-7-19.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:UlitmaThule_Crescent_2-7-19.jpg",
+          "creator": "NASA/Johns Hopkins Applied Physics Laboratory/Southwest Research Institute/National Optical Astronomy Observatory",
+          "license": "Public domain",
+          "licenseUrl": "",
+          "width": 1600,
+          "height": 751,
+          "score": 28,
+          "query": "Thule motion"
+        }
+      ],
+      "notes": [
+        "Bildsök v2 valde bästa kandidaten efter 7 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
+      ]
+    },
+    {
       "productId": "everyday-000173",
       "mode": "everyday",
       "productName": "Bugaboo Fox 5",
@@ -3588,6 +4323,33 @@
       "reviewedAt": "2026-08-10T12:05:48.942Z"
     },
     {
+      "productId": "everyday-000177",
+      "mode": "everyday",
+      "productName": "Britax Römer Dualfix 5Z",
+      "brand": "Britax Römer",
+      "categoryLabel": "Barn & baby",
+      "query": "\"Britax Römer Dualfix 5Z\"  product",
+      "queryHistory": [
+        "\"Britax Römer Dualfix 5Z\"  product",
+        "\"Britax Römer Dualfix 5Z\"",
+        "Britax Römer Dualfix 5Z  product",
+        "\"Dualfix 5Z\" Britax Römer product",
+        "Britax Römer Dualfix 5Z product",
+        "Britax Römer dualfix 5z"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T12:36:58.558Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+      ]
+    },
+    {
       "productId": "everyday-000179",
       "mode": "everyday",
       "productName": "LEGO Icons Eiffel Tower 10307",
@@ -3698,7 +4460,7 @@
       "productName": "Nintendo Super Mario Bros. Wonder",
       "brand": "Nintendo",
       "categoryLabel": "Leksaker & hobby",
-      "query": "\"Nintendo Super Mario Bros. Wonder\"",
+      "query": "\"Nintendo Super Mario Bros. Wonder\"  product",
       "queryHistory": [
         "\"Nintendo Super Mario Bros. Wonder\"  product",
         "\"Nintendo Super Mario Bros. Wonder\"",
@@ -3708,28 +4470,43 @@
         "Nintendo super mario bros. wonder"
       ],
       "searchVersion": 2,
-      "attemptCount": 1,
-      "status": "rejected",
-      "confidence": "low",
-      "score": 62,
-      "importedAt": "2026-08-10T12:00:41.828Z",
-      "selected": {
-        "title": "File:Super Mario Bros. Wonder booth at EGX - October 2023.jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Super_Mario_Bros._Wonder_booth_at_EGX_-_October_2023.jpg",
-        "creator": "Captain Galaxy",
-        "license": "CC BY 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-        "width": 1600,
-        "height": 1200,
-        "score": 62,
-        "query": "\"Nintendo Super Mario Bros. Wonder\"",
-        "path": "/product-images/everyday-000182.webp"
-      },
+      "attemptCount": 2,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T12:33:58.815Z",
+      "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v2 valde bästa kandidaten efter 6 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+      ]
+    },
+    {
+      "productId": "everyday-000183",
+      "mode": "everyday",
+      "productName": "Pokémon Scarlet & Violet Booster Box",
+      "brand": "Pokémon",
+      "categoryLabel": "Leksaker & hobby",
+      "query": "\"Pokémon Scarlet & Violet Booster Box\"  product",
+      "queryHistory": [
+        "\"Pokémon Scarlet & Violet Booster Box\"  product",
+        "\"Pokémon Scarlet & Violet Booster Box\"",
+        "Pokémon Scarlet & Violet Booster Box  product",
+        "\"Scarlet & Violet Booster Box\" Pokémon product",
+        "Pokémon Scarlet & Violet Booster Box product",
+        "Pokémon scarlet violet booster box"
       ],
-      "reviewedAt": "2026-08-10T12:30:43.587Z"
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T12:37:03.164Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+      ]
     },
     {
       "productId": "everyday-000188",
@@ -3802,17 +4579,17 @@
         "KONG classic"
       ],
       "searchVersion": 2,
-      "attemptCount": 1,
-      "status": "rejected",
+      "attemptCount": 2,
+      "status": "pending",
       "confidence": "medium",
       "score": 73,
-      "importedAt": "2026-08-10T12:00:50.594Z",
+      "importedAt": "2026-08-10T12:34:05.385Z",
       "selected": {
-        "title": "File:Zhang Ling at the 2011 Hong Kong Tennis Classic.jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zhang_Ling_at_the_2011_Hong_Kong_Tennis_Classic.jpg",
-        "creator": "www.OnCourtAdvantageCom",
-        "license": "CC BY 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "title": "File:Classic Hong Kong buses together in rainy day. (49298839552).jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Classic_Hong_Kong_buses_together_in_rainy_day._(49298839552).jpg",
+        "creator": "km30192002",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "width": 1600,
         "height": 1067,
         "score": 73,
@@ -3820,17 +4597,6 @@
         "path": "/product-images/everyday-000190.webp"
       },
       "alternatives": [
-        {
-          "title": "File:4-Y-O Classic Series Hong Kong Derby 20230319.jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:4-Y-O_Classic_Series_Hong_Kong_Derby_20230319.jpg",
-          "creator": "Will629",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "width": 1600,
-          "height": 1067,
-          "score": 73,
-          "query": "KONG classic"
-        },
         {
           "title": "File:Regent Hong Kong Classic Harbour View Room.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Regent_Hong_Kong_Classic_Harbour_View_Room.jpg",
@@ -3852,12 +4618,48 @@
           "height": 4355,
           "score": 70,
           "query": "KONG classic"
+        },
+        {
+          "title": "File:Nintendo Mini Classic - Donkey Kong - Dual Screen (6).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nintendo_Mini_Classic_-_Donkey_Kong_-_Dual_Screen_(6).jpg",
+          "creator": "José Antonio Ortigueira Amore",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 3968,
+          "score": 70,
+          "query": "KONG classic"
         }
       ],
       "notes": [
         "Bildsök v2 valde bästa kandidaten efter 7 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
+      ]
+    },
+    {
+      "productId": "everyday-000191",
+      "mode": "everyday",
+      "productName": "SureFeed Microchip Pet Feeder",
+      "brand": "Sure Petcare",
+      "categoryLabel": "Husdjur",
+      "query": "\"SureFeed Microchip Pet Feeder\" Sure Petcare pet product",
+      "queryHistory": [
+        "\"SureFeed Microchip Pet Feeder\" Sure Petcare pet product",
+        "\"SureFeed Microchip Pet Feeder\" Sure Petcare",
+        "SureFeed Microchip Pet Feeder Sure Petcare pet product",
+        "Sure Petcare SureFeed Microchip Pet Feeder pet product",
+        "Sure Petcare surefeed microchip pet feeder"
       ],
-      "reviewedAt": "2026-08-10T12:30:43.587Z"
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T12:37:06.953Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 5 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+      ]
     },
     {
       "productId": "everyday-000193",
@@ -3892,7 +4694,7 @@
       "productName": "Pepsi Max 1.5 L",
       "brand": "Pepsi",
       "categoryLabel": "Mat & dryck",
-      "query": "Pepsi max 1.5",
+      "query": "\"Pepsi Max 1.5 L\"  food product",
       "queryHistory": [
         "\"Pepsi Max 1.5 L\"  food product",
         "\"Pepsi Max 1.5 L\"",
@@ -3902,28 +4704,16 @@
         "Pepsi max 1.5"
       ],
       "searchVersion": 2,
-      "attemptCount": 2,
-      "status": "rejected",
-      "confidence": "low",
-      "score": 59,
-      "importedAt": "2026-08-10T11:57:11.499Z",
-      "selected": {
-        "title": "File:Canucks-game5-2012-rogers-arena-20120422-10 (6976879568) (Pepsi Max tent).jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canucks-game5-2012-rogers-arena-20120422-10_(6976879568)_(Pepsi_Max_tent).jpg",
-        "creator": "Roland Tanglao from Vancouver, Canada",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "width": 1600,
-        "height": 1215,
-        "score": 59,
-        "query": "Pepsi max 1.5",
-        "path": "/product-images/everyday-000194.webp"
-      },
+      "attemptCount": 3,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T12:34:10.934Z",
+      "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v2 valde bästa kandidaten efter 6 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ],
-      "reviewedAt": "2026-08-10T12:30:43.587Z"
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+      ]
     },
     {
       "productId": "everyday-000195",
@@ -3946,6 +4736,33 @@
       "confidence": "none",
       "score": 0,
       "importedAt": "2026-08-10T12:00:57.594Z",
+      "selected": null,
+      "alternatives": [],
+      "notes": [
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+      ]
+    },
+    {
+      "productId": "everyday-000196",
+      "mode": "everyday",
+      "productName": "Oatly iKaffe 1 L",
+      "brand": "Oatly",
+      "categoryLabel": "Mat & dryck",
+      "query": "\"Oatly iKaffe 1 L\"  food product",
+      "queryHistory": [
+        "\"Oatly iKaffe 1 L\"  food product",
+        "\"Oatly iKaffe 1 L\"",
+        "Oatly iKaffe 1 L  food product",
+        "\"iKaffe 1 L\" Oatly food product",
+        "Oatly iKaffe 1 L food product",
+        "Oatly ikaffe"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-10T12:37:11.845Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -6441,15 +7258,25 @@
       "productName": "Benetti B.Now 67M Oasis",
       "brand": "Benetti",
       "categoryLabel": "Yachter & båtar",
-      "query": "\"Benetti B.Now 67M Oasis\"  yacht boat",
+      "query": "\"Benetti B.Now 67M Oasis\"  yacht boat ship",
+      "queryHistory": [
+        "\"Benetti B.Now 67M Oasis\"  yacht boat ship",
+        "\"Benetti B.Now 67M Oasis\"",
+        "Benetti B.Now 67M Oasis  yacht boat ship",
+        "\"B.Now 67M Oasis\" Benetti yacht boat ship",
+        "Benetti B.Now 67M Oasis yacht boat ship",
+        "Benetti b.now 67m oasis"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:46:12.196Z",
+      "importedAt": "2026-08-10T12:34:21.447Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
       ]
     },
     {
@@ -6458,15 +7285,24 @@
       "productName": "Princess X95 Vista",
       "brand": "Princess Yachts",
       "categoryLabel": "Yachter & båtar",
-      "query": "\"Princess X95 Vista\" Princess Yachts yacht boat",
+      "query": "\"Princess X95 Vista\" Princess Yachts yacht boat ship",
+      "queryHistory": [
+        "\"Princess X95 Vista\" Princess Yachts yacht boat ship",
+        "\"Princess X95 Vista\" Princess Yachts",
+        "Princess X95 Vista Princess Yachts yacht boat ship",
+        "Princess Yachts Princess X95 Vista yacht boat ship",
+        "Princess Yachts princess x95 vista"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:46:13.956Z",
+      "importedAt": "2026-08-10T12:34:37.081Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 5 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
       ]
     },
     {
@@ -6475,15 +7311,25 @@
       "productName": "Wally WHY200",
       "brand": "Wally",
       "categoryLabel": "Yachter & båtar",
-      "query": "\"Wally WHY200\"  yacht boat",
+      "query": "\"Wally WHY200\"  yacht boat ship",
+      "queryHistory": [
+        "\"Wally WHY200\"  yacht boat ship",
+        "\"Wally WHY200\"",
+        "Wally WHY200  yacht boat ship",
+        "\"WHY200\" Wally yacht boat ship",
+        "Wally WHY200 yacht boat ship",
+        "Wally why200"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:46:15.628Z",
+      "importedAt": "2026-08-10T12:34:54.458Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
       ]
     },
     {
@@ -6492,15 +7338,25 @@
       "productName": "Tecnomar for Lamborghini 63",
       "brand": "Tecnomar",
       "categoryLabel": "Yachter & båtar",
-      "query": "\"Tecnomar for Lamborghini 63\"  yacht boat",
+      "query": "\"Tecnomar for Lamborghini 63\"  yacht boat ship",
+      "queryHistory": [
+        "\"Tecnomar for Lamborghini 63\"  yacht boat ship",
+        "\"Tecnomar for Lamborghini 63\"",
+        "Tecnomar for Lamborghini 63  yacht boat ship",
+        "\"for Lamborghini 63\" Tecnomar yacht boat ship",
+        "Tecnomar for Lamborghini 63 yacht boat ship",
+        "Tecnomar lamborghini 63"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:46:17.380Z",
+      "importedAt": "2026-08-10T12:35:13.627Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
       ]
     },
     {
@@ -6509,15 +7365,25 @@
       "productName": "Riva 88' Folgore",
       "brand": "Riva",
       "categoryLabel": "Yachter & båtar",
-      "query": "\"Riva 88' Folgore\"  yacht boat",
+      "query": "\"Riva 88' Folgore\"  yacht boat ship",
+      "queryHistory": [
+        "\"Riva 88' Folgore\"  yacht boat ship",
+        "\"Riva 88' Folgore\"",
+        "Riva 88' Folgore  yacht boat ship",
+        "\"88' Folgore\" Riva yacht boat ship",
+        "Riva 88' Folgore yacht boat ship",
+        "Riva 88 folgore"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:46:19.392Z",
+      "importedAt": "2026-08-10T12:35:37.313Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
       ]
     },
     {
@@ -6526,15 +7392,24 @@
       "productName": "Baltic 146 Path",
       "brand": "Baltic Yachts",
       "categoryLabel": "Yachter & båtar",
-      "query": "\"Baltic 146 Path\" Baltic Yachts yacht boat",
+      "query": "\"Baltic 146 Path\" Baltic Yachts yacht boat ship",
+      "queryHistory": [
+        "\"Baltic 146 Path\" Baltic Yachts yacht boat ship",
+        "\"Baltic 146 Path\" Baltic Yachts",
+        "Baltic 146 Path Baltic Yachts yacht boat ship",
+        "Baltic Yachts Baltic 146 Path yacht boat ship",
+        "Baltic Yachts baltic 146 path"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:46:21.309Z",
+      "importedAt": "2026-08-10T12:35:49.285Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 5 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
       ]
     },
     {
@@ -6787,15 +7662,25 @@
       "productName": "Audemars Piguet Royal Oak Jumbo Extra-Thin 16202ST",
       "brand": "Audemars Piguet",
       "categoryLabel": "Klockor",
-      "query": "\"Audemars Piguet Royal Oak Jumbo Extra-Thin 16202ST\"  watch wristwatch",
+      "query": "\"Audemars Piguet Royal Oak Jumbo Extra-Thin 16202ST\"  watch wristwatch timepiece",
+      "queryHistory": [
+        "\"Audemars Piguet Royal Oak Jumbo Extra-Thin 16202ST\"  watch wristwatch timepiece",
+        "\"Audemars Piguet Royal Oak Jumbo Extra-Thin 16202ST\"",
+        "Audemars Piguet Royal Oak Jumbo Extra-Thin 16202ST  watch wristwatch timepiece",
+        "\"Royal Oak Jumbo Extra-Thin 16202ST\" Audemars Piguet watch wristwatch timepiece",
+        "Audemars Piguet Royal Oak Jumbo Extra-Thin 16202ST watch wristwatch timepiece",
+        "Audemars Piguet royal oak jumbo extra-thin"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:46:37.954Z",
+      "importedAt": "2026-08-10T12:34:24.982Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
       ]
     },
     {
@@ -6804,15 +7689,25 @@
       "productName": "Jacob & Co. Billionaire Timeless Treasure",
       "brand": "Jacob & Co.",
       "categoryLabel": "Klockor",
-      "query": "\"Jacob & Co. Billionaire Timeless Treasure\"  watch wristwatch",
+      "query": "\"Jacob & Co. Billionaire Timeless Treasure\"  watch wristwatch timepiece",
+      "queryHistory": [
+        "\"Jacob & Co. Billionaire Timeless Treasure\"  watch wristwatch timepiece",
+        "\"Jacob & Co. Billionaire Timeless Treasure\"",
+        "Jacob & Co. Billionaire Timeless Treasure  watch wristwatch timepiece",
+        "\"Billionaire Timeless Treasure\" Jacob & Co. watch wristwatch timepiece",
+        "Jacob & Co. Billionaire Timeless Treasure watch wristwatch timepiece",
+        "Jacob & Co. billionaire timeless treasure"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:46:39.976Z",
+      "importedAt": "2026-08-10T12:34:41.629Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
       ]
     },
     {
@@ -6821,15 +7716,25 @@
       "productName": "Vacheron Constantin Les Cabinotiers Armillary Tourbillon",
       "brand": "Vacheron Constantin",
       "categoryLabel": "Klockor",
-      "query": "\"Vacheron Constantin Les Cabinotiers Armillary Tourbillon\"  watch wristwatch",
+      "query": "\"Vacheron Constantin Les Cabinotiers Armillary Tourbillon\"  watch wristwatch timepiece",
+      "queryHistory": [
+        "\"Vacheron Constantin Les Cabinotiers Armillary Tourbillon\"  watch wristwatch timepiece",
+        "\"Vacheron Constantin Les Cabinotiers Armillary Tourbillon\"",
+        "Vacheron Constantin Les Cabinotiers Armillary Tourbillon  watch wristwatch timepiece",
+        "\"Les Cabinotiers Armillary Tourbillon\" Vacheron Constantin watch wristwatch timepiece",
+        "Vacheron Constantin Les Cabinotiers Armillary Tourbillon watch wristwatch timepiece",
+        "Vacheron Constantin les cabinotiers armillary tourbillon"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:46:41.978Z",
+      "importedAt": "2026-08-10T12:35:00.895Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
       ]
     },
     {
@@ -6838,15 +7743,25 @@
       "productName": "Vacheron Constantin Overseas Tourbillon",
       "brand": "Vacheron Constantin",
       "categoryLabel": "Klockor",
-      "query": "\"Vacheron Constantin Overseas Tourbillon\"  watch wristwatch",
+      "query": "\"Vacheron Constantin Overseas Tourbillon\"  watch wristwatch timepiece",
+      "queryHistory": [
+        "\"Vacheron Constantin Overseas Tourbillon\"  watch wristwatch timepiece",
+        "\"Vacheron Constantin Overseas Tourbillon\"",
+        "Vacheron Constantin Overseas Tourbillon  watch wristwatch timepiece",
+        "\"Overseas Tourbillon\" Vacheron Constantin watch wristwatch timepiece",
+        "Vacheron Constantin Overseas Tourbillon watch wristwatch timepiece",
+        "Vacheron Constantin overseas tourbillon"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:46:43.899Z",
+      "importedAt": "2026-08-10T12:35:17.483Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
       ]
     },
     {
@@ -6855,15 +7770,25 @@
       "productName": "A. Lange & Söhne Grand Complication",
       "brand": "A. Lange & Söhne",
       "categoryLabel": "Klockor",
-      "query": "\"A. Lange & Söhne Grand Complication\"  watch wristwatch",
+      "query": "\"A. Lange & Söhne Grand Complication\"  watch wristwatch timepiece",
+      "queryHistory": [
+        "\"A. Lange & Söhne Grand Complication\"  watch wristwatch timepiece",
+        "\"A. Lange & Söhne Grand Complication\"",
+        "A. Lange & Söhne Grand Complication  watch wristwatch timepiece",
+        "\"Grand Complication\" A. Lange & Söhne watch wristwatch timepiece",
+        "A. Lange & Söhne Grand Complication watch wristwatch timepiece",
+        "A. Lange & Söhne grand complication"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:46:45.770Z",
+      "importedAt": "2026-08-10T12:35:41.213Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
       ]
     },
     {
@@ -7225,15 +8150,25 @@
       "productName": "Kiton Bespoke Suit",
       "brand": "Kiton",
       "categoryLabel": "Mode",
-      "query": "\"Kiton Bespoke Suit\"  fashion product",
+      "query": "\"Kiton Bespoke Suit\"  fashion handbag clothing",
+      "queryHistory": [
+        "\"Kiton Bespoke Suit\"  fashion handbag clothing",
+        "\"Kiton Bespoke Suit\"",
+        "Kiton Bespoke Suit  fashion handbag clothing",
+        "\"Bespoke Suit\" Kiton fashion handbag clothing",
+        "Kiton Bespoke Suit fashion handbag clothing",
+        "Kiton bespoke suit"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:47:20.564Z",
+      "importedAt": "2026-08-10T12:34:28.801Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
       ]
     },
     {
@@ -7242,15 +8177,25 @@
       "productName": "Stefano Ricci Crocodile Jacket",
       "brand": "Stefano Ricci",
       "categoryLabel": "Mode",
-      "query": "\"Stefano Ricci Crocodile Jacket\"  fashion product",
+      "query": "\"Stefano Ricci Crocodile Jacket\"  fashion handbag clothing",
+      "queryHistory": [
+        "\"Stefano Ricci Crocodile Jacket\"  fashion handbag clothing",
+        "\"Stefano Ricci Crocodile Jacket\"",
+        "Stefano Ricci Crocodile Jacket  fashion handbag clothing",
+        "\"Crocodile Jacket\" Stefano Ricci fashion handbag clothing",
+        "Stefano Ricci Crocodile Jacket fashion handbag clothing",
+        "Stefano Ricci crocodile jacket"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:47:23.328Z",
+      "importedAt": "2026-08-10T12:34:45.611Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
       ]
     },
     {
@@ -7259,15 +8204,25 @@
       "productName": "Louis Vuitton Millionaire Speedy 40",
       "brand": "Louis Vuitton",
       "categoryLabel": "Mode",
-      "query": "\"Louis Vuitton Millionaire Speedy 40\"  fashion product",
+      "query": "\"Louis Vuitton Millionaire Speedy 40\"  fashion handbag clothing",
+      "queryHistory": [
+        "\"Louis Vuitton Millionaire Speedy 40\"  fashion handbag clothing",
+        "\"Louis Vuitton Millionaire Speedy 40\"",
+        "Louis Vuitton Millionaire Speedy 40  fashion handbag clothing",
+        "\"Millionaire Speedy 40\" Louis Vuitton fashion handbag clothing",
+        "Louis Vuitton Millionaire Speedy 40 fashion handbag clothing",
+        "Louis Vuitton millionaire speedy 40"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:47:26.027Z",
+      "importedAt": "2026-08-10T12:35:05.063Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
       ]
     },
     {
@@ -7276,15 +8231,25 @@
       "productName": "Nike Air Mag Back to the Future 2016",
       "brand": "Nike",
       "categoryLabel": "Mode",
-      "query": "\"Nike Air Mag Back to the Future 2016\"  fashion product",
+      "query": "\"Nike Air Mag Back to the Future 2016\"  fashion handbag clothing",
+      "queryHistory": [
+        "\"Nike Air Mag Back to the Future 2016\"  fashion handbag clothing",
+        "\"Nike Air Mag Back to the Future 2016\"",
+        "Nike Air Mag Back to the Future 2016  fashion handbag clothing",
+        "\"Air Mag Back to the Future 2016\" Nike fashion handbag clothing",
+        "Nike Air Mag Back to the Future 2016 fashion handbag clothing",
+        "Nike air mag back to"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:47:28.330Z",
+      "importedAt": "2026-08-10T12:35:21.304Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
       ]
     },
     {
@@ -8171,15 +9136,26 @@
       "productName": "Magic: The Gathering Black Lotus Alpha PSA 10",
       "brand": "Magic: The Gathering",
       "categoryLabel": "Samlarobjekt",
-      "query": "\"Magic: The Gathering Black Lotus Alpha PSA 10\"  collectible",
+      "query": "\"Magic: The Gathering Black Lotus Alpha PSA 10\"  collectible memorabilia",
+      "queryHistory": [
+        "\"Magic: The Gathering Black Lotus Alpha PSA 10\"  collectible memorabilia",
+        "\"Magic: The Gathering Black Lotus Alpha PSA 10\"",
+        "Magic: The Gathering Black Lotus Alpha PSA 10  collectible memorabilia",
+        "\"Black Lotus Alpha PSA 10\" Magic: The Gathering collectible memorabilia",
+        "\"Black Lotus Alpha\" Magic: The Gathering collectible memorabilia",
+        "Magic: The Gathering Black Lotus Alpha collectible memorabilia",
+        "Magic: The Gathering black lotus alpha"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:48:44.878Z",
+      "importedAt": "2026-08-10T12:34:33.184Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 7 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
       ]
     },
     {
@@ -8188,15 +9164,26 @@
       "productName": "Magic: The Gathering Black Lotus Beta PSA 10",
       "brand": "Magic: The Gathering",
       "categoryLabel": "Samlarobjekt",
-      "query": "\"Magic: The Gathering Black Lotus Beta PSA 10\"  collectible",
+      "query": "\"Magic: The Gathering Black Lotus Beta PSA 10\"  collectible memorabilia",
+      "queryHistory": [
+        "\"Magic: The Gathering Black Lotus Beta PSA 10\"  collectible memorabilia",
+        "\"Magic: The Gathering Black Lotus Beta PSA 10\"",
+        "Magic: The Gathering Black Lotus Beta PSA 10  collectible memorabilia",
+        "\"Black Lotus Beta PSA 10\" Magic: The Gathering collectible memorabilia",
+        "\"Black Lotus Beta\" Magic: The Gathering collectible memorabilia",
+        "Magic: The Gathering Black Lotus Beta collectible memorabilia",
+        "Magic: The Gathering black lotus beta"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:48:47.466Z",
+      "importedAt": "2026-08-10T12:34:50.646Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 7 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
       ]
     },
     {
@@ -8205,15 +9192,26 @@
       "productName": "Magic: The Gathering Mox Sapphire Alpha PSA 10",
       "brand": "Magic: The Gathering",
       "categoryLabel": "Samlarobjekt",
-      "query": "\"Magic: The Gathering Mox Sapphire Alpha PSA 10\"  collectible",
+      "query": "\"Magic: The Gathering Mox Sapphire Alpha PSA 10\"  collectible memorabilia",
+      "queryHistory": [
+        "\"Magic: The Gathering Mox Sapphire Alpha PSA 10\"  collectible memorabilia",
+        "\"Magic: The Gathering Mox Sapphire Alpha PSA 10\"",
+        "Magic: The Gathering Mox Sapphire Alpha PSA 10  collectible memorabilia",
+        "\"Mox Sapphire Alpha PSA 10\" Magic: The Gathering collectible memorabilia",
+        "\"Mox Sapphire Alpha\" Magic: The Gathering collectible memorabilia",
+        "Magic: The Gathering Mox Sapphire Alpha collectible memorabilia",
+        "Magic: The Gathering mox sapphire alpha"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:48:51.024Z",
+      "importedAt": "2026-08-10T12:35:09.399Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 7 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
       ]
     },
     {
@@ -8222,15 +9220,49 @@
       "productName": "One Piece Monkey D. Luffy Manga Rare PSA 10",
       "brand": "One Piece",
       "categoryLabel": "Samlarobjekt",
-      "query": "\"One Piece Monkey D. Luffy Manga Rare PSA 10\"  collectible",
-      "status": "no-match",
-      "confidence": "none",
-      "score": 0,
-      "importedAt": "2026-08-10T09:48:53.386Z",
-      "selected": null,
-      "alternatives": [],
+      "query": "One Piece monkey d. luffy manga",
+      "queryHistory": [
+        "\"One Piece Monkey D. Luffy Manga Rare PSA 10\"  collectible memorabilia",
+        "\"One Piece Monkey D. Luffy Manga Rare PSA 10\"",
+        "One Piece Monkey D. Luffy Manga Rare PSA 10  collectible memorabilia",
+        "\"Monkey D. Luffy Manga Rare PSA 10\" One Piece collectible memorabilia",
+        "\"Monkey D. Luffy Manga Rare\" One Piece collectible memorabilia",
+        "One Piece Monkey D. Luffy Manga Rare collectible memorabilia",
+        "One Piece monkey d. luffy manga"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
+      "status": "pending",
+      "confidence": "low",
+      "score": 50.4,
+      "importedAt": "2026-08-10T12:35:32.481Z",
+      "selected": {
+        "title": "File:Cosplay of Monkey D. Luffy from One Piece at Made in Asia 2023.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Monkey_D._Luffy_from_One_Piece_at_Made_in_Asia_2023.jpg",
+        "creator": "Miguel Discart",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "width": 1600,
+        "height": 2950,
+        "score": 50.4,
+        "query": "One Piece monkey d. luffy manga",
+        "path": "/product-images/lux-000121.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Cosplay of Monkey D. Luffy and Roronoa Zoro from One Piece at Made in Asia 2023.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Monkey_D._Luffy_and_Roronoa_Zoro_from_One_Piece_at_Made_in_Asia_2023.jpg",
+          "creator": "Miguel Discart",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "width": 1600,
+          "height": 2228,
+          "score": 50.4,
+          "query": "One Piece monkey d. luffy manga"
+        }
+      ],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+        "Bildsök v2 valde bästa kandidaten efter 7 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
       ]
     },
     {
@@ -8239,15 +9271,26 @@
       "productName": "One Piece Shanks Manga Rare PSA 10",
       "brand": "One Piece",
       "categoryLabel": "Samlarobjekt",
-      "query": "\"One Piece Shanks Manga Rare PSA 10\"  collectible",
+      "query": "\"One Piece Shanks Manga Rare PSA 10\"  collectible memorabilia",
+      "queryHistory": [
+        "\"One Piece Shanks Manga Rare PSA 10\"  collectible memorabilia",
+        "\"One Piece Shanks Manga Rare PSA 10\"",
+        "One Piece Shanks Manga Rare PSA 10  collectible memorabilia",
+        "\"Shanks Manga Rare PSA 10\" One Piece collectible memorabilia",
+        "\"Shanks Manga Rare\" One Piece collectible memorabilia",
+        "One Piece Shanks Manga Rare collectible memorabilia",
+        "One Piece shanks manga rare"
+      ],
+      "searchVersion": 2,
+      "attemptCount": 1,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T09:48:56.096Z",
+      "importedAt": "2026-08-10T12:35:45.775Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade licens-, relevans- och feedbackkontrollen."
+        "Ingen återanvändbar kandidat klarade kontrollerna efter 7 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
       ]
     },
     {
