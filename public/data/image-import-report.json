@@ -1,564 +1,384 @@
 {
-  "version": 2,
-  "startedAt": "2026-08-10T09:45:46.113Z",
+  "version": 3,
+  "searchVersion": 2,
+  "startedAt": "2026-08-10T11:01:01.267Z",
   "options": {
     "scope": "all",
-    "limit": 100,
+    "limit": 50,
     "approvalMode": "review",
     "overwrite": false,
     "dryRun": false,
-    "candidates": 10,
+    "candidates": 12,
     "delayMs": 350
   },
-  "totalSelected": 100,
-  "imported": 14,
+  "selectionStats": {
+    "rejected": 7,
+    "upgrade-retry": 20,
+    "error-retry": 0,
+    "fresh": 23,
+    "exhausted": 0,
+    "done": 52,
+    "selected": 50
+  },
+  "learnedBadTerms": [
+    "engine"
+  ],
+  "totalSelected": 50,
+  "imported": 12,
   "skipped": 0,
-  "noMatch": 86,
+  "noMatch": 38,
   "errors": 0,
-  "feedbackFiltered": 2,
+  "feedbackFiltered": 5,
+  "queryRequests": 271,
   "results": [
-    {
-      "productId": "lux-000010",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6396.jpg"
-    },
-    {
-      "productId": "lux-000028",
-      "outcome": "no-match",
-      "query": "\"Arch 1s\" Arch Motorcycle car automobile"
-    },
-    {
-      "productId": "lux-000033",
-      "outcome": "no-match",
-      "query": "\"Dassault Falcon 10X\" Dassault Aviation aircraft jet helicopter"
-    },
-    {
-      "productId": "lux-000040",
-      "outcome": "no-match",
-      "query": "\"Airbus ACH160 Exclusive\"  aircraft jet helicopter"
-    },
-    {
-      "productId": "lux-000041",
-      "outcome": "no-match",
-      "query": "\"Bell 525 Relentless\"  aircraft jet helicopter"
-    },
-    {
-      "productId": "lux-000043",
-      "outcome": "no-match",
-      "query": "\"Sunseeker 100 Yacht\"  yacht boat"
-    },
-    {
-      "productId": "lux-000044",
-      "outcome": "no-match",
-      "query": "\"Sunseeker Ocean 182\"  yacht boat"
-    },
-    {
-      "productId": "lux-000045",
-      "outcome": "no-match",
-      "query": "\"Azimut Grande Trideck\"  yacht boat"
-    },
-    {
-      "productId": "lux-000046",
-      "outcome": "no-match",
-      "query": "\"Sanlorenzo 52Steel\"  yacht boat"
-    },
-    {
-      "productId": "lux-000047",
-      "outcome": "no-match",
-      "query": "\"Sanlorenzo 62Steel\"  yacht boat"
-    },
-    {
-      "productId": "lux-000048",
-      "outcome": "no-match",
-      "query": "\"Feadship 58 m Custom Superyacht\"  yacht boat"
-    },
-    {
-      "productId": "lux-000049",
-      "outcome": "no-match",
-      "query": "\"Oceanco Y722\"  yacht boat"
-    },
-    {
-      "productId": "lux-000050",
-      "outcome": "no-match",
-      "query": "\"Lürssen Project Cosmos\"  yacht boat"
-    },
-    {
-      "productId": "lux-000051",
-      "outcome": "no-match",
-      "query": "\"Benetti B.Now 67M Oasis\"  yacht boat"
-    },
-    {
-      "productId": "lux-000052",
-      "outcome": "no-match",
-      "query": "\"Princess X95 Vista\" Princess Yachts yacht boat"
-    },
-    {
-      "productId": "lux-000053",
-      "outcome": "no-match",
-      "query": "\"Wally WHY200\"  yacht boat"
-    },
-    {
-      "productId": "lux-000054",
-      "outcome": "no-match",
-      "query": "\"Tecnomar for Lamborghini 63\"  yacht boat"
-    },
-    {
-      "productId": "lux-000055",
-      "outcome": "no-match",
-      "query": "\"Riva 88' Folgore\"  yacht boat"
-    },
-    {
-      "productId": "lux-000056",
-      "outcome": "no-match",
-      "query": "\"Baltic 146 Path\" Baltic Yachts yacht boat"
-    },
-    {
-      "productId": "lux-000057",
-      "outcome": "no-match",
-      "query": "\"Rolex Cosmograph Daytona Platinum\"  watch wristwatch"
-    },
-    {
-      "productId": "lux-000059",
-      "outcome": "no-match",
-      "query": "\"Rolex Day-Date 40 Everose Gold\"  watch wristwatch"
-    },
-    {
-      "productId": "lux-000060",
-      "outcome": "no-match",
-      "query": "\"Patek Philippe Grandmaster Chime 6300\"  watch wristwatch"
-    },
-    {
-      "productId": "lux-000061",
-      "outcome": "no-match",
-      "query": "\"Patek Philippe Nautilus 5811/1G\"  watch wristwatch"
-    },
-    {
-      "productId": "lux-000062",
-      "outcome": "no-match",
-      "query": "\"Patek Philippe Aquanaut 5167A\"  watch wristwatch"
-    },
-    {
-      "productId": "lux-000063",
-      "outcome": "no-match",
-      "query": "\"Richard Mille RM 56-02 Sapphire\"  watch wristwatch"
-    },
-    {
-      "productId": "lux-000064",
-      "outcome": "no-match",
-      "query": "\"Richard Mille RM 27-05 Flying Tourbillon Rafael Nadal\"  watch wristwatch"
-    },
-    {
-      "productId": "lux-000065",
-      "outcome": "no-match",
-      "query": "\"Audemars Piguet Royal Oak Concept Flying Tourbillon\"  watch wristwatch"
-    },
-    {
-      "productId": "lux-000066",
-      "outcome": "no-match",
-      "query": "\"Audemars Piguet Royal Oak Jumbo Extra-Thin 16202ST\"  watch wristwatch"
-    },
-    {
-      "productId": "lux-000067",
-      "outcome": "no-match",
-      "query": "\"Jacob & Co. Billionaire Timeless Treasure\"  watch wristwatch"
-    },
-    {
-      "productId": "lux-000068",
-      "outcome": "no-match",
-      "query": "\"Vacheron Constantin Les Cabinotiers Armillary Tourbillon\"  watch wristwatch"
-    },
-    {
-      "productId": "lux-000069",
-      "outcome": "no-match",
-      "query": "\"Vacheron Constantin Overseas Tourbillon\"  watch wristwatch"
-    },
-    {
-      "productId": "lux-000070",
-      "outcome": "no-match",
-      "query": "\"A. Lange & Söhne Grand Complication\"  watch wristwatch"
-    },
-    {
-      "productId": "lux-000071",
-      "outcome": "no-match",
-      "query": "\"F.P. Journe Chronomètre Bleu\"  watch wristwatch"
-    },
-    {
-      "productId": "lux-000072",
-      "outcome": "no-match",
-      "query": "\"Greubel Forsey Hand Made 1\"  watch wristwatch"
-    },
-    {
-      "productId": "lux-000073",
-      "outcome": "no-match",
-      "query": "\"H. Moser & Cie. Streamliner Tourbillon Skeleton\"  watch wristwatch"
-    },
-    {
-      "productId": "lux-000074",
-      "outcome": "no-match",
-      "query": "\"Breguet Classique Double Tourbillon 5345\"  watch wristwatch"
-    },
-    {
-      "productId": "lux-000075",
-      "outcome": "no-match",
-      "query": "\"Cartier Privé Tortue Monopoussoir Chronograph\"  watch wristwatch"
-    },
-    {
-      "productId": "lux-000076",
-      "outcome": "no-match",
-      "query": "\"Omega Speedmaster Calibre 321 Canopus Gold\"  watch wristwatch"
-    },
-    {
-      "productId": "lux-000077",
-      "outcome": "no-match",
-      "query": "\"IWC Portugieser Eternal Calendar\"  watch wristwatch"
-    },
-    {
-      "productId": "lux-000078",
-      "outcome": "no-match",
-      "query": "\"Jaeger-LeCoultre Reverso Hybris Artistica Calibre 179\"  watch wristwatch"
-    },
-    {
-      "productId": "lux-000079",
-      "outcome": "no-match",
-      "query": "\"Hermès Birkin 25 Himalaya\"  fashion product"
-    },
-    {
-      "productId": "lux-000080",
-      "outcome": "no-match",
-      "query": "\"Hermès Kelly 25 Sellier\"  fashion product"
-    },
-    {
-      "productId": "lux-000081",
-      "outcome": "no-match",
-      "query": "\"Chanel 2.55 Reissue Handbag\"  fashion product"
-    },
-    {
-      "productId": "lux-000082",
-      "outcome": "no-match",
-      "query": "\"Louis Vuitton Capucines Mini\"  fashion product"
-    },
-    {
-      "productId": "lux-000083",
-      "outcome": "no-match",
-      "query": "\"Dior Lady Dior Medium\"  fashion product"
-    },
-    {
-      "productId": "lux-000084",
-      "outcome": "no-match",
-      "query": "\"Bottega Veneta Andiamo\"  fashion product"
-    },
-    {
-      "productId": "lux-000085",
-      "outcome": "no-match",
-      "query": "\"Loro Piana André Shirt\"  fashion product"
-    },
-    {
-      "productId": "lux-000086",
-      "outcome": "no-match",
-      "query": "\"Brunello Cucinelli Cashmere Coat\"  fashion product"
-    },
-    {
-      "productId": "lux-000087",
-      "outcome": "no-match",
-      "query": "\"Kiton Bespoke Suit\"  fashion product"
-    },
-    {
-      "productId": "lux-000088",
-      "outcome": "no-match",
-      "query": "\"Stefano Ricci Crocodile Jacket\"  fashion product"
-    },
-    {
-      "productId": "lux-000089",
-      "outcome": "no-match",
-      "query": "\"Louis Vuitton Millionaire Speedy 40\"  fashion product"
-    },
-    {
-      "productId": "lux-000090",
-      "outcome": "no-match",
-      "query": "\"Nike Air Mag Back to the Future 2016\"  fashion product"
-    },
-    {
-      "productId": "lux-000091",
-      "outcome": "no-match",
-      "query": "\"Tiffany & Co. Schlumberger Sixteen Stone Ring\"  jewellery jewelry"
-    },
-    {
-      "productId": "lux-000092",
-      "outcome": "no-match",
-      "query": "\"Cartier Panthère de Cartier Necklace\"  jewellery jewelry"
-    },
-    {
-      "productId": "lux-000093",
-      "outcome": "no-match",
-      "query": "\"Bulgari Serpenti Viper Necklace\"  jewellery jewelry"
-    },
-    {
-      "productId": "lux-000094",
-      "outcome": "no-match",
-      "query": "\"Van Cleef & Arpels Zip Necklace\"  jewellery jewelry"
-    },
-    {
-      "productId": "lux-000095",
-      "outcome": "no-match",
-      "query": "\"Graff Fancy Vivid Yellow Diamond Ring\"  jewellery jewelry"
-    },
-    {
-      "productId": "lux-000096",
-      "outcome": "no-match",
-      "query": "\"Harry Winston Winston Cluster Diamond Necklace\"  jewellery jewelry"
-    },
-    {
-      "productId": "lux-000097",
-      "outcome": "no-match",
-      "query": "\"Baccarat Zenith Chandelier\"  product"
-    },
-    {
-      "productId": "lux-000098",
-      "outcome": "no-match",
-      "query": "\"Fazioli F308 Concert Grand Piano\"  product"
-    },
-    {
-      "productId": "lux-000099",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 110,
-      "commonsTitle": "File:Steinway & Sons concert grand piano, model D-274, manufactured at Steinway's factory in Hamburg, Germany cropped.jpg"
-    },
-    {
-      "productId": "lux-000100",
-      "outcome": "no-match",
-      "query": "\"Bang & Olufsen Beolab 90 Pair\"  technology product"
-    },
-    {
-      "productId": "lux-000101",
-      "outcome": "no-match",
-      "query": "\"Wilson Audio WAMM Master Chronosonic\"  technology product"
-    },
-    {
-      "productId": "lux-000102",
-      "outcome": "no-match",
-      "query": "\"C Seed 201 TV\"  technology product"
-    },
-    {
-      "productId": "lux-000103",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 103,
-      "commonsTitle": "File:Exploded Eames Lounge Chair and Ottoman (2006) Sculpture designed by Vincent Faust. Components made by Herman Miller. Chair designed by Ray & Charles Eames (ID2008.7.1) - Fully Furnished - Historic Furniture Exhibit - Henry Ford Museum.jpg"
-    },
-    {
-      "productId": "lux-000104",
-      "outcome": "no-match",
-      "query": "\"Cassina LC4 Chaise Longue\"  product"
-    },
-    {
-      "productId": "lux-000105",
-      "outcome": "no-match",
-      "query": "\"B&B Italia Camaleonda Sofa\"  product"
-    },
-    {
-      "productId": "lux-000106",
-      "outcome": "no-match",
-      "query": "\"Flos Arco Floor Lamp\"  product"
-    },
-    {
-      "productId": "lux-000107",
-      "outcome": "no-match",
-      "query": "\"Gaggenau Vario 400 Kitchen Suite\"  product"
-    },
-    {
-      "productId": "lux-000109",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 110,
-      "commonsTitle": "File:Apple-1, 1976, Computer History Museum.jpg"
-    },
-    {
-      "productId": "lux-000110",
-      "outcome": "no-match",
-      "query": "\"Leica 0-Series No. 105\"  collectible"
-    },
-    {
-      "productId": "lux-000111",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "medium",
-      "score": 76,
-      "commonsTitle": "File:Action comics 1 cgc 9-point-0 vincent zurzolo.jpg"
-    },
-    {
-      "productId": "lux-000112",
-      "outcome": "no-match",
-      "query": "\"Super Mario Bros. NES Sealed Wata 9.8\" Nintendo collectible"
-    },
-    {
-      "productId": "lux-000113",
-      "outcome": "no-match",
-      "query": "\"Pokémon Base Set Charizard 1st Edition PSA 10\"  collectible"
-    },
-    {
-      "productId": "lux-000114",
-      "outcome": "no-match",
-      "query": "\"Pokémon Pikachu Illustrator PSA 10\"  collectible"
-    },
-    {
-      "productId": "lux-000115",
-      "outcome": "no-match",
-      "query": "\"Pokémon Umbreon Gold Star PSA 10\"  collectible"
-    },
-    {
-      "productId": "lux-000116",
-      "outcome": "no-match",
-      "query": "\"Pokémon Lugia Neo Genesis 1st Edition PSA 10\"  collectible"
-    },
-    {
-      "productId": "lux-000117",
-      "outcome": "no-match",
-      "query": "\"Pokémon Rayquaza Gold Star PSA 10\"  collectible"
-    },
-    {
-      "productId": "lux-000118",
-      "outcome": "no-match",
-      "query": "\"Magic: The Gathering Black Lotus Alpha PSA 10\"  collectible"
-    },
-    {
-      "productId": "lux-000119",
-      "outcome": "no-match",
-      "query": "\"Magic: The Gathering Black Lotus Beta PSA 10\"  collectible"
-    },
-    {
-      "productId": "lux-000120",
-      "outcome": "no-match",
-      "query": "\"Magic: The Gathering Mox Sapphire Alpha PSA 10\"  collectible"
-    },
-    {
-      "productId": "lux-000121",
-      "outcome": "no-match",
-      "query": "\"One Piece Monkey D. Luffy Manga Rare PSA 10\"  collectible"
-    },
-    {
-      "productId": "lux-000122",
-      "outcome": "no-match",
-      "query": "\"One Piece Shanks Manga Rare PSA 10\"  collectible"
-    },
-    {
-      "productId": "lux-000123",
-      "outcome": "no-match",
-      "query": "\"One Piece Monkey D. Luffy Signed Oda Card PSA 10\"  collectible"
-    },
-    {
-      "productId": "lux-000124",
-      "outcome": "no-match",
-      "query": "\"Yu-Gi-Oh! Blue-Eyes White Dragon 1st Edition PSA 10\"  collectible"
-    },
-    {
-      "productId": "lux-000125",
-      "outcome": "no-match",
-      "query": "\"Yu-Gi-Oh! Tyler the Great Warrior PSA 10\"  collectible"
-    },
-    {
-      "productId": "lux-000126",
-      "outcome": "no-match",
-      "query": "\"1986 Fleer Michael Jordan #57 PSA 10\" Fleer collectible"
-    },
-    {
-      "productId": "lux-000127",
-      "outcome": "no-match",
-      "query": "\"1952 Topps Mickey Mantle #311 PSA 9\" Topps collectible"
-    },
-    {
-      "productId": "lux-000128",
-      "outcome": "no-match",
-      "query": "\"2003 Topps Chrome LeBron James Refractor PSA 10\" Topps collectible"
-    },
-    {
-      "productId": "lux-000129",
-      "outcome": "no-match",
-      "query": "\"2018 Panini Prizm Luka Dončić Gold PSA 10\" Panini collectible"
-    },
     {
       "productId": "everyday-000002",
       "outcome": "imported",
       "status": "unreviewed",
-      "confidence": "high",
-      "score": 113,
-      "commonsTitle": "File:Silver iPhone 17 Pro Max.jpg"
+      "confidence": "medium",
+      "score": 73,
+      "commonsTitle": "File:IPhone 17 launch at Apple TRX Malaysia 18.jpg",
+      "matchedQuery": "\"iPhone 17 Pro Max\" Apple",
+      "queriesAttempted": 5
+    },
+    {
+      "productId": "everyday-000071",
+      "outcome": "no-match",
+      "queriesAttempted": 5,
+      "searchVersion": 2
     },
     {
       "productId": "everyday-000003",
       "outcome": "imported",
       "status": "unreviewed",
-      "confidence": "high",
-      "score": 129,
-      "commonsTitle": "File:Apple iPhone Air.png"
+      "confidence": "medium",
+      "score": 117,
+      "commonsTitle": "File:Space Black iPhone Air.jpg",
+      "matchedQuery": "\"iPhone Air\" Apple",
+      "queriesAttempted": 5
     },
     {
       "productId": "everyday-000004",
       "outcome": "imported",
       "status": "unreviewed",
       "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:IPhone 17 launch at Apple TRX Malaysia 10.jpg"
-    },
-    {
-      "productId": "everyday-000005",
-      "outcome": "no-match",
-      "query": "\"iPhone 17e\" Apple product"
-    },
-    {
-      "productId": "everyday-000006",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "medium",
-      "score": 62.7,
-      "commonsTitle": "File:IPhone 16 packaging (2025-12-01).jpg"
-    },
-    {
-      "productId": "everyday-000007",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:Samsung Galaxy S25 Ultra.jpg"
+      "score": 142,
+      "commonsTitle": "File:IPhone 17 launch at Apple TRX Malaysia 08.jpg",
+      "matchedQuery": "\"iPhone 17\" Apple",
+      "queriesAttempted": 2
     },
     {
       "productId": "everyday-000008",
       "outcome": "imported",
       "status": "unreviewed",
       "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:Samsung Galaxy S25 Ultra.jpg"
+      "score": 142,
+      "commonsTitle": "File:Samsung Galaxy S25+.jpg",
+      "matchedQuery": "\"Samsung Galaxy S25+\"  product",
+      "queriesAttempted": 1
     },
     {
       "productId": "everyday-000009",
       "outcome": "imported",
       "status": "unreviewed",
       "confidence": "high",
-      "score": 138,
-      "commonsTitle": "File:Samsung Galaxy S25 Ultra.jpg"
+      "score": 142,
+      "commonsTitle": "File:Samsung Galaxy S25+.jpg",
+      "matchedQuery": "\"Samsung Galaxy S25\"  product",
+      "queriesAttempted": 1
     },
     {
       "productId": "everyday-000010",
       "outcome": "imported",
       "status": "unreviewed",
-      "confidence": "high",
-      "score": 133,
-      "commonsTitle": "File:Samsung Galaxy Z Fold6.png"
+      "confidence": "low",
+      "score": 56,
+      "commonsTitle": "File:Samsung Galaxy Z Fold 6 2024.jpg",
+      "matchedQuery": "\"Samsung Galaxy Z Fold6\"",
+      "queriesAttempted": 6
     },
     {
-      "productId": "everyday-000011",
+      "productId": "lux-000028",
+      "outcome": "no-match",
+      "queriesAttempted": 5,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000033",
+      "outcome": "no-match",
+      "queriesAttempted": 5,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000043",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000057",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000079",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000091",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000097",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000098",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000100",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "lux-000110",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000005",
+      "outcome": "no-match",
+      "queriesAttempted": 5,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000023",
+      "outcome": "no-match",
+      "queriesAttempted": 5,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000046",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000086",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000096",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000137",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000160",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000166",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000173",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000179",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000012",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 142,
+      "commonsTitle": "File:Google Pixel 9 Pro XL (back).jpg",
+      "matchedQuery": "Google pixel pro",
+      "queriesAttempted": 7
+    },
+    {
+      "productId": "everyday-000024",
+      "outcome": "no-match",
+      "queriesAttempted": 5,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000047",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000072",
+      "outcome": "no-match",
+      "queriesAttempted": 5,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000087",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000097",
       "outcome": "imported",
       "status": "unreviewed",
       "confidence": "medium",
-      "score": 87.7,
-      "commonsTitle": "File:Samsung Galaxy Z Flip 6.jpg"
+      "score": 73,
+      "commonsTitle": "File:Poäng armchairs at IKEA Beijing Siyuanqiao Store (20210418125708).jpg",
+      "matchedQuery": "IKEA poang armchair",
+      "queriesAttempted": 6
+    },
+    {
+      "productId": "everyday-000106",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000118",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000128",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 142,
+      "commonsTitle": "File:Nike Air Max 90 women - white.jpg",
+      "matchedQuery": "\"Nike Air Max 90\"  shoes footwear",
+      "queriesAttempted": 1
+    },
+    {
+      "productId": "everyday-000138",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000151",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000161",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000167",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "medium",
+      "score": 72,
+      "commonsTitle": "File:Specialized TURBO VADO 3.0.jpg",
+      "matchedQuery": "Specialized turbo vado 4.0",
+      "queriesAttempted": 6
+    },
+    {
+      "productId": "everyday-000174",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000180",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000188",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000193",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000013",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "high",
+      "score": 142,
+      "commonsTitle": "File:Google Pixel 9 Pro XL (back).jpg",
+      "matchedQuery": "Google pixel pro",
+      "queriesAttempted": 6
+    },
+    {
+      "productId": "everyday-000025",
+      "outcome": "no-match",
+      "queriesAttempted": 5,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000048",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000073",
+      "outcome": "imported",
+      "status": "unreviewed",
+      "confidence": "medium",
+      "score": 90,
+      "commonsTitle": "File:J Allard E3 2005 Xbox (4).jpg",
+      "matchedQuery": "Microsoft xbox",
+      "queriesAttempted": 5
+    },
+    {
+      "productId": "everyday-000088",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
+    },
+    {
+      "productId": "everyday-000098",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 2
     }
   ],
-  "finishedAt": "2026-08-10T09:49:40.810Z"
+  "finishedAt": "2026-08-10T11:05:09.872Z"
 }
