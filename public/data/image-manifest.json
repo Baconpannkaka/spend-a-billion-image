@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-08-10T11:39:30.904Z",
+  "generatedAt": "2026-08-10T11:47:17.436Z",
   "images": [
     {
       "productId": "everyday-000001",
@@ -238,7 +238,7 @@
       "creator": "Syced",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1593,
       "height": 1200,
       "importedAt": "2026-08-10T11:36:48.361Z",
@@ -246,7 +246,8 @@
       "confidence": "medium",
       "score": 112,
       "sha1": "66e7eba4699a9168b7d2f7a8b25589cf05e0aaba",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T11:47:17.436Z"
     },
     {
       "productId": "everyday-000015",
@@ -256,7 +257,7 @@
       "creator": "Maksdroider",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 600,
       "height": 1200,
       "importedAt": "2026-08-10T11:38:36.145Z",
@@ -264,7 +265,8 @@
       "confidence": "high",
       "score": 139,
       "sha1": "38d2e19c899d168f64934f2d7062629982091906",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T11:47:17.436Z"
     },
     {
       "productId": "everyday-000026",
@@ -274,7 +276,7 @@
       "creator": "AzureSaturn",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-08-10T11:36:55.357Z",
@@ -282,7 +284,8 @@
       "confidence": "low",
       "score": 46.4,
       "sha1": "f705e481a073142be231758d596b0f7dfb406039",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T11:47:17.436Z"
     },
     {
       "productId": "everyday-000027",
@@ -292,7 +295,7 @@
       "creator": "AzureSaturn",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1091,
       "importedAt": "2026-08-10T11:38:42.820Z",
@@ -300,7 +303,8 @@
       "confidence": "medium",
       "score": 92,
       "sha1": "99ccc69f1c5f9ade047dee4c2a56e6f0a979da68",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T11:47:17.436Z"
     },
     {
       "productId": "everyday-000071",
@@ -365,7 +369,7 @@
       "creator": "Crisco 1492",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 858,
       "importedAt": "2026-08-10T11:38:51.355Z",
@@ -373,7 +377,8 @@
       "confidence": "high",
       "score": 142,
       "sha1": "17b46c3cd7da0c9576e1aede61cf043fcac719aa",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T11:47:17.436Z"
     },
     {
       "productId": "everyday-000097",
@@ -478,7 +483,7 @@
       "creator": "LeDroider",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 973,
       "importedAt": "2026-08-10T11:37:30.241Z",
@@ -486,7 +491,8 @@
       "confidence": "high",
       "score": 142,
       "sha1": "16d45c57e9dc70adba4aff4fa94f0df46dda5181",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T11:47:17.436Z"
     },
     {
       "productId": "everyday-000130",
@@ -533,7 +539,7 @@
       "creator": "Taiwan Presidential Office",
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 900,
       "height": 1200,
       "importedAt": "2026-08-10T11:39:30.553Z",
@@ -541,7 +547,8 @@
       "confidence": "high",
       "score": 139,
       "sha1": "211e6cb894d020e94900ff6453710fc18f068ed2",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T11:47:17.436Z"
     },
     {
       "productId": "everyday-000167",
@@ -570,7 +577,7 @@
       "creator": "Marion Lauenstein",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1171,
       "importedAt": "2026-08-10T11:37:52.571Z",
@@ -578,7 +585,8 @@
       "confidence": "low",
       "score": 28,
       "sha1": "77e5635d17d0fad10887f6588262dcf40d2657bf",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T11:47:17.436Z"
     },
     {
       "productId": "everyday-000181",

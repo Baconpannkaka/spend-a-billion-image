@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T11:32:45.058Z",
+  "updatedAt": "2026-08-10T11:47:17.436Z",
   "products": {
     "lux-000003": {
       "approved": [
@@ -909,6 +909,126 @@
       ],
       "lastDecision": "rejected",
       "updatedAt": "2026-08-10T11:32:45.058Z"
+    },
+    "everyday-000014": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Google_Pixel_Tablet,_shown_in_Shibuya_Stream.jpg",
+          "commonsTitle": "File:Google Pixel Tablet, shown in Shibuya Stream.jpg",
+          "score": 112,
+          "confidence": "medium",
+          "query": "Google pixel",
+          "reviewedAt": "2026-08-10T11:47:17.436Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T11:47:17.436Z"
+    },
+    "everyday-000015": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:OnePlus_13_back.jpg",
+          "commonsTitle": "File:OnePlus 13 back.jpg",
+          "score": 139,
+          "confidence": "high",
+          "query": "OnePlus 13",
+          "reviewedAt": "2026-08-10T11:47:17.436Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T11:47:17.436Z"
+    },
+    "everyday-000026": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:MacBook_Pro_(16-inch,_M4_Pro,_Silver).jpg",
+          "commonsTitle": "File:MacBook Pro (16-inch, M4 Pro, Silver).jpg",
+          "score": 46.4,
+          "confidence": "low",
+          "query": "Apple macbook pro 16-inch m4",
+          "reviewedAt": "2026-08-10T11:47:17.436Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T11:47:17.436Z"
+    },
+    "everyday-000027": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mac_mini_(M4,_2024)_-_Backside.jpg",
+          "commonsTitle": "File:Mac mini (M4, 2024) - Backside.jpg",
+          "score": 92,
+          "confidence": "medium",
+          "query": "Apple mac mini m4",
+          "reviewedAt": "2026-08-10T11:47:17.436Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T11:47:17.436Z"
+    },
+    "everyday-000075": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_in_Docking_Console.jpg",
+          "commonsTitle": "File:Nintendo Switch 2 in Docking Console.jpg",
+          "score": 142,
+          "confidence": "high",
+          "query": "\"Nintendo Switch 2\"",
+          "reviewedAt": "2026-08-10T11:47:17.436Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T11:47:17.436Z"
+    },
+    "everyday-000129": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adidas_Samba_OG.jpg",
+          "commonsTitle": "File:Adidas Samba OG.jpg",
+          "score": 142,
+          "confidence": "high",
+          "query": "\"Adidas Samba OG\"  shoes footwear",
+          "reviewedAt": "2026-08-10T11:47:17.436Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T11:47:17.436Z"
+    },
+    "everyday-000163": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:06.20_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%85%A7%E6%94%BF%E9%83%A8%E6%B6%88%E9%98%B2%E7%BD%B230%E5%91%A8%E5%B9%B4%E7%BD%B2%E6%85%B6%E6%9A%A8%E7%AC%AC2%E6%9C%9F%E5%B7%A5%E7%A8%8B%E8%90%BD%E6%88%90%E5%95%9F%E7%94%A8%E5%85%B8%E7%A6%AE%E3%80%8D_-_54601651674_(rotated_cropped_-_Garmin_inReach_Mini_2).jpg",
+          "commonsTitle": "File:06.20 總統出席「內政部消防署30周年署慶暨第2期工程落成啟用典禮」 - 54601651674 (rotated cropped - Garmin inReach Mini 2).jpg",
+          "score": 139,
+          "confidence": "high",
+          "query": "\"Garmin inReach Mini 2\"",
+          "reviewedAt": "2026-08-10T11:47:17.436Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T11:47:17.436Z"
+    },
+    "everyday-000168": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:CANYON-endurace-wmn-cf-sl-disc-8-0-di2_2135_tq_P5.jpg",
+          "commonsTitle": "File:CANYON-endurace-wmn-cf-sl-disc-8-0-di2 2135 tq P5.jpg",
+          "score": 28,
+          "confidence": "low",
+          "query": "Canyon endurace cf",
+          "reviewedAt": "2026-08-10T11:47:17.436Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T11:47:17.436Z"
     }
   }
 }
