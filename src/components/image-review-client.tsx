@@ -2,6 +2,7 @@
 
 import { withBasePath } from "@/lib/assets";
 import type { ImageReviewItem, ImageReviewQueue } from "@/types";
+import { WorkflowLiveStatus, type WorkflowRequest } from "@/components/workflow-live-status";
 import {
   Check,
   CheckCheck,
@@ -19,7 +20,7 @@ import {
   X,
 } from "lucide-react";
 import Image from "next/image";
-import { useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 
 type ReviewFilter = "pending" | "no-match" | "error" | "approved" | "rejected" | "all";
 type Decision = "approve" | "reject";
@@ -83,8 +84,9 @@ export function ImageReviewClient() {
   const [token, setToken] = useState("");
   const [busy, setBusy] = useState(false);
   const [batchSize, setBatchSize] = useState(50);
+  const [workflowRequest, setWorkflowRequest] = useState<WorkflowRequest | null>(null);
 
-  function loadQueue() {
+  const loadQueue = useCallback(() => {
     setError("");
     fetch(`${withBasePath("/data/image-review.json")}?v=${Date.now()}`, { cache: "no-store" })
       .then(async (response) => {
@@ -93,13 +95,13 @@ export function ImageReviewClient() {
       })
       .then(setQueue)
       .catch((reason: unknown) => setError(reason instanceof Error ? reason.message : "Ett okänt fel uppstod."));
-  }
+  }, []);
 
   useEffect(() => {
     loadQueue();
     const saved = window.sessionStorage.getItem(TOKEN_KEY);
     if (saved) setToken(saved);
-  }, []);
+  }, [loadQueue]);
 
   const counts = useMemo(() => {
     const result: Record<ReviewFilter, number> = { pending: 0, "no-match": 0, error: 0, approved: 0, rejected: 0, all: 0 };
@@ -188,7 +190,8 @@ export function ImageReviewClient() {
         });
       }
       setDecisions({});
-      setNotice(`Skickat till GitHub: ${approveIds.length} godkända och ${rejectIds.length} nekade. Uppdateringen publiceras automatiskt när workflowet är klart.`);
+      setWorkflowRequest({ kind: "review", requestedAt: Date.now() });
+      setNotice(`Skickat till GitHub: ${approveIds.length} godkända och ${rejectIds.length} nekade. Följ körningen i live-statusen nedan.`);
     } catch (reason) {
       setError(reason instanceof Error ? reason.message : "Kunde inte skicka besluten till GitHub.");
     } finally {
@@ -211,7 +214,8 @@ export function ImageReviewClient() {
         approval_mode: "review",
         overwrite: "false",
       });
-      setNotice(`Ny import av upp till ${batchSize} produkter har startats. Avvisade bilder och obehandlade produkter prioriteras.`);
+      setWorkflowRequest({ kind: "import", requestedAt: Date.now() });
+      setNotice(`Ny import av upp till ${batchSize} produkter har startats. Live-statusen visar när hämtning, bygg och publicering är klara.`);
     } catch (reason) {
       setError(reason instanceof Error ? reason.message : "Kunde inte starta en ny bildimport.");
     } finally {
@@ -237,6 +241,8 @@ export function ImageReviewClient() {
 
     {error && <div className="mt-4 rounded-xl border border-red-200 bg-red-50 p-4 text-sm text-red-900"><TriangleAlert className="mr-2 inline h-4 w-4" />{error}</div>}
     {notice && <div className="mt-4 rounded-xl border border-emerald-200 bg-emerald-50 p-4 text-sm text-emerald-900"><ShieldCheck className="mr-2 inline h-4 w-4" />{notice}</div>}
+
+    <WorkflowLiveStatus token={token} request={workflowRequest} onCompleted={loadQueue} />
 
     <div className="mt-5 grid gap-3 sm:grid-cols-2 lg:grid-cols-6">
       {(["pending", "no-match", "error", "approved", "rejected", "all"] as ReviewFilter[]).map((status) => (
