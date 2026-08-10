@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-08-10T13:21:02.873Z",
+  "generatedAt": "2026-08-10T13:23:24.695Z",
   "images": [
     {
       "productId": "everyday-000001",
@@ -333,7 +333,7 @@
       "creator": "Valerio Bozzolan",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 608,
       "height": 1200,
       "importedAt": "2026-08-10T13:02:01.677Z",
@@ -341,7 +341,8 @@
       "confidence": "low",
       "score": 61,
       "sha1": "054f500ff6075a080805e516b7e8d303efae4501",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:23:24.695Z"
     },
     {
       "productId": "everyday-000026",
@@ -484,7 +485,7 @@
       "creator": "LaptopMedia",
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 900,
       "importedAt": "2026-08-10T13:05:04.338Z",
@@ -492,7 +493,8 @@
       "confidence": "high",
       "score": 140,
       "sha1": "0092f3336df34ca0efb678885010161086276a54",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:23:24.695Z"
     },
     {
       "productId": "everyday-000039",
@@ -502,7 +504,7 @@
       "creator": "VectorVoyager",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 900,
       "importedAt": "2026-08-10T13:06:30.643Z",
@@ -510,7 +512,8 @@
       "confidence": "high",
       "score": 142,
       "sha1": "90f20c4fd2b6344a13e8aae5c0c257605b1607be",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:23:24.695Z"
     },
     {
       "productId": "everyday-000043",
@@ -539,7 +542,7 @@
       "creator": "TaurusEmerald",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 512,
       "importedAt": "2026-08-10T13:07:36.211Z",
@@ -547,7 +550,8 @@
       "confidence": "medium",
       "score": 108,
       "sha1": "e4d7906772e18f11a27369d1f9d9532b48560a8e",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:23:24.695Z"
     },
     {
       "productId": "everyday-000052",
@@ -595,7 +599,7 @@
       "creator": "Kyu3a",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 884,
       "height": 1200,
       "importedAt": "2026-08-10T13:05:40.166Z",
@@ -603,7 +607,8 @@
       "confidence": "high",
       "score": 139,
       "sha1": "fcd4c566dd107f46ec34d630cd10daed1141f1b7",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:23:24.695Z"
     },
     {
       "productId": "everyday-000063",
@@ -613,7 +618,7 @@
       "creator": "startless",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 900,
       "importedAt": "2026-08-10T13:06:53.643Z",
@@ -621,7 +626,8 @@
       "confidence": "medium",
       "score": 108,
       "sha1": "2699841d1625cc3347d3594ca63657c1ff9fe7da",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:23:24.695Z"
     },
     {
       "productId": "everyday-000064",
@@ -631,7 +637,7 @@
       "creator": "John Brighenti from Rockville, MD, United States",
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1429,
       "height": 1200,
       "importedAt": "2026-08-10T13:07:14.314Z",
@@ -639,7 +645,8 @@
       "confidence": "medium",
       "score": 112,
       "sha1": "71137465435a3fb1f9801a3152605e2dcb72581d",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:23:24.695Z"
     },
     {
       "productId": "everyday-000065",
@@ -668,7 +675,7 @@
       "creator": "4300streetcar",
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-08-10T13:07:27.815Z",
@@ -676,7 +683,8 @@
       "confidence": "high",
       "score": 142,
       "sha1": "1daecd8b831a0327494a7e746af839129f01288f",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:23:24.695Z"
     },
     {
       "productId": "everyday-000067",
@@ -686,7 +694,7 @@
       "creator": "昼落ち",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1407,
       "height": 1200,
       "importedAt": "2026-08-10T13:07:43.069Z",
@@ -694,7 +702,8 @@
       "confidence": "high",
       "score": 142,
       "sha1": "33bba3aba50c534da88232b9fe5b58fece9040c2",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:23:24.695Z"
     },
     {
       "productId": "everyday-000069",
@@ -761,7 +770,7 @@
       "creator": "Microsoft Corporation",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 1067,
       "importedAt": "2026-08-10T12:58:47.688Z",
@@ -769,7 +778,8 @@
       "confidence": "low",
       "score": 51,
       "sha1": "7cd1ccab61aa5b5ee63d94f17044bc28e190c01f",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:23:24.695Z"
     },
     {
       "productId": "everyday-000075",
@@ -854,7 +864,7 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:PlayStation_VR2_Sense_Controllers.jpg",
       "creator": "GeorgeM2011",
       "license": "Public domain",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 588,
       "importedAt": "2026-08-10T13:00:50.603Z",
@@ -862,7 +872,8 @@
       "confidence": "medium",
       "score": 88,
       "sha1": "d97f171270ef6bbb87a67002dfafc2ca6672c79b",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:23:24.695Z"
     },
     {
       "productId": "everyday-000091",
@@ -967,7 +978,7 @@
       "creator": "Ptyx",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 1051,
       "importedAt": "2026-08-10T13:01:06.306Z",
@@ -975,7 +986,8 @@
       "confidence": "low",
       "score": 46,
       "sha1": "9465758b644f4f59e622cf9e26a242b7ff84d2d7",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:23:24.695Z"
     },
     {
       "productId": "everyday-000117",
@@ -1213,7 +1225,7 @@
       "creator": "EHRENBERG Kommunikation",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 458,
       "importedAt": "2026-08-10T12:59:01.065Z",
@@ -1221,7 +1233,8 @@
       "confidence": "medium",
       "score": 66,
       "sha1": "04c8d3866bb0db09110ca25ee8723466abb0dc46",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:23:24.695Z"
     },
     {
       "productId": "everyday-000176",
@@ -1287,7 +1300,7 @@
       "creator": "Regent Hong Kong",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 1067,
       "importedAt": "2026-08-10T12:59:06.769Z",
@@ -1295,7 +1308,8 @@
       "confidence": "medium",
       "score": 73,
       "sha1": "ccd148718bd64049b5e6544f0bed4016e89fd962",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:23:24.695Z"
     },
     {
       "productId": "everyday-000194",
@@ -2064,7 +2078,7 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quai_de_l%27Horloge_(Breguet).jpg",
       "creator": "Unknown author Unknown author",
       "license": "Public domain",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 700,
       "height": 949,
       "importedAt": "2026-08-10T12:59:43.377Z",
@@ -2072,7 +2086,8 @@
       "confidence": "low",
       "score": 47,
       "sha1": "da01c94998daf5d7def9b1f6e299378e7be3e131",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:23:24.695Z"
     },
     {
       "productId": "lux-000083",
@@ -2233,7 +2248,7 @@
       "creator": "Miguel Discart",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 862,
       "height": 1200,
       "importedAt": "2026-08-10T12:58:41.940Z",
@@ -2241,7 +2256,8 @@
       "confidence": "low",
       "score": 50.4,
       "sha1": "29706b186fec687042ab0d10225c8e136b22b269",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:23:24.695Z"
     }
   ]
 }

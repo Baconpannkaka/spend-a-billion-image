@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T13:21:02.873Z",
+  "updatedAt": "2026-08-10T13:23:24.695Z",
   "products": {
     "lux-000003": {
       "approved": [
@@ -1182,10 +1182,18 @@
           "confidence": "low",
           "query": "Microsoft xbox",
           "reviewedAt": "2026-08-10T12:54:12.471Z"
+        },
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox_MTV_-_Elijah_Wood.jpg",
+          "commonsTitle": "File:Xbox MTV - Elijah Wood.jpg",
+          "score": 51,
+          "confidence": "low",
+          "query": "Microsoft xbox",
+          "reviewedAt": "2026-08-10T13:23:24.695Z"
         }
       ],
       "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T12:54:12.471Z"
+      "updatedAt": "2026-08-10T13:23:24.695Z"
     },
     "everyday-000016": {
       "approved": [
@@ -1340,10 +1348,18 @@
           "confidence": "medium",
           "query": "KONG classic",
           "reviewedAt": "2026-08-10T12:54:12.471Z"
+        },
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Regent_Hong_Kong_Classic_Harbour_View_Room.jpg",
+          "commonsTitle": "File:Regent Hong Kong Classic Harbour View Room.jpg",
+          "score": 73,
+          "confidence": "medium",
+          "query": "KONG classic",
+          "reviewedAt": "2026-08-10T13:23:24.695Z"
         }
       ],
       "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T12:54:12.471Z"
+      "updatedAt": "2026-08-10T13:23:24.695Z"
     },
     "everyday-000182": {
       "approved": [],
@@ -1460,10 +1476,18 @@
           "confidence": "medium",
           "query": "Thule motion",
           "reviewedAt": "2026-08-10T12:54:12.471Z"
+        },
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thule_Motion_(11726731913).jpg",
+          "commonsTitle": "File:Thule Motion (11726731913).jpg",
+          "score": 66,
+          "confidence": "medium",
+          "query": "Thule motion",
+          "reviewedAt": "2026-08-10T13:23:24.695Z"
         }
       ],
       "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T12:54:12.471Z"
+      "updatedAt": "2026-08-10T13:23:24.695Z"
     },
     "lux-000121": {
       "approved": [],
@@ -1475,10 +1499,18 @@
           "confidence": "low",
           "query": "One Piece monkey d. luffy manga",
           "reviewedAt": "2026-08-10T12:54:12.471Z"
+        },
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Monkey_D._Luffy_and_Roronoa_Zoro_from_One_Piece_at_Made_in_Asia_2023.jpg",
+          "commonsTitle": "File:Cosplay of Monkey D. Luffy and Roronoa Zoro from One Piece at Made in Asia 2023.jpg",
+          "score": 50.4,
+          "confidence": "low",
+          "query": "One Piece monkey d. luffy manga",
+          "reviewedAt": "2026-08-10T13:23:24.695Z"
         }
       ],
       "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T12:54:12.471Z"
+      "updatedAt": "2026-08-10T13:23:24.695Z"
     },
     "everyday-000020": {
       "approved": [
@@ -1614,6 +1646,186 @@
       "rejected": [],
       "lastDecision": "approved",
       "updatedAt": "2026-08-10T13:21:02.873Z"
+    },
+    "everyday-000021": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fairphone_5_-_boot_screen.jpg",
+          "commonsTitle": "File:Fairphone 5 - boot screen.jpg",
+          "score": 61,
+          "confidence": "low",
+          "query": "\"Fairphone 5\"",
+          "reviewedAt": "2026-08-10T13:23:24.695Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T13:23:24.695Z"
+    },
+    "everyday-000036": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Intel_Core_Ultra_7_258V,_verbaut_in_einem_ASUS_Zenbook_S_14_UX5406.png",
+          "commonsTitle": "File:Intel Core Ultra 7 258V, verbaut in einem ASUS Zenbook S 14 UX5406.png",
+          "score": 140,
+          "confidence": "high",
+          "query": "\"ASUS Zenbook S 14\"",
+          "reviewedAt": "2026-08-10T13:23:24.695Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T13:23:24.695Z"
+    },
+    "everyday-000039": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2_people_using_Framework_Laptop_13_with_DC-ROMA_RISC-V_Mainboard_inside,_at_Maker_Faire_Rome_2025.jpg",
+          "commonsTitle": "File:2 people using Framework Laptop 13 with DC-ROMA RISC-V Mainboard inside, at Maker Faire Rome 2025.jpg",
+          "score": 142,
+          "confidence": "high",
+          "query": "Framework laptop 13",
+          "reviewedAt": "2026-08-10T13:23:24.695Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T13:23:24.695Z"
+    },
+    "everyday-000044": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Logitech_MX_Keys_YR0073_Wireless_Keyboard.jpg",
+          "commonsTitle": "File:Logitech MX Keys YR0073 Wireless Keyboard.jpg",
+          "score": 108,
+          "confidence": "medium",
+          "query": "Logitech mx keys",
+          "reviewedAt": "2026-08-10T13:23:24.695Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T13:23:24.695Z"
+    },
+    "everyday-000060": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kobo_Libra_Colour.jpg",
+          "commonsTitle": "File:Kobo Libra Colour.jpg",
+          "score": 139,
+          "confidence": "high",
+          "query": "\"Kobo Libra Colour\"",
+          "reviewedAt": "2026-08-10T13:23:24.695Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T13:23:24.695Z"
+    },
+    "everyday-000063": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mapillary_(startless)_2025-07-31_19H49M03S000_(1500110021167500_at_VQ915EJ02Mujv4eGTOswap)_taken_with_GoPro_HERO13_Black.jpg",
+          "commonsTitle": "File:Mapillary (startless) 2025-07-31 19H49M03S000 (1500110021167500 at VQ915EJ02Mujv4eGTOswap) taken with GoPro HERO13 Black.jpg",
+          "score": 108,
+          "confidence": "medium",
+          "query": "\"GoPro HERO13 Black\"",
+          "reviewedAt": "2026-08-10T13:23:24.695Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T13:23:24.695Z"
+    },
+    "everyday-000064": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sony_Alpha_7R_II,_III_and_IV_with_Sony_lenses_(51250202508).jpg",
+          "commonsTitle": "File:Sony Alpha 7R II, III and IV with Sony lenses (51250202508).jpg",
+          "score": 112,
+          "confidence": "medium",
+          "query": "Sony alpha iv",
+          "reviewedAt": "2026-08-10T13:23:24.695Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T13:23:24.695Z"
+    },
+    "everyday-000066": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:CFexpress_Type_B_and_SD_slots_on_Nikon_Z8_2.jpg",
+          "commonsTitle": "File:CFexpress Type B and SD slots on Nikon Z8 2.jpg",
+          "score": 142,
+          "confidence": "high",
+          "query": "\"Nikon Z8\"",
+          "reviewedAt": "2026-08-10T13:23:24.695Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T13:23:24.695Z"
+    },
+    "everyday-000067": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fujifilm_X100VI_25_may_2024e.jpg",
+          "commonsTitle": "File:Fujifilm X100VI 25 may 2024e.jpg",
+          "score": 142,
+          "confidence": "high",
+          "query": "Fujifilm x100vi",
+          "reviewedAt": "2026-08-10T13:23:24.695Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T13:23:24.695Z"
+    },
+    "everyday-000080": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:PlayStation_VR2_Sense_Controllers.jpg",
+          "commonsTitle": "File:PlayStation VR2 Sense Controllers.jpg",
+          "score": 88,
+          "confidence": "medium",
+          "query": "Sony playstation vr2",
+          "reviewedAt": "2026-08-10T13:23:24.695Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T13:23:24.695Z"
+    },
+    "everyday-000112": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2020_01_Picots_d%27arrosage_sur_cocotte_Staub_d%27origine_en_fonte_brute.jpg",
+          "commonsTitle": "File:2020 01 Picots d'arrosage sur cocotte Staub d'origine en fonte brute.jpg",
+          "score": 46,
+          "confidence": "low",
+          "query": "Staub cocotte",
+          "reviewedAt": "2026-08-10T13:23:24.695Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T13:23:24.695Z"
+    },
+    "lux-000074": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quai_de_l%27Horloge_(Breguet).jpg",
+          "commonsTitle": "File:Quai de l'Horloge (Breguet).jpg",
+          "score": 47,
+          "confidence": "low",
+          "query": "\"Breguet Classique Double Tourbillon 5345\"",
+          "reviewedAt": "2026-08-10T13:23:24.695Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T13:23:24.695Z"
     }
   }
 }
