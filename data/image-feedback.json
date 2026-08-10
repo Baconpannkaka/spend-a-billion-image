@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T12:44:34.759Z",
+  "updatedAt": "2026-08-10T12:54:12.471Z",
   "products": {
     "lux-000003": {
       "approved": [
@@ -921,10 +921,18 @@
           "confidence": "medium",
           "query": "Microsoft xbox",
           "reviewedAt": "2026-08-10T12:30:43.587Z"
+        },
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:E3_XBox_Press_Briefing_J_Allard_15_MS_05_2004.jpg",
+          "commonsTitle": "File:E3 XBox Press Briefing J Allard 15 MS 05 2004.jpg",
+          "score": 90,
+          "confidence": "medium",
+          "query": "Microsoft xbox",
+          "reviewedAt": "2026-08-10T12:54:12.471Z"
         }
       ],
       "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T12:30:43.587Z"
+      "updatedAt": "2026-08-10T12:54:12.471Z"
     },
     "everyday-000014": {
       "approved": [
@@ -1088,10 +1096,18 @@
           "confidence": "medium",
           "query": "Adidas ultraboost",
           "reviewedAt": "2026-08-10T12:30:43.587Z"
+        },
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blackpink_Adidas_70th_anniversary_Ultraboost_3.png",
+          "commonsTitle": "File:Blackpink Adidas 70th anniversary Ultraboost 3.png",
+          "score": 107,
+          "confidence": "medium",
+          "query": "Adidas ultraboost",
+          "reviewedAt": "2026-08-10T12:54:12.471Z"
         }
       ],
       "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T12:30:43.587Z"
+      "updatedAt": "2026-08-10T12:54:12.471Z"
     },
     "everyday-000194": {
       "approved": [],
@@ -1158,10 +1174,18 @@
           "confidence": "low",
           "query": "Microsoft xbox",
           "reviewedAt": "2026-08-10T12:30:43.587Z"
+        },
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:E3_XBox_Press_Briefing_J_Allard_15_MS_05_2004.jpg",
+          "commonsTitle": "File:E3 XBox Press Briefing J Allard 15 MS 05 2004.jpg",
+          "score": 51,
+          "confidence": "low",
+          "query": "Microsoft xbox",
+          "reviewedAt": "2026-08-10T12:54:12.471Z"
         }
       ],
       "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T12:30:43.587Z"
+      "updatedAt": "2026-08-10T12:54:12.471Z"
     },
     "everyday-000016": {
       "approved": [
@@ -1308,10 +1332,18 @@
           "confidence": "medium",
           "query": "KONG classic",
           "reviewedAt": "2026-08-10T12:30:43.587Z"
+        },
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Classic_Hong_Kong_buses_together_in_rainy_day._(49298839552).jpg",
+          "commonsTitle": "File:Classic Hong Kong buses together in rainy day. (49298839552).jpg",
+          "score": 73,
+          "confidence": "medium",
+          "query": "KONG classic",
+          "reviewedAt": "2026-08-10T12:54:12.471Z"
         }
       ],
       "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T12:30:43.587Z"
+      "updatedAt": "2026-08-10T12:54:12.471Z"
     },
     "everyday-000182": {
       "approved": [],
@@ -1417,6 +1449,36 @@
       "rejected": [],
       "lastDecision": "approved",
       "updatedAt": "2026-08-10T12:44:34.759Z"
+    },
+    "everyday-000170": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thule_Motion_%E2%80%93_pushing_the_limits_of_space_(11727241336).jpg",
+          "commonsTitle": "File:Thule Motion – pushing the limits of space (11727241336).jpg",
+          "score": 73,
+          "confidence": "medium",
+          "query": "Thule motion",
+          "reviewedAt": "2026-08-10T12:54:12.471Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T12:54:12.471Z"
+    },
+    "lux-000121": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Monkey_D._Luffy_from_One_Piece_at_Made_in_Asia_2023.jpg",
+          "commonsTitle": "File:Cosplay of Monkey D. Luffy from One Piece at Made in Asia 2023.jpg",
+          "score": 50.4,
+          "confidence": "low",
+          "query": "One Piece monkey d. luffy manga",
+          "reviewedAt": "2026-08-10T12:54:12.471Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T12:54:12.471Z"
     }
   }
 }
