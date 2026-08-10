@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T12:30:43.587Z",
+  "updatedAt": "2026-08-10T12:44:34.759Z",
   "products": {
     "lux-000003": {
       "approved": [
@@ -1327,6 +1327,96 @@
       ],
       "lastDecision": "rejected",
       "updatedAt": "2026-08-10T12:30:43.587Z"
+    },
+    "everyday-000018": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%8D%8A%E5%A4%9C%E9%A6%96%E5%8F%91%EF%BC%81%E7%AC%AC%E4%B8%80%E6%89%8B%E6%8B%BF%E5%88%B0%E4%BA%86Nothing_Phone_(3)_%EF%BC%81%E7%81%AF%E6%9D%A1%E6%B2%A1%E4%BA%86%E3%80%81%E8%83%8C%E5%90%8E%E5%A4%9A%E4%B8%80%E4%B8%AAscreen%EF%BC%81-00.00.22.579.png",
+          "commonsTitle": "File:半夜首发！第一手拿到了Nothing Phone (3) ！灯条没了、背后多一个screen！-00.00.22.579.png",
+          "score": 140,
+          "confidence": "high",
+          "query": "\"Nothing Phone (3)\"",
+          "reviewedAt": "2026-08-10T12:44:34.759Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T12:44:34.759Z"
+    },
+    "everyday-000031": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lenovo_ThinkPad_X1_Carbon_(first_gen)_(10773963714).jpg",
+          "commonsTitle": "File:Lenovo ThinkPad X1 Carbon (first gen) (10773963714).jpg",
+          "score": 82.4,
+          "confidence": "medium",
+          "query": "Lenovo thinkpad x1 carbon gen",
+          "reviewedAt": "2026-08-10T12:44:34.759Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T12:44:34.759Z"
+    },
+    "everyday-000053": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apple_AirPods_Max_packaging.jpg",
+          "commonsTitle": "File:Apple AirPods Max packaging.jpg",
+          "score": 142,
+          "confidence": "high",
+          "query": "\"Apple AirPods Max\"",
+          "reviewedAt": "2026-08-10T12:44:34.759Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T12:44:34.759Z"
+    },
+    "everyday-000078": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20251008_ROG_Ally_X_%E6%8E%8C%E6%9C%BA%E4%B8%80%E4%BB%A3%EF%BC%88COMICUP_2025_SP%E6%BC%AB%E5%B1%95%E7%9A%84_WD_BLACK%E5%B1%95%E5%8F%B0%E4%B8%8A%E7%9A%84%EF%BC%89.jpg",
+          "commonsTitle": "File:20251008 ROG Ally X 掌机一代（COMICUP 2025 SP漫展的 WD BLACK展台上的）.jpg",
+          "score": 62,
+          "confidence": "low",
+          "query": "\"ASUS ROG Ally X\"",
+          "reviewedAt": "2026-08-10T12:44:34.759Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T12:44:34.759Z"
+    },
+    "everyday-000079": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3_display_unit.jpg",
+          "commonsTitle": "File:Meta Quest 3 display unit.jpg",
+          "score": 142,
+          "confidence": "high",
+          "query": "\"Meta Quest 3\"",
+          "reviewedAt": "2026-08-10T12:44:34.759Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T12:44:34.759Z"
+    },
+    "everyday-000103": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeron_Chair_by_Herman_Miller_(9446986497).jpg",
+          "commonsTitle": "File:Aeron Chair by Herman Miller (9446986497).jpg",
+          "score": 109,
+          "confidence": "medium",
+          "query": "Herman Miller aeron chair",
+          "reviewedAt": "2026-08-10T12:44:34.759Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T12:44:34.759Z"
     }
   }
 }

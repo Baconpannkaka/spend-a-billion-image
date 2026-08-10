@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-08-10T12:37:43.785Z",
+  "generatedAt": "2026-08-10T12:44:34.759Z",
   "images": [
     {
       "productId": "everyday-000001",
@@ -295,7 +295,7 @@
       "creator": "可恩Ke En",
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 900,
       "importedAt": "2026-08-10T12:35:59.671Z",
@@ -303,7 +303,8 @@
       "confidence": "high",
       "score": 140,
       "sha1": "0c0324e55d17ba0100758a45ba9443794bced93f",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:44:34.759Z"
     },
     {
       "productId": "everyday-000026",
@@ -370,7 +371,7 @@
       "creator": "TAKA@P.P.R.S",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1064,
       "importedAt": "2026-08-10T12:37:27.198Z",
@@ -378,7 +379,8 @@
       "confidence": "medium",
       "score": 82.4,
       "sha1": "821bf6cdf8d2e1fd664882a656c4493e8b831bbf",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:44:34.759Z"
     },
     {
       "productId": "everyday-000052",
@@ -407,7 +409,7 @@
       "creator": "SimonWaldherr",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1500,
       "height": 1200,
       "importedAt": "2026-08-10T12:36:05.693Z",
@@ -415,7 +417,8 @@
       "confidence": "high",
       "score": 142,
       "sha1": "1e925e53f1405f75f3034611559c587cb9d0e88d",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:44:34.759Z"
     },
     {
       "productId": "everyday-000071",
@@ -518,7 +521,7 @@
       "creator": "MomodaniSakura",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-08-10T12:36:11.093Z",
@@ -526,7 +529,8 @@
       "confidence": "low",
       "score": 62,
       "sha1": "7e32d0bbd560f0a5740e65bafcd109dd21508e9b",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:44:34.759Z"
     },
     {
       "productId": "everyday-000079",
@@ -536,7 +540,7 @@
       "creator": "IHazACatNamedMax",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-08-10T12:37:32.691Z",
@@ -544,7 +548,8 @@
       "confidence": "high",
       "score": 142,
       "sha1": "0c1dc2f50ef2c443550d327397f6f50d2c8acb29",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:44:34.759Z"
     },
     {
       "productId": "everyday-000091",
@@ -611,7 +616,7 @@
       "creator": "Cubicle Sherpa",
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 900,
       "height": 1200,
       "importedAt": "2026-08-10T12:36:21.146Z",
@@ -619,7 +624,8 @@
       "confidence": "medium",
       "score": 109,
       "sha1": "08717ce50a55a3549fac035045bad9fbbf92884c",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:44:34.759Z"
     },
     {
       "productId": "everyday-000105",
