@@ -90,6 +90,7 @@ export type ProductCatalog = {
 export type ProductImageStatus = "placeholder" | "unreviewed" | "approved" | "rejected";
 export type ImageConfidence = "high" | "medium" | "low" | "none";
 export type ImageReviewStatus = "pending" | "approved" | "rejected" | "no-match" | "error";
+export type ImageSourceType = "commons" | "openverse";
 
 export type ProductImageRecord = {
   productId: string;
@@ -105,6 +106,11 @@ export type ProductImageRecord = {
   reviewedAt?: string;
   importedAt?: string;
   commonsTitle?: string;
+  sourceTitle?: string;
+  sourceType?: ImageSourceType;
+  provider?: string;
+  source?: string;
+  attribution?: string;
   confidence?: Exclude<ImageConfidence, "none">;
   score?: number;
   sha1?: string;
@@ -128,6 +134,10 @@ export type ImageReviewCandidate = {
   score: number;
   path?: string;
   query?: string;
+  sourceType?: ImageSourceType;
+  provider?: string;
+  source?: string;
+  attribution?: string;
 };
 
 export type ImageReviewItem = {
