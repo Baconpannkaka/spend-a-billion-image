@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T12:54:12.471Z",
+  "updatedAt": "2026-08-10T13:21:02.873Z",
   "products": {
     "lux-000003": {
       "approved": [
@@ -1479,6 +1479,141 @@
       ],
       "lastDecision": "rejected",
       "updatedAt": "2026-08-10T12:54:12.471Z"
+    },
+    "everyday-000020": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xiaomi_15_Ultra.jpg",
+          "commonsTitle": "File:Xiaomi 15 Ultra.jpg",
+          "score": 142,
+          "confidence": "high",
+          "query": "\"Xiaomi 15 Ultra\"",
+          "reviewedAt": "2026-08-10T13:21:02.873Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T13:21:02.873Z"
+    },
+    "everyday-000033": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Microsoft_Surface_Laptop_7.jpg",
+          "commonsTitle": "File:Microsoft Surface Laptop 7.jpg",
+          "score": 139,
+          "confidence": "high",
+          "query": "\"Microsoft Surface Laptop 7\"  product",
+          "reviewedAt": "2026-08-10T13:21:02.873Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T13:21:02.873Z"
+    },
+    "everyday-000034": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Virginia_Ballot_on_Microsoft_Surface_Pro_Tablet.jpg",
+          "commonsTitle": "File:Virginia Ballot on Microsoft Surface Pro Tablet.jpg",
+          "score": 91.3,
+          "confidence": "medium",
+          "query": "Microsoft surface pro 11",
+          "reviewedAt": "2026-08-10T13:21:02.873Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T13:21:02.873Z"
+    },
+    "everyday-000035": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokyo-Game-Show-2025_0121.jpg",
+          "commonsTitle": "File:Tokyo-Game-Show-2025 0121.jpg",
+          "score": 28,
+          "confidence": "low",
+          "query": "\"ASUS ROG Zephyrus G14\"",
+          "reviewedAt": "2026-08-10T13:21:02.873Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T13:21:02.873Z"
+    },
+    "everyday-000043": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apple_Studio_Display_and_Mac_Studio_with_Peripherals.jpg",
+          "commonsTitle": "File:Apple Studio Display and Mac Studio with Peripherals.jpg",
+          "score": 142,
+          "confidence": "high",
+          "query": "\"Apple Studio Display\"",
+          "reviewedAt": "2026-08-10T13:21:02.873Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T13:21:02.873Z"
+    },
+    "everyday-000065": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canon_EOS_R6_Mark_II_9_jan_2023d.jpg",
+          "commonsTitle": "File:Canon EOS R6 Mark II 9 jan 2023d.jpg",
+          "score": 142,
+          "confidence": "high",
+          "query": "\"Canon EOS R6 Mark II\"",
+          "reviewedAt": "2026-08-10T13:21:02.873Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T13:21:02.873Z"
+    },
+    "everyday-000069": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apple_Watch_Sport.jpg",
+          "commonsTitle": "File:Apple Watch Sport.jpg",
+          "score": 73,
+          "confidence": "medium",
+          "query": "\"Apple Watch Series 11\"",
+          "reviewedAt": "2026-08-10T13:21:02.873Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T13:21:02.873Z"
+    },
+    "everyday-000133": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hoka_Clifton_7.jpg",
+          "commonsTitle": "File:Hoka Clifton 7.jpg",
+          "score": 59,
+          "confidence": "low",
+          "query": "Hoka clifton 10",
+          "reviewedAt": "2026-08-10T13:21:02.873Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T13:21:02.873Z"
+    },
+    "everyday-000136": {
+      "approved": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Birkenstock_Arizona_Blue_sandals.jpg",
+          "commonsTitle": "File:Birkenstock Arizona Blue sandals.jpg",
+          "score": 142,
+          "confidence": "high",
+          "query": "\"Birkenstock Arizona\"  shoes footwear",
+          "reviewedAt": "2026-08-10T13:21:02.873Z"
+        }
+      ],
+      "rejected": [],
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-10T13:21:02.873Z"
     }
   }
 }

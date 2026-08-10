@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-08-10T13:08:03.177Z",
+  "generatedAt": "2026-08-10T13:21:02.873Z",
   "images": [
     {
       "productId": "everyday-000001",
@@ -314,7 +314,7 @@
       "creator": "Andreas Fuchs/Weber Shandwick",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 900,
       "importedAt": "2026-08-10T13:00:30.915Z",
@@ -322,7 +322,8 @@
       "confidence": "high",
       "score": 142,
       "sha1": "5b5e7628e761adfc500ea4e07ae90fe2f3cbbfb6",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:21:02.873Z"
     },
     {
       "productId": "everyday-000021",
@@ -426,7 +427,7 @@
       "creator": "StrangeApparition2011",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 900,
       "height": 1200,
       "importedAt": "2026-08-10T13:02:03.155Z",
@@ -434,7 +435,8 @@
       "confidence": "high",
       "score": 139,
       "sha1": "920bca82c0a1611cd9cbf4d309c37f5f7acfbf0e",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:21:02.873Z"
     },
     {
       "productId": "everyday-000034",
@@ -444,7 +446,7 @@
       "creator": "Intel Free Press",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1024,
       "height": 699,
       "importedAt": "2026-08-10T13:03:17.981Z",
@@ -452,7 +454,8 @@
       "confidence": "medium",
       "score": 91.3,
       "sha1": "06cb713ac57b59ec40ffa8a6fe534e4bfb9399f2",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:21:02.873Z"
     },
     {
       "productId": "everyday-000035",
@@ -462,7 +465,7 @@
       "creator": "RuinDig/Yuki Uchida",
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-08-10T13:04:10.712Z",
@@ -470,7 +473,8 @@
       "confidence": "low",
       "score": 28,
       "sha1": "becd001fbb066a13e0f389d48a3670eba73e61e4",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:21:02.873Z"
     },
     {
       "productId": "everyday-000036",
@@ -516,7 +520,7 @@
       "creator": "AzureSaturn",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-08-10T13:07:25.656Z",
@@ -524,7 +528,8 @@
       "confidence": "high",
       "score": 142,
       "sha1": "603946826e7937de9991971082a94abe2ca01404",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:21:02.873Z"
     },
     {
       "productId": "everyday-000044",
@@ -644,7 +649,7 @@
       "creator": "昼落ち",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1556,
       "height": 1200,
       "importedAt": "2026-08-10T13:07:22.942Z",
@@ -652,7 +657,8 @@
       "confidence": "high",
       "score": 142,
       "sha1": "90af8be83c0aed6f24207137426cc28a89d169ef",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:21:02.873Z"
     },
     {
       "productId": "everyday-000066",
@@ -698,7 +704,7 @@
       "creator": "thomersch",
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-08-10T13:08:02.826Z",
@@ -706,7 +712,8 @@
       "confidence": "medium",
       "score": 73,
       "sha1": "617543899b2e86e9ab9144d88b2892e80bbc78c7",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:21:02.873Z"
     },
     {
       "productId": "everyday-000071",
@@ -1092,7 +1099,7 @@
       "creator": "Ssu",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-08-10T13:01:20.886Z",
@@ -1100,7 +1107,8 @@
       "confidence": "low",
       "score": 59,
       "sha1": "0ee596246d343d94d2023ea8d7557d684e9174b6",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:21:02.873Z"
     },
     {
       "productId": "everyday-000136",
@@ -1110,7 +1118,7 @@
       "creator": "TheHumanKite",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-08-10T13:04:37.847Z",
@@ -1118,7 +1126,8 @@
       "confidence": "high",
       "score": 142,
       "sha1": "ccd318133d7cae321c3c8556286a459f7859b055",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T13:21:02.873Z"
     },
     {
       "productId": "everyday-000150",
