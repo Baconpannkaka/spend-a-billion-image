@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-08-10T12:01:34.090Z",
+  "generatedAt": "2026-08-10T12:05:48.942Z",
   "images": [
     {
       "productId": "everyday-000001",
@@ -276,7 +276,7 @@
       "creator": "Miyako Fujimiya",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1200,
       "height": 1200,
       "importedAt": "2026-08-10T11:59:19.056Z",
@@ -284,7 +284,8 @@
       "confidence": "high",
       "score": 139,
       "sha1": "3091ca939197a4ba2e81d630221725221a646a96",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:05:48.942Z"
     },
     {
       "productId": "everyday-000026",
@@ -332,7 +333,7 @@
       "creator": "Tinh tế Photo",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1067,
       "importedAt": "2026-08-10T12:01:05.602Z",
@@ -340,7 +341,8 @@
       "confidence": "high",
       "score": 142,
       "sha1": "f4c02a1b85a2799faf46982384db35714b5a3b39",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:05:48.942Z"
     },
     {
       "productId": "everyday-000052",
@@ -350,7 +352,7 @@
       "creator": "Kyu3",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1200,
       "importedAt": "2026-08-10T12:01:12.311Z",
@@ -358,7 +360,8 @@
       "confidence": "medium",
       "score": 86,
       "sha1": "9d2f1a8e50731913e3dc1e1909d5259cb303d75a",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:05:48.942Z"
     },
     {
       "productId": "everyday-000071",
@@ -442,7 +445,7 @@
       "creator": "Padgriffin",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 669,
       "importedAt": "2026-08-10T11:59:34.031Z",
@@ -450,7 +453,8 @@
       "confidence": "high",
       "score": 136,
       "sha1": "75ddf9311585fa2fe9dfd888cd2360815d55dce8",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:05:48.942Z"
     },
     {
       "productId": "everyday-000091",
@@ -497,7 +501,7 @@
       "creator": "Fidelio",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 900,
       "height": 1200,
       "importedAt": "2026-08-10T11:59:47.761Z",
@@ -505,7 +509,8 @@
       "confidence": "medium",
       "score": 109,
       "sha1": "a197e6afa29cdf53f548e20e1fc7b57b6eb7f9e1",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:05:48.942Z"
     },
     {
       "productId": "everyday-000105",
@@ -553,7 +558,7 @@
       "creator": "Blyngre",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 900,
       "height": 1200,
       "importedAt": "2026-08-10T12:00:03.828Z",
@@ -561,7 +566,8 @@
       "confidence": "low",
       "score": 47,
       "sha1": "da01c2b7654182442742ce9f273ff45d3f490098",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:05:48.942Z"
     },
     {
       "productId": "everyday-000127",
@@ -722,7 +728,7 @@
       "creator": "yosshi from Tokyo, Japan",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 600,
       "height": 800,
       "importedAt": "2026-08-10T12:00:34.118Z",
@@ -730,7 +736,8 @@
       "confidence": "high",
       "score": 139,
       "sha1": "b4b2e69fadabc0f28c30615bd224ac6b9b767ff9",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:05:48.942Z"
     },
     {
       "productId": "everyday-000181",
@@ -739,7 +746,7 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Millennium_falcon_lego.jpg",
       "creator": "Cappo80",
       "license": "Public domain",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 900,
       "height": 1200,
       "importedAt": "2026-08-10T11:57:07.318Z",
@@ -747,7 +754,8 @@
       "confidence": "low",
       "score": 48.2,
       "sha1": "8fb77ca2c4cfd9777394f04dd15e1eaeb4ff251d",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:05:48.942Z"
     },
     {
       "productId": "everyday-000182",
@@ -1570,7 +1578,7 @@
       "creator": "Andrew Bossi from Laurel, MD, USA",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1273,
       "height": 1200,
       "importedAt": "2026-08-10T11:58:30.344Z",
@@ -1578,7 +1586,8 @@
       "confidence": "low",
       "score": 21,
       "sha1": "9afb835f64b0e4d09e950bbf23f68c3abdc93421",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:05:48.942Z"
     },
     {
       "productId": "lux-000099",
@@ -1683,7 +1692,7 @@
       "creator": "vonguard",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 900,
       "height": 1200,
       "importedAt": "2026-08-10T11:56:54.685Z",
@@ -1691,7 +1700,8 @@
       "confidence": "low",
       "score": 39.6,
       "sha1": "beee123b1a575ea11d87dfc9e350a9515e6f1484",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T12:05:48.942Z"
     }
   ]
 }
