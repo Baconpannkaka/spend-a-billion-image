@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T09:41:59.076Z",
+  "updatedAt": "2026-08-10T09:44:05.124Z",
   "products": {
     "lux-000003": {
       "approved": [
@@ -486,10 +486,18 @@
           "confidence": "high",
           "query": "\"Ferrari 12Cilindri\"  car automobile",
           "reviewedAt": "2026-08-10T09:15:19.697Z"
+        },
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ferrari_12Cilindri_Spider_Auto_Zuerich_2024_DSC_6881.jpg",
+          "commonsTitle": "File:Ferrari 12Cilindri Spider Auto Zuerich 2024 DSC 6881.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Ferrari 12Cilindri\"  car automobile",
+          "reviewedAt": "2026-08-10T09:44:05.124Z"
         }
       ],
       "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T09:15:19.697Z"
+      "updatedAt": "2026-08-10T09:44:05.124Z"
     },
     "lux-000031": {
       "approved": [
@@ -538,6 +546,21 @@
       ],
       "lastDecision": "approved",
       "updatedAt": "2026-08-10T09:41:59.076Z"
+    },
+    "lux-000083": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lady_walking_with_her_dog_(1878).,_by_Giuseppe_De_Nittis.jpg",
+          "commonsTitle": "File:Lady walking with her dog (1878)., by Giuseppe De Nittis.jpg",
+          "score": 28,
+          "confidence": "low",
+          "query": "\"Dior Lady Dior Medium\"  fashion product",
+          "reviewedAt": "2026-08-10T09:44:05.124Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T09:44:05.124Z"
     }
   }
 }

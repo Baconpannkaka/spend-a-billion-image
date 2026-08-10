@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-08-10T09:41:59.076Z",
+  "generatedAt": "2026-08-10T09:44:05.124Z",
   "images": [
     {
       "productId": "everyday-000001",
@@ -295,7 +295,7 @@
       "creator": "Alexander-93",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 1069,
       "importedAt": "2026-08-10T09:17:09.547Z",
@@ -303,7 +303,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "8095bcba85335af8a7e365a5259061f783eba83e",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:44:05.124Z"
     },
     {
       "productId": "lux-000011",
@@ -863,7 +864,7 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lady_walking_with_her_dog_(1878).,_by_Giuseppe_De_Nittis.jpg",
       "creator": "Giuseppe De Nittis",
       "license": "Public domain",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 718,
       "height": 1200,
       "importedAt": "2026-08-10T09:19:20.139Z",
@@ -871,7 +872,8 @@
       "confidence": "low",
       "score": 28,
       "sha1": "7ee87352658b0488a2b9a3863dc3a62b37af8259",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:44:05.124Z"
     },
     {
       "productId": "lux-000108",
