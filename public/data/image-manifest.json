@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-08-10T09:19:26.683Z",
+  "generatedAt": "2026-08-10T09:41:59.076Z",
   "images": [
     {
       "productId": "everyday-000001",
@@ -219,7 +219,7 @@
       "creator": "Mr.choppers",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 897,
       "importedAt": "2026-08-10T09:17:07.240Z",
@@ -227,7 +227,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "cd5d946566bace126423d1a810a206ad66789c85",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:41:59.076Z"
     },
     {
       "productId": "lux-000007",
@@ -673,7 +674,7 @@
       "creator": "Bidgee",
       "license": "CC BY-SA 3.0 au",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/au/deed.en",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1067,
       "importedAt": "2026-08-10T09:17:17.221Z",
@@ -681,7 +682,8 @@
       "confidence": "medium",
       "score": 84.7,
       "sha1": "c172af83735f8932a8ccf274f0660611ad2ed2ca",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:41:59.076Z"
     },
     {
       "productId": "lux-000032",
@@ -691,7 +693,7 @@
       "creator": "Bidgee",
       "license": "CC BY-SA 3.0 au",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/au/deed.en",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1600,
       "height": 1067,
       "importedAt": "2026-08-10T09:17:19.515Z",
@@ -699,7 +701,8 @@
       "confidence": "high",
       "score": 138,
       "sha1": "c172af83735f8932a8ccf274f0660611ad2ed2ca",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T09:41:59.076Z"
     },
     {
       "productId": "lux-000034",

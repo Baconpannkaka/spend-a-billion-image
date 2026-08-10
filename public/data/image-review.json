@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-08-10T09:19:26.683Z",
+  "generatedAt": "2026-08-10T09:41:59.076Z",
   "items": [
     {
       "productId": "everyday-000001",
@@ -771,7 +771,7 @@
       "brand": "Pagani",
       "categoryLabel": "Fordon",
       "query": "\"Pagani Huayra Roadster BC\"  car automobile",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-08-10T09:17:07.240Z",
@@ -820,7 +820,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:41:59.076Z"
     },
     {
       "productId": "lux-000007",
@@ -2121,7 +2122,7 @@
       "brand": "Bombardier",
       "categoryLabel": "Privatflyg",
       "query": "\"Bombardier Global 8000\"  aircraft jet helicopter",
-      "status": "pending",
+      "status": "approved",
       "confidence": "medium",
       "score": 84.7,
       "importedAt": "2026-08-10T09:17:17.221Z",
@@ -2170,7 +2171,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:41:59.076Z"
     },
     {
       "productId": "lux-000032",
@@ -2179,7 +2181,7 @@
       "brand": "Bombardier",
       "categoryLabel": "Privatflyg",
       "query": "\"Bombardier Global 7500\"  aircraft jet helicopter",
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-08-10T09:17:19.515Z",
@@ -2228,7 +2230,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:41:59.076Z"
     },
     {
       "productId": "lux-000033",
