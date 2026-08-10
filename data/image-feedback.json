@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T11:30:05.070Z",
+  "updatedAt": "2026-08-10T11:32:45.058Z",
   "products": {
     "lux-000003": {
       "approved": [
@@ -894,6 +894,21 @@
       "rejected": [],
       "lastDecision": "approved",
       "updatedAt": "2026-08-10T11:28:06.831Z"
+    },
+    "everyday-000073": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:J_Allard_E3_2005_Xbox_(4).jpg",
+          "commonsTitle": "File:J Allard E3 2005 Xbox (4).jpg",
+          "score": 90,
+          "confidence": "medium",
+          "query": "Microsoft xbox",
+          "reviewedAt": "2026-08-10T11:32:45.058Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T11:32:45.058Z"
     }
   }
 }

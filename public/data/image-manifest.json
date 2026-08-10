@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-08-10T11:30:05.070Z",
+  "generatedAt": "2026-08-10T11:32:45.058Z",
   "images": [
     {
       "productId": "everyday-000001",
@@ -257,7 +257,7 @@
       "creator": "Microsoft",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 876,
       "height": 584,
       "importedAt": "2026-08-10T11:05:01.093Z",
@@ -265,7 +265,8 @@
       "confidence": "medium",
       "score": 90,
       "sha1": "16d052cdaa57af6e44adc5d8d29605885ce3e910",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-10T11:32:45.058Z"
     },
     {
       "productId": "everyday-000097",

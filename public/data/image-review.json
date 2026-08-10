@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-08-10T11:30:05.070Z",
+  "generatedAt": "2026-08-10T11:32:45.058Z",
   "searchVersion": 2,
   "items": [
     {
@@ -963,7 +963,7 @@
       ],
       "searchVersion": 2,
       "attemptCount": 1,
-      "status": "pending",
+      "status": "rejected",
       "confidence": "medium",
       "score": 90,
       "importedAt": "2026-08-10T11:05:01.093Z",
@@ -1016,7 +1016,8 @@
       ],
       "notes": [
         "Bildsök v2 valde bästa kandidaten efter 5 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T11:32:45.058Z"
     },
     {
       "productId": "everyday-000086",
