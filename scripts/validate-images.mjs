@@ -17,6 +17,7 @@ for (const image of manifest.images) {
   ids.add(image.productId);
   if (!/^(lux|everyday)-\d{6}$/.test(image.productId)) throw new Error(`Ogiltigt bild-id: ${image.productId}`);
   if (!["placeholder", "unreviewed", "approved", "rejected"].includes(image.status)) throw new Error(`Ogiltig bildstatus för ${image.productId}`);
+  if (image.sourceType && !["commons", "openverse"].includes(image.sourceType)) throw new Error(`Ogiltig bildkälla för ${image.productId}: ${image.sourceType}`);
   if (["approved", "unreviewed"].includes(image.status)) {
     if (!image.path || !image.alt || !image.sourceUrl || !image.license) throw new Error(`Bild ${image.productId} saknar metadata.`);
     await access(path.join(ROOT, "public", image.path.replace(/^\//, "")));
@@ -33,5 +34,6 @@ for (const item of review.items) {
   if (!["high", "medium", "low", "none"].includes(item.confidence)) throw new Error(`Ogiltig confidence för ${item.productId}`);
   if (!Array.isArray(item.alternatives) || !Array.isArray(item.notes)) throw new Error(`Granskningspost ${item.productId} har fel format.`);
   if (["pending", "approved"].includes(item.status) && !item.selected) throw new Error(`Granskningspost ${item.productId} saknar vald kandidat.`);
+  if (item.selected?.sourceType && !["commons", "openverse"].includes(item.selected.sourceType)) throw new Error(`Ogiltig granskningskälla för ${item.productId}.`);
 }
 console.log(`Bildmanifest: ${manifest.images.length} poster (${approved} godkända, ${unreviewed} väntar). Granskningskö: ${review.items.length}.`);
