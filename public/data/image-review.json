@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-08-10T09:49:40.810Z",
+  "generatedAt": "2026-08-10T09:52:54.167Z",
   "items": [
     {
       "productId": "everyday-000001",
@@ -68,7 +68,7 @@
       "brand": "Apple",
       "categoryLabel": "Mobiltelefoner",
       "query": "\"iPhone 17 Pro Max\" Apple product",
-      "status": "pending",
+      "status": "rejected",
       "confidence": "high",
       "score": 113,
       "importedAt": "2026-08-10T09:49:17.069Z",
@@ -117,7 +117,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:52:54.167Z"
     },
     {
       "productId": "everyday-000003",
@@ -126,7 +127,7 @@
       "brand": "Apple",
       "categoryLabel": "Mobiltelefoner",
       "query": "\"iPhone Air\" Apple product",
-      "status": "pending",
+      "status": "rejected",
       "confidence": "high",
       "score": 129,
       "importedAt": "2026-08-10T09:49:19.110Z",
@@ -175,7 +176,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:52:54.167Z"
     },
     {
       "productId": "everyday-000004",
@@ -184,7 +186,7 @@
       "brand": "Apple",
       "categoryLabel": "Mobiltelefoner",
       "query": "\"iPhone 17\" Apple product",
-      "status": "pending",
+      "status": "rejected",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-08-10T09:49:21.516Z",
@@ -233,7 +235,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:52:54.167Z"
     },
     {
       "productId": "everyday-000005",
@@ -355,7 +358,7 @@
       "brand": "Samsung",
       "categoryLabel": "Mobiltelefoner",
       "query": "\"Samsung Galaxy S25+\"  product",
-      "status": "pending",
+      "status": "rejected",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-08-10T09:49:32.752Z",
@@ -394,7 +397,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:52:54.167Z"
     },
     {
       "productId": "everyday-000009",
@@ -403,7 +407,7 @@
       "brand": "Samsung",
       "categoryLabel": "Mobiltelefoner",
       "query": "\"Samsung Galaxy S25\"  product",
-      "status": "pending",
+      "status": "rejected",
       "confidence": "high",
       "score": 138,
       "importedAt": "2026-08-10T09:49:34.989Z",
@@ -442,7 +446,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:52:54.167Z"
     },
     {
       "productId": "everyday-000010",
@@ -451,7 +456,7 @@
       "brand": "Samsung",
       "categoryLabel": "Mobiltelefoner",
       "query": "\"Samsung Galaxy Z Fold6\"  product",
-      "status": "pending",
+      "status": "rejected",
       "confidence": "high",
       "score": 133,
       "importedAt": "2026-08-10T09:49:37.873Z",
@@ -500,7 +505,8 @@
       ],
       "notes": [
         "Kontrollera att bilden visar rätt produkt innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-10T09:52:54.167Z"
     },
     {
       "productId": "everyday-000011",

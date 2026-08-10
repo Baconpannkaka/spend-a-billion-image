@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T09:44:05.124Z",
+  "updatedAt": "2026-08-10T09:52:54.167Z",
   "products": {
     "lux-000003": {
       "approved": [
@@ -561,6 +561,96 @@
       ],
       "lastDecision": "rejected",
       "updatedAt": "2026-08-10T09:44:05.124Z"
+    },
+    "everyday-000002": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Silver_iPhone_17_Pro_Max.jpg",
+          "commonsTitle": "File:Silver iPhone 17 Pro Max.jpg",
+          "score": 113,
+          "confidence": "high",
+          "query": "\"iPhone 17 Pro Max\" Apple product",
+          "reviewedAt": "2026-08-10T09:52:54.167Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T09:52:54.167Z"
+    },
+    "everyday-000003": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apple_iPhone_Air.png",
+          "commonsTitle": "File:Apple iPhone Air.png",
+          "score": 129,
+          "confidence": "high",
+          "query": "\"iPhone Air\" Apple product",
+          "reviewedAt": "2026-08-10T09:52:54.167Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T09:52:54.167Z"
+    },
+    "everyday-000004": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:IPhone_17_launch_at_Apple_TRX_Malaysia_10.jpg",
+          "commonsTitle": "File:IPhone 17 launch at Apple TRX Malaysia 10.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"iPhone 17\" Apple product",
+          "reviewedAt": "2026-08-10T09:52:54.167Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T09:52:54.167Z"
+    },
+    "everyday-000008": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_S25_Ultra.jpg",
+          "commonsTitle": "File:Samsung Galaxy S25 Ultra.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Samsung Galaxy S25+\"  product",
+          "reviewedAt": "2026-08-10T09:52:54.167Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T09:52:54.167Z"
+    },
+    "everyday-000009": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_S25_Ultra.jpg",
+          "commonsTitle": "File:Samsung Galaxy S25 Ultra.jpg",
+          "score": 138,
+          "confidence": "high",
+          "query": "\"Samsung Galaxy S25\"  product",
+          "reviewedAt": "2026-08-10T09:52:54.167Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T09:52:54.167Z"
+    },
+    "everyday-000010": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_Z_Fold6.png",
+          "commonsTitle": "File:Samsung Galaxy Z Fold6.png",
+          "score": 133,
+          "confidence": "high",
+          "query": "\"Samsung Galaxy Z Fold6\"  product",
+          "reviewedAt": "2026-08-10T09:52:54.167Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-10T09:52:54.167Z"
     }
   }
 }
