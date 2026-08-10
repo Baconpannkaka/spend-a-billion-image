@@ -1,70 +1,47 @@
-# Automatisk bildimport från Wikimedia Commons
+# Bildsök v3 – automatisk produktbildimport
 
-Version 4 innehåller ett komplett, webbaserat arbetsflöde för de 334 verifierade produkterna. Importen körs i GitHub Actions och kräver ingen lokal installation.
+Bildimporten körs helt via GitHub Actions och adminsidan `/bildgranskning`. Ingen lokal installation behövs för normal användning.
 
-## Säkerhetsprincip
+## Källor och säkerhetsprincip
 
-- Endast filer som faktiskt ligger på Wikimedia Commons används.
-- Tillåtna licenser är CC0, public domain, CC BY och CC BY-SA.
-- NC- och ND-licenser stoppas automatiskt.
-- Fotograf, Commons-sida, licens och licenslänk sparas i manifestet.
-- Standardläget är `review`: en importerad bild visas inte i shoppen förrän den godkänts.
-- Om ingen rimlig och tillåten träff finns behåller produkten sin placeholder.
+Bildsök v3 använder två öppna bildkällor:
 
-Automatisk licensfiltrering minskar risken men ersätter inte en mänsklig slutkontroll. Kontrollera alltid filens Commons-sida innan godkännande.
+1. **Wikimedia Commons** är förstahandskälla.
+2. **Openverse** används som extra söktjänst när Commons inte ger en tillräckligt bra kandidat. Openverse-resultat från Wikimedia filtreras bort för att undvika dubbletter.
 
-## Rekommenderad första körning: 30 produkter
+Tillåtna licenstyper är CC0/public domain, CC BY och CC BY-SA. NC- och ND-licenser stoppas. Fotograf, originalkälla, licens, licenslänk och vilken bildtjänst som hittade bilden sparas med posten.
 
-1. Öppna repositoryt på GitHub.
-2. Välj **Actions**.
-3. Öppna **Import product images from Wikimedia Commons**.
-4. Klicka **Run workflow**.
-5. Välj:
-   - `scope`: `sample`
-   - `limit`: `30`
-   - `approval_mode`: `review`
-   - `overwrite`: av
-6. Klicka på den gröna **Run workflow**-knappen.
-7. Vänta tills både import och deploy är gröna.
-8. Öppna webbplatsens `/bildgranskning`.
+Openverse indexerar licensinformation men garanterar inte att den är korrekt. Därför auto-godkänns **aldrig** Openverse-träffar; kontrollera originalkällan innan du godkänner dem.
 
-Urvalet för `sample` sprids över båda spellägena och flera kategorier.
+## Smart läge
 
-## Godkänna bilder
+Adminsidan startar import med `approval_mode: smart`.
 
-På `/bildgranskning` visas produkt, föreslagen bild, träffsäkerhet, fotograf, licens, Commons-länk och alternativa träffar.
+- En mycket säker, exakt Wikimedia Commons-träff kan auto-godkännas.
+- Commons-träffar som inte når den hårda säkerhetsnivån hamnar i granskningskön.
+- Alla Openverse-träffar hamnar i granskningskön.
+- Nekade bilder sparas som feedback och samma källa/titel filtreras bort vid nästa försök.
+- Produkter som redan fått `no-match` i aktuell sökversion pausas tills söklogiken uppgraderas igen.
 
-### Godkänn utvalda bilder
+## Rekommenderat arbetsflöde
 
-1. Kopiera de produkt-id:n du har granskat.
-2. Gå till **Actions → Review imported product images**.
-3. Välj `approve-ids`.
-4. Klistra in id:n i `product_ids`, kommaseparerade.
-5. Kör workflowet.
+1. Öppna webbplatsens `/bildgranskning`.
+2. Välj 25, 50 eller 100 produkter och klicka **Gör ny inläsning**.
+3. Följ **Live-status** tills import och publicering är klara.
+4. Granska endast poster under **Väntar**.
+5. Markera flera bilder och välj **Godkänn markerade** eller **Neka markerade**.
+6. Klicka **Verkställ beslut** och följ live-statusen igen.
+7. Kör nästa batch.
 
-### Godkänn alla väntande bilder
+Du behöver normalt inte öppna GitHub Actions manuellt.
 
-Använd `approve-all` först när du visuellt har kontrollerat hela väntelistan.
+## Bildvisning
 
-### Avvisa eller börja om
-
-- `reject-ids`: behåller filen men visar den inte.
-- `reset-ids`: tar bort bildfil och metadata så produkten kan importeras på nytt.
-
-## Importera samtliga 334 produkter
-
-När testomgången ser bra ut:
-
-1. Kör **Import product images from Wikimedia Commons** igen.
-2. Välj `scope: all`.
-3. Ange `limit: 0`.
-4. Behåll `approval_mode: review`.
-
-Importeraren hoppar automatiskt över produkter som redan har en godkänd eller väntande bild. Körningen kan därför återupptas säkert.
+Godkända produktbilder visas med `object-contain` i stället för `object-cover`. Hela den importerade bilden får därför plats i produktkort och på produktsidan utan att webbplatsen beskär kanterna. Om själva originalfotot redan är beskuret kan gränssnittet naturligtvis inte återskapa det som saknas.
 
 ## Manuella undantag
 
-Redigera `data/image-overrides.json` när en produkt behöver hjälp:
+`data/image-overrides.json` kan fortfarande användas för svåra produkter:
 
 ```json
 {
@@ -81,10 +58,8 @@ Redigera `data/image-overrides.json` när en produkt behöver hjälp:
 ```
 
 - `query`: ersätter den automatiska sökfrasen.
-- `commonsTitle`: väljer en exakt Commons-fil.
+- `commonsTitle`: tvingar en specifik Commons-fil.
 - `skip`: hoppar över produkten.
-
-Kör därefter importen med `overwrite: true` för de berörda produkterna. Vid en större batch kan övriga befintliga bilder ligga kvar eftersom redan importerade produkter hoppas över.
 
 ## Filer som skapas
 
@@ -92,26 +67,29 @@ Kör därefter importen med `overwrite: true` för de berörda produkterna. Vid 
 - `public/data/image-manifest.json`
 - `public/data/image-review.json`
 - `public/data/image-import-report.json`
+- `data/image-feedback.json` uppdateras när bilder godkänns eller nekas.
 
-Godkända bilder visas automatiskt i produktkort och produktdetaljer. Bildkällor listas automatiskt på `/bildkallor`.
+Godkända bildkällor listas automatiskt på `/bildkallor`.
 
-## Poäng och träffsäkerhet
+## Diagnostik
 
-Importeraren väger bland annat in:
+Varje import rapporterar bland annat:
 
-- överensstämmelse mellan filnamn och produktnamn,
-- varumärke och modellord,
-- bildstorlek och proportioner,
-- beskrivande metadata,
-- negativa ord som `logo`, `diagram`, `manual` och `brochure`.
+- exakt antal verifierade produkter i valt scope,
+- hur många produkter som valdes,
+- träff/no-match/fel,
+- hur många som auto-godkändes,
+- antal sökningar och valda bilder per källa,
+- tidigare nekade kandidater som filtrerades bort,
+- eventuella dubbla verifierade produkt-id:n.
 
-Poängen är ett hjälpmedel, inte ett bevis på att bilden är rätt. Produkter med liknande modellnamn, samlarkort, klockreferenser och årsmodeller behöver extra noggrann kontroll.
+Det gör att katalog- och bildköstatistik kan jämföras utan manuella gissningar.
 
-## Lokala kommandon
+## Lokala kommandon för utveckling
 
 ```bash
 npm run catalog:generate
-npm run images:import -- --scope=sample --limit=30 --approval-mode=review
+npm run images:import -- --scope=sample --limit=30 --approval-mode=smart
 npm run images:review -- --action=approve-ids --ids="lux-000001,everyday-000001"
 npm run images:validate
 ```

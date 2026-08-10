@@ -47,14 +47,13 @@ for (const id of ids) {
     continue;
   }
 
-  const productFeedback = feedback.products[id] ?? {
-    approved: [],
-    rejected: [],
-  };
-
+  const productFeedback = feedback.products[id] ?? { approved: [], rejected: [] };
   const feedbackEntry = {
     sourceUrl: image.sourceUrl,
-    commonsTitle: image.commonsTitle ?? item?.selected?.title ?? "",
+    commonsTitle: image.sourceTitle ?? image.commonsTitle ?? item?.selected?.title ?? "",
+    sourceTitle: image.sourceTitle ?? image.commonsTitle ?? item?.selected?.title ?? "",
+    sourceType: image.sourceType ?? item?.selected?.sourceType ?? "commons",
+    provider: image.provider ?? item?.selected?.provider ?? "Wikimedia Commons",
     score: image.score ?? item?.score ?? 0,
     confidence: image.confidence ?? item?.confidence ?? "none",
     query: item?.query ?? "",
@@ -65,17 +64,13 @@ for (const id of ids) {
     image.status = "approved";
     image.reviewedAt = now;
     if (item) { item.status = "approved"; item.reviewedAt = now; }
-    if (!productFeedback.approved.some((entry) => entry.sourceUrl === feedbackEntry.sourceUrl)) {
-      productFeedback.approved.push(feedbackEntry);
-    }
+    if (!productFeedback.approved.some((entry) => entry.sourceUrl === feedbackEntry.sourceUrl)) productFeedback.approved.push(feedbackEntry);
     productFeedback.lastDecision = "approved";
   } else if (args.action === "reject-ids") {
     image.status = "rejected";
     image.reviewedAt = now;
     if (item) { item.status = "rejected"; item.reviewedAt = now; }
-    if (!productFeedback.rejected.some((entry) => entry.sourceUrl === feedbackEntry.sourceUrl)) {
-      productFeedback.rejected.push(feedbackEntry);
-    }
+    if (!productFeedback.rejected.some((entry) => entry.sourceUrl === feedbackEntry.sourceUrl)) productFeedback.rejected.push(feedbackEntry);
     productFeedback.lastDecision = "rejected";
   } else if (args.action === "reset-ids") {
     imageMap.delete(id);

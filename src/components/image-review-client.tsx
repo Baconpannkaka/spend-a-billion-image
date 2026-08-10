@@ -1,8 +1,8 @@
 "use client";
 
-import { withBasePath } from "@/lib/assets";
-import type { ImageReviewItem, ImageReviewQueue } from "@/types";
 import { WorkflowLiveStatus, type WorkflowRequest } from "@/components/workflow-live-status";
+import { withBasePath } from "@/lib/assets";
+import type { ImageReviewCandidate, ImageReviewItem, ImageReviewQueue } from "@/types";
 import {
   Check,
   CheckCheck,
@@ -39,6 +39,11 @@ const labels: Record<ReviewFilter, string> = {
   all: "Alla",
 };
 
+function sourceLabel(candidate: ImageReviewCandidate) {
+  if (candidate.sourceType === "openverse") return candidate.provider ? `Openverse · ${candidate.provider}` : "Openverse";
+  return "Wikimedia Commons";
+}
+
 function StatusBadge({ item }: { item: ImageReviewItem }) {
   const styles: Record<ImageReviewItem["status"], string> = {
     pending: "border-amber-300 bg-amber-50 text-amber-900",
@@ -61,7 +66,6 @@ async function dispatchWorkflow(token: string, workflow: string, inputs: Record<
     },
     body: JSON.stringify({ ref: "main", inputs }),
   });
-
   if (!response.ok) {
     let message = `GitHub svarade ${response.status}.`;
     try {
@@ -112,11 +116,7 @@ export function ImageReviewClient() {
     return result;
   }, [queue]);
 
-  const visible = useMemo(
-    () => (queue?.items ?? []).filter((item) => filter === "all" || item.status === filter),
-    [filter, queue],
-  );
-
+  const visible = useMemo(() => (queue?.items ?? []).filter((item) => filter === "all" || item.status === filter), [filter, queue]);
   const actionable = useMemo(() => visible.filter((item) => item.status === "pending"), [visible]);
   const approveIds = useMemo(() => Object.entries(decisions).filter(([, value]) => value === "approve").map(([id]) => id), [decisions]);
   const rejectIds = useMemo(() => Object.entries(decisions).filter(([, value]) => value === "reject").map(([id]) => id), [decisions]);
@@ -130,19 +130,13 @@ export function ImageReviewClient() {
   function toggleSelected(id: string) {
     setSelected((current) => {
       const next = new Set(current);
-      if (next.has(id)) next.delete(id);
-      else next.add(id);
+      if (next.has(id)) next.delete(id); else next.add(id);
       return next;
     });
   }
 
-  function selectAllVisible() {
-    setSelected(new Set(actionable.map((item) => item.productId)));
-  }
-
-  function clearSelection() {
-    setSelected(new Set());
-  }
+  function selectAllVisible() { setSelected(new Set(actionable.map((item) => item.productId))); }
+  function clearSelection() { setSelected(new Set()); }
 
   function applyDecision(decision: Decision) {
     if (selected.size === 0) return;
@@ -154,10 +148,7 @@ export function ImageReviewClient() {
     setSelected(new Set());
   }
 
-  function setSingleDecision(id: string, decision: Decision) {
-    setDecisions((current) => ({ ...current, [id]: decision }));
-  }
-
+  function setSingleDecision(id: string, decision: Decision) { setDecisions((current) => ({ ...current, [id]: decision })); }
   function undoDecision(id: string) {
     setDecisions((current) => {
       const next = { ...current };
@@ -167,60 +158,35 @@ export function ImageReviewClient() {
   }
 
   async function submitDecisions() {
-    if (!token.trim()) {
-      setError("Klistra in en GitHub-token först. Den sparas bara i den här webbläsarfliken.");
-      return;
-    }
+    if (!token.trim()) { setError("Klistra in en GitHub-token först. Den sparas bara i den här webbläsarfliken."); return; }
     if (approveIds.length === 0 && rejectIds.length === 0) return;
-
-    setBusy(true);
-    setError("");
-    setNotice("");
+    setBusy(true); setError(""); setNotice("");
     try {
-      if (approveIds.length > 0) {
-        await dispatchWorkflow(token.trim(), REVIEW_WORKFLOW, {
-          action: "approve-ids",
-          product_ids: approveIds.join(","),
-        });
-      }
-      if (rejectIds.length > 0) {
-        await dispatchWorkflow(token.trim(), REVIEW_WORKFLOW, {
-          action: "reject-ids",
-          product_ids: rejectIds.join(","),
-        });
-      }
+      if (approveIds.length > 0) await dispatchWorkflow(token.trim(), REVIEW_WORKFLOW, { action: "approve-ids", product_ids: approveIds.join(",") });
+      if (rejectIds.length > 0) await dispatchWorkflow(token.trim(), REVIEW_WORKFLOW, { action: "reject-ids", product_ids: rejectIds.join(",") });
       setDecisions({});
       setWorkflowRequest({ kind: "review", requestedAt: Date.now() });
       setNotice(`Skickat till GitHub: ${approveIds.length} godkända och ${rejectIds.length} nekade. Följ körningen i live-statusen nedan.`);
     } catch (reason) {
       setError(reason instanceof Error ? reason.message : "Kunde inte skicka besluten till GitHub.");
-    } finally {
-      setBusy(false);
-    }
+    } finally { setBusy(false); }
   }
 
   async function importNextBatch() {
-    if (!token.trim()) {
-      setError("Klistra in en GitHub-token först.");
-      return;
-    }
-    setBusy(true);
-    setError("");
-    setNotice("");
+    if (!token.trim()) { setError("Klistra in en GitHub-token först."); return; }
+    setBusy(true); setError(""); setNotice("");
     try {
       await dispatchWorkflow(token.trim(), IMPORT_WORKFLOW, {
         scope: "all",
         limit: String(batchSize),
-        approval_mode: "review",
+        approval_mode: "smart",
         overwrite: "false",
       });
       setWorkflowRequest({ kind: "import", requestedAt: Date.now() });
-      setNotice(`Ny import av upp till ${batchSize} produkter har startats. Live-statusen visar när hämtning, bygg och publicering är klara.`);
+      setNotice(`Bildsök v3 har startat för upp till ${batchSize} produkter. Mycket säkra Commons-träffar kan godkännas automatiskt; Openverse-träffar hamnar alltid här för granskning.`);
     } catch (reason) {
       setError(reason instanceof Error ? reason.message : "Kunde inte starta en ny bildimport.");
-    } finally {
-      setBusy(false);
-    }
+    } finally { setBusy(false); }
   }
 
   if (!queue && !error) return <div className="flex items-center gap-3 rounded-xl border border-black/10 bg-white p-6 text-sm text-black/60"><RefreshCw className="h-4 w-4 animate-spin" /> Läser granskningskön…</div>;
@@ -230,7 +196,7 @@ export function ImageReviewClient() {
       <div className="flex flex-col gap-3 lg:flex-row lg:items-end lg:justify-between">
         <div className="max-w-2xl">
           <div className="flex items-center gap-2 text-sm font-semibold"><KeyRound className="h-4 w-4 text-[var(--gold-dark)]" />Adminanslutning till GitHub</div>
-          <p className="mt-1 text-xs leading-5 text-black/50">Använd en fine-grained GitHub-token med Actions: Read and write för detta repository. Token lagras endast i sessionStorage och försvinner när webbläsarsessionen avslutas.</p>
+          <p className="mt-1 text-xs leading-5 text-black/50">Fine-grained GitHub-token med Actions: Read and write för detta repository. Token lagras bara i sessionStorage.</p>
         </div>
         <div className="flex w-full max-w-xl gap-2">
           <input type="password" value={token} onChange={(event) => persistToken(event.target.value)} placeholder="github_pat_…" autoComplete="off" className="min-w-0 flex-1 rounded-md border border-black/15 bg-white px-3 py-2 text-sm outline-none focus:border-black/40" />
@@ -241,7 +207,6 @@ export function ImageReviewClient() {
 
     {error && <div className="mt-4 rounded-xl border border-red-200 bg-red-50 p-4 text-sm text-red-900"><TriangleAlert className="mr-2 inline h-4 w-4" />{error}</div>}
     {notice && <div className="mt-4 rounded-xl border border-emerald-200 bg-emerald-50 p-4 text-sm text-emerald-900"><ShieldCheck className="mr-2 inline h-4 w-4" />{notice}</div>}
-
     <WorkflowLiveStatus token={token} request={workflowRequest} onCompleted={loadQueue} />
 
     <div className="mt-5 grid gap-3 sm:grid-cols-2 lg:grid-cols-6">
@@ -269,7 +234,7 @@ export function ImageReviewClient() {
     </div>
 
     <div className="mt-5 flex flex-col gap-3 rounded-xl border border-black/10 bg-white p-4 sm:flex-row sm:items-center sm:justify-between">
-      <div><p className="text-sm font-semibold">Nästa batch</p><p className="mt-1 text-xs text-black/50">När du är klar hämtas nya kandidater för avvisade och ännu obehandlade produkter.</p></div>
+      <div><p className="text-sm font-semibold">Nästa batch · Bildsök v3</p><p className="mt-1 text-xs text-black/50">Commons används först. Produkter utan träff får en extra sökning via Openverse.</p></div>
       <div className="flex items-center gap-2">
         <select value={batchSize} onChange={(event) => setBatchSize(Number(event.target.value))} className="rounded-md border border-black/15 bg-white px-3 py-2 text-sm">
           {[25, 50, 100].map((value) => <option key={value} value={value}>{value} bilder</option>)}
@@ -285,8 +250,8 @@ export function ImageReviewClient() {
         const decision = decisions[item.productId];
         const canReview = item.status === "pending";
         return <article key={item.productId} className={`overflow-hidden rounded-xl border bg-white shadow-sm transition ${decision === "approve" ? "border-emerald-500 ring-2 ring-emerald-200" : decision === "reject" ? "border-rose-500 ring-2 ring-rose-200" : isSelected ? "border-black ring-2 ring-black/15" : "border-black/10"}`}>
-          <button type="button" onClick={() => canReview && toggleSelected(item.productId)} disabled={!canReview} className="relative block aspect-[4/3] w-full bg-[#171713] text-left disabled:cursor-default">
-            {item.selected?.path ? <Image src={withBasePath(item.selected.path)} alt={`Föreslagen bild för ${item.productName}`} fill sizes="(min-width:1536px) 25vw, (min-width:1280px) 33vw, (min-width:768px) 50vw, 100vw" className="object-cover" /> : <div className="grid h-full place-items-center text-center text-white/45">{item.status === "no-match" ? <SearchX className="h-10 w-10" /> : <TriangleAlert className="h-10 w-10" />}</div>}
+          <button type="button" onClick={() => canReview && toggleSelected(item.productId)} disabled={!canReview} className="relative block aspect-[4/3] w-full bg-[#f1eee6] p-2 text-left disabled:cursor-default">
+            {item.selected?.path ? <Image src={withBasePath(item.selected.path)} alt={`Föreslagen bild för ${item.productName}`} fill sizes="(min-width:1536px) 25vw, (min-width:1280px) 33vw, (min-width:768px) 50vw, 100vw" className="object-contain p-2" /> : <div className="grid h-full place-items-center text-center text-black/35">{item.status === "no-match" ? <SearchX className="h-10 w-10" /> : <TriangleAlert className="h-10 w-10" />}</div>}
             <div className="absolute left-3 top-3"><StatusBadge item={item} /></div>
             {item.confidence !== "none" && <div className="absolute right-3 top-3 rounded-full bg-black/75 px-2 py-1 text-[10px] font-bold uppercase tracking-[.1em] text-white">{item.confidence} · {Math.round(item.score)}</div>}
             {canReview && <div className={`absolute bottom-3 left-3 grid h-8 w-8 place-items-center rounded-md border-2 ${isSelected ? "border-white bg-black text-white" : "border-white/80 bg-black/40 text-transparent"}`}>{isSelected ? <Check className="h-5 w-5" /> : <Square className="h-5 w-5" />}</div>}
@@ -297,9 +262,10 @@ export function ImageReviewClient() {
             <h2 className="mt-1 font-display text-2xl leading-tight">{item.productName}</h2>
             <p className="mt-1 text-xs text-black/45">{item.brand || item.categoryLabel}</p>
             {item.selected ? <div className="mt-4 space-y-2 text-xs leading-5 text-black/60">
+              <p><strong className="text-black/75">Källa:</strong> {sourceLabel(item.selected)}</p>
               <p><strong className="text-black/75">Licens:</strong> {item.selected.license}</p>
               <p><strong className="text-black/75">Fotograf:</strong> {item.selected.creator || "Ej angivet"}</p>
-              <a href={item.selected.sourceUrl} target="_blank" rel="noreferrer" className="inline-flex items-center gap-1 font-semibold text-[var(--gold-dark)] underline">Öppna Commons-filen <ExternalLink className="h-3 w-3" /></a>
+              <a href={item.selected.sourceUrl} target="_blank" rel="noreferrer" className="inline-flex items-center gap-1 font-semibold text-[var(--gold-dark)] underline">Öppna originalkällan <ExternalLink className="h-3 w-3" /></a>
             </div> : <p className="mt-4 text-xs leading-5 text-black/55">{item.notes.join(" ")}</p>}
             {canReview && <div className="mt-4 grid grid-cols-2 gap-2">
               <button type="button" onClick={() => setSingleDecision(item.productId, "approve")} className="rounded-md border border-emerald-200 bg-emerald-50 px-3 py-2 text-xs font-bold text-emerald-900 hover:bg-emerald-100"><Check className="mr-1 inline h-4 w-4" />Godkänn</button>

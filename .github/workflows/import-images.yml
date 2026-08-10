@@ -1,4 +1,4 @@
-name: Import product images from Wikimedia Commons
+name: Import product images from open sources
 
 on:
   workflow_dispatch:
@@ -19,11 +19,12 @@ on:
         default: "30"
         type: string
       approval_mode:
-        description: "review rekommenderas. Bilder visas först efter granskning."
+        description: "smart auto-godkänner bara mycket säkra Commons-träffar; övriga granskas."
         required: true
-        default: review
+        default: smart
         type: choice
         options:
+          - smart
           - review
           - high-confidence
           - approve
@@ -44,7 +45,8 @@ concurrency:
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-  WIKIMEDIA_USER_AGENT: "SpendAnythingImageImporter/2.0 (+https://github.com/${{ github.repository }})"
+  WIKIMEDIA_USER_AGENT: "SpendAnythingImageImporter/3.0 (+https://github.com/${{ github.repository }})"
+  OPENVERSE_USER_AGENT: "SpendAnythingImageImporter/3.0 (+https://github.com/${{ github.repository }})"
 
 jobs:
   import-and-build:
@@ -73,7 +75,7 @@ jobs:
       - name: Generate product catalogs
         run: npm run catalog:generate
 
-      - name: Import Wikimedia images
+      - name: Import open product images
         run: >-
           npm run images:import --
           --scope=${{ inputs.scope }}
@@ -98,7 +100,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "Inga nya bildfiler att spara."
           else
-            git commit -m "chore(images): import Wikimedia product images"
+            git commit -m "chore(images): import open product images v3"
             git push
           fi
 
@@ -110,19 +112,25 @@ jobs:
             node -e '
               const r = require("./public/data/image-import-report.json");
               const s = r.selectionStats || {};
+              const req = r.sourceRequests || {};
+              const hit = r.sourceMatches || {};
               const lines = [
                 `## Bildimport v${r.searchVersion || "?"}`,
+                `- Verifierade produkter i scope: ${r.verifiedTotal ?? "?"}`,
                 `- Valda: ${r.totalSelected}`,
                 `- Importerade: ${r.imported}`,
+                `- Auto-godkända: ${r.autoApproved || 0}`,
                 `- Utan träff: ${r.noMatch}`,
                 `- Fel: ${r.errors}`,
                 `- Nya produkter: ${s.fresh || 0}`,
                 `- Omförsök från äldre söklogik: ${s["upgrade-retry"] || 0}`,
                 `- Omförsök efter nekad bild: ${s.rejected || 0}`,
                 `- Pausade utan träff i aktuell version: ${s.exhausted || 0}`,
+                `- Commons: ${req.commons || 0} sökningar, ${hit.commons || 0} valda bilder`,
+                `- Openverse: ${req.openverse || 0} sökningar, ${hit.openverse || 0} valda bilder`,
                 `- Tidigare nekade kandidater filtrerade: ${r.feedbackFiltered || 0}`,
-                `- Commons-sökningar: ${r.queryRequests || 0}`,
               ];
+              if ((r.duplicateVerifiedIds || []).length) lines.push(`- VARNING dubbla verifierade id:n: ${r.duplicateVerifiedIds.join(", ")}`);
               if ((r.learnedBadTerms || []).length) lines.push(`- Lärda negativa signaler: ${r.learnedBadTerms.join(", ")}`);
               console.log(lines.join("\n"));
             ' >> "$GITHUB_STEP_SUMMARY"

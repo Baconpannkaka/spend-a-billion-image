@@ -15,7 +15,7 @@
     "test:watch": "vitest",
     "verify": "npm run catalog:generate && npm run catalog:validate && npm run images:validate && npm run lint && npm run typecheck && npm run test",
     "predev": "npm run catalog:generate",
-    "images:import": "node scripts/import-wikimedia-images.mjs",
+    "images:import": "node scripts/import-open-images.mjs",
     "images:review": "node scripts/review-images.mjs"
   },
   "dependencies": {
