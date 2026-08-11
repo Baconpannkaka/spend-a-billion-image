@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-08-11T09:25:16.712Z",
+  "generatedAt": "2026-08-11T09:32:34.416Z",
   "images": [
     {
       "productId": "everyday-000001",
@@ -329,23 +329,22 @@
       "productId": "everyday-000021",
       "path": "/product-images/everyday-000021.webp",
       "alt": "Fairphone 5 – produktbild",
-      "sourceUrl": "https://www.flickr.com/photos/60295192@N08/53152117196",
+      "sourceUrl": "https://www.flickr.com/photos/60295192@N08/53152615993",
       "creator": "Fairphone",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
-      "status": "rejected",
+      "status": "unreviewed",
       "width": 1024,
-      "height": 683,
-      "importedAt": "2026-08-11T09:07:13.167Z",
-      "sourceTitle": "Fairphone 5 Lifestyle",
+      "height": 1024,
+      "importedAt": "2026-08-11T09:30:48.843Z",
+      "sourceTitle": "Fairphone 5",
       "sourceType": "openverse",
       "provider": "flickr",
       "source": "flickr",
-      "attribution": "\"Fairphone 5 Lifestyle\" by Fairphone is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+      "attribution": "\"Fairphone 5\" by Fairphone is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
       "confidence": "high",
-      "score": 132,
-      "mime": "image/webp",
-      "reviewedAt": "2026-08-11T09:25:16.712Z"
+      "score": 137,
+      "mime": "image/webp"
     },
     {
       "productId": "everyday-000026",

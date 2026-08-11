@@ -1,7 +1,7 @@
 {
   "version": 5,
-  "searchVersion": 3.1,
-  "startedAt": "2026-08-11T09:07:08.220Z",
+  "searchVersion": 3.2,
+  "startedAt": "2026-08-11T09:30:34.682Z",
   "options": {
     "scope": "all",
     "limit": 25,
@@ -15,232 +15,208 @@
   "duplicateVerifiedIds": [],
   "selectionStats": {
     "rejected": 5,
-    "upgrade-retry": 19,
-    "error-retry": 1,
+    "upgrade-retry": 20,
+    "error-retry": 0,
     "fresh": 0,
-    "exhausted": 0,
-    "done": 97,
+    "exhausted": 1,
+    "done": 98,
     "selected": 25
   },
   "learnedBadTerms": [
     "engine"
   ],
   "totalSelected": 25,
-  "imported": 7,
+  "imported": 1,
   "autoApproved": 0,
   "skipped": 0,
-  "noMatch": 18,
+  "noMatch": 24,
   "errors": 0,
-  "feedbackFiltered": 12,
+  "feedbackFiltered": 4,
   "sourceRequests": {
     "commons": 41,
-    "openverse": 111
+    "openverse": 116
   },
   "sourceMatches": {
-    "commons": 3,
-    "openverse": 4
+    "commons": 0,
+    "openverse": 1
   },
   "sourceDiagnostics": {
     "commons": {
-      "raw": 102,
-      "licenseEligible": 91,
-      "accepted": 48,
-      "filteredBeforeRanking": 11,
-      "filteredAsIrrelevant": 43
+      "raw": 106,
+      "licenseEligible": 84,
+      "accepted": 8,
+      "filteredBeforeRanking": 22,
+      "filteredAsIrrelevant": 2
     },
     "openverse": {
-      "raw": 17,
-      "licenseEligible": 17,
-      "accepted": 16,
+      "raw": 21,
+      "licenseEligible": 21,
+      "accepted": 7,
       "filteredBeforeRanking": 0,
-      "filteredAsIrrelevant": 1
+      "filteredAsIrrelevant": 0
     }
   },
   "downloads": {
-    "attempted": 7,
-    "succeeded": 7,
+    "attempted": 1,
+    "succeeded": 1,
     "failed": 0,
     "http406": 0
   },
   "results": [
     {
+      "productId": "lux-000043",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 3.2
+    },
+    {
       "productId": "everyday-000021",
       "outcome": "imported",
       "status": "unreviewed",
       "confidence": "high",
-      "score": 132,
+      "score": 137,
       "sourceType": "openverse",
-      "sourceTitle": "Fairphone 5 Lifestyle",
+      "sourceTitle": "Fairphone 5",
       "matchedQuery": "\"Fairphone 5\""
     },
     {
       "productId": "everyday-000036",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 148,
-      "sourceType": "openverse",
-      "sourceTitle": "[ADAYROI-T9] LAPTOP ASUS ZENBOOK UX410UA-GV109 14 INCHES XAM THACH ANH GIAM NGAY 200.000",
-      "matchedQuery": "ASUS zenbook 14"
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 3.2
     },
     {
       "productId": "everyday-000063",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "medium",
-      "score": 108,
-      "sourceType": "commons",
-      "sourceTitle": "File:Mapillary (startless) 2025-07-31 19H57M46S000 (1966388167460773 at VQ915EJ02Mujv4eGTOswap) taken with GoPro HERO13 Black.jpg",
-      "matchedQuery": "\"GoPro HERO13 Black\""
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 3.2
     },
     {
-      "productId": "everyday-000073",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "medium",
-      "score": 90,
-      "sourceType": "commons",
-      "sourceTitle": "File:Xbox One Launch - Supercar Rides.jpg",
-      "matchedQuery": "Microsoft xbox"
-    },
-    {
-      "productId": "everyday-000112",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "low",
-      "score": 46,
-      "sourceType": "commons",
-      "sourceTitle": "File:2019 12 cocotte Staub en fonte émaillée tomate.jpg",
-      "matchedQuery": "Staub cocotte"
+      "productId": "everyday-000074",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 3.2
     },
     {
       "productId": "lux-000028",
       "outcome": "no-match",
       "queriesAttempted": 4,
-      "searchVersion": 3.1
+      "searchVersion": 3.2
     },
     {
       "productId": "lux-000033",
       "outcome": "no-match",
       "queriesAttempted": 4,
-      "searchVersion": 3.1
+      "searchVersion": 3.2
     },
     {
-      "productId": "lux-000043",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "low",
-      "score": 38,
-      "sourceType": "openverse",
-      "sourceTitle": "Poole Harbour - Variety of Watercraft #1",
-      "matchedQuery": "Sunseeker 100 yacht"
+      "productId": "lux-000044",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 3.2
     },
     {
       "productId": "lux-000057",
       "outcome": "no-match",
       "queriesAttempted": 5,
-      "searchVersion": 3.1
+      "searchVersion": 3.2
     },
     {
       "productId": "lux-000079",
       "outcome": "no-match",
       "queriesAttempted": 5,
-      "searchVersion": 3.1
+      "searchVersion": 3.2
     },
     {
       "productId": "lux-000091",
       "outcome": "no-match",
       "queriesAttempted": 5,
-      "searchVersion": 3.1
+      "searchVersion": 3.2
     },
     {
       "productId": "lux-000097",
       "outcome": "no-match",
       "queriesAttempted": 5,
-      "searchVersion": 3.1
+      "searchVersion": 3.2
     },
     {
       "productId": "lux-000098",
       "outcome": "no-match",
       "queriesAttempted": 5,
-      "searchVersion": 3.1
+      "searchVersion": 3.2
     },
     {
       "productId": "lux-000100",
       "outcome": "no-match",
       "queriesAttempted": 5,
-      "searchVersion": 3.1
+      "searchVersion": 3.2
     },
     {
       "productId": "lux-000110",
       "outcome": "no-match",
       "queriesAttempted": 5,
-      "searchVersion": 3.1
+      "searchVersion": 3.2
     },
     {
       "productId": "everyday-000005",
       "outcome": "no-match",
       "queriesAttempted": 4,
-      "searchVersion": 3.1
+      "searchVersion": 3.2
     },
     {
       "productId": "everyday-000023",
       "outcome": "no-match",
       "queriesAttempted": 4,
-      "searchVersion": 3.1
+      "searchVersion": 3.2
     },
     {
       "productId": "everyday-000046",
       "outcome": "no-match",
       "queriesAttempted": 5,
-      "searchVersion": 3.1
+      "searchVersion": 3.2
     },
     {
       "productId": "everyday-000071",
       "outcome": "no-match",
       "queriesAttempted": 4,
-      "searchVersion": 3.1
+      "searchVersion": 3.2
     },
     {
       "productId": "everyday-000086",
       "outcome": "no-match",
       "queriesAttempted": 5,
-      "searchVersion": 3.1
+      "searchVersion": 3.2
     },
     {
       "productId": "everyday-000096",
       "outcome": "no-match",
       "queriesAttempted": 5,
-      "searchVersion": 3.1
+      "searchVersion": 3.2
     },
     {
       "productId": "everyday-000106",
       "outcome": "no-match",
       "queriesAttempted": 5,
-      "searchVersion": 3.1
+      "searchVersion": 3.2
     },
     {
       "productId": "everyday-000118",
       "outcome": "no-match",
       "queriesAttempted": 5,
-      "searchVersion": 3.1
-    },
-    {
-      "productId": "everyday-000130",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 158,
-      "sourceType": "openverse",
-      "sourceTitle": "ADIDAS ULTRABOOST ‘JAPAN’ FEATURING FIREWORKS",
-      "matchedQuery": "Adidas ultraboost"
+      "searchVersion": 3.2
     },
     {
       "productId": "everyday-000131",
       "outcome": "no-match",
+      "queriesAttempted": 5,
+      "searchVersion": 3.2
+    },
+    {
+      "productId": "everyday-000137",
+      "outcome": "no-match",
       "queriesAttempted": 6,
-      "searchVersion": 3.1
+      "searchVersion": 3.2
     }
   ],
-  "finishedAt": "2026-08-11T09:08:43.358Z"
+  "finishedAt": "2026-08-11T09:32:34.416Z"
 }

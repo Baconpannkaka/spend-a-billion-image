@@ -1,7 +1,7 @@
 {
   "version": 4,
-  "generatedAt": "2026-08-11T09:25:16.712Z",
-  "searchVersion": 3.1,
+  "generatedAt": "2026-08-11T09:32:34.416Z",
+  "searchVersion": 3.2,
   "items": [
     {
       "productId": "everyday-000001",
@@ -288,12 +288,12 @@
         "\"iPhone 17e\" Apple product",
         "iPhone 17e Apple product"
       ],
-      "searchVersion": 3.1,
-      "attemptCount": 3,
+      "searchVersion": 3.2,
+      "attemptCount": 4,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T09:08:14.824Z",
+      "importedAt": "2026-08-11T09:31:56.195Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -1100,44 +1100,29 @@
         "\"5\" Fairphone product",
         "Fairphone 5 product"
       ],
-      "searchVersion": 3.1,
-      "attemptCount": 3,
-      "status": "rejected",
+      "searchVersion": 3.2,
+      "attemptCount": 4,
+      "status": "pending",
       "confidence": "high",
-      "score": 132,
-      "importedAt": "2026-08-11T09:07:13.167Z",
+      "score": 137,
+      "importedAt": "2026-08-11T09:30:48.843Z",
       "selected": {
-        "title": "Fairphone 5 Lifestyle",
-        "sourceUrl": "https://www.flickr.com/photos/60295192@N08/53152117196",
+        "title": "Fairphone 5",
+        "sourceUrl": "https://www.flickr.com/photos/60295192@N08/53152615993",
         "creator": "Fairphone",
         "license": "CC BY-SA 2.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
         "width": 1024,
-        "height": 683,
-        "score": 132,
+        "height": 1024,
+        "score": 137,
         "query": "\"Fairphone 5\"",
         "sourceType": "openverse",
         "provider": "flickr",
         "source": "flickr",
-        "attribution": "\"Fairphone 5 Lifestyle\" by Fairphone is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+        "attribution": "\"Fairphone 5\" by Fairphone is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
         "path": "/product-images/everyday-000021.webp"
       },
       "alternatives": [
-        {
-          "title": "Fairphone 5",
-          "sourceUrl": "https://www.flickr.com/photos/60295192@N08/53152615993",
-          "creator": "Fairphone",
-          "license": "CC BY-SA 2.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
-          "width": 1024,
-          "height": 1024,
-          "score": 129,
-          "query": "\"Fairphone 5\"",
-          "sourceType": "openverse",
-          "provider": "flickr",
-          "source": "flickr",
-          "attribution": "\"Fairphone 5\" by Fairphone is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/."
-        },
         {
           "title": "Fairphone 5",
           "sourceUrl": "https://www.flickr.com/photos/60295192@N08/53152321864",
@@ -1146,7 +1131,7 @@
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
           "width": 1024,
           "height": 1024,
-          "score": 129,
+          "score": 137,
           "query": "\"Fairphone 5\"",
           "sourceType": "openverse",
           "provider": "flickr",
@@ -1161,7 +1146,22 @@
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
           "width": 1024,
           "height": 1024,
-          "score": 129,
+          "score": 137,
+          "query": "\"Fairphone 5\"",
+          "sourceType": "openverse",
+          "provider": "flickr",
+          "source": "flickr",
+          "attribution": "\"Fairphone 5\" by Fairphone is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/."
+        },
+        {
+          "title": "Fairphone 5",
+          "sourceUrl": "https://www.flickr.com/photos/60295192@N08/53152116516",
+          "creator": "Fairphone",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "width": 1024,
+          "height": 1024,
+          "score": 137,
           "query": "\"Fairphone 5\"",
           "sourceType": "openverse",
           "provider": "flickr",
@@ -1171,8 +1171,7 @@
       ],
       "notes": [
         "Bildsök v3.1 valde bästa kandidaten från Openverse. Automatisk godkänning är avstängd."
-      ],
-      "reviewedAt": "2026-08-11T09:25:16.712Z"
+      ]
     },
     {
       "productId": "everyday-000022",
@@ -1214,12 +1213,12 @@
         "\"MacBook Air 13-inch M4\" Apple product",
         "MacBook Air 13-inch M4 Apple product"
       ],
-      "searchVersion": 3.1,
-      "attemptCount": 3,
+      "searchVersion": 3.2,
+      "attemptCount": 4,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T09:08:17.236Z",
+      "importedAt": "2026-08-11T09:31:59.188Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -1740,7 +1739,7 @@
       "productName": "ASUS Zenbook S 14",
       "brand": "ASUS",
       "categoryLabel": "Datorer",
-      "query": "ASUS zenbook 14",
+      "query": "\"ASUS Zenbook S 14\"  product",
       "queryHistory": [
         "\"ASUS Zenbook S 14\"  product",
         "\"ASUS Zenbook S 14\"",
@@ -1749,33 +1748,17 @@
         "ASUS Zenbook S 14 product",
         "ASUS zenbook 14"
       ],
-      "searchVersion": 3.1,
-      "attemptCount": 3,
-      "status": "rejected",
-      "confidence": "high",
-      "score": 148,
-      "importedAt": "2026-08-11T09:07:18.150Z",
-      "selected": {
-        "title": "[ADAYROI-T9] LAPTOP ASUS ZENBOOK UX410UA-GV109 14 INCHES XAM THACH ANH GIAM NGAY 200.000",
-        "sourceUrl": "https://www.flickr.com/photos/154655792@N04/36550484203",
-        "creator": "webtiepthi.com",
-        "license": "CC0 1.0",
-        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-        "width": 232,
-        "height": 240,
-        "score": 148,
-        "query": "ASUS zenbook 14",
-        "sourceType": "openverse",
-        "provider": "flickr",
-        "source": "flickr",
-        "attribution": "\"[ADAYROI-T9] LAPTOP ASUS ZENBOOK UX410UA-GV109 14 INCHES XAM THACH ANH GIAM NGAY 200.000\" by webtiepthi.com is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
-        "path": "/product-images/everyday-000036.webp"
-      },
+      "searchVersion": 3.2,
+      "attemptCount": 4,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-11T09:30:58.084Z",
+      "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v3.1 valde bästa kandidaten från Openverse. Automatisk godkänning är avstängd."
-      ],
-      "reviewedAt": "2026-08-11T09:25:16.712Z"
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
+      ]
     },
     {
       "productId": "everyday-000037",
@@ -2134,12 +2117,12 @@
         "\"Sony BRAVIA 9 75-inch\"  electronics device product",
         "Sony BRAVIA 9 75-inch  electronics device product"
       ],
-      "searchVersion": 3.1,
-      "attemptCount": 3,
+      "searchVersion": 3.2,
+      "attemptCount": 4,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T09:08:19.437Z",
+      "importedAt": "2026-08-11T09:32:02.231Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -2672,7 +2655,7 @@
       "productName": "GoPro HERO13 Black",
       "brand": "GoPro",
       "categoryLabel": "Elektronik",
-      "query": "\"GoPro HERO13 Black\"",
+      "query": "\"GoPro HERO13 Black\"  electronics device product",
       "queryHistory": [
         "\"GoPro HERO13 Black\"  electronics device product",
         "\"GoPro HERO13 Black\"",
@@ -2681,79 +2664,17 @@
         "GoPro HERO13 Black electronics device product",
         "GoPro hero13 black"
       ],
-      "searchVersion": 3.1,
-      "attemptCount": 2,
-      "status": "rejected",
-      "confidence": "medium",
-      "score": 108,
-      "importedAt": "2026-08-11T09:07:32.309Z",
-      "selected": {
-        "title": "File:Mapillary (startless) 2025-07-31 19H57M46S000 (1966388167460773 at VQ915EJ02Mujv4eGTOswap) taken with GoPro HERO13 Black.jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mapillary_(startless)_2025-07-31_19H57M46S000_(1966388167460773_at_VQ915EJ02Mujv4eGTOswap)_taken_with_GoPro_HERO13_Black.jpg",
-        "creator": "startless",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "width": 1600,
-        "height": 900,
-        "score": 108,
-        "query": "\"GoPro HERO13 Black\"",
-        "sourceType": "commons",
-        "provider": "Wikimedia Commons",
-        "source": "wikimedia",
-        "attribution": "",
-        "path": "/product-images/everyday-000063.webp"
-      },
-      "alternatives": [
-        {
-          "title": "File:Mapillary (startless) 2025-07-31 20H21M13S000 (776418311673843 at VQ915EJ02Mujv4eGTOswap) taken with GoPro HERO13 Black.jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mapillary_(startless)_2025-07-31_20H21M13S000_(776418311673843_at_VQ915EJ02Mujv4eGTOswap)_taken_with_GoPro_HERO13_Black.jpg",
-          "creator": "startless",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "width": 1600,
-          "height": 900,
-          "score": 108,
-          "query": "\"GoPro HERO13 Black\"",
-          "sourceType": "commons",
-          "provider": "Wikimedia Commons",
-          "source": "wikimedia",
-          "attribution": ""
-        },
-        {
-          "title": "File:Mapillary (startless) 2025-07-31 19H51M08S000 (1137960278206710 at VQ915EJ02Mujv4eGTOswap) taken with GoPro HERO13 Black.jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mapillary_(startless)_2025-07-31_19H51M08S000_(1137960278206710_at_VQ915EJ02Mujv4eGTOswap)_taken_with_GoPro_HERO13_Black.jpg",
-          "creator": "startless",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "width": 1600,
-          "height": 900,
-          "score": 108,
-          "query": "\"GoPro HERO13 Black\"",
-          "sourceType": "commons",
-          "provider": "Wikimedia Commons",
-          "source": "wikimedia",
-          "attribution": ""
-        },
-        {
-          "title": "File:Mapillary (startless) 2025-07-31 19H47M46S000 (639651518825575 at VQ915EJ02Mujv4eGTOswap) taken with GoPro HERO13 Black.jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mapillary_(startless)_2025-07-31_19H47M46S000_(639651518825575_at_VQ915EJ02Mujv4eGTOswap)_taken_with_GoPro_HERO13_Black.jpg",
-          "creator": "startless",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "width": 1600,
-          "height": 900,
-          "score": 108,
-          "query": "\"GoPro HERO13 Black\"",
-          "sourceType": "commons",
-          "provider": "Wikimedia Commons",
-          "source": "wikimedia",
-          "attribution": ""
-        }
-      ],
+      "searchVersion": 3.2,
+      "attemptCount": 3,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-11T09:31:09.358Z",
+      "selected": null,
+      "alternatives": [],
       "notes": [
-        "Bildsök v3.1 valde bästa kandidaten från Wikimedia Commons. Automatisk godkänning är avstängd."
-      ],
-      "reviewedAt": "2026-08-11T09:25:16.712Z"
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
+      ]
     },
     {
       "productId": "everyday-000064",
@@ -3229,12 +3150,12 @@
         "\"PlayStation 5 Pro\" Sony gaming console computer accessory",
         "PlayStation 5 Pro Sony gaming console computer accessory"
       ],
-      "searchVersion": 3.1,
-      "attemptCount": 3,
+      "searchVersion": 3.2,
+      "attemptCount": 4,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T09:08:20.696Z",
+      "importedAt": "2026-08-11T09:32:05.386Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -3361,7 +3282,7 @@
       "productName": "Xbox Series S 1TB",
       "brand": "Microsoft",
       "categoryLabel": "Gaming",
-      "query": "Microsoft xbox",
+      "query": "\"Xbox Series S 1TB\" Microsoft gaming console computer accessory",
       "queryHistory": [
         "\"Xbox Series S 1TB\" Microsoft gaming console computer accessory",
         "\"Xbox Series S 1TB\" Microsoft",
@@ -3370,63 +3291,17 @@
         "Microsoft Xbox Series S gaming console computer accessory",
         "Microsoft xbox"
       ],
-      "searchVersion": 2,
-      "attemptCount": 4,
-      "status": "rejected",
-      "confidence": "low",
-      "score": 51,
-      "importedAt": "2026-08-10T12:58:47.688Z",
-      "selected": {
-        "title": "File:Xbox MTV - Elijah Wood.jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox_MTV_-_Elijah_Wood.jpg",
-        "creator": "Microsoft Corporation",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "width": 1600,
-        "height": 1067,
-        "score": 51,
-        "query": "Microsoft xbox",
-        "path": "/product-images/everyday-000074.webp"
-      },
-      "alternatives": [
-        {
-          "title": "File:Xbox One Launch - Supercar Rides.jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox_One_Launch_-_Supercar_Rides.jpg",
-          "creator": "Microsoft",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "width": 1600,
-          "height": 1066,
-          "score": 51,
-          "query": "Microsoft xbox"
-        },
-        {
-          "title": "File:Xbox 360 Closeup.jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox_360_Closeup.jpg",
-          "creator": "Microsoft",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "width": 1600,
-          "height": 2522,
-          "score": 48,
-          "query": "Microsoft xbox"
-        },
-        {
-          "title": "File:Xbox E3 Booth 2005 (3).jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox_E3_Booth_2005_(3).jpg",
-          "creator": "Microsoft",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "width": 1600,
-          "height": 2241,
-          "score": 48,
-          "query": "Microsoft xbox"
-        }
-      ],
+      "searchVersion": 3.2,
+      "attemptCount": 5,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-11T09:31:18.572Z",
+      "selected": null,
+      "alternatives": [],
       "notes": [
-        "Bildsök v2 valde bästa kandidaten efter 6 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ],
-      "reviewedAt": "2026-08-10T13:23:24.695Z"
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
+      ]
     },
     {
       "productId": "everyday-000075",
@@ -3926,12 +3801,12 @@
         "\"Dyson V15 Detect Absolute\"  home appliance product",
         "Dyson V15 Detect Absolute  home appliance product"
       ],
-      "searchVersion": 3.1,
-      "attemptCount": 3,
+      "searchVersion": 3.2,
+      "attemptCount": 4,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T09:08:22.727Z",
+      "importedAt": "2026-08-11T09:32:09.082Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -4196,12 +4071,12 @@
         "\"IKEA SÖDERHAMN sofa\"  furniture chair table",
         "IKEA SÖDERHAMN sofa  furniture chair table"
       ],
-      "searchVersion": 3.1,
-      "attemptCount": 3,
+      "searchVersion": 3.2,
+      "attemptCount": 4,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T09:08:25.055Z",
+      "importedAt": "2026-08-11T09:32:12.207Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -4615,12 +4490,12 @@
         "\"Ninja Foodi MAX Dual Zone Air Fryer\"  product",
         "Ninja Foodi MAX Dual Zone Air Fryer  product"
       ],
-      "searchVersion": 3.1,
-      "attemptCount": 3,
+      "searchVersion": 3.2,
+      "attemptCount": 4,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T09:08:27.307Z",
+      "importedAt": "2026-08-11T09:32:16.844Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -5005,12 +4880,12 @@
         "\"Patagonia Down Sweater Hoody\"  clothing fashion",
         "Patagonia Down Sweater Hoody  clothing fashion"
       ],
-      "searchVersion": 3.1,
-      "attemptCount": 3,
+      "searchVersion": 3.2,
+      "attemptCount": 4,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T09:08:30.070Z",
+      "importedAt": "2026-08-11T09:32:19.637Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -5501,21 +5376,20 @@
       "productName": "New Balance 990v6",
       "brand": "New Balance",
       "categoryLabel": "Skor",
-      "query": "\"New Balance 990v6\"  shoes footwear",
+      "query": "\"New Balance 990v6\"",
       "queryHistory": [
-        "\"New Balance 990v6\"  shoes footwear",
         "\"New Balance 990v6\"",
-        "New Balance 990v6  shoes footwear",
         "\"990v6\" New Balance shoes footwear",
-        "New Balance 990v6 shoes footwear",
-        "New Balance 990v6"
+        "New Balance 990v6",
+        "\"New Balance 990v6\"  shoes footwear",
+        "New Balance 990v6  shoes footwear"
       ],
-      "searchVersion": 3.1,
-      "attemptCount": 2,
+      "searchVersion": 3.2,
+      "attemptCount": 3,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T09:08:43.358Z",
+      "importedAt": "2026-08-11T09:32:21.988Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -5748,16 +5622,16 @@
         "Dior Sauvage Eau de Parfum 100 ml product",
         "Dior sauvage eau parfum 100"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
+      "searchVersion": 3.2,
+      "attemptCount": 2,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T11:02:50.463Z",
+      "importedAt": "2026-08-11T09:32:34.416Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
       ]
     },
     {
@@ -9277,12 +9151,12 @@
         "\"Arch 1s\" Arch Motorcycle car automobile vehicle",
         "Arch 1s Arch Motorcycle car automobile vehicle"
       ],
-      "searchVersion": 3.1,
-      "attemptCount": 3,
+      "searchVersion": 3.2,
+      "attemptCount": 4,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T09:07:53.717Z",
+      "importedAt": "2026-08-11T09:31:20.532Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -9538,12 +9412,12 @@
         "\"Dassault Falcon 10X\" Dassault Aviation aircraft jet helicopter aviation",
         "Dassault Falcon 10X Dassault Aviation aircraft jet helicopter aviation"
       ],
-      "searchVersion": 3.1,
-      "attemptCount": 3,
+      "searchVersion": 3.2,
+      "attemptCount": 4,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T09:07:54.969Z",
+      "importedAt": "2026-08-11T09:31:23.156Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -10023,41 +9897,26 @@
       "productName": "Sunseeker 100 Yacht",
       "brand": "Sunseeker",
       "categoryLabel": "Yachter & båtar",
-      "query": "Sunseeker 100 yacht",
+      "query": "\"Sunseeker 100 Yacht\"  yacht boat ship",
       "queryHistory": [
-        "\"Sunseeker 100 Yacht\"",
-        "\"100 Yacht\" Sunseeker yacht boat ship",
-        "Sunseeker 100 yacht",
         "\"Sunseeker 100 Yacht\"  yacht boat ship",
-        "Sunseeker 100 Yacht  yacht boat ship"
+        "\"Sunseeker 100 Yacht\"",
+        "Sunseeker 100 Yacht  yacht boat ship",
+        "\"100 Yacht\" Sunseeker yacht boat ship",
+        "Sunseeker 100 Yacht yacht boat ship",
+        "Sunseeker 100 yacht"
       ],
-      "searchVersion": 3.1,
-      "attemptCount": 3,
-      "status": "rejected",
-      "confidence": "low",
-      "score": 38,
-      "importedAt": "2026-08-11T09:07:58.184Z",
-      "selected": {
-        "title": "Poole Harbour - Variety of Watercraft #1",
-        "sourceUrl": "https://www.flickr.com/photos/65344061@N06/50263745486",
-        "creator": "andreboeni",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-        "width": 1024,
-        "height": 683,
-        "score": 38,
-        "query": "Sunseeker 100 yacht",
-        "sourceType": "openverse",
-        "provider": "flickr",
-        "source": "flickr",
-        "attribution": "\"Poole Harbour - Variety of Watercraft #1\" by andreboeni is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
-        "path": "/product-images/lux-000043.webp"
-      },
+      "searchVersion": 3.2,
+      "attemptCount": 4,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-11T09:30:42.128Z",
+      "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v3.1 valde bästa kandidaten från Openverse. Automatisk godkänning är avstängd."
-      ],
-      "reviewedAt": "2026-08-11T09:25:16.712Z"
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
+      ]
     },
     {
       "productId": "lux-000044",
@@ -10074,16 +9933,16 @@
         "Sunseeker Ocean 182 yacht boat ship",
         "Sunseeker ocean 182"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
+      "searchVersion": 3.2,
+      "attemptCount": 2,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T11:35:13.468Z",
+      "importedAt": "2026-08-11T09:31:29.452Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
       ]
     },
     {
@@ -10422,12 +10281,12 @@
         "\"Rolex Cosmograph Daytona Platinum\"  watch wristwatch timepiece",
         "Rolex Cosmograph Daytona Platinum  watch wristwatch timepiece"
       ],
-      "searchVersion": 3.1,
-      "attemptCount": 3,
+      "searchVersion": 3.2,
+      "attemptCount": 4,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T09:08:01.182Z",
+      "importedAt": "2026-08-11T09:31:34.590Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -11016,12 +10875,12 @@
         "\"Hermès Birkin 25 Himalaya\"  fashion handbag clothing",
         "Hermès Birkin 25 Himalaya  fashion handbag clothing"
       ],
-      "searchVersion": 3.1,
-      "attemptCount": 3,
+      "searchVersion": 3.2,
+      "attemptCount": 4,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T09:08:03.280Z",
+      "importedAt": "2026-08-11T09:31:36.868Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -11340,12 +11199,12 @@
         "\"Tiffany & Co. Schlumberger Sixteen Stone Ring\"  jewellery jewelry",
         "Tiffany & Co. Schlumberger Sixteen Stone Ring  jewellery jewelry"
       ],
-      "searchVersion": 3.1,
-      "attemptCount": 3,
+      "searchVersion": 3.2,
+      "attemptCount": 4,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T09:08:05.436Z",
+      "importedAt": "2026-08-11T09:31:39.489Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -11513,12 +11372,12 @@
         "\"Baccarat Zenith Chandelier\"  product",
         "Baccarat Zenith Chandelier  product"
       ],
-      "searchVersion": 3.1,
-      "attemptCount": 3,
+      "searchVersion": 3.2,
+      "attemptCount": 4,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T09:08:07.505Z",
+      "importedAt": "2026-08-11T09:31:42.473Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -11539,12 +11398,12 @@
         "\"Fazioli F308 Concert Grand Piano\"  product",
         "Fazioli F308 Concert Grand Piano  product"
       ],
-      "searchVersion": 3.1,
-      "attemptCount": 3,
+      "searchVersion": 3.2,
+      "attemptCount": 4,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T09:08:09.464Z",
+      "importedAt": "2026-08-11T09:31:45.954Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -11624,12 +11483,12 @@
         "\"Bang & Olufsen Beolab 90 Pair\"  electronics device computer phone camera",
         "Bang & Olufsen Beolab 90 Pair  electronics device computer phone camera"
       ],
-      "searchVersion": 3.1,
-      "attemptCount": 3,
+      "searchVersion": 3.2,
+      "attemptCount": 4,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T09:08:11.540Z",
+      "importedAt": "2026-08-11T09:31:50.554Z",
       "selected": null,
       "alternatives": [],
       "notes": [
@@ -11958,12 +11817,12 @@
         "\"Leica 0-Series No. 105\"  collectible memorabilia",
         "Leica 0-Series No. 105  collectible memorabilia"
       ],
-      "searchVersion": 3.1,
-      "attemptCount": 3,
+      "searchVersion": 3.2,
+      "attemptCount": 4,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T09:08:13.569Z",
+      "importedAt": "2026-08-11T09:31:54.028Z",
       "selected": null,
       "alternatives": [],
       "notes": [
