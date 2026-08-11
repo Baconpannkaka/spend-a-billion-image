@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-08-11T09:12:18.287Z",
+  "generatedAt": "2026-08-11T09:25:16.712Z",
   "images": [
     {
       "productId": "everyday-000001",
@@ -333,7 +333,7 @@
       "creator": "Fairphone",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1024,
       "height": 683,
       "importedAt": "2026-08-11T09:07:13.167Z",
@@ -344,7 +344,8 @@
       "attribution": "\"Fairphone 5 Lifestyle\" by Fairphone is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
       "confidence": "high",
       "score": 132,
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-11T09:25:16.712Z"
     },
     {
       "productId": "everyday-000026",
@@ -487,7 +488,7 @@
       "creator": "webtiepthi.com",
       "license": "CC0 1.0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 232,
       "height": 240,
       "importedAt": "2026-08-11T09:07:18.150Z",
@@ -498,7 +499,8 @@
       "attribution": "\"[ADAYROI-T9] LAPTOP ASUS ZENBOOK UX410UA-GV109 14 INCHES XAM THACH ANH GIAM NGAY 200.000\" by webtiepthi.com is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
       "confidence": "high",
       "score": 148,
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-11T09:25:16.712Z"
     },
     {
       "productId": "everyday-000039",
@@ -622,7 +624,7 @@
       "creator": "startless",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 900,
       "importedAt": "2026-08-11T09:07:32.309Z",
@@ -634,7 +636,8 @@
       "confidence": "medium",
       "score": 108,
       "sha1": "36294fcbd16a090d15d6bf0688c2d6b3c0d81ddd",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-11T09:25:16.712Z"
     },
     {
       "productId": "everyday-000064",
@@ -781,7 +784,7 @@
       "creator": "Microsoft",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 1067,
       "importedAt": "2026-08-11T09:07:43.450Z",
@@ -793,7 +796,8 @@
       "confidence": "medium",
       "score": 90,
       "sha1": "5d8d53b03465be0368dc6c49faa4bd73437cf3f0",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-11T09:25:16.712Z"
     },
     {
       "productId": "everyday-000074",
@@ -1011,7 +1015,7 @@
       "creator": "Ptyx",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1600,
       "height": 1038,
       "importedAt": "2026-08-11T09:07:52.161Z",
@@ -1023,7 +1027,8 @@
       "confidence": "low",
       "score": 46,
       "sha1": "6c76fb6d8d1762f17c9230c074496fa9b47d2126",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-11T09:25:16.712Z"
     },
     {
       "productId": "everyday-000117",
@@ -2099,7 +2104,7 @@
       "creator": "andreboeni",
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1024,
       "height": 683,
       "importedAt": "2026-08-11T09:07:58.184Z",
@@ -2110,7 +2115,8 @@
       "attribution": "\"Poole Harbour - Variety of Watercraft #1\" by andreboeni is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
       "confidence": "low",
       "score": 38,
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-11T09:25:16.712Z"
     },
     {
       "productId": "lux-000058",

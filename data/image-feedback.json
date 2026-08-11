@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-11T09:12:18.287Z",
+  "updatedAt": "2026-08-11T09:25:16.712Z",
   "products": {
     "lux-000003": {
       "approved": [
@@ -929,10 +929,21 @@
           "confidence": "medium",
           "query": "Microsoft xbox",
           "reviewedAt": "2026-08-10T12:54:12.471Z"
+        },
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox_One_Launch_-_Supercar_Rides.jpg",
+          "commonsTitle": "File:Xbox One Launch - Supercar Rides.jpg",
+          "sourceTitle": "File:Xbox One Launch - Supercar Rides.jpg",
+          "sourceType": "commons",
+          "provider": "Wikimedia Commons",
+          "score": 90,
+          "confidence": "medium",
+          "query": "Microsoft xbox",
+          "reviewedAt": "2026-08-11T09:25:16.712Z"
         }
       ],
       "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T12:54:12.471Z"
+      "updatedAt": "2026-08-11T09:25:16.712Z"
     },
     "everyday-000014": {
       "approved": [
@@ -1680,10 +1691,21 @@
           "confidence": "low",
           "query": "\"Fairphone 5\"",
           "reviewedAt": "2026-08-11T07:57:35.618Z"
+        },
+        {
+          "sourceUrl": "https://www.flickr.com/photos/60295192@N08/53152117196",
+          "commonsTitle": "Fairphone 5 Lifestyle",
+          "sourceTitle": "Fairphone 5 Lifestyle",
+          "sourceType": "openverse",
+          "provider": "flickr",
+          "score": 132,
+          "confidence": "high",
+          "query": "\"Fairphone 5\"",
+          "reviewedAt": "2026-08-11T09:25:16.712Z"
         }
       ],
       "lastDecision": "rejected",
-      "updatedAt": "2026-08-11T07:57:35.618Z"
+      "updatedAt": "2026-08-11T09:25:16.712Z"
     },
     "everyday-000036": {
       "approved": [],
@@ -1706,10 +1728,21 @@
           "confidence": "low",
           "query": "ASUS zenbook 14",
           "reviewedAt": "2026-08-11T07:57:35.618Z"
+        },
+        {
+          "sourceUrl": "https://www.flickr.com/photos/154655792@N04/36550484203",
+          "commonsTitle": "[ADAYROI-T9] LAPTOP ASUS ZENBOOK UX410UA-GV109 14 INCHES XAM THACH ANH GIAM NGAY 200.000",
+          "sourceTitle": "[ADAYROI-T9] LAPTOP ASUS ZENBOOK UX410UA-GV109 14 INCHES XAM THACH ANH GIAM NGAY 200.000",
+          "sourceType": "openverse",
+          "provider": "flickr",
+          "score": 148,
+          "confidence": "high",
+          "query": "ASUS zenbook 14",
+          "reviewedAt": "2026-08-11T09:25:16.712Z"
         }
       ],
       "lastDecision": "rejected",
-      "updatedAt": "2026-08-11T07:57:35.618Z"
+      "updatedAt": "2026-08-11T09:25:16.712Z"
     },
     "everyday-000039": {
       "approved": [],
@@ -1766,10 +1799,21 @@
           "confidence": "medium",
           "query": "\"GoPro HERO13 Black\"",
           "reviewedAt": "2026-08-10T13:23:24.695Z"
+        },
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mapillary_(startless)_2025-07-31_19H57M46S000_(1966388167460773_at_VQ915EJ02Mujv4eGTOswap)_taken_with_GoPro_HERO13_Black.jpg",
+          "commonsTitle": "File:Mapillary (startless) 2025-07-31 19H57M46S000 (1966388167460773 at VQ915EJ02Mujv4eGTOswap) taken with GoPro HERO13 Black.jpg",
+          "sourceTitle": "File:Mapillary (startless) 2025-07-31 19H57M46S000 (1966388167460773 at VQ915EJ02Mujv4eGTOswap) taken with GoPro HERO13 Black.jpg",
+          "sourceType": "commons",
+          "provider": "Wikimedia Commons",
+          "score": 108,
+          "confidence": "medium",
+          "query": "\"GoPro HERO13 Black\"",
+          "reviewedAt": "2026-08-11T09:25:16.712Z"
         }
       ],
       "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T13:23:24.695Z"
+      "updatedAt": "2026-08-11T09:25:16.712Z"
     },
     "everyday-000064": {
       "approved": [],
@@ -1841,10 +1885,21 @@
           "confidence": "low",
           "query": "Staub cocotte",
           "reviewedAt": "2026-08-10T13:23:24.695Z"
+        },
+        {
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2019_12_cocotte_Staub_en_fonte_%C3%A9maill%C3%A9e_tomate.jpg",
+          "commonsTitle": "File:2019 12 cocotte Staub en fonte émaillée tomate.jpg",
+          "sourceTitle": "File:2019 12 cocotte Staub en fonte émaillée tomate.jpg",
+          "sourceType": "commons",
+          "provider": "Wikimedia Commons",
+          "score": 46,
+          "confidence": "low",
+          "query": "Staub cocotte",
+          "reviewedAt": "2026-08-11T09:25:16.712Z"
         }
       ],
       "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T13:23:24.695Z"
+      "updatedAt": "2026-08-11T09:25:16.712Z"
     },
     "lux-000074": {
       "approved": [],
@@ -1860,6 +1915,24 @@
       ],
       "lastDecision": "rejected",
       "updatedAt": "2026-08-10T13:23:24.695Z"
+    },
+    "lux-000043": {
+      "approved": [],
+      "rejected": [
+        {
+          "sourceUrl": "https://www.flickr.com/photos/65344061@N06/50263745486",
+          "commonsTitle": "Poole Harbour - Variety of Watercraft #1",
+          "sourceTitle": "Poole Harbour - Variety of Watercraft #1",
+          "sourceType": "openverse",
+          "provider": "flickr",
+          "score": 38,
+          "confidence": "low",
+          "query": "Sunseeker 100 yacht",
+          "reviewedAt": "2026-08-11T09:25:16.712Z"
+        }
+      ],
+      "lastDecision": "rejected",
+      "updatedAt": "2026-08-11T09:25:16.712Z"
     }
   }
 }
