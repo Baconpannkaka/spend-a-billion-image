@@ -1,7 +1,7 @@
 {
-  "version": 3,
-  "generatedAt": "2026-08-10T13:23:24.695Z",
-  "searchVersion": 2,
+  "version": 4,
+  "generatedAt": "2026-08-11T07:47:59.135Z",
+  "searchVersion": 3,
   "items": [
     {
       "productId": "everyday-000001",
@@ -281,24 +281,23 @@
       "productName": "iPhone 17e",
       "brand": "Apple",
       "categoryLabel": "Mobiltelefoner",
-      "query": "\"iPhone 17e\" Apple product",
+      "query": "\"iPhone 17e\" Apple",
       "queryHistory": [
-        "\"iPhone 17e\" Apple product",
         "\"iPhone 17e\" Apple",
-        "iPhone 17e Apple product",
         "Apple iPhone 17e product",
-        "Apple iphone 17e"
+        "\"iPhone 17e\" Apple product",
+        "iPhone 17e Apple product"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
+      "searchVersion": 3,
+      "attemptCount": 2,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T11:02:21.738Z",
+      "importedAt": "2026-08-11T07:46:59.796Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade kontrollerna efter 5 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
       ]
     },
     {
@@ -1101,36 +1100,29 @@
         "\"5\" Fairphone product",
         "Fairphone 5 product"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
-      "status": "rejected",
+      "searchVersion": 3,
+      "attemptCount": 2,
+      "status": "pending",
       "confidence": "low",
       "score": 61,
-      "importedAt": "2026-08-10T13:02:01.677Z",
+      "importedAt": "2026-08-11T07:45:53.969Z",
       "selected": {
-        "title": "File:Fairphone 5 - boot screen.jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fairphone_5_-_boot_screen.jpg",
-        "creator": "Valerio Bozzolan",
-        "license": "CC0",
-        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "title": "File:Fairphone 5 front.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fairphone_5_front.jpg",
+        "creator": "S03311251",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
         "width": 1600,
-        "height": 3156,
+        "height": 2133,
         "score": 61,
         "query": "\"Fairphone 5\"",
+        "sourceType": "commons",
+        "provider": "Wikimedia Commons",
+        "source": "wikimedia",
+        "attribution": "",
         "path": "/product-images/everyday-000021.webp"
       },
       "alternatives": [
-        {
-          "title": "File:Fairphone 5 front.jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fairphone_5_front.jpg",
-          "creator": "S03311251",
-          "license": "CC BY 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-          "width": 1600,
-          "height": 2133,
-          "score": 61,
-          "query": "\"Fairphone 5\""
-        },
         {
           "title": "File:Fairphone 5 - unboxing 1.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fairphone_5_-_unboxing_1.jpg",
@@ -1140,7 +1132,11 @@
           "width": 1600,
           "height": 2133,
           "score": 61,
-          "query": "\"Fairphone 5\""
+          "query": "\"Fairphone 5\"",
+          "sourceType": "commons",
+          "provider": "Wikimedia Commons",
+          "source": "wikimedia",
+          "attribution": ""
         },
         {
           "title": "File:Fairphone 5 - box retro - plastic-free info.jpg",
@@ -1151,13 +1147,31 @@
           "width": 1600,
           "height": 2117,
           "score": 61,
-          "query": "\"Fairphone 5\""
+          "query": "\"Fairphone 5\"",
+          "sourceType": "commons",
+          "provider": "Wikimedia Commons",
+          "source": "wikimedia",
+          "attribution": ""
+        },
+        {
+          "title": "File:Fairphone 5 - box front.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fairphone_5_-_box_front.jpg",
+          "creator": "Valerio Bozzolan",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "width": 1600,
+          "height": 1991,
+          "score": 61,
+          "query": "\"Fairphone 5\"",
+          "sourceType": "commons",
+          "provider": "Wikimedia Commons",
+          "source": "wikimedia",
+          "attribution": ""
         }
       ],
       "notes": [
-        "Bildsök v2 valde bästa kandidaten efter 5 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ],
-      "reviewedAt": "2026-08-10T13:23:24.695Z"
+        "Bildsök v3 valde bästa kandidaten från Wikimedia Commons. Kontrollera produkten och licenskällan innan godkännande."
+      ]
     },
     {
       "productId": "everyday-000022",
@@ -1192,24 +1206,23 @@
       "productName": "MacBook Air 13-inch M4",
       "brand": "Apple",
       "categoryLabel": "Datorer",
-      "query": "\"MacBook Air 13-inch M4\" Apple product",
+      "query": "\"MacBook Air 13-inch M4\" Apple",
       "queryHistory": [
-        "\"MacBook Air 13-inch M4\" Apple product",
         "\"MacBook Air 13-inch M4\" Apple",
-        "MacBook Air 13-inch M4 Apple product",
         "Apple MacBook Air 13-inch M4 product",
-        "Apple macbook air 13-inch m4"
+        "\"MacBook Air 13-inch M4\" Apple product",
+        "MacBook Air 13-inch M4 Apple product"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
+      "searchVersion": 3,
+      "attemptCount": 2,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T11:02:26.167Z",
+      "importedAt": "2026-08-11T07:47:05.097Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade kontrollerna efter 5 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
       ]
     },
     {
@@ -1726,34 +1739,87 @@
       "productName": "ASUS Zenbook S 14",
       "brand": "ASUS",
       "categoryLabel": "Datorer",
-      "query": "\"ASUS Zenbook S 14\"",
+      "query": "ASUS zenbook 14",
       "queryHistory": [
         "\"ASUS Zenbook S 14\"  product",
-        "\"ASUS Zenbook S 14\""
+        "\"ASUS Zenbook S 14\"",
+        "ASUS Zenbook S 14  product",
+        "\"Zenbook S 14\" ASUS product",
+        "ASUS Zenbook S 14 product",
+        "ASUS zenbook 14"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
-      "status": "rejected",
-      "confidence": "high",
-      "score": 140,
-      "importedAt": "2026-08-10T13:05:04.338Z",
+      "searchVersion": 3,
+      "attemptCount": 2,
+      "status": "pending",
+      "confidence": "low",
+      "score": 59,
+      "importedAt": "2026-08-11T07:46:12.225Z",
       "selected": {
-        "title": "File:Intel Core Ultra 7 258V, verbaut in einem ASUS Zenbook S 14 UX5406.png",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Intel_Core_Ultra_7_258V,_verbaut_in_einem_ASUS_Zenbook_S_14_UX5406.png",
-        "creator": "LaptopMedia",
-        "license": "CC BY 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "title": "File:ASUS Zenbook UX31E Ultrabook & Accessories.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:ASUS_Zenbook_UX31E_Ultrabook_%26_Accessories.jpg",
+        "creator": "Michael Sheehan",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "width": 1600,
-        "height": 900,
-        "score": 140,
-        "query": "\"ASUS Zenbook S 14\"",
+        "height": 1345,
+        "score": 59,
+        "query": "ASUS zenbook 14",
+        "sourceType": "commons",
+        "provider": "Wikimedia Commons",
+        "source": "wikimedia",
+        "attribution": "",
         "path": "/product-images/everyday-000036.webp"
       },
-      "alternatives": [],
-      "notes": [
-        "Bildsök v2 valde bästa kandidaten efter 2 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
+      "alternatives": [
+        {
+          "title": "[ADAYROI-T9] LAPTOP ASUS ZENBOOK UX410UA-GV109 14 INCHES XAM THACH ANH GIAM NGAY 200.000",
+          "sourceUrl": "https://www.flickr.com/photos/154655792@N04/36550484203",
+          "creator": "webtiepthi.com",
+          "license": "CC0 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "width": 232,
+          "height": 240,
+          "score": 102,
+          "query": "ASUS zenbook 14",
+          "sourceType": "openverse",
+          "provider": "flickr",
+          "source": "flickr",
+          "attribution": "\"[ADAYROI-T9] LAPTOP ASUS ZENBOOK UX410UA-GV109 14 INCHES XAM THACH ANH GIAM NGAY 200.000\" by webtiepthi.com is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/."
+        },
+        {
+          "title": "File:Asus Zenbook UX32V - webcam module - AK230 0539L 4911C-0108.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Asus_Zenbook_UX32V_-_webcam_module_-_AK230_0539L_4911C-0108.jpg",
+          "creator": "Raimond Spekking",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 1200,
+          "score": 59,
+          "query": "ASUS zenbook 14",
+          "sourceType": "commons",
+          "provider": "Wikimedia Commons",
+          "source": "wikimedia",
+          "attribution": "© Raimond Spekking / CC BY-SA 4.0 (via Wikimedia Commons)"
+        },
+        {
+          "title": "File:ASUS ZenBook UX305.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:ASUS_ZenBook_UX305.jpg",
+          "creator": "Sinchen.Lin",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "width": 1600,
+          "height": 1062,
+          "score": 59,
+          "query": "ASUS zenbook 14",
+          "sourceType": "commons",
+          "provider": "Wikimedia Commons",
+          "source": "wikimedia",
+          "attribution": ""
+        }
       ],
-      "reviewedAt": "2026-08-10T13:23:24.695Z"
+      "notes": [
+        "Bildsök v3 valde bästa kandidaten från Wikimedia Commons. Kontrollera produkten och licenskällan innan godkännande."
+      ]
     },
     {
       "productId": "everyday-000037",
@@ -2104,25 +2170,23 @@
       "productName": "Sony BRAVIA 9 75-inch",
       "brand": "Sony",
       "categoryLabel": "Elektronik",
-      "query": "\"Sony BRAVIA 9 75-inch\"  electronics device product",
+      "query": "\"Sony BRAVIA 9 75-inch\"",
       "queryHistory": [
-        "\"Sony BRAVIA 9 75-inch\"  electronics device product",
         "\"Sony BRAVIA 9 75-inch\"",
-        "Sony BRAVIA 9 75-inch  electronics device product",
         "\"BRAVIA 9 75-inch\" Sony electronics device product",
-        "Sony BRAVIA 9 75-inch electronics device product",
-        "Sony bravia 75-inch"
+        "Sony bravia 75-inch",
+        "\"Sony BRAVIA 9 75-inch\"  electronics device product"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
+      "searchVersion": 3,
+      "attemptCount": 2,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T11:02:30.813Z",
+      "importedAt": "2026-08-11T07:47:08.378Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
       ]
     },
     {
@@ -2570,34 +2634,26 @@
       "productName": "Kobo Libra Colour",
       "brand": "Kobo",
       "categoryLabel": "Elektronik",
-      "query": "\"Kobo Libra Colour\"",
+      "query": "\"Kobo Libra Colour\"  electronics device product",
       "queryHistory": [
         "\"Kobo Libra Colour\"  electronics device product",
-        "\"Kobo Libra Colour\""
+        "\"Kobo Libra Colour\"",
+        "Kobo Libra Colour  electronics device product",
+        "\"Libra Colour\" Kobo electronics device product",
+        "Kobo Libra Colour electronics device product",
+        "Kobo libra colour"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
-      "status": "rejected",
-      "confidence": "high",
-      "score": 139,
-      "importedAt": "2026-08-10T13:05:40.166Z",
-      "selected": {
-        "title": "File:Kobo Libra Colour.jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kobo_Libra_Colour.jpg",
-        "creator": "Kyu3a",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "width": 1600,
-        "height": 2171,
-        "score": 139,
-        "query": "\"Kobo Libra Colour\"",
-        "path": "/product-images/everyday-000060.webp"
-      },
+      "searchVersion": 3,
+      "attemptCount": 2,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-11T07:46:22.020Z",
+      "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v2 valde bästa kandidaten efter 2 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ],
-      "reviewedAt": "2026-08-10T13:23:24.695Z"
+        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
+      ]
     },
     {
       "productId": "everyday-000061",
@@ -3100,29 +3156,116 @@
       "reviewedAt": "2026-08-10T13:21:02.873Z"
     },
     {
+      "productId": "everyday-000070",
+      "mode": "everyday",
+      "productName": "Samsung Galaxy Watch Ultra",
+      "brand": "Samsung",
+      "categoryLabel": "Elektronik",
+      "query": "\"Samsung Galaxy Watch Ultra\"",
+      "queryHistory": [
+        "\"Samsung Galaxy Watch Ultra\"  electronics device product",
+        "\"Samsung Galaxy Watch Ultra\"",
+        "Samsung Galaxy Watch Ultra  electronics device product",
+        "\"Galaxy Watch Ultra\" Samsung electronics device product",
+        "Samsung Galaxy Watch Ultra electronics device product",
+        "Samsung galaxy watch ultra"
+      ],
+      "searchVersion": 3,
+      "attemptCount": 1,
+      "status": "approved",
+      "confidence": "high",
+      "score": 142,
+      "importedAt": "2026-08-11T07:47:26.139Z",
+      "selected": {
+        "title": "File:Back side Samsung Galaxy Z Fold8 Ultra 5G 2026-08-09 Samsung Galaxy Watch Ultra 4.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Back_side_Samsung_Galaxy_Z_Fold8_Ultra_5G_2026-08-09_Samsung_Galaxy_Watch_Ultra_4.jpg",
+        "creator": "P1898",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "width": 1600,
+        "height": 1207,
+        "score": 142,
+        "query": "\"Samsung Galaxy Watch Ultra\"",
+        "sourceType": "commons",
+        "provider": "Wikimedia Commons",
+        "source": "wikimedia",
+        "attribution": "",
+        "path": "/product-images/everyday-000070.webp"
+      },
+      "alternatives": [
+        {
+          "title": "File:Back side Samsung Galaxy Z Fold8 Ultra 5G 2026-08-09 Samsung Galaxy Watch Ultra 5.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Back_side_Samsung_Galaxy_Z_Fold8_Ultra_5G_2026-08-09_Samsung_Galaxy_Watch_Ultra_5.jpg",
+          "creator": "P1898",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "width": 1600,
+          "height": 1115,
+          "score": 142,
+          "query": "\"Samsung Galaxy Watch Ultra\"",
+          "sourceType": "commons",
+          "provider": "Wikimedia Commons",
+          "source": "wikimedia",
+          "attribution": ""
+        },
+        {
+          "title": "File:Samsung Galaxy Z Fold8 Ultra 5G 2026-08-09 Samsung Galaxy Watch Ultra 3.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_Z_Fold8_Ultra_5G_2026-08-09_Samsung_Galaxy_Watch_Ultra_3.jpg",
+          "creator": "P1898",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "width": 1600,
+          "height": 961,
+          "score": 142,
+          "query": "\"Samsung Galaxy Watch Ultra\"",
+          "sourceType": "commons",
+          "provider": "Wikimedia Commons",
+          "source": "wikimedia",
+          "attribution": ""
+        },
+        {
+          "title": "File:Samsung Galaxy Z Fold8 Ultra 5G 2026-08-09 Samsung Galaxy Watch Ultra 2.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_Z_Fold8_Ultra_5G_2026-08-09_Samsung_Galaxy_Watch_Ultra_2.jpg",
+          "creator": "P1898",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "width": 1600,
+          "height": 937,
+          "score": 142,
+          "query": "\"Samsung Galaxy Watch Ultra\"",
+          "sourceType": "commons",
+          "provider": "Wikimedia Commons",
+          "source": "wikimedia",
+          "attribution": ""
+        }
+      ],
+      "notes": [
+        "Bildsök v3 auto-godkände en mycket säker exakt Commons-träff. Openverse-träffar auto-godkänns aldrig."
+      ]
+    },
+    {
       "productId": "everyday-000071",
       "mode": "everyday",
       "productName": "PlayStation 5 Pro",
       "brand": "Sony",
       "categoryLabel": "Gaming",
-      "query": "\"PlayStation 5 Pro\" Sony gaming console computer accessory",
+      "query": "\"PlayStation 5 Pro\" Sony",
       "queryHistory": [
-        "\"PlayStation 5 Pro\" Sony gaming console computer accessory",
         "\"PlayStation 5 Pro\" Sony",
-        "PlayStation 5 Pro Sony gaming console computer accessory",
         "Sony PlayStation 5 Pro gaming console computer accessory",
-        "Sony playstation pro"
+        "\"PlayStation 5 Pro\" Sony gaming console computer accessory",
+        "PlayStation 5 Pro Sony gaming console computer accessory"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
+      "searchVersion": 3,
+      "attemptCount": 2,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T11:01:13.952Z",
+      "importedAt": "2026-08-11T07:47:11.518Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade kontrollerna efter 5 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
       ]
     },
     {
@@ -3786,25 +3929,23 @@
       "productName": "Dyson V15 Detect Absolute",
       "brand": "Dyson",
       "categoryLabel": "Hem",
-      "query": "\"Dyson V15 Detect Absolute\"  home appliance product",
+      "query": "\"Dyson V15 Detect Absolute\"",
       "queryHistory": [
-        "\"Dyson V15 Detect Absolute\"  home appliance product",
         "\"Dyson V15 Detect Absolute\"",
-        "Dyson V15 Detect Absolute  home appliance product",
         "\"V15 Detect Absolute\" Dyson home appliance product",
-        "Dyson V15 Detect Absolute home appliance product",
-        "Dyson v15 detect absolute"
+        "Dyson v15 detect absolute",
+        "\"Dyson V15 Detect Absolute\"  home appliance product"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
+      "searchVersion": 3,
+      "attemptCount": 2,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T11:02:35.854Z",
+      "importedAt": "2026-08-11T07:47:15.415Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
       ]
     },
     {
@@ -4057,25 +4198,23 @@
       "productName": "IKEA SÖDERHAMN sofa",
       "brand": "IKEA",
       "categoryLabel": "Möbler",
-      "query": "\"IKEA SÖDERHAMN sofa\"  furniture chair table",
+      "query": "\"IKEA SÖDERHAMN sofa\"",
       "queryHistory": [
-        "\"IKEA SÖDERHAMN sofa\"  furniture chair table",
         "\"IKEA SÖDERHAMN sofa\"",
-        "IKEA SÖDERHAMN sofa  furniture chair table",
         "\"SÖDERHAMN sofa\" IKEA furniture chair table",
-        "IKEA SÖDERHAMN sofa furniture chair table",
-        "IKEA soderhamn sofa"
+        "IKEA soderhamn sofa",
+        "\"IKEA SÖDERHAMN sofa\"  furniture chair table"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
+      "searchVersion": 3,
+      "attemptCount": 2,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T11:02:41.461Z",
+      "importedAt": "2026-08-11T07:47:18.649Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
       ]
     },
     {
@@ -4477,25 +4616,23 @@
       "productName": "Ninja Foodi MAX Dual Zone Air Fryer",
       "brand": "Ninja",
       "categoryLabel": "Kök",
-      "query": "\"Ninja Foodi MAX Dual Zone Air Fryer\"  product",
+      "query": "\"Ninja Foodi MAX Dual Zone Air Fryer\"",
       "queryHistory": [
-        "\"Ninja Foodi MAX Dual Zone Air Fryer\"  product",
         "\"Ninja Foodi MAX Dual Zone Air Fryer\"",
-        "Ninja Foodi MAX Dual Zone Air Fryer  product",
         "\"Foodi MAX Dual Zone Air Fryer\" Ninja product",
-        "Ninja Foodi MAX Dual Zone Air Fryer product",
-        "Ninja foodi max dual zone"
+        "Ninja foodi max dual zone",
+        "\"Ninja Foodi MAX Dual Zone Air Fryer\"  product"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
+      "searchVersion": 3,
+      "attemptCount": 2,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T11:03:48.934Z",
+      "importedAt": "2026-08-11T07:47:23.246Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
       ]
     },
     {
@@ -4871,25 +5008,23 @@
       "productName": "Patagonia Down Sweater Hoody",
       "brand": "Patagonia",
       "categoryLabel": "Kläder",
-      "query": "\"Patagonia Down Sweater Hoody\"  clothing fashion",
+      "query": "\"Patagonia Down Sweater Hoody\"",
       "queryHistory": [
-        "\"Patagonia Down Sweater Hoody\"  clothing fashion",
         "\"Patagonia Down Sweater Hoody\"",
-        "Patagonia Down Sweater Hoody  clothing fashion",
         "\"Down Sweater Hoody\" Patagonia clothing fashion",
-        "Patagonia Down Sweater Hoody clothing fashion",
-        "Patagonia down sweater hoody"
+        "Patagonia down sweater hoody",
+        "\"Patagonia Down Sweater Hoody\"  clothing fashion"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
+      "searchVersion": 3,
+      "attemptCount": 2,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T11:03:53.895Z",
+      "importedAt": "2026-08-11T07:47:29.989Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
       ]
     },
     {
@@ -5289,23 +5424,21 @@
       "categoryLabel": "Skor",
       "query": "\"Adidas Ultraboost 5\"  shoes footwear",
       "queryHistory": [
-        "\"Adidas Ultraboost 5\"  shoes footwear",
         "\"Adidas Ultraboost 5\"",
-        "Adidas Ultraboost 5  shoes footwear",
         "\"Ultraboost 5\" Adidas shoes footwear",
-        "Adidas Ultraboost 5 shoes footwear",
-        "Adidas ultraboost"
+        "Adidas ultraboost",
+        "\"Adidas Ultraboost 5\"  shoes footwear"
       ],
-      "searchVersion": 2,
-      "attemptCount": 4,
-      "status": "no-match",
+      "searchVersion": 3,
+      "attemptCount": 5,
+      "status": "error",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T12:58:51.524Z",
+      "importedAt": "2026-08-11T07:47:58.784Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+        "HTTP 406: Not Acceptable"
       ]
     },
     {
@@ -9083,24 +9216,23 @@
       "productName": "Arch 1s",
       "brand": "Arch Motorcycle",
       "categoryLabel": "Fordon",
-      "query": "\"Arch 1s\" Arch Motorcycle car automobile vehicle",
+      "query": "\"Arch 1s\" Arch Motorcycle",
       "queryHistory": [
-        "\"Arch 1s\" Arch Motorcycle car automobile vehicle",
         "\"Arch 1s\" Arch Motorcycle",
-        "Arch 1s Arch Motorcycle car automobile vehicle",
         "Arch Motorcycle Arch 1s car automobile vehicle",
-        "Arch Motorcycle arch 1s"
+        "\"Arch 1s\" Arch Motorcycle car automobile vehicle",
+        "Arch 1s Arch Motorcycle car automobile vehicle"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
+      "searchVersion": 3,
+      "attemptCount": 2,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T11:01:34.603Z",
+      "importedAt": "2026-08-11T07:46:25.068Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade kontrollerna efter 5 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
       ]
     },
     {
@@ -9345,24 +9477,23 @@
       "productName": "Dassault Falcon 10X",
       "brand": "Dassault Aviation",
       "categoryLabel": "Privatflyg",
-      "query": "\"Dassault Falcon 10X\" Dassault Aviation aircraft jet helicopter aviation",
+      "query": "\"Dassault Falcon 10X\" Dassault Aviation",
       "queryHistory": [
-        "\"Dassault Falcon 10X\" Dassault Aviation aircraft jet helicopter aviation",
         "\"Dassault Falcon 10X\" Dassault Aviation",
-        "Dassault Falcon 10X Dassault Aviation aircraft jet helicopter aviation",
         "Dassault Aviation Dassault Falcon 10X aircraft jet helicopter aviation",
-        "Dassault Aviation dassault falcon 10x"
+        "\"Dassault Falcon 10X\" Dassault Aviation aircraft jet helicopter aviation",
+        "Dassault Falcon 10X Dassault Aviation aircraft jet helicopter aviation"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
+      "searchVersion": 3,
+      "attemptCount": 2,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T11:01:38.987Z",
+      "importedAt": "2026-08-11T07:46:28.838Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade kontrollerna efter 5 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
       ]
     },
     {
@@ -9838,25 +9969,23 @@
       "productName": "Sunseeker 100 Yacht",
       "brand": "Sunseeker",
       "categoryLabel": "Yachter & båtar",
-      "query": "\"Sunseeker 100 Yacht\"  yacht boat ship",
+      "query": "\"Sunseeker 100 Yacht\"",
       "queryHistory": [
-        "\"Sunseeker 100 Yacht\"  yacht boat ship",
         "\"Sunseeker 100 Yacht\"",
-        "Sunseeker 100 Yacht  yacht boat ship",
         "\"100 Yacht\" Sunseeker yacht boat ship",
-        "Sunseeker 100 Yacht yacht boat ship",
-        "Sunseeker 100 yacht"
+        "Sunseeker 100 yacht",
+        "\"Sunseeker 100 Yacht\"  yacht boat ship"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
+      "searchVersion": 3,
+      "attemptCount": 2,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T11:01:43.486Z",
+      "importedAt": "2026-08-11T07:46:32.244Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
       ]
     },
     {
@@ -10214,25 +10343,23 @@
       "productName": "Rolex Cosmograph Daytona Platinum",
       "brand": "Rolex",
       "categoryLabel": "Klockor",
-      "query": "\"Rolex Cosmograph Daytona Platinum\"  watch wristwatch timepiece",
+      "query": "\"Rolex Cosmograph Daytona Platinum\"",
       "queryHistory": [
-        "\"Rolex Cosmograph Daytona Platinum\"  watch wristwatch timepiece",
         "\"Rolex Cosmograph Daytona Platinum\"",
-        "Rolex Cosmograph Daytona Platinum  watch wristwatch timepiece",
         "\"Cosmograph Daytona Platinum\" Rolex watch wristwatch timepiece",
-        "Rolex Cosmograph Daytona Platinum watch wristwatch timepiece",
-        "Rolex cosmograph daytona platinum"
+        "Rolex cosmograph daytona platinum",
+        "\"Rolex Cosmograph Daytona Platinum\"  watch wristwatch timepiece"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
+      "searchVersion": 3,
+      "attemptCount": 2,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T11:01:48.794Z",
+      "importedAt": "2026-08-11T07:46:35.355Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
       ]
     },
     {
@@ -10674,7 +10801,7 @@
       "productName": "Breguet Classique Double Tourbillon 5345",
       "brand": "Breguet",
       "categoryLabel": "Klockor",
-      "query": "\"Breguet Classique Double Tourbillon 5345\"",
+      "query": "\"Breguet Classique Double Tourbillon 5345\"  watch wristwatch timepiece",
       "queryHistory": [
         "\"Breguet Classique Double Tourbillon 5345\"  watch wristwatch timepiece",
         "\"Breguet Classique Double Tourbillon 5345\"",
@@ -10683,29 +10810,17 @@
         "Breguet Classique Double Tourbillon 5345 watch wristwatch timepiece",
         "Breguet classique double tourbillon 5345"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
-      "status": "rejected",
-      "confidence": "low",
-      "score": 47,
-      "importedAt": "2026-08-10T12:59:43.377Z",
-      "selected": {
-        "title": "File:Quai de l'Horloge (Breguet).jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quai_de_l%27Horloge_(Breguet).jpg",
-        "creator": "Unknown author Unknown author",
-        "license": "Public domain",
-        "licenseUrl": "",
-        "width": 1600,
-        "height": 2169,
-        "score": 47,
-        "query": "\"Breguet Classique Double Tourbillon 5345\"",
-        "path": "/product-images/lux-000074.webp"
-      },
+      "searchVersion": 3,
+      "attemptCount": 2,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-11T07:45:36.169Z",
+      "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v2 valde bästa kandidaten efter 6 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ],
-      "reviewedAt": "2026-08-10T13:23:24.695Z"
+        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
+      ]
     },
     {
       "productId": "lux-000075",
@@ -10821,25 +10936,23 @@
       "productName": "Hermès Birkin 25 Himalaya",
       "brand": "Hermès",
       "categoryLabel": "Mode",
-      "query": "\"Hermès Birkin 25 Himalaya\"  fashion handbag clothing",
+      "query": "\"Hermès Birkin 25 Himalaya\"",
       "queryHistory": [
-        "\"Hermès Birkin 25 Himalaya\"  fashion handbag clothing",
         "\"Hermès Birkin 25 Himalaya\"",
-        "Hermès Birkin 25 Himalaya  fashion handbag clothing",
         "\"Birkin 25 Himalaya\" Hermès fashion handbag clothing",
-        "Hermès Birkin 25 Himalaya fashion handbag clothing",
-        "Hermès birkin 25 himalaya"
+        "Hermès birkin 25 himalaya",
+        "\"Hermès Birkin 25 Himalaya\"  fashion handbag clothing"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
+      "searchVersion": 3,
+      "attemptCount": 2,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T11:01:54.178Z",
+      "importedAt": "2026-08-11T07:46:38.875Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
       ]
     },
     {
@@ -11146,25 +11259,23 @@
       "productName": "Tiffany & Co. Schlumberger Sixteen Stone Ring",
       "brand": "Tiffany & Co.",
       "categoryLabel": "Smycken",
-      "query": "\"Tiffany & Co. Schlumberger Sixteen Stone Ring\"  jewellery jewelry",
+      "query": "\"Tiffany & Co. Schlumberger Sixteen Stone Ring\"",
       "queryHistory": [
-        "\"Tiffany & Co. Schlumberger Sixteen Stone Ring\"  jewellery jewelry",
         "\"Tiffany & Co. Schlumberger Sixteen Stone Ring\"",
-        "Tiffany & Co. Schlumberger Sixteen Stone Ring  jewellery jewelry",
         "\"Schlumberger Sixteen Stone Ring\" Tiffany & Co. jewellery jewelry",
-        "Tiffany & Co. Schlumberger Sixteen Stone Ring jewellery jewelry",
-        "Tiffany & Co. schlumberger sixteen stone ring"
+        "Tiffany & Co. schlumberger sixteen stone ring",
+        "\"Tiffany & Co. Schlumberger Sixteen Stone Ring\"  jewellery jewelry"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
+      "searchVersion": 3,
+      "attemptCount": 2,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T11:01:58.342Z",
+      "importedAt": "2026-08-11T07:46:42.522Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
       ]
     },
     {
@@ -11320,25 +11431,23 @@
       "productName": "Baccarat Zenith Chandelier",
       "brand": "Baccarat",
       "categoryLabel": "Hem & design",
-      "query": "\"Baccarat Zenith Chandelier\"  product",
+      "query": "\"Baccarat Zenith Chandelier\"",
       "queryHistory": [
-        "\"Baccarat Zenith Chandelier\"  product",
         "\"Baccarat Zenith Chandelier\"",
-        "Baccarat Zenith Chandelier  product",
         "\"Zenith Chandelier\" Baccarat product",
-        "Baccarat Zenith Chandelier product",
-        "Baccarat zenith chandelier"
+        "Baccarat zenith chandelier",
+        "\"Baccarat Zenith Chandelier\"  product"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
+      "searchVersion": 3,
+      "attemptCount": 2,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T11:02:03.740Z",
+      "importedAt": "2026-08-11T07:46:45.893Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
       ]
     },
     {
@@ -11347,25 +11456,23 @@
       "productName": "Fazioli F308 Concert Grand Piano",
       "brand": "Fazioli",
       "categoryLabel": "Musik & underhållning",
-      "query": "\"Fazioli F308 Concert Grand Piano\"  product",
+      "query": "\"Fazioli F308 Concert Grand Piano\"",
       "queryHistory": [
-        "\"Fazioli F308 Concert Grand Piano\"  product",
         "\"Fazioli F308 Concert Grand Piano\"",
-        "Fazioli F308 Concert Grand Piano  product",
         "\"F308 Concert Grand Piano\" Fazioli product",
-        "Fazioli F308 Concert Grand Piano product",
-        "Fazioli f308 concert grand piano"
+        "Fazioli f308 concert grand piano",
+        "\"Fazioli F308 Concert Grand Piano\"  product"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
+      "searchVersion": 3,
+      "attemptCount": 2,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T11:02:08.135Z",
+      "importedAt": "2026-08-11T07:46:49.394Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
       ]
     },
     {
@@ -11433,25 +11540,23 @@
       "productName": "Bang & Olufsen Beolab 90 Pair",
       "brand": "Bang & Olufsen",
       "categoryLabel": "Teknik",
-      "query": "\"Bang & Olufsen Beolab 90 Pair\"  electronics device computer phone camera",
+      "query": "\"Bang & Olufsen Beolab 90 Pair\"",
       "queryHistory": [
-        "\"Bang & Olufsen Beolab 90 Pair\"  electronics device computer phone camera",
         "\"Bang & Olufsen Beolab 90 Pair\"",
-        "Bang & Olufsen Beolab 90 Pair  electronics device computer phone camera",
         "\"Beolab 90 Pair\" Bang & Olufsen electronics device computer phone camera",
-        "Bang & Olufsen Beolab 90 Pair electronics device computer phone camera",
-        "Bang & Olufsen beolab 90 pair"
+        "Bang & Olufsen beolab 90 pair",
+        "\"Bang & Olufsen Beolab 90 Pair\"  electronics device computer phone camera"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
+      "searchVersion": 3,
+      "attemptCount": 2,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T11:02:12.939Z",
+      "importedAt": "2026-08-11T07:46:52.663Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
       ]
     },
     {
@@ -11768,25 +11873,23 @@
       "productName": "Leica 0-Series No. 105",
       "brand": "Leica",
       "categoryLabel": "Samlarobjekt",
-      "query": "\"Leica 0-Series No. 105\"  collectible memorabilia",
+      "query": "\"Leica 0-Series No. 105\"",
       "queryHistory": [
-        "\"Leica 0-Series No. 105\"  collectible memorabilia",
         "\"Leica 0-Series No. 105\"",
-        "Leica 0-Series No. 105  collectible memorabilia",
         "\"0-Series No. 105\" Leica collectible memorabilia",
-        "Leica 0-Series No. 105 collectible memorabilia",
-        "Leica 0-series no. 105"
+        "Leica 0-series no. 105",
+        "\"Leica 0-Series No. 105\"  collectible memorabilia"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
+      "searchVersion": 3,
+      "attemptCount": 2,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T11:02:17.887Z",
+      "importedAt": "2026-08-11T07:46:56.588Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
       ]
     },
     {
@@ -12108,7 +12211,7 @@
       "productName": "One Piece Monkey D. Luffy Manga Rare PSA 10",
       "brand": "One Piece",
       "categoryLabel": "Samlarobjekt",
-      "query": "One Piece monkey d. luffy manga",
+      "query": "\"One Piece Monkey D. Luffy Manga Rare PSA 10\"  collectible memorabilia",
       "queryHistory": [
         "\"One Piece Monkey D. Luffy Manga Rare PSA 10\"  collectible memorabilia",
         "\"One Piece Monkey D. Luffy Manga Rare PSA 10\"",
@@ -12118,29 +12221,17 @@
         "One Piece Monkey D. Luffy Manga Rare collectible memorabilia",
         "One Piece monkey d. luffy manga"
       ],
-      "searchVersion": 2,
-      "attemptCount": 2,
-      "status": "rejected",
-      "confidence": "low",
-      "score": 50.4,
-      "importedAt": "2026-08-10T12:58:41.940Z",
-      "selected": {
-        "title": "File:Cosplay of Monkey D. Luffy and Roronoa Zoro from One Piece at Made in Asia 2023.jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Monkey_D._Luffy_and_Roronoa_Zoro_from_One_Piece_at_Made_in_Asia_2023.jpg",
-        "creator": "Miguel Discart",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "width": 1600,
-        "height": 2228,
-        "score": 50.4,
-        "query": "One Piece monkey d. luffy manga",
-        "path": "/product-images/lux-000121.webp"
-      },
+      "searchVersion": 3,
+      "attemptCount": 3,
+      "status": "no-match",
+      "confidence": "none",
+      "score": 0,
+      "importedAt": "2026-08-11T07:45:44.923Z",
+      "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v2 valde bästa kandidaten efter 7 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ],
-      "reviewedAt": "2026-08-10T13:23:24.695Z"
+        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
+      ]
     },
     {
       "productId": "lux-000122",

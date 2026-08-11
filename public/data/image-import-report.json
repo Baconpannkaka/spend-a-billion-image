@@ -1,281 +1,57 @@
 {
-  "version": 3,
-  "searchVersion": 2,
-  "startedAt": "2026-08-10T12:58:35.092Z",
+  "version": 4,
+  "searchVersion": 3,
+  "startedAt": "2026-08-11T07:45:28.700Z",
   "options": {
     "scope": "all",
-    "limit": 100,
-    "approvalMode": "review",
+    "limit": 25,
+    "approvalMode": "smart",
     "overwrite": false,
     "dryRun": false,
     "candidates": 12,
     "delayMs": 350
   },
+  "verifiedTotal": 334,
+  "duplicateVerifiedIds": [],
   "selectionStats": {
     "rejected": 5,
-    "upgrade-retry": 15,
+    "upgrade-retry": 19,
     "error-retry": 0,
-    "fresh": 80,
-    "exhausted": 146,
-    "done": 87,
-    "selected": 100
+    "fresh": 1,
+    "exhausted": 0,
+    "done": 96,
+    "selected": 25
   },
   "learnedBadTerms": [
     "engine"
   ],
-  "totalSelected": 100,
-  "imported": 25,
+  "totalSelected": 25,
+  "imported": 3,
+  "autoApproved": 1,
   "skipped": 0,
-  "noMatch": 75,
-  "errors": 0,
+  "noMatch": 21,
+  "errors": 1,
   "feedbackFiltered": 9,
-  "queryRequests": 570,
+  "sourceRequests": {
+    "commons": 32,
+    "openverse": 96
+  },
+  "sourceMatches": {
+    "commons": 3,
+    "openverse": 0
+  },
   "results": [
     {
-      "productId": "lux-000121",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "low",
-      "score": 50.4,
-      "commonsTitle": "File:Cosplay of Monkey D. Luffy and Roronoa Zoro from One Piece at Made in Asia 2023.jpg",
-      "matchedQuery": "One Piece monkey d. luffy manga",
-      "queriesAttempted": 7
-    },
-    {
-      "productId": "everyday-000074",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "low",
-      "score": 51,
-      "commonsTitle": "File:Xbox MTV - Elijah Wood.jpg",
-      "matchedQuery": "Microsoft xbox",
-      "queriesAttempted": 6
-    },
-    {
-      "productId": "everyday-000130",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000170",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "medium",
-      "score": 66,
-      "commonsTitle": "File:Thule Motion (11726731913).jpg",
-      "matchedQuery": "Thule motion",
-      "queriesAttempted": 7
-    },
-    {
-      "productId": "everyday-000190",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "medium",
-      "score": 73,
-      "commonsTitle": "File:Regent Hong Kong Classic Harbour View Room.jpg",
-      "matchedQuery": "KONG classic",
-      "queriesAttempted": 7
-    },
-    {
-      "productId": "lux-000071",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000123",
-      "outcome": "no-match",
-      "queriesAttempted": 7,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000072",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000124",
-      "outcome": "no-match",
-      "queriesAttempted": 7,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000073",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000125",
-      "outcome": "no-match",
-      "queriesAttempted": 7,
-      "searchVersion": 2
-    },
-    {
       "productId": "lux-000074",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "low",
-      "score": 47,
-      "commonsTitle": "File:Quai de l'Horloge (Breguet).jpg",
-      "matchedQuery": "\"Breguet Classique Double Tourbillon 5345\"",
-      "queriesAttempted": 6
-    },
-    {
-      "productId": "lux-000126",
       "outcome": "no-match",
       "queriesAttempted": 6,
-      "searchVersion": 2
+      "searchVersion": 3
     },
     {
-      "productId": "lux-000075",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000127",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000076",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000128",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000077",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000129",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "lux-000078",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000020",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 142,
-      "commonsTitle": "File:Xiaomi 15 Ultra.jpg",
-      "matchedQuery": "\"Xiaomi 15 Ultra\"",
-      "queriesAttempted": 2
-    },
-    {
-      "productId": "everyday-000032",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000055",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000080",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "medium",
-      "score": 88,
-      "commonsTitle": "File:PlayStation VR2 Sense Controllers.jpg",
-      "matchedQuery": "Sony playstation vr2",
-      "queriesAttempted": 5
-    },
-    {
-      "productId": "everyday-000095",
+      "productId": "lux-000121",
       "outcome": "no-match",
       "queriesAttempted": 7,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000112",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "low",
-      "score": 46,
-      "commonsTitle": "File:2020 01 Picots d'arrosage sur cocotte Staub d'origine en fonte brute.jpg",
-      "matchedQuery": "Staub cocotte",
-      "queriesAttempted": 7
-    },
-    {
-      "productId": "everyday-000123",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000133",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "low",
-      "score": 59,
-      "commonsTitle": "File:Hoka Clifton 7.jpg",
-      "matchedQuery": "Hoka clifton 10",
-      "queriesAttempted": 6
-    },
-    {
-      "productId": "everyday-000143",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000156",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000171",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000178",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000184",
-      "outcome": "no-match",
-      "queriesAttempted": 5,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000192",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000197",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
+      "searchVersion": 3
     },
     {
       "productId": "everyday-000021",
@@ -283,454 +59,149 @@
       "status": "unreviewed",
       "confidence": "low",
       "score": 61,
-      "commonsTitle": "File:Fairphone 5 - boot screen.jpg",
-      "matchedQuery": "\"Fairphone 5\"",
-      "queriesAttempted": 5
-    },
-    {
-      "productId": "everyday-000033",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 139,
-      "commonsTitle": "File:Microsoft Surface Laptop 7.jpg",
-      "matchedQuery": "\"Microsoft Surface Laptop 7\"  product",
-      "queriesAttempted": 1
-    },
-    {
-      "productId": "everyday-000056",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000081",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000113",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000124",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000134",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000144",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000157",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000172",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000185",
-      "outcome": "no-match",
-      "queriesAttempted": 5,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000198",
-      "outcome": "no-match",
-      "queriesAttempted": 5,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000022",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000034",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "medium",
-      "score": 91.3,
-      "commonsTitle": "File:Virginia Ballot on Microsoft Surface Pro Tablet.jpg",
-      "matchedQuery": "Microsoft surface pro 11",
-      "queriesAttempted": 6
-    },
-    {
-      "productId": "everyday-000057",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000082",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000114",
-      "outcome": "no-match",
-      "queriesAttempted": 7,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000125",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000135",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000145",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000158",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000186",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000199",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000035",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "low",
-      "score": 28,
-      "commonsTitle": "File:Tokyo-Game-Show-2025 0121.jpg",
-      "matchedQuery": "\"ASUS ROG Zephyrus G14\"",
-      "queriesAttempted": 6
-    },
-    {
-      "productId": "everyday-000058",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000083",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000115",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000126",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000136",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 142,
-      "commonsTitle": "File:Birkenstock Arizona Blue sandals.jpg",
-      "matchedQuery": "\"Birkenstock Arizona\"  shoes footwear",
-      "queriesAttempted": 1
-    },
-    {
-      "productId": "everyday-000146",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000159",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000187",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000200",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
+      "sourceType": "commons",
+      "sourceTitle": "File:Fairphone 5 front.jpg",
+      "matchedQuery": "\"Fairphone 5\""
     },
     {
       "productId": "everyday-000036",
       "outcome": "imported",
       "status": "unreviewed",
-      "confidence": "high",
-      "score": 140,
-      "commonsTitle": "File:Intel Core Ultra 7 258V, verbaut in einem ASUS Zenbook S 14 UX5406.png",
-      "matchedQuery": "\"ASUS Zenbook S 14\"",
-      "queriesAttempted": 2
-    },
-    {
-      "productId": "everyday-000059",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000084",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000116",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000147",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000201",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000037",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
+      "confidence": "low",
+      "score": 59,
+      "sourceType": "commons",
+      "sourceTitle": "File:ASUS Zenbook UX31E Ultrabook & Accessories.jpg",
+      "matchedQuery": "ASUS zenbook 14"
     },
     {
       "productId": "everyday-000060",
+      "outcome": "no-match",
+      "queriesAttempted": 6,
+      "searchVersion": 3
+    },
+    {
+      "productId": "lux-000028",
+      "outcome": "no-match",
+      "queriesAttempted": 4,
+      "searchVersion": 3
+    },
+    {
+      "productId": "lux-000033",
+      "outcome": "no-match",
+      "queriesAttempted": 4,
+      "searchVersion": 3
+    },
+    {
+      "productId": "lux-000043",
+      "outcome": "no-match",
+      "queriesAttempted": 4,
+      "searchVersion": 3
+    },
+    {
+      "productId": "lux-000057",
+      "outcome": "no-match",
+      "queriesAttempted": 4,
+      "searchVersion": 3
+    },
+    {
+      "productId": "lux-000079",
+      "outcome": "no-match",
+      "queriesAttempted": 4,
+      "searchVersion": 3
+    },
+    {
+      "productId": "lux-000091",
+      "outcome": "no-match",
+      "queriesAttempted": 4,
+      "searchVersion": 3
+    },
+    {
+      "productId": "lux-000097",
+      "outcome": "no-match",
+      "queriesAttempted": 4,
+      "searchVersion": 3
+    },
+    {
+      "productId": "lux-000098",
+      "outcome": "no-match",
+      "queriesAttempted": 4,
+      "searchVersion": 3
+    },
+    {
+      "productId": "lux-000100",
+      "outcome": "no-match",
+      "queriesAttempted": 4,
+      "searchVersion": 3
+    },
+    {
+      "productId": "lux-000110",
+      "outcome": "no-match",
+      "queriesAttempted": 4,
+      "searchVersion": 3
+    },
+    {
+      "productId": "everyday-000005",
+      "outcome": "no-match",
+      "queriesAttempted": 4,
+      "searchVersion": 3
+    },
+    {
+      "productId": "everyday-000023",
+      "outcome": "no-match",
+      "queriesAttempted": 4,
+      "searchVersion": 3
+    },
+    {
+      "productId": "everyday-000046",
+      "outcome": "no-match",
+      "queriesAttempted": 4,
+      "searchVersion": 3
+    },
+    {
+      "productId": "everyday-000071",
+      "outcome": "no-match",
+      "queriesAttempted": 4,
+      "searchVersion": 3
+    },
+    {
+      "productId": "everyday-000086",
+      "outcome": "no-match",
+      "queriesAttempted": 4,
+      "searchVersion": 3
+    },
+    {
+      "productId": "everyday-000096",
+      "outcome": "no-match",
+      "queriesAttempted": 4,
+      "searchVersion": 3
+    },
+    {
+      "productId": "everyday-000106",
+      "outcome": "no-match",
+      "queriesAttempted": 4,
+      "searchVersion": 3
+    },
+    {
+      "productId": "everyday-000070",
       "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 139,
-      "commonsTitle": "File:Kobo Libra Colour.jpg",
-      "matchedQuery": "\"Kobo Libra Colour\"",
-      "queriesAttempted": 2
-    },
-    {
-      "productId": "everyday-000085",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000148",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000202",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000038",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000061",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000149",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000203",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000039",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 142,
-      "commonsTitle": "File:2 people using Framework Laptop 13 with DC-ROMA RISC-V Mainboard inside, at Maker Faire Rome 2025.jpg",
-      "matchedQuery": "Framework laptop 13",
-      "queriesAttempted": 6
-    },
-    {
-      "productId": "everyday-000062",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000204",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000040",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000063",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "medium",
-      "score": 108,
-      "commonsTitle": "File:Mapillary (startless) 2025-07-31 19H49M03S000 (1500110021167500 at VQ915EJ02Mujv4eGTOswap) taken with GoPro HERO13 Black.jpg",
-      "matchedQuery": "\"GoPro HERO13 Black\"",
-      "queriesAttempted": 6
-    },
-    {
-      "productId": "everyday-000205",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000041",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000064",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "medium",
-      "score": 112,
-      "commonsTitle": "File:Sony Alpha 7R II, III and IV with Sony lenses (51250202508).jpg",
-      "matchedQuery": "Sony alpha iv",
-      "queriesAttempted": 6
-    },
-    {
-      "productId": "everyday-000042",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000065",
-      "outcome": "imported",
-      "status": "unreviewed",
+      "status": "approved",
       "confidence": "high",
       "score": 142,
-      "commonsTitle": "File:Canon EOS R6 Mark II 9 jan 2023d.jpg",
-      "matchedQuery": "\"Canon EOS R6 Mark II\"",
-      "queriesAttempted": 2
+      "sourceType": "commons",
+      "sourceTitle": "File:Back side Samsung Galaxy Z Fold8 Ultra 5G 2026-08-09 Samsung Galaxy Watch Ultra 4.jpg",
+      "matchedQuery": "\"Samsung Galaxy Watch Ultra\""
     },
     {
-      "productId": "everyday-000043",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 142,
-      "commonsTitle": "File:Apple Studio Display and Mac Studio with Peripherals.jpg",
-      "matchedQuery": "\"Apple Studio Display\"",
-      "queriesAttempted": 2
-    },
-    {
-      "productId": "everyday-000066",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 142,
-      "commonsTitle": "File:CFexpress Type B and SD slots on Nikon Z8 2.jpg",
-      "matchedQuery": "\"Nikon Z8\"",
-      "queriesAttempted": 2
-    },
-    {
-      "productId": "everyday-000044",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "medium",
-      "score": 108,
-      "commonsTitle": "File:Logitech MX Keys YR0073 Wireless Keyboard.jpg",
-      "matchedQuery": "Logitech mx keys",
-      "queriesAttempted": 6
-    },
-    {
-      "productId": "everyday-000067",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "high",
-      "score": 142,
-      "commonsTitle": "File:Fujifilm X100VI 25 may 2024e.jpg",
-      "matchedQuery": "Fujifilm x100vi",
-      "queriesAttempted": 6
-    },
-    {
-      "productId": "everyday-000045",
+      "productId": "everyday-000118",
       "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
+      "queriesAttempted": 4,
+      "searchVersion": 3
     },
     {
-      "productId": "everyday-000068",
-      "outcome": "no-match",
-      "queriesAttempted": 6,
-      "searchVersion": 2
-    },
-    {
-      "productId": "everyday-000069",
-      "outcome": "imported",
-      "status": "unreviewed",
-      "confidence": "medium",
-      "score": 73,
-      "commonsTitle": "File:Apple Watch Sport.jpg",
-      "matchedQuery": "\"Apple Watch Series 11\"",
-      "queriesAttempted": 6
+      "productId": "everyday-000130",
+      "outcome": "error",
+      "message": "HTTP 406: Not Acceptable"
     }
   ],
-  "finishedAt": "2026-08-10T13:08:03.177Z"
+  "finishedAt": "2026-08-11T07:47:59.135Z"
 }
