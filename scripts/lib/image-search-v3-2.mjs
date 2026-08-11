@@ -49,6 +49,12 @@ function tokens(value = "") {
     .filter((token) => token.length > 1 && !TOKEN_STOP.has(token));
 }
 
+function allTokens(value = "") {
+  return normalizeForImageSearch(value)
+    .split(/\s+/)
+    .filter((token) => token.length > 0 && !TOKEN_STOP.has(token));
+}
+
 function rawWords(value = "") {
   return String(value).match(/[A-Za-z0-9+.-]+/g) ?? [];
 }
@@ -66,7 +72,7 @@ function candidateText(candidate) {
 
 function coverage(needles, text) {
   if (needles.length === 0) return 1;
-  const haystack = new Set(tokens(text));
+  const haystack = new Set(allTokens(text));
   return needles.filter((token) => haystack.has(token)).length / needles.length;
 }
 
@@ -101,7 +107,7 @@ function hasHardBadContext(candidate) {
 
 function identityGate(product, candidate) {
   const text = candidateText(candidate);
-  const textTokens = new Set(tokens(text));
+  const textTokens = new Set(allTokens(text));
   const brandTokens = tokens(product.brand ?? "");
   const identity = significantIdentityTokens(product);
   const dimensions = dimensionTokens(product);
