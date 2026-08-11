@@ -19,12 +19,11 @@ on:
         default: "30"
         type: string
       approval_mode:
-        description: "smart auto-godkänner bara mycket säkra Commons-träffar; övriga granskas."
+        description: "review rekommenderas. Automatisk godkänning är avstängd i adminflödet."
         required: true
-        default: smart
+        default: review
         type: choice
         options:
-          - smart
           - review
           - high-confidence
           - approve
@@ -45,8 +44,8 @@ concurrency:
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-  WIKIMEDIA_USER_AGENT: "SpendAnythingImageImporter/3.0 (+https://github.com/${{ github.repository }})"
-  OPENVERSE_USER_AGENT: "SpendAnythingImageImporter/3.0 (+https://github.com/${{ github.repository }})"
+  WIKIMEDIA_USER_AGENT: "SpendAnythingImageImporter/3.1 (+https://github.com/${{ github.repository }})"
+  OPENVERSE_USER_AGENT: "SpendAnythingImageImporter/3.1 (+https://github.com/${{ github.repository }})"
 
 jobs:
   import-and-build:
@@ -100,7 +99,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "Inga nya bildfiler att spara."
           else
-            git commit -m "chore(images): import open product images v3"
+            git commit -m "chore(images): import open product images v3.1"
             git push
           fi
 
@@ -114,6 +113,8 @@ jobs:
               const s = r.selectionStats || {};
               const req = r.sourceRequests || {};
               const hit = r.sourceMatches || {};
+              const d = r.sourceDiagnostics || {};
+              const dl = r.downloads || {};
               const lines = [
                 `## Bildimport v${r.searchVersion || "?"}`,
                 `- Verifierade produkter i scope: ${r.verifiedTotal ?? "?"}`,
@@ -128,6 +129,11 @@ jobs:
                 `- Pausade utan träff i aktuell version: ${s.exhausted || 0}`,
                 `- Commons: ${req.commons || 0} sökningar, ${hit.commons || 0} valda bilder`,
                 `- Openverse: ${req.openverse || 0} sökningar, ${hit.openverse || 0} valda bilder`,
+                `- Openverse råa resultat: ${d.openverse?.raw || 0}`,
+                `- Openverse licensgodkända: ${d.openverse?.licenseEligible || 0}`,
+                `- Openverse relevanta efter rankning: ${d.openverse?.accepted || 0}`,
+                `- Openverse bortfiltrerade som irrelevanta: ${d.openverse?.filteredAsIrrelevant || 0}`,
+                `- Nedladdningar: ${dl.succeeded || 0} lyckade, ${dl.failed || 0} misslyckade, ${dl.http406 || 0} HTTP 406`,
                 `- Tidigare nekade kandidater filtrerade: ${r.feedbackFiltered || 0}`,
               ];
               if ((r.duplicateVerifiedIds || []).length) lines.push(`- VARNING dubbla verifierade id:n: ${r.duplicateVerifiedIds.join(", ")}`);
