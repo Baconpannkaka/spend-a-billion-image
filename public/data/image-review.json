@@ -1,7 +1,7 @@
 {
   "version": 4,
-  "generatedAt": "2026-08-11T07:57:35.618Z",
-  "searchVersion": 3,
+  "generatedAt": "2026-08-11T09:08:43.358Z",
+  "searchVersion": 3.1,
   "items": [
     {
       "productId": "everyday-000001",
@@ -288,16 +288,16 @@
         "\"iPhone 17e\" Apple product",
         "iPhone 17e Apple product"
       ],
-      "searchVersion": 3,
-      "attemptCount": 2,
+      "searchVersion": 3.1,
+      "attemptCount": 3,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T07:46:59.796Z",
+      "importedAt": "2026-08-11T09:08:14.824Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
       ]
     },
     {
@@ -1100,79 +1100,78 @@
         "\"5\" Fairphone product",
         "Fairphone 5 product"
       ],
-      "searchVersion": 3,
-      "attemptCount": 2,
-      "status": "rejected",
-      "confidence": "low",
-      "score": 61,
-      "importedAt": "2026-08-11T07:45:53.969Z",
+      "searchVersion": 3.1,
+      "attemptCount": 3,
+      "status": "pending",
+      "confidence": "high",
+      "score": 132,
+      "importedAt": "2026-08-11T09:07:13.167Z",
       "selected": {
-        "title": "File:Fairphone 5 front.jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fairphone_5_front.jpg",
-        "creator": "S03311251",
-        "license": "CC BY 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-        "width": 1600,
-        "height": 2133,
-        "score": 61,
+        "title": "Fairphone 5 Lifestyle",
+        "sourceUrl": "https://www.flickr.com/photos/60295192@N08/53152117196",
+        "creator": "Fairphone",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "width": 1024,
+        "height": 683,
+        "score": 132,
         "query": "\"Fairphone 5\"",
-        "sourceType": "commons",
-        "provider": "Wikimedia Commons",
-        "source": "wikimedia",
-        "attribution": "",
+        "sourceType": "openverse",
+        "provider": "flickr",
+        "source": "flickr",
+        "attribution": "\"Fairphone 5 Lifestyle\" by Fairphone is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
         "path": "/product-images/everyday-000021.webp"
       },
       "alternatives": [
         {
-          "title": "File:Fairphone 5 - unboxing 1.jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fairphone_5_-_unboxing_1.jpg",
-          "creator": "Valerio Bozzolan",
-          "license": "CC0",
-          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "width": 1600,
-          "height": 2133,
-          "score": 61,
+          "title": "Fairphone 5",
+          "sourceUrl": "https://www.flickr.com/photos/60295192@N08/53152615993",
+          "creator": "Fairphone",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "width": 1024,
+          "height": 1024,
+          "score": 129,
           "query": "\"Fairphone 5\"",
-          "sourceType": "commons",
-          "provider": "Wikimedia Commons",
-          "source": "wikimedia",
-          "attribution": ""
+          "sourceType": "openverse",
+          "provider": "flickr",
+          "source": "flickr",
+          "attribution": "\"Fairphone 5\" by Fairphone is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/."
         },
         {
-          "title": "File:Fairphone 5 - box retro - plastic-free info.jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fairphone_5_-_box_retro_-_plastic-free_info.jpg",
-          "creator": "Valerio Bozzolan",
-          "license": "CC0",
-          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "width": 1600,
-          "height": 2117,
-          "score": 61,
+          "title": "Fairphone 5",
+          "sourceUrl": "https://www.flickr.com/photos/60295192@N08/53152321864",
+          "creator": "Fairphone",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "width": 1024,
+          "height": 1024,
+          "score": 129,
           "query": "\"Fairphone 5\"",
-          "sourceType": "commons",
-          "provider": "Wikimedia Commons",
-          "source": "wikimedia",
-          "attribution": ""
+          "sourceType": "openverse",
+          "provider": "flickr",
+          "source": "flickr",
+          "attribution": "\"Fairphone 5\" by Fairphone is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/."
         },
         {
-          "title": "File:Fairphone 5 - box front.jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fairphone_5_-_box_front.jpg",
-          "creator": "Valerio Bozzolan",
-          "license": "CC0",
-          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-          "width": 1600,
-          "height": 1991,
-          "score": 61,
+          "title": "Fairphone 5",
+          "sourceUrl": "https://www.flickr.com/photos/60295192@N08/53152545505",
+          "creator": "Fairphone",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "width": 1024,
+          "height": 1024,
+          "score": 129,
           "query": "\"Fairphone 5\"",
-          "sourceType": "commons",
-          "provider": "Wikimedia Commons",
-          "source": "wikimedia",
-          "attribution": ""
+          "sourceType": "openverse",
+          "provider": "flickr",
+          "source": "flickr",
+          "attribution": "\"Fairphone 5\" by Fairphone is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/."
         }
       ],
       "notes": [
-        "Bildsök v3 valde bästa kandidaten från Wikimedia Commons. Kontrollera produkten och licenskällan innan godkännande."
-      ],
-      "reviewedAt": "2026-08-11T07:57:35.618Z"
+        "Bildsök v3.1 valde bästa kandidaten från Openverse. Automatisk godkänning är avstängd."
+      ]
     },
     {
       "productId": "everyday-000022",
@@ -1214,16 +1213,16 @@
         "\"MacBook Air 13-inch M4\" Apple product",
         "MacBook Air 13-inch M4 Apple product"
       ],
-      "searchVersion": 3,
-      "attemptCount": 2,
+      "searchVersion": 3.1,
+      "attemptCount": 3,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T07:47:05.097Z",
+      "importedAt": "2026-08-11T09:08:17.236Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
       ]
     },
     {
@@ -1749,79 +1748,32 @@
         "ASUS Zenbook S 14 product",
         "ASUS zenbook 14"
       ],
-      "searchVersion": 3,
-      "attemptCount": 2,
-      "status": "rejected",
-      "confidence": "low",
-      "score": 59,
-      "importedAt": "2026-08-11T07:46:12.225Z",
+      "searchVersion": 3.1,
+      "attemptCount": 3,
+      "status": "pending",
+      "confidence": "high",
+      "score": 148,
+      "importedAt": "2026-08-11T09:07:18.150Z",
       "selected": {
-        "title": "File:ASUS Zenbook UX31E Ultrabook & Accessories.jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:ASUS_Zenbook_UX31E_Ultrabook_%26_Accessories.jpg",
-        "creator": "Michael Sheehan",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "width": 1600,
-        "height": 1345,
-        "score": 59,
+        "title": "[ADAYROI-T9] LAPTOP ASUS ZENBOOK UX410UA-GV109 14 INCHES XAM THACH ANH GIAM NGAY 200.000",
+        "sourceUrl": "https://www.flickr.com/photos/154655792@N04/36550484203",
+        "creator": "webtiepthi.com",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "width": 232,
+        "height": 240,
+        "score": 148,
         "query": "ASUS zenbook 14",
-        "sourceType": "commons",
-        "provider": "Wikimedia Commons",
-        "source": "wikimedia",
-        "attribution": "",
+        "sourceType": "openverse",
+        "provider": "flickr",
+        "source": "flickr",
+        "attribution": "\"[ADAYROI-T9] LAPTOP ASUS ZENBOOK UX410UA-GV109 14 INCHES XAM THACH ANH GIAM NGAY 200.000\" by webtiepthi.com is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
         "path": "/product-images/everyday-000036.webp"
       },
-      "alternatives": [
-        {
-          "title": "[ADAYROI-T9] LAPTOP ASUS ZENBOOK UX410UA-GV109 14 INCHES XAM THACH ANH GIAM NGAY 200.000",
-          "sourceUrl": "https://www.flickr.com/photos/154655792@N04/36550484203",
-          "creator": "webtiepthi.com",
-          "license": "CC0 1.0",
-          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-          "width": 232,
-          "height": 240,
-          "score": 102,
-          "query": "ASUS zenbook 14",
-          "sourceType": "openverse",
-          "provider": "flickr",
-          "source": "flickr",
-          "attribution": "\"[ADAYROI-T9] LAPTOP ASUS ZENBOOK UX410UA-GV109 14 INCHES XAM THACH ANH GIAM NGAY 200.000\" by webtiepthi.com is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/."
-        },
-        {
-          "title": "File:Asus Zenbook UX32V - webcam module - AK230 0539L 4911C-0108.jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Asus_Zenbook_UX32V_-_webcam_module_-_AK230_0539L_4911C-0108.jpg",
-          "creator": "Raimond Spekking",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "width": 1600,
-          "height": 1200,
-          "score": 59,
-          "query": "ASUS zenbook 14",
-          "sourceType": "commons",
-          "provider": "Wikimedia Commons",
-          "source": "wikimedia",
-          "attribution": "© Raimond Spekking / CC BY-SA 4.0 (via Wikimedia Commons)"
-        },
-        {
-          "title": "File:ASUS ZenBook UX305.jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:ASUS_ZenBook_UX305.jpg",
-          "creator": "Sinchen.Lin",
-          "license": "CC BY 2.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-          "width": 1600,
-          "height": 1062,
-          "score": 59,
-          "query": "ASUS zenbook 14",
-          "sourceType": "commons",
-          "provider": "Wikimedia Commons",
-          "source": "wikimedia",
-          "attribution": ""
-        }
-      ],
+      "alternatives": [],
       "notes": [
-        "Bildsök v3 valde bästa kandidaten från Wikimedia Commons. Kontrollera produkten och licenskällan innan godkännande."
-      ],
-      "reviewedAt": "2026-08-11T07:57:35.618Z"
+        "Bildsök v3.1 valde bästa kandidaten från Openverse. Automatisk godkänning är avstängd."
+      ]
     },
     {
       "productId": "everyday-000037",
@@ -2177,18 +2129,19 @@
         "\"Sony BRAVIA 9 75-inch\"",
         "\"BRAVIA 9 75-inch\" Sony electronics device product",
         "Sony bravia 75-inch",
-        "\"Sony BRAVIA 9 75-inch\"  electronics device product"
+        "\"Sony BRAVIA 9 75-inch\"  electronics device product",
+        "Sony BRAVIA 9 75-inch  electronics device product"
       ],
-      "searchVersion": 3,
-      "attemptCount": 2,
+      "searchVersion": 3.1,
+      "attemptCount": 3,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T07:47:08.378Z",
+      "importedAt": "2026-08-11T09:08:19.437Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
       ]
     },
     {
@@ -2726,15 +2679,15 @@
         "GoPro HERO13 Black electronics device product",
         "GoPro hero13 black"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
-      "status": "rejected",
+      "searchVersion": 3.1,
+      "attemptCount": 2,
+      "status": "pending",
       "confidence": "medium",
       "score": 108,
-      "importedAt": "2026-08-10T13:06:53.643Z",
+      "importedAt": "2026-08-11T09:07:32.309Z",
       "selected": {
-        "title": "File:Mapillary (startless) 2025-07-31 19H49M03S000 (1500110021167500 at VQ915EJ02Mujv4eGTOswap) taken with GoPro HERO13 Black.jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mapillary_(startless)_2025-07-31_19H49M03S000_(1500110021167500_at_VQ915EJ02Mujv4eGTOswap)_taken_with_GoPro_HERO13_Black.jpg",
+        "title": "File:Mapillary (startless) 2025-07-31 19H57M46S000 (1966388167460773 at VQ915EJ02Mujv4eGTOswap) taken with GoPro HERO13 Black.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mapillary_(startless)_2025-07-31_19H57M46S000_(1966388167460773_at_VQ915EJ02Mujv4eGTOswap)_taken_with_GoPro_HERO13_Black.jpg",
         "creator": "startless",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -2742,20 +2695,13 @@
         "height": 900,
         "score": 108,
         "query": "\"GoPro HERO13 Black\"",
+        "sourceType": "commons",
+        "provider": "Wikimedia Commons",
+        "source": "wikimedia",
+        "attribution": "",
         "path": "/product-images/everyday-000063.webp"
       },
       "alternatives": [
-        {
-          "title": "File:Mapillary (startless) 2025-07-31 19H57M46S000 (1966388167460773 at VQ915EJ02Mujv4eGTOswap) taken with GoPro HERO13 Black.jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mapillary_(startless)_2025-07-31_19H57M46S000_(1966388167460773_at_VQ915EJ02Mujv4eGTOswap)_taken_with_GoPro_HERO13_Black.jpg",
-          "creator": "startless",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "width": 1600,
-          "height": 900,
-          "score": 108,
-          "query": "\"GoPro HERO13 Black\""
-        },
         {
           "title": "File:Mapillary (startless) 2025-07-31 20H21M13S000 (776418311673843 at VQ915EJ02Mujv4eGTOswap) taken with GoPro HERO13 Black.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mapillary_(startless)_2025-07-31_20H21M13S000_(776418311673843_at_VQ915EJ02Mujv4eGTOswap)_taken_with_GoPro_HERO13_Black.jpg",
@@ -2765,7 +2711,11 @@
           "width": 1600,
           "height": 900,
           "score": 108,
-          "query": "\"GoPro HERO13 Black\""
+          "query": "\"GoPro HERO13 Black\"",
+          "sourceType": "commons",
+          "provider": "Wikimedia Commons",
+          "source": "wikimedia",
+          "attribution": ""
         },
         {
           "title": "File:Mapillary (startless) 2025-07-31 19H51M08S000 (1137960278206710 at VQ915EJ02Mujv4eGTOswap) taken with GoPro HERO13 Black.jpg",
@@ -2776,13 +2726,31 @@
           "width": 1600,
           "height": 900,
           "score": 108,
-          "query": "\"GoPro HERO13 Black\""
+          "query": "\"GoPro HERO13 Black\"",
+          "sourceType": "commons",
+          "provider": "Wikimedia Commons",
+          "source": "wikimedia",
+          "attribution": ""
+        },
+        {
+          "title": "File:Mapillary (startless) 2025-07-31 19H47M46S000 (639651518825575 at VQ915EJ02Mujv4eGTOswap) taken with GoPro HERO13 Black.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mapillary_(startless)_2025-07-31_19H47M46S000_(639651518825575_at_VQ915EJ02Mujv4eGTOswap)_taken_with_GoPro_HERO13_Black.jpg",
+          "creator": "startless",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 900,
+          "score": 108,
+          "query": "\"GoPro HERO13 Black\"",
+          "sourceType": "commons",
+          "provider": "Wikimedia Commons",
+          "source": "wikimedia",
+          "attribution": ""
         }
       ],
       "notes": [
-        "Bildsök v2 valde bästa kandidaten efter 6 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ],
-      "reviewedAt": "2026-08-10T13:23:24.695Z"
+        "Bildsök v3.1 valde bästa kandidaten från Wikimedia Commons. Automatisk godkänning är avstängd."
+      ]
     },
     {
       "productId": "everyday-000064",
@@ -3258,16 +3226,16 @@
         "\"PlayStation 5 Pro\" Sony gaming console computer accessory",
         "PlayStation 5 Pro Sony gaming console computer accessory"
       ],
-      "searchVersion": 3,
-      "attemptCount": 2,
+      "searchVersion": 3.1,
+      "attemptCount": 3,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T07:47:11.518Z",
+      "importedAt": "2026-08-11T09:08:20.696Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
       ]
     },
     {
@@ -3310,36 +3278,29 @@
         "Microsoft Xbox Series X gaming console computer accessory",
         "Microsoft xbox"
       ],
-      "searchVersion": 2,
-      "attemptCount": 4,
-      "status": "rejected",
+      "searchVersion": 3.1,
+      "attemptCount": 5,
+      "status": "pending",
       "confidence": "medium",
       "score": 90,
-      "importedAt": "2026-08-10T12:33:44.658Z",
+      "importedAt": "2026-08-11T09:07:43.450Z",
       "selected": {
-        "title": "File:E3 XBox Press Briefing J Allard 15 MS 05 2004.jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:E3_XBox_Press_Briefing_J_Allard_15_MS_05_2004.jpg",
+        "title": "File:Xbox One Launch - Supercar Rides.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox_One_Launch_-_Supercar_Rides.jpg",
         "creator": "Microsoft",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "width": 1600,
-        "height": 1070,
+        "height": 1066,
         "score": 90,
         "query": "Microsoft xbox",
+        "sourceType": "commons",
+        "provider": "Wikimedia Commons",
+        "source": "wikimedia",
+        "attribution": "",
         "path": "/product-images/everyday-000073.webp"
       },
       "alternatives": [
-        {
-          "title": "File:Xbox One Launch - Supercar Rides.jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox_One_Launch_-_Supercar_Rides.jpg",
-          "creator": "Microsoft",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "width": 1600,
-          "height": 1066,
-          "score": 90,
-          "query": "Microsoft xbox"
-        },
         {
           "title": "File:Xbox 360 Closeup.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox_360_Closeup.jpg",
@@ -3349,7 +3310,11 @@
           "width": 1600,
           "height": 2522,
           "score": 87,
-          "query": "Microsoft xbox"
+          "query": "Microsoft xbox",
+          "sourceType": "commons",
+          "provider": "Wikimedia Commons",
+          "source": "wikimedia",
+          "attribution": ""
         },
         {
           "title": "File:Xbox E3 Booth 2005 (3).jpg",
@@ -3360,13 +3325,31 @@
           "width": 1600,
           "height": 2241,
           "score": 87,
-          "query": "Microsoft xbox"
+          "query": "Microsoft xbox",
+          "sourceType": "commons",
+          "provider": "Wikimedia Commons",
+          "source": "wikimedia",
+          "attribution": ""
+        },
+        {
+          "title": "File:Xbox series s controller.jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox_series_s_controller.jpg",
+          "creator": "Microsoft",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "width": 1600,
+          "height": 2133,
+          "score": 87,
+          "query": "\"Xbox Series X\" Microsoft",
+          "sourceType": "commons",
+          "provider": "Wikimedia Commons",
+          "source": "wikimedia",
+          "attribution": ""
         }
       ],
       "notes": [
-        "Bildsök v2 valde bästa kandidaten efter 5 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ],
-      "reviewedAt": "2026-08-10T12:54:12.471Z"
+        "Bildsök v3.1 valde bästa kandidaten från Wikimedia Commons. Automatisk godkänning är avstängd."
+      ]
     },
     {
       "productId": "everyday-000074",
@@ -3936,18 +3919,19 @@
         "\"Dyson V15 Detect Absolute\"",
         "\"V15 Detect Absolute\" Dyson home appliance product",
         "Dyson v15 detect absolute",
-        "\"Dyson V15 Detect Absolute\"  home appliance product"
+        "\"Dyson V15 Detect Absolute\"  home appliance product",
+        "Dyson V15 Detect Absolute  home appliance product"
       ],
-      "searchVersion": 3,
-      "attemptCount": 2,
+      "searchVersion": 3.1,
+      "attemptCount": 3,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T07:47:15.415Z",
+      "importedAt": "2026-08-11T09:08:22.727Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
       ]
     },
     {
@@ -4205,18 +4189,19 @@
         "\"IKEA SÖDERHAMN sofa\"",
         "\"SÖDERHAMN sofa\" IKEA furniture chair table",
         "IKEA soderhamn sofa",
-        "\"IKEA SÖDERHAMN sofa\"  furniture chair table"
+        "\"IKEA SÖDERHAMN sofa\"  furniture chair table",
+        "IKEA SÖDERHAMN sofa  furniture chair table"
       ],
-      "searchVersion": 3,
-      "attemptCount": 2,
+      "searchVersion": 3.1,
+      "attemptCount": 3,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T07:47:18.649Z",
+      "importedAt": "2026-08-11T09:08:25.055Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
       ]
     },
     {
@@ -4623,18 +4608,19 @@
         "\"Ninja Foodi MAX Dual Zone Air Fryer\"",
         "\"Foodi MAX Dual Zone Air Fryer\" Ninja product",
         "Ninja foodi max dual zone",
-        "\"Ninja Foodi MAX Dual Zone Air Fryer\"  product"
+        "\"Ninja Foodi MAX Dual Zone Air Fryer\"  product",
+        "Ninja Foodi MAX Dual Zone Air Fryer  product"
       ],
-      "searchVersion": 3,
-      "attemptCount": 2,
+      "searchVersion": 3.1,
+      "attemptCount": 3,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T07:47:23.246Z",
+      "importedAt": "2026-08-11T09:08:27.307Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
       ]
     },
     {
@@ -4789,36 +4775,29 @@
         "Staub Cocotte product",
         "Staub cocotte"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
-      "status": "rejected",
+      "searchVersion": 3.1,
+      "attemptCount": 2,
+      "status": "pending",
       "confidence": "low",
       "score": 46,
-      "importedAt": "2026-08-10T13:01:06.306Z",
+      "importedAt": "2026-08-11T09:07:52.161Z",
       "selected": {
-        "title": "File:2020 01 Picots d'arrosage sur cocotte Staub d'origine en fonte brute.jpg",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2020_01_Picots_d%27arrosage_sur_cocotte_Staub_d%27origine_en_fonte_brute.jpg",
+        "title": "File:2019 12 cocotte Staub en fonte émaillée tomate.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2019_12_cocotte_Staub_en_fonte_%C3%A9maill%C3%A9e_tomate.jpg",
         "creator": "Ptyx",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "width": 1600,
-        "height": 1051,
+        "height": 1037,
         "score": 46,
         "query": "Staub cocotte",
+        "sourceType": "commons",
+        "provider": "Wikimedia Commons",
+        "source": "wikimedia",
+        "attribution": "",
         "path": "/product-images/everyday-000112.webp"
       },
       "alternatives": [
-        {
-          "title": "File:2019 12 cocotte Staub en fonte émaillée tomate.jpg",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2019_12_cocotte_Staub_en_fonte_%C3%A9maill%C3%A9e_tomate.jpg",
-          "creator": "Ptyx",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "width": 1600,
-          "height": 1037,
-          "score": 46,
-          "query": "Staub cocotte"
-        },
         {
           "title": "File:2020 01 cocotte Staub d'origine en fonte brute.jpg",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:2020_01_cocotte_Staub_d%27origine_en_fonte_brute.jpg",
@@ -4828,13 +4807,16 @@
           "width": 1600,
           "height": 943,
           "score": 46,
-          "query": "Staub cocotte"
+          "query": "Staub cocotte",
+          "sourceType": "commons",
+          "provider": "Wikimedia Commons",
+          "source": "wikimedia",
+          "attribution": ""
         }
       ],
       "notes": [
-        "Bildsök v2 valde bästa kandidaten efter 7 sökstrategier. Kontrollera att bilden är tillräckligt nära rätt produkt."
-      ],
-      "reviewedAt": "2026-08-10T13:23:24.695Z"
+        "Bildsök v3.1 valde bästa kandidaten från Wikimedia Commons. Automatisk godkänning är avstängd."
+      ]
     },
     {
       "productId": "everyday-000113",
@@ -5015,18 +4997,19 @@
         "\"Patagonia Down Sweater Hoody\"",
         "\"Down Sweater Hoody\" Patagonia clothing fashion",
         "Patagonia down sweater hoody",
-        "\"Patagonia Down Sweater Hoody\"  clothing fashion"
+        "\"Patagonia Down Sweater Hoody\"  clothing fashion",
+        "Patagonia Down Sweater Hoody  clothing fashion"
       ],
-      "searchVersion": 3,
-      "attemptCount": 2,
+      "searchVersion": 3.1,
+      "attemptCount": 3,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T07:47:29.989Z",
+      "importedAt": "2026-08-11T09:08:30.070Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
       ]
     },
     {
@@ -5424,23 +5407,86 @@
       "productName": "Adidas Ultraboost 5",
       "brand": "Adidas",
       "categoryLabel": "Skor",
-      "query": "\"Adidas Ultraboost 5\"  shoes footwear",
+      "query": "Adidas ultraboost",
       "queryHistory": [
+        "\"Adidas Ultraboost 5\"  shoes footwear",
         "\"Adidas Ultraboost 5\"",
+        "Adidas Ultraboost 5  shoes footwear",
         "\"Ultraboost 5\" Adidas shoes footwear",
-        "Adidas ultraboost",
-        "\"Adidas Ultraboost 5\"  shoes footwear"
+        "Adidas Ultraboost 5 shoes footwear",
+        "Adidas ultraboost"
       ],
-      "searchVersion": 3,
-      "attemptCount": 5,
-      "status": "error",
-      "confidence": "none",
-      "score": 0,
-      "importedAt": "2026-08-11T07:47:58.784Z",
-      "selected": null,
-      "alternatives": [],
+      "searchVersion": 3.1,
+      "attemptCount": 6,
+      "status": "pending",
+      "confidence": "high",
+      "score": 158,
+      "importedAt": "2026-08-11T09:08:35.593Z",
+      "selected": {
+        "title": "ADIDAS ULTRABOOST ‘JAPAN’ FEATURING FIREWORKS",
+        "sourceUrl": "http://www.flickr.com/photos/30048753@N05/48665042891",
+        "creator": "EpicFireworks",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "width": 1024,
+        "height": 660,
+        "score": 158,
+        "query": "Adidas ultraboost",
+        "sourceType": "openverse",
+        "provider": "flickr",
+        "source": "flickr",
+        "attribution": "\"ADIDAS ULTRABOOST ‘JAPAN’ FEATURING FIREWORKS\" by EpicFireworks is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+        "path": "/product-images/everyday-000130.webp"
+      },
+      "alternatives": [
+        {
+          "title": "His & Hers Consortium Ultraboost #adidas #wecutetho",
+          "sourceUrl": "https://www.flickr.com/photos/7552038@N02/44714103894",
+          "creator": "el rolio",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "width": 500,
+          "height": 500,
+          "score": 148,
+          "query": "Adidas ultraboost",
+          "sourceType": "openverse",
+          "provider": "flickr",
+          "source": "flickr",
+          "attribution": "\"His & Hers Consortium Ultraboost #adidas #wecutetho\" by el rolio is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/."
+        },
+        {
+          "title": "Best ultraboost period in my opinion. Dropped on my birthday almost two years ago. Only Challenger to the throne in my mind is the SNS UB 1.0 #kicks #adidas #ultraboost",
+          "sourceUrl": "https://www.flickr.com/photos/7552038@N02/42516794560",
+          "creator": "el rolio",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "width": 490,
+          "height": 500,
+          "score": 148,
+          "query": "Adidas ultraboost",
+          "sourceType": "openverse",
+          "provider": "flickr",
+          "source": "flickr",
+          "attribution": "\"Best ultraboost period in my opinion. Dropped on my birthday almost two years ago. Only Challenger to the throne in my mind is the SNS UB 1.0 #kicks #adidas #ultraboost\" by el rolio is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/."
+        },
+        {
+          "title": "Highly underrated . . . . . . . . . . . #kicks #adidas #ultraboost #pushat",
+          "sourceUrl": "https://www.flickr.com/photos/7552038@N02/45573162602",
+          "creator": "el rolio",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "width": 400,
+          "height": 500,
+          "score": 148,
+          "query": "Adidas ultraboost",
+          "sourceType": "openverse",
+          "provider": "flickr",
+          "source": "flickr",
+          "attribution": "\"Highly underrated . . . . . . . . . . . #kicks #adidas #ultraboost #pushat\" by el rolio is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/."
+        }
+      ],
       "notes": [
-        "HTTP 406: Not Acceptable"
+        "Bildsök v3.1 valde bästa kandidaten från Openverse. Automatisk godkänning är avstängd."
       ]
     },
     {
@@ -5458,16 +5504,16 @@
         "New Balance 990v6 shoes footwear",
         "New Balance 990v6"
       ],
-      "searchVersion": 2,
-      "attemptCount": 1,
+      "searchVersion": 3.1,
+      "attemptCount": 2,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-10T12:00:08.587Z",
+      "importedAt": "2026-08-11T09:08:43.358Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Ingen återanvändbar kandidat klarade kontrollerna efter 6 sökstrategier i bildsök v2. Produkten pausas tills söklogiken förbättras igen."
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
       ]
     },
     {
@@ -9225,16 +9271,16 @@
         "\"Arch 1s\" Arch Motorcycle car automobile vehicle",
         "Arch 1s Arch Motorcycle car automobile vehicle"
       ],
-      "searchVersion": 3,
-      "attemptCount": 2,
+      "searchVersion": 3.1,
+      "attemptCount": 3,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T07:46:25.068Z",
+      "importedAt": "2026-08-11T09:07:53.717Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
       ]
     },
     {
@@ -9486,16 +9532,16 @@
         "\"Dassault Falcon 10X\" Dassault Aviation aircraft jet helicopter aviation",
         "Dassault Falcon 10X Dassault Aviation aircraft jet helicopter aviation"
       ],
-      "searchVersion": 3,
-      "attemptCount": 2,
+      "searchVersion": 3.1,
+      "attemptCount": 3,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T07:46:28.838Z",
+      "importedAt": "2026-08-11T09:07:54.969Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
       ]
     },
     {
@@ -9971,23 +10017,39 @@
       "productName": "Sunseeker 100 Yacht",
       "brand": "Sunseeker",
       "categoryLabel": "Yachter & båtar",
-      "query": "\"Sunseeker 100 Yacht\"",
+      "query": "Sunseeker 100 yacht",
       "queryHistory": [
         "\"Sunseeker 100 Yacht\"",
         "\"100 Yacht\" Sunseeker yacht boat ship",
         "Sunseeker 100 yacht",
-        "\"Sunseeker 100 Yacht\"  yacht boat ship"
+        "\"Sunseeker 100 Yacht\"  yacht boat ship",
+        "Sunseeker 100 Yacht  yacht boat ship"
       ],
-      "searchVersion": 3,
-      "attemptCount": 2,
-      "status": "no-match",
-      "confidence": "none",
-      "score": 0,
-      "importedAt": "2026-08-11T07:46:32.244Z",
-      "selected": null,
+      "searchVersion": 3.1,
+      "attemptCount": 3,
+      "status": "pending",
+      "confidence": "low",
+      "score": 38,
+      "importedAt": "2026-08-11T09:07:58.184Z",
+      "selected": {
+        "title": "Poole Harbour - Variety of Watercraft #1",
+        "sourceUrl": "https://www.flickr.com/photos/65344061@N06/50263745486",
+        "creator": "andreboeni",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "width": 1024,
+        "height": 683,
+        "score": 38,
+        "query": "Sunseeker 100 yacht",
+        "sourceType": "openverse",
+        "provider": "flickr",
+        "source": "flickr",
+        "attribution": "\"Poole Harbour - Variety of Watercraft #1\" by andreboeni is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+        "path": "/product-images/lux-000043.webp"
+      },
       "alternatives": [],
       "notes": [
-        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
+        "Bildsök v3.1 valde bästa kandidaten från Openverse. Automatisk godkänning är avstängd."
       ]
     },
     {
@@ -10350,18 +10412,19 @@
         "\"Rolex Cosmograph Daytona Platinum\"",
         "\"Cosmograph Daytona Platinum\" Rolex watch wristwatch timepiece",
         "Rolex cosmograph daytona platinum",
-        "\"Rolex Cosmograph Daytona Platinum\"  watch wristwatch timepiece"
+        "\"Rolex Cosmograph Daytona Platinum\"  watch wristwatch timepiece",
+        "Rolex Cosmograph Daytona Platinum  watch wristwatch timepiece"
       ],
-      "searchVersion": 3,
-      "attemptCount": 2,
+      "searchVersion": 3.1,
+      "attemptCount": 3,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T07:46:35.355Z",
+      "importedAt": "2026-08-11T09:08:01.182Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
       ]
     },
     {
@@ -10943,18 +11006,19 @@
         "\"Hermès Birkin 25 Himalaya\"",
         "\"Birkin 25 Himalaya\" Hermès fashion handbag clothing",
         "Hermès birkin 25 himalaya",
-        "\"Hermès Birkin 25 Himalaya\"  fashion handbag clothing"
+        "\"Hermès Birkin 25 Himalaya\"  fashion handbag clothing",
+        "Hermès Birkin 25 Himalaya  fashion handbag clothing"
       ],
-      "searchVersion": 3,
-      "attemptCount": 2,
+      "searchVersion": 3.1,
+      "attemptCount": 3,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T07:46:38.875Z",
+      "importedAt": "2026-08-11T09:08:03.280Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
       ]
     },
     {
@@ -11266,18 +11330,19 @@
         "\"Tiffany & Co. Schlumberger Sixteen Stone Ring\"",
         "\"Schlumberger Sixteen Stone Ring\" Tiffany & Co. jewellery jewelry",
         "Tiffany & Co. schlumberger sixteen stone ring",
-        "\"Tiffany & Co. Schlumberger Sixteen Stone Ring\"  jewellery jewelry"
+        "\"Tiffany & Co. Schlumberger Sixteen Stone Ring\"  jewellery jewelry",
+        "Tiffany & Co. Schlumberger Sixteen Stone Ring  jewellery jewelry"
       ],
-      "searchVersion": 3,
-      "attemptCount": 2,
+      "searchVersion": 3.1,
+      "attemptCount": 3,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T07:46:42.522Z",
+      "importedAt": "2026-08-11T09:08:05.436Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
       ]
     },
     {
@@ -11438,18 +11503,19 @@
         "\"Baccarat Zenith Chandelier\"",
         "\"Zenith Chandelier\" Baccarat product",
         "Baccarat zenith chandelier",
-        "\"Baccarat Zenith Chandelier\"  product"
+        "\"Baccarat Zenith Chandelier\"  product",
+        "Baccarat Zenith Chandelier  product"
       ],
-      "searchVersion": 3,
-      "attemptCount": 2,
+      "searchVersion": 3.1,
+      "attemptCount": 3,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T07:46:45.893Z",
+      "importedAt": "2026-08-11T09:08:07.505Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
       ]
     },
     {
@@ -11463,18 +11529,19 @@
         "\"Fazioli F308 Concert Grand Piano\"",
         "\"F308 Concert Grand Piano\" Fazioli product",
         "Fazioli f308 concert grand piano",
-        "\"Fazioli F308 Concert Grand Piano\"  product"
+        "\"Fazioli F308 Concert Grand Piano\"  product",
+        "Fazioli F308 Concert Grand Piano  product"
       ],
-      "searchVersion": 3,
-      "attemptCount": 2,
+      "searchVersion": 3.1,
+      "attemptCount": 3,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T07:46:49.394Z",
+      "importedAt": "2026-08-11T09:08:09.464Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
       ]
     },
     {
@@ -11547,18 +11614,19 @@
         "\"Bang & Olufsen Beolab 90 Pair\"",
         "\"Beolab 90 Pair\" Bang & Olufsen electronics device computer phone camera",
         "Bang & Olufsen beolab 90 pair",
-        "\"Bang & Olufsen Beolab 90 Pair\"  electronics device computer phone camera"
+        "\"Bang & Olufsen Beolab 90 Pair\"  electronics device computer phone camera",
+        "Bang & Olufsen Beolab 90 Pair  electronics device computer phone camera"
       ],
-      "searchVersion": 3,
-      "attemptCount": 2,
+      "searchVersion": 3.1,
+      "attemptCount": 3,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T07:46:52.663Z",
+      "importedAt": "2026-08-11T09:08:11.540Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
       ]
     },
     {
@@ -11880,18 +11948,19 @@
         "\"Leica 0-Series No. 105\"",
         "\"0-Series No. 105\" Leica collectible memorabilia",
         "Leica 0-series no. 105",
-        "\"Leica 0-Series No. 105\"  collectible memorabilia"
+        "\"Leica 0-Series No. 105\"  collectible memorabilia",
+        "Leica 0-Series No. 105  collectible memorabilia"
       ],
-      "searchVersion": 3,
-      "attemptCount": 2,
+      "searchVersion": 3.1,
+      "attemptCount": 3,
       "status": "no-match",
       "confidence": "none",
       "score": 0,
-      "importedAt": "2026-08-11T07:46:56.588Z",
+      "importedAt": "2026-08-11T09:08:13.569Z",
       "selected": null,
       "alternatives": [],
       "notes": [
-        "Bildsök v3 hittade ingen tillräckligt relevant kandidat i de tillåtna öppna källorna. Produkten pausas till nästa sökversion."
+        "Bildsök v3.1 hittade ingen tillräckligt relevant kandidat. Diagnostiken i import-rapporten visar hur många Openverse-resultat som filtrerades bort."
       ]
     },
     {
