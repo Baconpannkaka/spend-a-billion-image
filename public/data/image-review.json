@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-08-11T09:08:43.358Z",
+  "generatedAt": "2026-08-11T09:12:18.287Z",
   "searchVersion": 3.1,
   "items": [
     {
@@ -5418,7 +5418,7 @@
       ],
       "searchVersion": 3.1,
       "attemptCount": 6,
-      "status": "pending",
+      "status": "approved",
       "confidence": "high",
       "score": 158,
       "importedAt": "2026-08-11T09:08:35.593Z",
@@ -5487,7 +5487,8 @@
       ],
       "notes": [
         "Bildsök v3.1 valde bästa kandidaten från Openverse. Automatisk godkänning är avstängd."
-      ]
+      ],
+      "reviewedAt": "2026-08-11T09:12:18.287Z"
     },
     {
       "productId": "everyday-000131",

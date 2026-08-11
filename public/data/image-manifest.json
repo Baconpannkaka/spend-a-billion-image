@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-08-11T09:08:43.358Z",
+  "generatedAt": "2026-08-11T09:12:18.287Z",
   "images": [
     {
       "productId": "everyday-000001",
@@ -1128,7 +1128,7 @@
       "creator": "EpicFireworks",
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-      "status": "unreviewed",
+      "status": "approved",
       "width": 1024,
       "height": 660,
       "importedAt": "2026-08-11T09:08:35.593Z",
@@ -1139,7 +1139,8 @@
       "attribution": "\"ADIDAS ULTRABOOST ‘JAPAN’ FEATURING FIREWORKS\" by EpicFireworks is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
       "confidence": "high",
       "score": 158,
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-11T09:12:18.287Z"
     },
     {
       "productId": "everyday-000133",

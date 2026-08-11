@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-11T07:57:35.618Z",
+  "updatedAt": "2026-08-11T09:12:18.287Z",
   "products": {
     "lux-000003": {
       "approved": [
@@ -1079,7 +1079,19 @@
       "updatedAt": "2026-08-10T12:05:48.942Z"
     },
     "everyday-000130": {
-      "approved": [],
+      "approved": [
+        {
+          "sourceUrl": "http://www.flickr.com/photos/30048753@N05/48665042891",
+          "commonsTitle": "ADIDAS ULTRABOOST ‘JAPAN’ FEATURING FIREWORKS",
+          "sourceTitle": "ADIDAS ULTRABOOST ‘JAPAN’ FEATURING FIREWORKS",
+          "sourceType": "openverse",
+          "provider": "flickr",
+          "score": 158,
+          "confidence": "high",
+          "query": "Adidas ultraboost",
+          "reviewedAt": "2026-08-11T09:12:18.287Z"
+        }
+      ],
       "rejected": [
         {
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blackpink_Adidas_70th_anniversary_Ultraboost_2.png",
@@ -1106,8 +1118,8 @@
           "reviewedAt": "2026-08-10T12:54:12.471Z"
         }
       ],
-      "lastDecision": "rejected",
-      "updatedAt": "2026-08-10T12:54:12.471Z"
+      "lastDecision": "approved",
+      "updatedAt": "2026-08-11T09:12:18.287Z"
     },
     "everyday-000194": {
       "approved": [],
