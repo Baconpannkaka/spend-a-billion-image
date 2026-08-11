@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-08-11T07:47:59.135Z",
+  "generatedAt": "2026-08-11T07:57:35.618Z",
   "images": [
     {
       "productId": "everyday-000001",
@@ -333,7 +333,7 @@
       "creator": "S03311251",
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 900,
       "height": 1200,
       "importedAt": "2026-08-11T07:45:53.969Z",
@@ -345,7 +345,8 @@
       "confidence": "low",
       "score": 61,
       "sha1": "c79bd77312cd48d1c5cee867b922e8c7bf942a62",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-11T07:57:35.618Z"
     },
     {
       "productId": "everyday-000026",
@@ -488,7 +489,7 @@
       "creator": "Michael Sheehan",
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "status": "unreviewed",
+      "status": "rejected",
       "width": 1200,
       "height": 1009,
       "importedAt": "2026-08-11T07:46:12.225Z",
@@ -500,7 +501,8 @@
       "confidence": "low",
       "score": 59,
       "sha1": "b5e1636b07f114def748f1eaf5404608258e95b0",
-      "mime": "image/webp"
+      "mime": "image/webp",
+      "reviewedAt": "2026-08-11T07:57:35.618Z"
     },
     {
       "productId": "everyday-000039",

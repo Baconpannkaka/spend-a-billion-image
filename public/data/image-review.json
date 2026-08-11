@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-08-11T07:47:59.135Z",
+  "generatedAt": "2026-08-11T07:57:35.618Z",
   "searchVersion": 3,
   "items": [
     {
@@ -1102,7 +1102,7 @@
       ],
       "searchVersion": 3,
       "attemptCount": 2,
-      "status": "pending",
+      "status": "rejected",
       "confidence": "low",
       "score": 61,
       "importedAt": "2026-08-11T07:45:53.969Z",
@@ -1171,7 +1171,8 @@
       ],
       "notes": [
         "Bildsök v3 valde bästa kandidaten från Wikimedia Commons. Kontrollera produkten och licenskällan innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-11T07:57:35.618Z"
     },
     {
       "productId": "everyday-000022",
@@ -1750,7 +1751,7 @@
       ],
       "searchVersion": 3,
       "attemptCount": 2,
-      "status": "pending",
+      "status": "rejected",
       "confidence": "low",
       "score": 59,
       "importedAt": "2026-08-11T07:46:12.225Z",
@@ -1819,7 +1820,8 @@
       ],
       "notes": [
         "Bildsök v3 valde bästa kandidaten från Wikimedia Commons. Kontrollera produkten och licenskällan innan godkännande."
-      ]
+      ],
+      "reviewedAt": "2026-08-11T07:57:35.618Z"
     },
     {
       "productId": "everyday-000037",
