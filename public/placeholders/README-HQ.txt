@@ -1,1 +1,0 @@
-Temporary marker for high-resolution placeholder sprite update.
